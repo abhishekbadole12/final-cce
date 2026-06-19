@@ -1,0 +1,396 @@
+{
+  "topic": "ECC (Elliptic Curve Cryptography)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does ECC stand for?",
+      "options": [
+        "Elliptic Curve Cryptography",
+        "Electronic Certificate Cryptography",
+        "Encrypted Curve Computing",
+        "Elliptic Cipher Code"
+      ],
+      "correct_answer": "Elliptic Curve Cryptography",
+      "explanation": "The correct answer is 'Elliptic Curve Cryptography' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "ECC is a type of?",
+      "options": [
+        "Asymmetric cryptography",
+        "Symmetric cryptography",
+        "Hash function",
+        "Stream cipher"
+      ],
+      "correct_answer": "Asymmetric cryptography",
+      "explanation": "The correct answer is 'Asymmetric cryptography' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "ECC is based on mathematics involving?",
+      "options": [
+        "Elliptic curves",
+        "Prime factorization only",
+        "Hash chains",
+        "Matrices only"
+      ],
+      "correct_answer": "Elliptic curves",
+      "explanation": "The correct answer is 'Elliptic curves' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "ECC uses which type of keys?",
+      "options": [
+        "Public and private keys",
+        "Shared secret keys",
+        "Hash keys",
+        "Session keys only"
+      ],
+      "correct_answer": "Public and private keys",
+      "explanation": "The correct answer is 'Public and private keys' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "ECC primarily provides?",
+      "options": [
+        "Encryption, key exchange, and digital signatures",
+        "Compression",
+        "Routing",
+        "Caching"
+      ],
+      "correct_answer": "Encryption, key exchange, and digital signatures",
+      "explanation": "The correct answer is 'Encryption, key exchange, and digital signatures' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Compared to RSA, ECC generally uses?",
+      "options": [
+        "Smaller key sizes",
+        "Larger key sizes",
+        "No keys",
+        "Symmetric keys"
+      ],
+      "correct_answer": "Smaller key sizes",
+      "explanation": "The correct answer is 'Smaller key sizes' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "ECC is widely used in?",
+      "options": [
+        "Modern security systems",
+        "Disk defragmentation",
+        "Video compression",
+        "Load balancing"
+      ],
+      "correct_answer": "Modern security systems",
+      "explanation": "The correct answer is 'Modern security systems' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which security service can ECC support?",
+      "options": [
+        "Digital signatures",
+        "Data compression",
+        "Caching",
+        "File archiving"
+      ],
+      "correct_answer": "Digital signatures",
+      "explanation": "The correct answer is 'Digital signatures' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "ECC belongs to which cryptographic family?",
+      "options": [
+        "Public-key cryptography",
+        "Secret-key cryptography",
+        "Hashing",
+        "Steganography"
+      ],
+      "correct_answer": "Public-key cryptography",
+      "explanation": "The correct answer is 'Public-key cryptography' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "ECC is considered efficient because it offers?",
+      "options": [
+        "Strong security with smaller keys",
+        "No key management",
+        "Unlimited scalability",
+        "No computation"
+      ],
+      "correct_answer": "Strong security with smaller keys",
+      "explanation": "The correct answer is 'Strong security with smaller keys' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "The security of ECC is primarily based on which hard problem?",
+      "options": [
+        "Elliptic Curve Discrete Logarithm Problem",
+        "Integer factorization",
+        "Hash collision",
+        "Brute-force sorting"
+      ],
+      "correct_answer": "Elliptic Curve Discrete Logarithm Problem",
+      "explanation": "The correct answer is 'Elliptic Curve Discrete Logarithm Problem' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "A 256-bit ECC key provides security roughly comparable to which RSA key size?",
+      "options": [
+        "3072-bit RSA",
+        "512-bit RSA",
+        "1024-bit RSA",
+        "1536-bit RSA"
+      ],
+      "correct_answer": "3072-bit RSA",
+      "explanation": "The correct answer is '3072-bit RSA' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why is ECC popular on mobile devices?",
+      "options": [
+        "Smaller keys and lower computational overhead",
+        "No encryption needed",
+        "No certificates required",
+        "Uses symmetric keys"
+      ],
+      "correct_answer": "Smaller keys and lower computational overhead",
+      "explanation": "The correct answer is 'Smaller keys and lower computational overhead' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which ECC-based protocol is commonly used for key exchange?",
+      "options": [
+        "ECDH",
+        "ECB",
+        "HMAC",
+        "DES"
+      ],
+      "correct_answer": "ECDH",
+      "explanation": "The correct answer is 'ECDH' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which ECC-based algorithm is used for digital signatures?",
+      "options": [
+        "ECDSA",
+        "AES",
+        "RC5",
+        "MD5"
+      ],
+      "correct_answer": "ECDSA",
+      "explanation": "The correct answer is 'ECDSA' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is a major advantage of ECC over RSA?",
+      "options": [
+        "Similar security with smaller keys",
+        "No private keys",
+        "No mathematics",
+        "No certificates"
+      ],
+      "correct_answer": "Similar security with smaller keys",
+      "explanation": "The correct answer is 'Similar security with smaller keys' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "ECC helps reduce?",
+      "options": [
+        "Storage and bandwidth requirements",
+        "Authentication",
+        "Integrity",
+        "Hash generation"
+      ],
+      "correct_answer": "Storage and bandwidth requirements",
+      "explanation": "The correct answer is 'Storage and bandwidth requirements' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which environment benefits most from ECC efficiency?",
+      "options": [
+        "Resource-constrained devices",
+        "Mainframes only",
+        "DNS servers only",
+        "Printers only"
+      ],
+      "correct_answer": "Resource-constrained devices",
+      "explanation": "The correct answer is 'Resource-constrained devices' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "ECC is commonly used in modern versions of?",
+      "options": [
+        "TLS",
+        "FTP only",
+        "Telnet only",
+        "ARP"
+      ],
+      "correct_answer": "TLS",
+      "explanation": "The correct answer is 'TLS' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which statement about ECC keys is true?",
+      "options": [
+        "Smaller keys can achieve strong security",
+        "Large keys are always required",
+        "ECC uses shared keys",
+        "ECC has no public key"
+      ],
+      "correct_answer": "Smaller keys can achieve strong security",
+      "explanation": "The correct answer is 'Smaller keys can achieve strong security' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is ECC considered more scalable than RSA for certain applications?",
+      "options": [
+        "It achieves strong security with significantly smaller keys",
+        "It eliminates key management",
+        "It replaces certificates",
+        "It requires no computation"
+      ],
+      "correct_answer": "It achieves strong security with significantly smaller keys",
+      "explanation": "The correct answer is 'It achieves strong security with significantly smaller keys' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "If an ECC private key is compromised, an attacker can?",
+      "options": [
+        "Decrypt protected data and forge signatures",
+        "Break AES directly",
+        "Modify certificates automatically",
+        "Disable TLS globally"
+      ],
+      "correct_answer": "Decrypt protected data and forge signatures",
+      "explanation": "The correct answer is 'Decrypt protected data and forge signatures' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which ECC feature is particularly valuable in IoT deployments?",
+      "options": [
+        "Lower computational and power requirements",
+        "No encryption needed",
+        "No authentication required",
+        "Unlimited bandwidth"
+      ],
+      "correct_answer": "Lower computational and power requirements",
+      "explanation": "The correct answer is 'Lower computational and power requirements' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is the primary security assumption behind ECC?",
+      "options": [
+        "The elliptic curve discrete logarithm problem is computationally hard",
+        "Prime factorization is easy",
+        "Hashes never collide",
+        "Public keys remain secret"
+      ],
+      "correct_answer": "The elliptic curve discrete logarithm problem is computationally hard",
+      "explanation": "The correct answer is 'The elliptic curve discrete logarithm problem is computationally hard' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why are curve parameters important in ECC?",
+      "options": [
+        "Weak curves can reduce security",
+        "They only affect performance",
+        "They replace keys",
+        "They generate certificates"
+      ],
+      "correct_answer": "Weak curves can reduce security",
+      "explanation": "The correct answer is 'Weak curves can reduce security' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Compared with RSA, ECC often provides faster?",
+      "options": [
+        "Key generation and key exchange operations",
+        "File compression",
+        "DNS lookups",
+        "Packet routing"
+      ],
+      "correct_answer": "Key generation and key exchange operations",
+      "explanation": "The correct answer is 'Key generation and key exchange operations' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What role does ECC play in PKI?",
+      "options": [
+        "ECC key pairs can be used in digital certificates",
+        "ECC replaces certificates",
+        "ECC stores passwords",
+        "ECC creates hashes only"
+      ],
+      "correct_answer": "ECC key pairs can be used in digital certificates",
+      "explanation": "The correct answer is 'ECC key pairs can be used in digital certificates' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which attack category frequently targets ECC implementations rather than the mathematics itself?",
+      "options": [
+        "Side-channel attacks",
+        "ARP spoofing",
+        "Smishing",
+        "Replay attacks"
+      ],
+      "correct_answer": "Side-channel attacks",
+      "explanation": "The correct answer is 'Side-channel attacks' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why is ECC increasingly preferred in modern TLS deployments?",
+      "options": [
+        "Strong security with efficient performance",
+        "No certificates required",
+        "No private keys needed",
+        "No authentication support"
+      ],
+      "correct_answer": "Strong security with efficient performance",
+      "explanation": "The correct answer is 'Strong security with efficient performance' because it best explains ECC concepts and practical usage."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes ECC today?",
+      "options": [
+        "A widely adopted public-key cryptosystem offering high security with compact keys",
+        "An obsolete encryption algorithm",
+        "A hashing standard",
+        "A replacement for AES"
+      ],
+      "correct_answer": "A widely adopted public-key cryptosystem offering high security with compact keys",
+      "explanation": "The correct answer is 'A widely adopted public-key cryptosystem offering high security with compact keys' because it best explains ECC concepts and practical usage."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "VPN Fundamentals",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does VPN stand for?",
+      "options": [
+        "Virtual Private Network",
+        "Verified Private Network",
+        "Virtual Protected Node",
+        "Verified Public Network"
+      ],
+      "correct_answer": "Virtual Private Network",
+      "explanation": "The correct answer is 'Virtual Private Network'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a VPN?",
+      "options": [
+        "Secure communication over public networks",
+        "Increase CPU speed",
+        "Store backups",
+        "Manage printers"
+      ],
+      "correct_answer": "Secure communication over public networks",
+      "explanation": "The correct answer is 'Secure communication over public networks'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which security service does a VPN primarily provide?",
+      "options": [
+        "Confidentiality",
+        "Packet Capture",
+        "Load Balancing",
+        "Compression"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "VPNs create what type of connection?",
+      "options": [
+        "Secure Tunnel",
+        "Broadcast Domain",
+        "DMZ",
+        "VLAN"
+      ],
+      "correct_answer": "Secure Tunnel",
+      "explanation": "The correct answer is 'Secure Tunnel'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which network is commonly used to carry VPN traffic?",
+      "options": [
+        "Internet",
+        "USB",
+        "Bluetooth",
+        "Printer Network"
+      ],
+      "correct_answer": "Internet",
+      "explanation": "The correct answer is 'Internet'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is encryption used for in a VPN?",
+      "options": [
+        "Protect data from unauthorized access",
+        "Increase bandwidth",
+        "Reduce storage",
+        "Monitor traffic"
+      ],
+      "correct_answer": "Protect data from unauthorized access",
+      "explanation": "The correct answer is 'Protect data from unauthorized access'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which VPN type connects individual users to a corporate network?",
+      "options": [
+        "Remote Access VPN",
+        "Site-to-Site VPN",
+        "DMZ VPN",
+        "Cloud VPN"
+      ],
+      "correct_answer": "Remote Access VPN",
+      "explanation": "The correct answer is 'Remote Access VPN'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which VPN type connects two networks together?",
+      "options": [
+        "Site-to-Site VPN",
+        "Remote Access VPN",
+        "Personal VPN",
+        "Host VPN"
+      ],
+      "correct_answer": "Site-to-Site VPN",
+      "explanation": "The correct answer is 'Site-to-Site VPN'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is a VPN tunnel?",
+      "options": [
+        "Secure path for transmitting data",
+        "Firewall rule",
+        "Routing table",
+        "DNS record"
+      ],
+      "correct_answer": "Secure path for transmitting data",
+      "explanation": "The correct answer is 'Secure path for transmitting data'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which security principle ensures VPN data is not altered?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Scalability",
+        "Caching"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is authentication in a VPN?",
+      "options": [
+        "Verifying identity before access",
+        "Encrypting files",
+        "Blocking traffic",
+        "Monitoring logs"
+      ],
+      "correct_answer": "Verifying identity before access",
+      "explanation": "The correct answer is 'Verifying identity before access'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Secure VPN?",
+      "options": [
+        "VPN providing encryption and authentication",
+        "VPN without security",
+        "Public Wi-Fi",
+        "Proxy server"
+      ],
+      "correct_answer": "VPN providing encryption and authentication",
+      "explanation": "The correct answer is 'VPN providing encryption and authentication'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a Trusted VPN?",
+      "options": [
+        "VPN relying on trusted service provider infrastructure",
+        "VPN with no routing",
+        "VPN without tunnels",
+        "Local network"
+      ],
+      "correct_answer": "VPN relying on trusted service provider infrastructure",
+      "explanation": "The correct answer is 'VPN relying on trusted service provider infrastructure'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which cryptographic process hides VPN data from attackers?",
+      "options": [
+        "Encryption",
+        "Compression",
+        "Hashing only",
+        "Logging"
+      ],
+      "correct_answer": "Encryption",
+      "explanation": "The correct answer is 'Encryption'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are VPNs commonly used on public Wi-Fi?",
+      "options": [
+        "Protect data from interception",
+        "Increase speed",
+        "Improve graphics",
+        "Reduce memory use"
+      ],
+      "correct_answer": "Protect data from interception",
+      "explanation": "The correct answer is 'Protect data from interception'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which component provides user verification in VPNs?",
+      "options": [
+        "Authentication",
+        "Caching",
+        "NAT",
+        "Load Balancing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is tunneling?",
+      "options": [
+        "Encapsulating data inside another protocol",
+        "Encrypting storage",
+        "Routing DNS",
+        "Compressing files"
+      ],
+      "correct_answer": "Encapsulating data inside another protocol",
+      "explanation": "The correct answer is 'Encapsulating data inside another protocol'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which organization commonly uses site-to-site VPNs?",
+      "options": [
+        "Businesses with multiple offices",
+        "Home users only",
+        "Gaming companies only",
+        "Printers"
+      ],
+      "correct_answer": "Businesses with multiple offices",
+      "explanation": "The correct answer is 'Businesses with multiple offices'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a major advantage of VPNs?",
+      "options": [
+        "Secure remote access",
+        "Unlimited bandwidth",
+        "No latency",
+        "Automatic backups"
+      ],
+      "correct_answer": "Secure remote access",
+      "explanation": "The correct answer is 'Secure remote access'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which security principle ensures only authorized users access VPN resources?",
+      "options": [
+        "Authentication and Access Control",
+        "Caching",
+        "QoS",
+        "Routing"
+      ],
+      "correct_answer": "Authentication and Access Control",
+      "explanation": "The correct answer is 'Authentication and Access Control'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the difference between Remote Access VPN and Site-to-Site VPN?",
+      "options": [
+        "Remote Access connects users; Site-to-Site connects networks",
+        "They are identical",
+        "Site-to-Site connects users",
+        "Remote Access connects routers only"
+      ],
+      "correct_answer": "Remote Access connects users; Site-to-Site connects networks",
+      "explanation": "The correct answer is 'Remote Access connects users; Site-to-Site connects networks'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is encryption critical in VPN communication?",
+      "options": [
+        "Protects data confidentiality over untrusted networks",
+        "Improves storage",
+        "Increases CPU performance",
+        "Reduces routing"
+      ],
+      "correct_answer": "Protects data confidentiality over untrusted networks",
+      "explanation": "The correct answer is 'Protects data confidentiality over untrusted networks'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What risk exists if VPN authentication is weak?",
+      "options": [
+        "Unauthorized access",
+        "Higher bandwidth",
+        "Improved security",
+        "Reduced latency"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "The correct answer is 'Unauthorized access'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How does a VPN support secure remote work?",
+      "options": [
+        "Provides encrypted access to corporate resources",
+        "Replaces firewalls",
+        "Removes authentication",
+        "Disables logging"
+      ],
+      "correct_answer": "Provides encrypted access to corporate resources",
+      "explanation": "The correct answer is 'Provides encrypted access to corporate resources'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which attack targets stolen VPN credentials?",
+      "options": [
+        "Credential Reuse Attack",
+        "ARP Poisoning",
+        "Packet Fragmentation",
+        "DNS Caching"
+      ],
+      "correct_answer": "Credential Reuse Attack",
+      "explanation": "The correct answer is 'Credential Reuse Attack'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is a potential downside of VPN usage?",
+      "options": [
+        "Additional latency due to encryption and routing",
+        "No security",
+        "No authentication",
+        "Unlimited risk"
+      ],
+      "correct_answer": "Additional latency due to encryption and routing",
+      "explanation": "The correct answer is 'Additional latency due to encryption and routing'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why are VPN logs important?",
+      "options": [
+        "Audit and troubleshooting purposes",
+        "Increase bandwidth",
+        "Manage printers",
+        "Reduce encryption"
+      ],
+      "correct_answer": "Audit and troubleshooting purposes",
+      "explanation": "The correct answer is 'Audit and troubleshooting purposes'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How does a VPN contribute to defense in depth?",
+      "options": [
+        "Adds an encrypted access layer",
+        "Eliminates firewalls",
+        "Replaces IDS",
+        "Disables monitoring"
+      ],
+      "correct_answer": "Adds an encrypted access layer",
+      "explanation": "The correct answer is 'Adds an encrypted access layer'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which feature makes VPNs suitable for transmitting sensitive business data?",
+      "options": [
+        "Confidentiality and Integrity",
+        "Compression",
+        "QoS",
+        "Caching"
+      ],
+      "correct_answer": "Confidentiality and Integrity",
+      "explanation": "The correct answer is 'Confidentiality and Integrity'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes a VPN?",
+      "options": [
+        "A technology that creates an encrypted tunnel over public networks to securely transmit data",
+        "A firewall appliance",
+        "A packet sniffer",
+        "A load balancer"
+      ],
+      "correct_answer": "A technology that creates an encrypted tunnel over public networks to securely transmit data",
+      "explanation": "The correct answer is 'A technology that creates an encrypted tunnel over public networks to securely transmit data'. This answer is correct because it aligns with the core concept of VPN Fundamentals. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    }
+  ]
+}

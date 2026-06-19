@@ -1,0 +1,396 @@
+{
+  "topic": "HMAC (Hash-Based Message Authentication Code)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does HMAC stand for?",
+      "options": [
+        "Hash-based Message Authentication Code",
+        "High-speed Message Authentication Code",
+        "Host Message Access Control",
+        "Hash Message Access Certificate"
+      ],
+      "correct_answer": "Hash-based Message Authentication Code",
+      "explanation": "The correct answer is 'Hash-based Message Authentication Code' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "HMAC is used to provide?",
+      "options": [
+        "Integrity and authentication",
+        "Confidentiality only",
+        "Compression",
+        "Routing"
+      ],
+      "correct_answer": "Integrity and authentication",
+      "explanation": "The correct answer is 'Integrity and authentication' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "HMAC combines a hash function with a?",
+      "options": [
+        "Secret key",
+        "Public key",
+        "Certificate",
+        "IV only"
+      ],
+      "correct_answer": "Secret key",
+      "explanation": "The correct answer is 'Secret key' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which hash function can be used with HMAC?",
+      "options": [
+        "SHA-256",
+        "SHA-512",
+        "SHA-1",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "HMAC primarily protects against?",
+      "options": [
+        "Message tampering",
+        "Data compression",
+        "Packet routing",
+        "Storage failures"
+      ],
+      "correct_answer": "Message tampering",
+      "explanation": "The correct answer is 'Message tampering' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Can HMAC provide confidentiality by itself?",
+      "options": [
+        "No",
+        "Yes",
+        "Only with RSA",
+        "Only with AES"
+      ],
+      "correct_answer": "No",
+      "explanation": "The correct answer is 'No' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is verified using HMAC?",
+      "options": [
+        "Message integrity and authenticity",
+        "File size",
+        "Network speed",
+        "Certificate expiry"
+      ],
+      "correct_answer": "Message integrity and authenticity",
+      "explanation": "The correct answer is 'Message integrity and authenticity' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "HMAC requires both parties to know the?",
+      "options": [
+        "Shared secret key",
+        "Public key",
+        "Certificate authority",
+        "Hash output"
+      ],
+      "correct_answer": "Shared secret key",
+      "explanation": "The correct answer is 'Shared secret key' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which cryptographic primitive does HMAC rely on?",
+      "options": [
+        "Hash function",
+        "Block cipher only",
+        "Digital certificate",
+        "Firewall"
+      ],
+      "correct_answer": "Hash function",
+      "explanation": "The correct answer is 'Hash function' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "HMAC is commonly used in?",
+      "options": [
+        "TLS and APIs",
+        "Disk defragmentation",
+        "Video encoding",
+        "DNS caching"
+      ],
+      "correct_answer": "TLS and APIs",
+      "explanation": "The correct answer is 'TLS and APIs' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why is HMAC more secure than using a hash alone for authentication?",
+      "options": [
+        "It incorporates a secret key",
+        "It encrypts data",
+        "It replaces hashing",
+        "It generates certificates"
+      ],
+      "correct_answer": "It incorporates a secret key",
+      "explanation": "The correct answer is 'It incorporates a secret key' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which security property does HMAC mainly provide?",
+      "options": [
+        "Message authentication",
+        "Encryption",
+        "Compression",
+        "Availability"
+      ],
+      "correct_answer": "Message authentication",
+      "explanation": "The correct answer is 'Message authentication' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "If two messages are identical and use the same key, their HMAC values will be?",
+      "options": [
+        "Identical",
+        "Different every time",
+        "Random",
+        "Encrypted"
+      ],
+      "correct_answer": "Identical",
+      "explanation": "The correct answer is 'Identical' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What happens if the message changes after HMAC generation?",
+      "options": [
+        "Verification fails",
+        "Verification succeeds",
+        "The key changes",
+        "The certificate renews"
+      ],
+      "correct_answer": "Verification fails",
+      "explanation": "The correct answer is 'Verification fails' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What happens if the wrong secret key is used for verification?",
+      "options": [
+        "Verification fails",
+        "Verification succeeds",
+        "Message is encrypted",
+        "Hash is reversed"
+      ],
+      "correct_answer": "Verification fails",
+      "explanation": "The correct answer is 'Verification fails' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which is a common HMAC variant?",
+      "options": [
+        "HMAC-SHA256",
+        "RSA-HMAC",
+        "DES-HMAC",
+        "ECC-HMAC"
+      ],
+      "correct_answer": "HMAC-SHA256",
+      "explanation": "The correct answer is 'HMAC-SHA256' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why are HMACs used in API authentication?",
+      "options": [
+        "To verify requests have not been altered",
+        "To compress requests",
+        "To assign IP addresses",
+        "To replace HTTPS"
+      ],
+      "correct_answer": "To verify requests have not been altered",
+      "explanation": "The correct answer is 'To verify requests have not been altered' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "HMAC protects against which attack?",
+      "options": [
+        "Message modification attacks",
+        "ARP attacks",
+        "DDoS attacks",
+        "Physical theft"
+      ],
+      "correct_answer": "Message modification attacks",
+      "explanation": "The correct answer is 'Message modification attacks' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is required to generate the same HMAC value?",
+      "options": [
+        "Same message and same secret key",
+        "Same message only",
+        "Same hash only",
+        "Same certificate"
+      ],
+      "correct_answer": "Same message and same secret key",
+      "explanation": "The correct answer is 'Same message and same secret key' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which statement about HMAC is correct?",
+      "options": [
+        "It uses a secret key and a hash function",
+        "It is an encryption algorithm",
+        "It is a public-key system",
+        "It replaces certificates"
+      ],
+      "correct_answer": "It uses a secret key and a hash function",
+      "explanation": "The correct answer is 'It uses a secret key and a hash function' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is HMAC resistant to length-extension attacks when properly implemented?",
+      "options": [
+        "Its construction securely incorporates the secret key",
+        "It encrypts messages",
+        "It uses public keys",
+        "It replaces hashing"
+      ],
+      "correct_answer": "Its construction securely incorporates the secret key",
+      "explanation": "The correct answer is 'Its construction securely incorporates the secret key' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the primary difference between a hash and an HMAC?",
+      "options": [
+        "HMAC uses a secret key",
+        "Hashes encrypt data",
+        "HMAC uses public keys",
+        "Hashes require certificates"
+      ],
+      "correct_answer": "HMAC uses a secret key",
+      "explanation": "The correct answer is 'HMAC uses a secret key' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why can't an attacker easily forge a valid HMAC without the secret key?",
+      "options": [
+        "The secret key is required to generate the correct authentication code",
+        "Hashes are encrypted",
+        "Certificates prevent it",
+        "Messages are compressed"
+      ],
+      "correct_answer": "The secret key is required to generate the correct authentication code",
+      "explanation": "The correct answer is 'The secret key is required to generate the correct authentication code' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which security service does HMAC NOT provide?",
+      "options": [
+        "Confidentiality",
+        "Integrity",
+        "Authentication",
+        "Tamper detection"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How is HMAC commonly used in TLS?",
+      "options": [
+        "To verify message integrity and authenticity",
+        "To replace encryption",
+        "To issue certificates",
+        "To manage DNS"
+      ],
+      "correct_answer": "To verify message integrity and authenticity",
+      "explanation": "The correct answer is 'To verify message integrity and authenticity' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What risk arises if the HMAC secret key is compromised?",
+      "options": [
+        "Attackers can forge valid HMAC values",
+        "AES becomes insecure",
+        "Certificates disappear",
+        "Hashes are deleted"
+      ],
+      "correct_answer": "Attackers can forge valid HMAC values",
+      "explanation": "The correct answer is 'Attackers can forge valid HMAC values' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why is HMAC preferred over plain checksums for security?",
+      "options": [
+        "Checksums lack cryptographic protection and secret keys",
+        "Checksums are encrypted",
+        "Checksums require certificates",
+        "Checksums are slower"
+      ],
+      "correct_answer": "Checksums lack cryptographic protection and secret keys",
+      "explanation": "The correct answer is 'Checksums lack cryptographic protection and secret keys' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which best describes HMAC's role in secure systems?",
+      "options": [
+        "Verifying authenticity and integrity of messages",
+        "Encrypting large files",
+        "Generating public keys",
+        "Replacing PKI"
+      ],
+      "correct_answer": "Verifying authenticity and integrity of messages",
+      "explanation": "The correct answer is 'Verifying authenticity and integrity of messages' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is a common real-world use of HMAC?",
+      "options": [
+        "API request signing",
+        "Disk partitioning",
+        "DNS resolution",
+        "Video compression"
+      ],
+      "correct_answer": "API request signing",
+      "explanation": "The correct answer is 'API request signing' because it best explains HMAC concepts and usage."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes HMAC today?",
+      "options": [
+        "A widely used mechanism for message authentication and integrity verification",
+        "A symmetric encryption standard",
+        "A public-key algorithm",
+        "A certificate authority"
+      ],
+      "correct_answer": "A widely used mechanism for message authentication and integrity verification",
+      "explanation": "The correct answer is 'A widely used mechanism for message authentication and integrity verification' because it best explains HMAC concepts and usage."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "Wireshark",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Wireshark?",
+      "options": [
+        "A network protocol analyzer",
+        "A firewall",
+        "An antivirus",
+        "A VPN"
+      ],
+      "correct_answer": "A network protocol analyzer",
+      "explanation": "The correct answer is 'A network protocol analyzer'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of Wireshark?",
+      "options": [
+        "Capture and analyze network traffic",
+        "Block traffic",
+        "Encrypt traffic",
+        "Route traffic"
+      ],
+      "correct_answer": "Capture and analyze network traffic",
+      "explanation": "The correct answer is 'Capture and analyze network traffic'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is a packet?",
+      "options": [
+        "A unit of network data",
+        "A firewall rule",
+        "A user account",
+        "A DNS record"
+      ],
+      "correct_answer": "A unit of network data",
+      "explanation": "The correct answer is 'A unit of network data'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which interface must be selected before capturing traffic?",
+      "options": [
+        "Network Interface",
+        "USB Interface",
+        "Printer Port",
+        "Audio Device"
+      ],
+      "correct_answer": "Network Interface",
+      "explanation": "The correct answer is 'Network Interface'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which protocol commonly uses port 80?",
+      "options": [
+        "HTTP",
+        "SSH",
+        "DNS",
+        "FTP"
+      ],
+      "correct_answer": "HTTP",
+      "explanation": "The correct answer is 'HTTP'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which protocol commonly uses port 443?",
+      "options": [
+        "HTTPS",
+        "SMTP",
+        "SNMP",
+        "Telnet"
+      ],
+      "correct_answer": "HTTPS",
+      "explanation": "The correct answer is 'HTTPS'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does DNS stand for?",
+      "options": [
+        "Domain Name System",
+        "Data Network Service",
+        "Dynamic Naming Service",
+        "Domain Navigation Service"
+      ],
+      "correct_answer": "Domain Name System",
+      "explanation": "The correct answer is 'Domain Name System'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which protocol is commonly used to test connectivity?",
+      "options": [
+        "ICMP",
+        "SMTP",
+        "FTP",
+        "SNMP"
+      ],
+      "correct_answer": "ICMP",
+      "explanation": "The correct answer is 'ICMP'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is a capture filter used for?",
+      "options": [
+        "Filter traffic before capture",
+        "Filter after capture",
+        "Encrypt packets",
+        "Block traffic"
+      ],
+      "correct_answer": "Filter traffic before capture",
+      "explanation": "The correct answer is 'Filter traffic before capture'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is a display filter used for?",
+      "options": [
+        "Filter captured traffic for analysis",
+        "Block traffic",
+        "Create packets",
+        "Compress packets"
+      ],
+      "correct_answer": "Filter captured traffic for analysis",
+      "explanation": "The correct answer is 'Filter captured traffic for analysis'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which display filter shows only HTTP traffic?",
+      "options": [
+        "http",
+        "dns",
+        "tcp.port==22",
+        "icmp"
+      ],
+      "correct_answer": "http",
+      "explanation": "The correct answer is 'http'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which display filter shows only DNS packets?",
+      "options": [
+        "dns",
+        "http",
+        "tls",
+        "ftp"
+      ],
+      "correct_answer": "dns",
+      "explanation": "The correct answer is 'dns'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which protocol provides encrypted web communication?",
+      "options": [
+        "TLS/SSL",
+        "HTTP",
+        "FTP",
+        "Telnet"
+      ],
+      "correct_answer": "TLS/SSL",
+      "explanation": "The correct answer is 'TLS/SSL'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What does the filter tcp.port==80 display?",
+      "options": [
+        "Traffic using TCP port 80",
+        "All UDP traffic",
+        "All DNS traffic",
+        "Only ICMP traffic"
+      ],
+      "correct_answer": "Traffic using TCP port 80",
+      "explanation": "The correct answer is 'Traffic using TCP port 80'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are capture filters useful?",
+      "options": [
+        "Reduce unnecessary captured traffic",
+        "Increase bandwidth",
+        "Encrypt packets",
+        "Improve routing"
+      ],
+      "correct_answer": "Reduce unnecessary captured traffic",
+      "explanation": "The correct answer is 'Reduce unnecessary captured traffic'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What information can Wireshark display?",
+      "options": [
+        "Packet headers and payloads",
+        "Only IP addresses",
+        "Only MAC addresses",
+        "Only ports"
+      ],
+      "correct_answer": "Packet headers and payloads",
+      "explanation": "The correct answer is 'Packet headers and payloads'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which protocol translates domain names into IP addresses?",
+      "options": [
+        "DNS",
+        "ARP",
+        "ICMP",
+        "NTP"
+      ],
+      "correct_answer": "DNS",
+      "explanation": "The correct answer is 'DNS'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a TCP three-way handshake?",
+      "options": [
+        "Connection establishment process",
+        "Packet encryption",
+        "Routing protocol",
+        "DNS resolution"
+      ],
+      "correct_answer": "Connection establishment process",
+      "explanation": "The correct answer is 'Connection establishment process'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which protocol is connection-oriented?",
+      "options": [
+        "TCP",
+        "UDP",
+        "ICMP",
+        "ARP"
+      ],
+      "correct_answer": "TCP",
+      "explanation": "The correct answer is 'TCP'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which protocol is connectionless?",
+      "options": [
+        "UDP",
+        "TCP",
+        "TLS",
+        "HTTP"
+      ],
+      "correct_answer": "UDP",
+      "explanation": "The correct answer is 'UDP'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What suspicious activity can Wireshark help identify?",
+      "options": [
+        "Port Scanning",
+        "CPU Overheating",
+        "Disk Failure",
+        "Printer Errors"
+      ],
+      "correct_answer": "Port Scanning",
+      "explanation": "The correct answer is 'Port Scanning'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "How can Wireshark assist in incident response?",
+      "options": [
+        "Analyze captured network traffic",
+        "Patch vulnerabilities",
+        "Install firewalls",
+        "Encrypt disks"
+      ],
+      "correct_answer": "Analyze captured network traffic",
+      "explanation": "The correct answer is 'Analyze captured network traffic'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is packet reconstruction?",
+      "options": [
+        "Rebuilding communication sessions from packets",
+        "Blocking packets",
+        "Encrypting packets",
+        "Deleting packets"
+      ],
+      "correct_answer": "Rebuilding communication sessions from packets",
+      "explanation": "The correct answer is 'Rebuilding communication sessions from packets'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which indicator may suggest a SYN flood attack?",
+      "options": [
+        "Large number of SYN packets",
+        "High DNS responses",
+        "Many ARP requests",
+        "Printer traffic"
+      ],
+      "correct_answer": "Large number of SYN packets",
+      "explanation": "The correct answer is 'Large number of SYN packets'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How can Wireshark help detect malware communication?",
+      "options": [
+        "Analyzing unusual traffic patterns",
+        "Increasing storage",
+        "Managing users",
+        "Updating software"
+      ],
+      "correct_answer": "Analyzing unusual traffic patterns",
+      "explanation": "The correct answer is 'Analyzing unusual traffic patterns'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What QoS parameter measures delay in communication?",
+      "options": [
+        "Latency",
+        "Jitter",
+        "Packet Loss",
+        "Bandwidth"
+      ],
+      "correct_answer": "Latency",
+      "explanation": "The correct answer is 'Latency'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What QoS parameter measures variation in packet delay?",
+      "options": [
+        "Jitter",
+        "Latency",
+        "Throughput",
+        "Bandwidth"
+      ],
+      "correct_answer": "Jitter",
+      "explanation": "The correct answer is 'Jitter'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What QoS parameter indicates dropped packets?",
+      "options": [
+        "Packet Loss",
+        "Latency",
+        "Jitter",
+        "MTU"
+      ],
+      "correct_answer": "Packet Loss",
+      "explanation": "The correct answer is 'Packet Loss'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why is TLS traffic harder to analyze than HTTP?",
+      "options": [
+        "Payload is encrypted",
+        "Uses UDP",
+        "Uses smaller packets",
+        "Has no headers"
+      ],
+      "correct_answer": "Payload is encrypted",
+      "explanation": "The correct answer is 'Payload is encrypted'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes Wireshark?",
+      "options": [
+        "A tool for capturing and analyzing network packets in real time",
+        "A firewall that blocks attacks",
+        "A VPN service",
+        "A network router"
+      ],
+      "correct_answer": "A tool for capturing and analyzing network packets in real time",
+      "explanation": "The correct answer is 'A tool for capturing and analyzing network packets in real time'. This answer is correct because it aligns with the core concept of Wireshark. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    }
+  ]
+}

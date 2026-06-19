@@ -1,0 +1,396 @@
+{
+  "topic": "Single Sign-On (SSO)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does SSO stand for?",
+      "options": [
+        "Single Sign-On",
+        "Secure Sign-On",
+        "System Sign-On",
+        "Simple Sign-On"
+      ],
+      "correct_answer": "Single Sign-On",
+      "explanation": "The correct answer is 'Single Sign-On' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of SSO?",
+      "options": [
+        "Allow users to access multiple applications with one login",
+        "Encrypt all network traffic",
+        "Replace passwords",
+        "Manage DNS"
+      ],
+      "correct_answer": "Allow users to access multiple applications with one login",
+      "explanation": "The correct answer is 'Allow users to access multiple applications with one login' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "With SSO, a user typically authenticates?",
+      "options": [
+        "Once and gains access to multiple systems",
+        "For every application separately",
+        "Without credentials",
+        "Using only certificates"
+      ],
+      "correct_answer": "Once and gains access to multiple systems",
+      "explanation": "The correct answer is 'Once and gains access to multiple systems' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "SSO improves?",
+      "options": [
+        "User convenience",
+        "Network bandwidth",
+        "File compression",
+        "Disk performance"
+      ],
+      "correct_answer": "User convenience",
+      "explanation": "The correct answer is 'User convenience' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "SSO reduces the need to remember?",
+      "options": [
+        "Multiple passwords",
+        "IP addresses",
+        "DNS records",
+        "Certificates"
+      ],
+      "correct_answer": "Multiple passwords",
+      "explanation": "The correct answer is 'Multiple passwords' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which security concept is central to SSO?",
+      "options": [
+        "Centralized authentication",
+        "File encryption",
+        "Hashing",
+        "Routing"
+      ],
+      "correct_answer": "Centralized authentication",
+      "explanation": "The correct answer is 'Centralized authentication' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "SSO is commonly used in?",
+      "options": [
+        "Enterprise environments",
+        "Video editing",
+        "Disk formatting",
+        "Network cabling"
+      ],
+      "correct_answer": "Enterprise environments",
+      "explanation": "The correct answer is 'Enterprise environments' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "A major benefit of SSO is?",
+      "options": [
+        "Improved user experience",
+        "Increased file size",
+        "Reduced encryption",
+        "Higher latency"
+      ],
+      "correct_answer": "Improved user experience",
+      "explanation": "The correct answer is 'Improved user experience' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "SSO can help reduce?",
+      "options": [
+        "Password fatigue",
+        "Network traffic",
+        "Storage space",
+        "CPU usage"
+      ],
+      "correct_answer": "Password fatigue",
+      "explanation": "The correct answer is 'Password fatigue' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Users access multiple applications after successful?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Hashing",
+        "Routing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which technology is commonly associated with enterprise SSO?",
+      "options": [
+        "SAML",
+        "ARP",
+        "FTP",
+        "ICMP"
+      ],
+      "correct_answer": "SAML",
+      "explanation": "The correct answer is 'SAML' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What does SAML stand for?",
+      "options": [
+        "Security Assertion Markup Language",
+        "Secure Authentication Markup Layer",
+        "Single Access Management Layer",
+        "System Authentication Markup Language"
+      ],
+      "correct_answer": "Security Assertion Markup Language",
+      "explanation": "The correct answer is 'Security Assertion Markup Language' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "In SSO, which system typically authenticates the user?",
+      "options": [
+        "Identity Provider (IdP)",
+        "DNS Server",
+        "Firewall",
+        "Router"
+      ],
+      "correct_answer": "Identity Provider (IdP)",
+      "explanation": "The correct answer is 'Identity Provider (IdP)' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is a Service Provider (SP) in SSO?",
+      "options": [
+        "An application that relies on an IdP for authentication",
+        "A certificate authority",
+        "A DNS server",
+        "A firewall"
+      ],
+      "correct_answer": "An application that relies on an IdP for authentication",
+      "explanation": "The correct answer is 'An application that relies on an IdP for authentication' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which protocol is widely used for web-based SSO and authorization?",
+      "options": [
+        "OAuth",
+        "ARP",
+        "SMTP",
+        "DHCP"
+      ],
+      "correct_answer": "OAuth",
+      "explanation": "The correct answer is 'OAuth' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is an Identity Provider (IdP)?",
+      "options": [
+        "A system that authenticates users",
+        "A router",
+        "A certificate",
+        "A web browser"
+      ],
+      "correct_answer": "A system that authenticates users",
+      "explanation": "The correct answer is 'A system that authenticates users' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why do organizations deploy SSO?",
+      "options": [
+        "To simplify authentication management",
+        "To replace encryption",
+        "To manage DNS",
+        "To compress data"
+      ],
+      "correct_answer": "To simplify authentication management",
+      "explanation": "The correct answer is 'To simplify authentication management' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What happens when a user logs out of a centralized SSO system?",
+      "options": [
+        "Access can be terminated across connected applications",
+        "Passwords are deleted",
+        "Certificates are revoked",
+        "Files are encrypted"
+      ],
+      "correct_answer": "Access can be terminated across connected applications",
+      "explanation": "The correct answer is 'Access can be terminated across connected applications' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "SSO is often combined with?",
+      "options": [
+        "Multi-Factor Authentication (MFA)",
+        "Disk encryption",
+        "Load balancing",
+        "Packet filtering"
+      ],
+      "correct_answer": "Multi-Factor Authentication (MFA)",
+      "explanation": "The correct answer is 'Multi-Factor Authentication (MFA)' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a common cloud-based SSO use case?",
+      "options": [
+        "Accessing multiple SaaS applications",
+        "Managing routers",
+        "DNS configuration",
+        "Video rendering"
+      ],
+      "correct_answer": "Accessing multiple SaaS applications",
+      "explanation": "The correct answer is 'Accessing multiple SaaS applications' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is a major security risk if an SSO account is compromised?",
+      "options": [
+        "Attackers may gain access to multiple connected systems",
+        "DNS fails",
+        "Certificates disappear",
+        "Encryption becomes weaker"
+      ],
+      "correct_answer": "Attackers may gain access to multiple connected systems",
+      "explanation": "The correct answer is 'Attackers may gain access to multiple connected systems' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is MFA commonly paired with SSO?",
+      "options": [
+        "To strengthen protection of the central authentication account",
+        "To replace SSO",
+        "To reduce passwords",
+        "To improve bandwidth"
+      ],
+      "correct_answer": "To strengthen protection of the central authentication account",
+      "explanation": "The correct answer is 'To strengthen protection of the central authentication account' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is federation in the context of SSO?",
+      "options": [
+        "Trust relationship between separate identity systems",
+        "Certificate revocation",
+        "Password sharing",
+        "File synchronization"
+      ],
+      "correct_answer": "Trust relationship between separate identity systems",
+      "explanation": "The correct answer is 'Trust relationship between separate identity systems' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How does SSO improve security administration?",
+      "options": [
+        "Centralized control of authentication policies",
+        "It eliminates identities",
+        "It removes authorization",
+        "It replaces encryption"
+      ],
+      "correct_answer": "Centralized control of authentication policies",
+      "explanation": "The correct answer is 'Centralized control of authentication policies' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is SAML important in enterprise SSO?",
+      "options": [
+        "It securely exchanges authentication assertions",
+        "It encrypts files",
+        "It replaces certificates",
+        "It manages DNS"
+      ],
+      "correct_answer": "It securely exchanges authentication assertions",
+      "explanation": "The correct answer is 'It securely exchanges authentication assertions' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is an authentication assertion?",
+      "options": [
+        "A statement that a user has been authenticated",
+        "A digital certificate",
+        "A password hash",
+        "A firewall rule"
+      ],
+      "correct_answer": "A statement that a user has been authenticated",
+      "explanation": "The correct answer is 'A statement that a user has been authenticated' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How does SSO support user productivity?",
+      "options": [
+        "By reducing repeated logins across applications",
+        "By increasing passwords",
+        "By replacing applications",
+        "By removing authentication"
+      ],
+      "correct_answer": "By reducing repeated logins across applications",
+      "explanation": "The correct answer is 'By reducing repeated logins across applications' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is a challenge of implementing SSO?",
+      "options": [
+        "Balancing convenience with centralized risk",
+        "Generating hashes",
+        "Managing DNS",
+        "Creating certificates"
+      ],
+      "correct_answer": "Balancing convenience with centralized risk",
+      "explanation": "The correct answer is 'Balancing convenience with centralized risk' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which security principle becomes especially important in SSO environments?",
+      "options": [
+        "Strong identity protection",
+        "File compression",
+        "Routing efficiency",
+        "Disk optimization"
+      ],
+      "correct_answer": "Strong identity protection",
+      "explanation": "The correct answer is 'Strong identity protection' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes Single Sign-On today?",
+      "options": [
+        "A centralized authentication approach that enables access to multiple applications with one login",
+        "A hashing algorithm",
+        "A certificate authority",
+        "A routing protocol"
+      ],
+      "correct_answer": "A centralized authentication approach that enables access to multiple applications with one login",
+      "explanation": "The correct answer is 'A centralized authentication approach that enables access to multiple applications with one login' because it best explains Single Sign-On (SSO) concepts and deployment scenarios."
+    }
+  ]
+}

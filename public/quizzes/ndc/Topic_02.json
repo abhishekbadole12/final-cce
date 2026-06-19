@@ -1,0 +1,396 @@
+{
+  "topic": "CIA Triad (Confidentiality, Integrity, Availability)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does CIA stand for in cybersecurity?",
+      "options": [
+        "Confidentiality, Integrity, Availability",
+        "Control, Identity, Access",
+        "Cyber, Internet, Authentication",
+        "Confidentiality, Inspection, Access"
+      ],
+      "correct_answer": "Confidentiality, Integrity, Availability",
+      "explanation": "The correct answer is 'Confidentiality, Integrity, Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which component protects information from unauthorized disclosure?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Authentication"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which component ensures data remains accurate?",
+      "options": [
+        "Integrity",
+        "Confidentiality",
+        "Availability",
+        "Authorization"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which component ensures systems are accessible when needed?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Confidentiality",
+        "Auditing"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Encryption mainly supports?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Confidentiality",
+        "Performance"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Backups primarily support?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Authentication"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Strong passwords help protect?",
+      "options": [
+        "Confidentiality",
+        "Latency",
+        "Bandwidth",
+        "Availability"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which is an example of confidentiality control?",
+      "options": [
+        "AES Encryption",
+        "Load Balancer",
+        "RAID",
+        "UPS"
+      ],
+      "correct_answer": "AES Encryption",
+      "explanation": "The correct answer is 'AES Encryption' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which is an example of availability control?",
+      "options": [
+        "Backup Server",
+        "Hashing",
+        "Digital Signature",
+        "MFA"
+      ],
+      "correct_answer": "Backup Server",
+      "explanation": "The correct answer is 'Backup Server' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Hashing is primarily used for?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Routing"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the purpose of a checksum?",
+      "options": [
+        "Verify integrity",
+        "Increase speed",
+        "Encrypt data",
+        "Backup files"
+      ],
+      "correct_answer": "Verify integrity",
+      "explanation": "The correct answer is 'Verify integrity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "A UPS mainly supports which CIA principle?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Authentication"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Digital signatures provide?",
+      "options": [
+        "Integrity and authenticity",
+        "Availability",
+        "Compression",
+        "Anonymity"
+      ],
+      "correct_answer": "Integrity and authenticity",
+      "explanation": "The correct answer is 'Integrity and authenticity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "RAID contributes mainly to?",
+      "options": [
+        "Availability",
+        "Confidentiality",
+        "Encryption",
+        "Authentication"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Data masking primarily protects?",
+      "options": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Performance"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which attack mainly affects availability?",
+      "options": [
+        "DDoS",
+        "Phishing",
+        "SQL Injection",
+        "Privilege Escalation"
+      ],
+      "correct_answer": "DDoS",
+      "explanation": "The correct answer is 'DDoS' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Unauthorized modification of records affects?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Recovery"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which technology helps maintain availability during failures?",
+      "options": [
+        "Failover Clustering",
+        "Hashing",
+        "TLS",
+        "VPN"
+      ],
+      "correct_answer": "Failover Clustering",
+      "explanation": "The correct answer is 'Failover Clustering' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "TLS encryption protects?",
+      "options": [
+        "Data in transit",
+        "Data centers",
+        "Operating systems",
+        "Switches"
+      ],
+      "correct_answer": "Data in transit",
+      "explanation": "The correct answer is 'Data in transit' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which is a confidentiality breach?",
+      "options": [
+        "Leaked customer database",
+        "Server crash",
+        "Disk failure",
+        "Power outage"
+      ],
+      "correct_answer": "Leaked customer database",
+      "explanation": "The correct answer is 'Leaked customer database' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "An attacker changes exam scores in a database. Which principle is violated?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Redundancy"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "A ransomware attack encrypts company files and makes them inaccessible. Which CIA component is primarily impacted?",
+      "options": [
+        "Availability",
+        "Confidentiality",
+        "Integrity",
+        "Auditing"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "A public website goes offline due to a flood attack. Which principle is affected?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Confidentiality",
+        "Non-repudiation"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which control best protects all three CIA principles together?",
+      "options": [
+        "Layered Security",
+        "Single Password",
+        "Caching",
+        "Compression"
+      ],
+      "correct_answer": "Layered Security",
+      "explanation": "The correct answer is 'Layered Security' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "A man-in-the-middle attack threatens which CIA principles most directly?",
+      "options": [
+        "Confidentiality and Integrity",
+        "Availability only",
+        "Availability and Recovery",
+        "Integrity only"
+      ],
+      "correct_answer": "Confidentiality and Integrity",
+      "explanation": "The correct answer is 'Confidentiality and Integrity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which situation violates confidentiality but not necessarily integrity?",
+      "options": [
+        "Stolen encrypted database key",
+        "Server outage",
+        "Data corruption",
+        "Disk crash"
+      ],
+      "correct_answer": "Stolen encrypted database key",
+      "explanation": "The correct answer is 'Stolen encrypted database key' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why is balancing CIA important?",
+      "options": [
+        "Improving one may affect another",
+        "Only confidentiality matters",
+        "Availability is irrelevant",
+        "Integrity cannot be measured"
+      ],
+      "correct_answer": "Improving one may affect another",
+      "explanation": "The correct answer is 'Improving one may affect another' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is the biggest challenge in maintaining availability?",
+      "options": [
+        "Handling failures and attacks",
+        "Encrypting everything",
+        "Creating passwords",
+        "Using checksums"
+      ],
+      "correct_answer": "Handling failures and attacks",
+      "explanation": "The correct answer is 'Handling failures and attacks' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which security model is fundamentally built around CIA?",
+      "options": [
+        "Information Security",
+        "TCP/IP",
+        "OSI",
+        "DevOps"
+      ],
+      "correct_answer": "Information Security",
+      "explanation": "The correct answer is 'Information Security' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "A healthcare system prevents unauthorized access, detects modifications, and remains online. Which statement is true?",
+      "options": [
+        "All CIA principles are satisfied",
+        "Only confidentiality is satisfied",
+        "Only availability is satisfied",
+        "Only integrity is satisfied"
+      ],
+      "correct_answer": "All CIA principles are satisfied",
+      "explanation": "The correct answer is 'All CIA principles are satisfied' because it best satisfies the security concept being tested in this question."
+    }
+  ]
+}

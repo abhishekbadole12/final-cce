@@ -1,0 +1,396 @@
+{
+  "topic": "Trust Models",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a trust model in PKI?",
+      "options": [
+        "A framework that determines how trust is established",
+        "An encryption algorithm",
+        "A hashing method",
+        "A network protocol"
+      ],
+      "correct_answer": "A framework that determines how trust is established",
+      "explanation": "The correct answer is 'A framework that determines how trust is established' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which PKI component is central to most trust models?",
+      "options": [
+        "Certificate Authority (CA)",
+        "Router",
+        "Firewall",
+        "Proxy"
+      ],
+      "correct_answer": "Certificate Authority (CA)",
+      "explanation": "The correct answer is 'Certificate Authority (CA)' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Why are trust models important?",
+      "options": [
+        "They help determine whether a certificate should be trusted",
+        "They increase bandwidth",
+        "They compress certificates",
+        "They generate keys"
+      ],
+      "correct_answer": "They help determine whether a certificate should be trusted",
+      "explanation": "The correct answer is 'They help determine whether a certificate should be trusted' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which trust model is most common on the web?",
+      "options": [
+        "Hierarchical Trust Model",
+        "Web of Trust",
+        "Peer-to-Peer Trust",
+        "Shared Secret Trust"
+      ],
+      "correct_answer": "Hierarchical Trust Model",
+      "explanation": "The correct answer is 'Hierarchical Trust Model' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "In a hierarchical trust model, trust begins with a?",
+      "options": [
+        "Root CA",
+        "Web Server",
+        "Router",
+        "User Account"
+      ],
+      "correct_answer": "Root CA",
+      "explanation": "The correct answer is 'Root CA' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is the foundation of trust in HTTPS?",
+      "options": [
+        "Trusted Root Certificates",
+        "Passwords",
+        "IP Addresses",
+        "Hashes"
+      ],
+      "correct_answer": "Trusted Root Certificates",
+      "explanation": "The correct answer is 'Trusted Root Certificates' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "A trust store contains?",
+      "options": [
+        "Trusted root certificates",
+        "Private keys",
+        "Passwords",
+        "Firewall rules"
+      ],
+      "correct_answer": "Trusted root certificates",
+      "explanation": "The correct answer is 'Trusted root certificates' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which trust model is commonly associated with PGP?",
+      "options": [
+        "Web of Trust",
+        "Hierarchical Trust",
+        "Bridge CA",
+        "Cross-Certification"
+      ],
+      "correct_answer": "Web of Trust",
+      "explanation": "The correct answer is 'Web of Trust' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What does trust enable in PKI?",
+      "options": [
+        "Authentication of identities",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Authentication of identities",
+      "explanation": "The correct answer is 'Authentication of identities' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Trust relationships are primarily established through?",
+      "options": [
+        "Digital certificates",
+        "Network cables",
+        "Passwords",
+        "Compression algorithms"
+      ],
+      "correct_answer": "Digital certificates",
+      "explanation": "The correct answer is 'Digital certificates' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a hierarchical trust model?",
+      "options": [
+        "A model where trust flows from a Root CA through subordinate CAs",
+        "A peer-to-peer trust model",
+        "A password-based model",
+        "A hashing model"
+      ],
+      "correct_answer": "A model where trust flows from a Root CA through subordinate CAs",
+      "explanation": "The correct answer is 'A model where trust flows from a Root CA through subordinate CAs' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Web of Trust?",
+      "options": [
+        "A decentralized trust model where users validate each other",
+        "A CA hierarchy",
+        "A DNS model",
+        "A routing protocol"
+      ],
+      "correct_answer": "A decentralized trust model where users validate each other",
+      "explanation": "The correct answer is 'A decentralized trust model where users validate each other' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why is the hierarchical trust model widely used?",
+      "options": [
+        "It scales efficiently and is easier to manage",
+        "It requires no certificates",
+        "It eliminates trust stores",
+        "It uses only passwords"
+      ],
+      "correct_answer": "It scales efficiently and is easier to manage",
+      "explanation": "The correct answer is 'It scales efficiently and is easier to manage' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is cross-certification?",
+      "options": [
+        "Mutual trust established between different CAs",
+        "Certificate revocation",
+        "Password sharing",
+        "Key destruction"
+      ],
+      "correct_answer": "Mutual trust established between different CAs",
+      "explanation": "The correct answer is 'Mutual trust established between different CAs' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What role does a Root CA play in a trust model?",
+      "options": [
+        "Acts as the ultimate trust anchor",
+        "Issues passwords",
+        "Provides encryption",
+        "Stores user files"
+      ],
+      "correct_answer": "Acts as the ultimate trust anchor",
+      "explanation": "The correct answer is 'Acts as the ultimate trust anchor' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why might organizations use a private trust model?",
+      "options": [
+        "For internal PKI deployments",
+        "To replace TLS",
+        "To avoid certificates",
+        "To increase bandwidth"
+      ],
+      "correct_answer": "For internal PKI deployments",
+      "explanation": "The correct answer is 'For internal PKI deployments' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a trust anchor?",
+      "options": [
+        "A trusted root certificate",
+        "A private key",
+        "A session key",
+        "A hash value"
+      ],
+      "correct_answer": "A trusted root certificate",
+      "explanation": "The correct answer is 'A trusted root certificate' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why are certificate chains important?",
+      "options": [
+        "They allow trust to be traced to a trusted root",
+        "They encrypt certificates",
+        "They generate keys",
+        "They compress data"
+      ],
+      "correct_answer": "They allow trust to be traced to a trusted root",
+      "explanation": "The correct answer is 'They allow trust to be traced to a trusted root' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What happens if a certificate chain cannot be validated?",
+      "options": [
+        "The certificate is not trusted",
+        "The certificate becomes stronger",
+        "The chain is ignored",
+        "The certificate self-signs"
+      ],
+      "correct_answer": "The certificate is not trusted",
+      "explanation": "The correct answer is 'The certificate is not trusted' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a bridge CA?",
+      "options": [
+        "A CA used to connect different PKI trust domains",
+        "A web server",
+        "A DNS server",
+        "A firewall"
+      ],
+      "correct_answer": "A CA used to connect different PKI trust domains",
+      "explanation": "The correct answer is 'A CA used to connect different PKI trust domains' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the primary weakness of a hierarchical trust model?",
+      "options": [
+        "Compromise of a trusted CA can affect many certificates",
+        "It cannot scale",
+        "It uses no certificates",
+        "It lacks authentication"
+      ],
+      "correct_answer": "Compromise of a trusted CA can affect many certificates",
+      "explanation": "The correct answer is 'Compromise of a trusted CA can affect many certificates' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is trust management challenging in a Web of Trust?",
+      "options": [
+        "Trust decisions are decentralized and subjective",
+        "Certificates are unavailable",
+        "Public keys do not exist",
+        "Encryption is not supported"
+      ],
+      "correct_answer": "Trust decisions are decentralized and subjective",
+      "explanation": "The correct answer is 'Trust decisions are decentralized and subjective' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What risk exists if a malicious Root CA is trusted?",
+      "options": [
+        "Fraudulent certificates may be accepted as valid",
+        "AES becomes insecure",
+        "DNS stops working",
+        "Hashes collide"
+      ],
+      "correct_answer": "Fraudulent certificates may be accepted as valid",
+      "explanation": "The correct answer is 'Fraudulent certificates may be accepted as valid' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How does certificate pinning strengthen trust?",
+      "options": [
+        "It restricts trust to specific certificates or keys",
+        "It creates private keys",
+        "It replaces PKI",
+        "It disables TLS"
+      ],
+      "correct_answer": "It restricts trust to specific certificates or keys",
+      "explanation": "The correct answer is 'It restricts trust to specific certificates or keys' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why are trust stores regularly updated?",
+      "options": [
+        "To add or remove trusted certificate authorities",
+        "To increase storage",
+        "To compress certificates",
+        "To create hashes"
+      ],
+      "correct_answer": "To add or remove trusted certificate authorities",
+      "explanation": "The correct answer is 'To add or remove trusted certificate authorities' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is transitive trust in PKI?",
+      "options": [
+        "Trust passed through certificate chains",
+        "Trust based on passwords",
+        "Trust without certificates",
+        "Trust through encryption only"
+      ],
+      "correct_answer": "Trust passed through certificate chains",
+      "explanation": "The correct answer is 'Trust passed through certificate chains' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why might an organization deploy its own Root CA?",
+      "options": [
+        "To maintain control over internal trust relationships",
+        "To replace digital signatures",
+        "To avoid encryption",
+        "To improve bandwidth"
+      ],
+      "correct_answer": "To maintain control over internal trust relationships",
+      "explanation": "The correct answer is 'To maintain control over internal trust relationships' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How can cross-certification help large enterprises?",
+      "options": [
+        "By enabling trust between separate PKI environments",
+        "By replacing certificates",
+        "By eliminating keys",
+        "By reducing encryption"
+      ],
+      "correct_answer": "By enabling trust between separate PKI environments",
+      "explanation": "The correct answer is 'By enabling trust between separate PKI environments' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which attack attempts to exploit user trust using fraudulent certificates?",
+      "options": [
+        "Man-in-the-Middle attack",
+        "DDoS attack",
+        "Replay attack",
+        "Dictionary attack"
+      ],
+      "correct_answer": "Man-in-the-Middle attack",
+      "explanation": "The correct answer is 'Man-in-the-Middle attack' because it best explains PKI trust models and trust relationships."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes trust models today?",
+      "options": [
+        "Frameworks that define how trust is established, managed, and validated in PKI systems",
+        "Encryption algorithms",
+        "Hashing standards",
+        "Network routing mechanisms"
+      ],
+      "correct_answer": "Frameworks that define how trust is established, managed, and validated in PKI systems",
+      "explanation": "The correct answer is 'Frameworks that define how trust is established, managed, and validated in PKI systems' because it best explains PKI trust models and trust relationships."
+    }
+  ]
+}

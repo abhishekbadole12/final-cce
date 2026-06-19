@@ -1,0 +1,396 @@
+{
+  "topic": "FIDO Authentication",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does FIDO stand for?",
+      "options": [
+        "Fast Identity Online",
+        "Federated Identity Online",
+        "Fast Internet Data Operations",
+        "Federated Internet Device Organization"
+      ],
+      "correct_answer": "Fast Identity Online",
+      "explanation": "The correct answer is 'Fast Identity Online' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary goal of FIDO authentication?",
+      "options": [
+        "Passwordless and stronger authentication",
+        "File encryption",
+        "Certificate revocation",
+        "DNS management"
+      ],
+      "correct_answer": "Passwordless and stronger authentication",
+      "explanation": "The correct answer is 'Passwordless and stronger authentication' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "FIDO authentication helps reduce dependence on?",
+      "options": [
+        "Passwords",
+        "Certificates",
+        "Networks",
+        "Databases"
+      ],
+      "correct_answer": "Passwords",
+      "explanation": "The correct answer is 'Passwords' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which device is commonly used in FIDO authentication?",
+      "options": [
+        "Security key",
+        "Router",
+        "Switch",
+        "Printer"
+      ],
+      "correct_answer": "Security key",
+      "explanation": "The correct answer is 'Security key' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "FIDO uses which type of cryptography?",
+      "options": [
+        "Public-key cryptography",
+        "Symmetric cryptography",
+        "Steganography",
+        "Compression"
+      ],
+      "correct_answer": "Public-key cryptography",
+      "explanation": "The correct answer is 'Public-key cryptography' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Where is the private key stored in FIDO?",
+      "options": [
+        "On the user's device",
+        "On the server",
+        "In DNS",
+        "In a firewall"
+      ],
+      "correct_answer": "On the user's device",
+      "explanation": "The correct answer is 'On the user's device' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is verified by the server in FIDO authentication?",
+      "options": [
+        "The public key",
+        "The private key",
+        "The password",
+        "The OTP"
+      ],
+      "correct_answer": "The public key",
+      "explanation": "The correct answer is 'The public key' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which organization develops FIDO standards?",
+      "options": [
+        "FIDO Alliance",
+        "NIST",
+        "IETF",
+        "RSA Laboratories"
+      ],
+      "correct_answer": "FIDO Alliance",
+      "explanation": "The correct answer is 'FIDO Alliance' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "FIDO primarily improves which security service?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Routing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "FIDO authentication is commonly used with?",
+      "options": [
+        "Biometrics and security keys",
+        "DNS",
+        "FTP",
+        "ARP"
+      ],
+      "correct_answer": "Biometrics and security keys",
+      "explanation": "The correct answer is 'Biometrics and security keys' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is FIDO2?",
+      "options": [
+        "A set of standards for passwordless authentication",
+        "A hashing algorithm",
+        "A PKI trust model",
+        "A VPN protocol"
+      ],
+      "correct_answer": "A set of standards for passwordless authentication",
+      "explanation": "The correct answer is 'A set of standards for passwordless authentication' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which web standard is part of FIDO2?",
+      "options": [
+        "WebAuthn",
+        "SMTP",
+        "SNMP",
+        "RADIUS"
+      ],
+      "correct_answer": "WebAuthn",
+      "explanation": "The correct answer is 'WebAuthn' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What does WebAuthn allow?",
+      "options": [
+        "Browsers to perform strong authentication",
+        "Encrypt hard drives",
+        "Manage DNS",
+        "Generate certificates"
+      ],
+      "correct_answer": "Browsers to perform strong authentication",
+      "explanation": "The correct answer is 'Browsers to perform strong authentication' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is a FIDO authenticator?",
+      "options": [
+        "A device or software that performs authentication",
+        "A certificate authority",
+        "A router",
+        "A firewall"
+      ],
+      "correct_answer": "A device or software that performs authentication",
+      "explanation": "The correct answer is 'A device or software that performs authentication' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why is FIDO considered phishing resistant?",
+      "options": [
+        "Credentials are not shared with websites",
+        "Passwords are encrypted",
+        "Certificates are removed",
+        "DNS is validated"
+      ],
+      "correct_answer": "Credentials are not shared with websites",
+      "explanation": "The correct answer is 'Credentials are not shared with websites' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which factor can a FIDO authenticator use?",
+      "options": [
+        "Biometrics",
+        "PINs",
+        "Security keys",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What happens during FIDO registration?",
+      "options": [
+        "A key pair is generated",
+        "A password is created",
+        "A certificate is revoked",
+        "A hash is deleted"
+      ],
+      "correct_answer": "A key pair is generated",
+      "explanation": "The correct answer is 'A key pair is generated' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is stored on the server after FIDO registration?",
+      "options": [
+        "Public key",
+        "Private key",
+        "Password",
+        "Biometric template"
+      ],
+      "correct_answer": "Public key",
+      "explanation": "The correct answer is 'Public key' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is the private key never sent to the server?",
+      "options": [
+        "To protect against credential theft",
+        "To improve bandwidth",
+        "To manage DNS",
+        "To create certificates"
+      ],
+      "correct_answer": "To protect against credential theft",
+      "explanation": "The correct answer is 'To protect against credential theft' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a common example of a FIDO authenticator?",
+      "options": [
+        "YubiKey",
+        "DNS Server",
+        "Firewall",
+        "Switch"
+      ],
+      "correct_answer": "YubiKey",
+      "explanation": "The correct answer is 'YubiKey' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why does FIDO reduce the risk of credential database breaches?",
+      "options": [
+        "Servers store public keys instead of passwords",
+        "Passwords are encrypted",
+        "Certificates are removed",
+        "Databases are not needed"
+      ],
+      "correct_answer": "Servers store public keys instead of passwords",
+      "explanation": "The correct answer is 'Servers store public keys instead of passwords' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "How does FIDO help prevent replay attacks?",
+      "options": [
+        "Authentication uses challenge-response mechanisms",
+        "It compresses data",
+        "It changes DNS records",
+        "It removes identities"
+      ],
+      "correct_answer": "Authentication uses challenge-response mechanisms",
+      "explanation": "The correct answer is 'Authentication uses challenge-response mechanisms' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What security risk is reduced by origin binding in WebAuthn?",
+      "options": [
+        "Phishing attacks",
+        "DDoS attacks",
+        "ARP spoofing",
+        "Packet loss"
+      ],
+      "correct_answer": "Phishing attacks",
+      "explanation": "The correct answer is 'Phishing attacks' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why are hardware security keys considered highly secure?",
+      "options": [
+        "Private keys never leave the device",
+        "They increase bandwidth",
+        "They replace encryption",
+        "They manage routing"
+      ],
+      "correct_answer": "Private keys never leave the device",
+      "explanation": "The correct answer is 'Private keys never leave the device' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is passwordless authentication?",
+      "options": [
+        "Authentication without requiring traditional passwords",
+        "Authentication without users",
+        "Authentication without encryption",
+        "Authentication without devices"
+      ],
+      "correct_answer": "Authentication without requiring traditional passwords",
+      "explanation": "The correct answer is 'Authentication without requiring traditional passwords' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does FIDO support Zero Trust principles?",
+      "options": [
+        "By strongly verifying user identity before access",
+        "By eliminating authorization",
+        "By replacing encryption",
+        "By removing policies"
+      ],
+      "correct_answer": "By strongly verifying user identity before access",
+      "explanation": "The correct answer is 'By strongly verifying user identity before access' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which attack remains possible even with FIDO if users are tricked after authentication?",
+      "options": [
+        "Session hijacking",
+        "Replay attack",
+        "Dictionary attack",
+        "Brute force attack"
+      ],
+      "correct_answer": "Session hijacking",
+      "explanation": "The correct answer is 'Session hijacking' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is public-key cryptography central to FIDO?",
+      "options": [
+        "It eliminates shared secrets between users and servers",
+        "It compresses data",
+        "It replaces authentication",
+        "It creates DNS records"
+      ],
+      "correct_answer": "It eliminates shared secrets between users and servers",
+      "explanation": "The correct answer is 'It eliminates shared secrets between users and servers' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the relationship between FIDO2 and WebAuthn?",
+      "options": [
+        "WebAuthn is a core component of FIDO2",
+        "They are unrelated",
+        "FIDO2 replaced WebAuthn",
+        "WebAuthn replaced FIDO"
+      ],
+      "correct_answer": "WebAuthn is a core component of FIDO2",
+      "explanation": "The correct answer is 'WebAuthn is a core component of FIDO2' because it best explains FIDO authentication concepts and deployments."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes FIDO authentication today?",
+      "options": [
+        "A phishing-resistant, passwordless authentication framework based on public-key cryptography",
+        "A hashing algorithm",
+        "A certificate authority",
+        "A routing protocol"
+      ],
+      "correct_answer": "A phishing-resistant, passwordless authentication framework based on public-key cryptography",
+      "explanation": "The correct answer is 'A phishing-resistant, passwordless authentication framework based on public-key cryptography' because it best explains FIDO authentication concepts and deployments."
+    }
+  ]
+}

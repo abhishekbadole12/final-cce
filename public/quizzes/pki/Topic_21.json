@@ -1,0 +1,396 @@
+{
+  "topic": "Certificate Issuance Process",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is certificate issuance?",
+      "options": [
+        "The process of creating and granting a digital certificate",
+        "Certificate revocation",
+        "Hash generation",
+        "Key destruction"
+      ],
+      "correct_answer": "The process of creating and granting a digital certificate",
+      "explanation": "The correct answer is 'The process of creating and granting a digital certificate' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who typically issues a digital certificate?",
+      "options": [
+        "Certificate Authority (CA)",
+        "Firewall",
+        "Router",
+        "DNS Server"
+      ],
+      "correct_answer": "Certificate Authority (CA)",
+      "explanation": "The correct answer is 'Certificate Authority (CA)' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is usually submitted before a certificate is issued?",
+      "options": [
+        "Certificate Signing Request (CSR)",
+        "Hash value",
+        "Password file",
+        "CRL"
+      ],
+      "correct_answer": "Certificate Signing Request (CSR)",
+      "explanation": "The correct answer is 'Certificate Signing Request (CSR)' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What does CSR stand for?",
+      "options": [
+        "Certificate Signing Request",
+        "Certificate Security Record",
+        "Certified Signature Request",
+        "Certificate Status Report"
+      ],
+      "correct_answer": "Certificate Signing Request",
+      "explanation": "The correct answer is 'Certificate Signing Request' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What key is included in a CSR?",
+      "options": [
+        "Public key",
+        "Private key",
+        "Session key",
+        "Shared key"
+      ],
+      "correct_answer": "Public key",
+      "explanation": "The correct answer is 'Public key' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Who owns the private key corresponding to the CSR?",
+      "options": [
+        "The applicant",
+        "The CA",
+        "The browser",
+        "The operating system"
+      ],
+      "correct_answer": "The applicant",
+      "explanation": "The correct answer is 'The applicant' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the first step in certificate issuance?",
+      "options": [
+        "Generate a key pair",
+        "Revoke a certificate",
+        "Check CRL",
+        "Create a trust store"
+      ],
+      "correct_answer": "Generate a key pair",
+      "explanation": "The correct answer is 'Generate a key pair' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Why is identity verification important before certificate issuance?",
+      "options": [
+        "To ensure the certificate is issued to the correct entity",
+        "To encrypt files",
+        "To improve bandwidth",
+        "To create hashes"
+      ],
+      "correct_answer": "To ensure the certificate is issued to the correct entity",
+      "explanation": "The correct answer is 'To ensure the certificate is issued to the correct entity' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What does a CA do after verifying the applicant?",
+      "options": [
+        "Signs and issues the certificate",
+        "Deletes the CSR",
+        "Changes the private key",
+        "Creates a CRL"
+      ],
+      "correct_answer": "Signs and issues the certificate",
+      "explanation": "The correct answer is 'Signs and issues the certificate' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Issued certificates are commonly used for?",
+      "options": [
+        "HTTPS, email security, and authentication",
+        "Video compression",
+        "Disk cleanup",
+        "Network routing"
+      ],
+      "correct_answer": "HTTPS, email security, and authentication",
+      "explanation": "The correct answer is 'HTTPS, email security, and authentication' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What information is typically included in a CSR?",
+      "options": [
+        "Public key and subject information",
+        "Private key",
+        "Passwords",
+        "Revocation data"
+      ],
+      "correct_answer": "Public key and subject information",
+      "explanation": "The correct answer is 'Public key and subject information' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why should a private key never be sent to a CA?",
+      "options": [
+        "It must remain secret to the owner",
+        "The CA already has it",
+        "Private keys are public",
+        "Certificates do not use keys"
+      ],
+      "correct_answer": "It must remain secret to the owner",
+      "explanation": "The correct answer is 'It must remain secret to the owner' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What role can a Registration Authority (RA) play in issuance?",
+      "options": [
+        "Verify identity before CA approval",
+        "Generate hashes",
+        "Store private keys",
+        "Issue CRLs"
+      ],
+      "correct_answer": "Verify identity before CA approval",
+      "explanation": "The correct answer is 'Verify identity before CA approval' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is domain validation (DV)?",
+      "options": [
+        "Certificate validation based on control of a domain",
+        "Validation of private keys",
+        "Email encryption",
+        "Hash verification"
+      ],
+      "correct_answer": "Certificate validation based on control of a domain",
+      "explanation": "The correct answer is 'Certificate validation based on control of a domain' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is organization validation (OV)?",
+      "options": [
+        "Validation of domain ownership and organization identity",
+        "Hash validation",
+        "Key escrow",
+        "Certificate revocation"
+      ],
+      "correct_answer": "Validation of domain ownership and organization identity",
+      "explanation": "The correct answer is 'Validation of domain ownership and organization identity' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is extended validation (EV)?",
+      "options": [
+        "A higher-assurance certificate validation process",
+        "Certificate revocation",
+        "A hashing standard",
+        "Key recovery"
+      ],
+      "correct_answer": "A higher-assurance certificate validation process",
+      "explanation": "The correct answer is 'A higher-assurance certificate validation process' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why is a certificate serial number assigned?",
+      "options": [
+        "To uniquely identify the certificate",
+        "To encrypt the certificate",
+        "To generate keys",
+        "To compress data"
+      ],
+      "correct_answer": "To uniquely identify the certificate",
+      "explanation": "The correct answer is 'To uniquely identify the certificate' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What happens after a certificate is issued?",
+      "options": [
+        "It can be installed and used by the applicant",
+        "The private key is sent to the CA",
+        "The CSR becomes the certificate",
+        "The CA deletes trust stores"
+      ],
+      "correct_answer": "It can be installed and used by the applicant",
+      "explanation": "The correct answer is 'It can be installed and used by the applicant' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is certificate renewal?",
+      "options": [
+        "Obtaining a new certificate before or after expiration",
+        "Certificate revocation",
+        "Hash rotation",
+        "Password reset"
+      ],
+      "correct_answer": "Obtaining a new certificate before or after expiration",
+      "explanation": "The correct answer is 'Obtaining a new certificate before or after expiration' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why are certificate validity periods limited?",
+      "options": [
+        "To reduce risk from compromised certificates",
+        "To increase storage",
+        "To improve routing",
+        "To create hashes"
+      ],
+      "correct_answer": "To reduce risk from compromised certificates",
+      "explanation": "The correct answer is 'To reduce risk from compromised certificates' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What security risk exists if a CA issues a certificate without proper validation?",
+      "options": [
+        "Attackers may obtain fraudulent trusted certificates",
+        "AES becomes insecure",
+        "DNS fails",
+        "Hashes collide"
+      ],
+      "correct_answer": "Attackers may obtain fraudulent trusted certificates",
+      "explanation": "The correct answer is 'Attackers may obtain fraudulent trusted certificates' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is proof of private key possession important during issuance?",
+      "options": [
+        "To confirm the applicant controls the key pair",
+        "To encrypt the CSR",
+        "To issue CRLs",
+        "To validate DNS"
+      ],
+      "correct_answer": "To confirm the applicant controls the key pair",
+      "explanation": "The correct answer is 'To confirm the applicant controls the key pair' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does certificate issuance support trust in TLS?",
+      "options": [
+        "It binds verified identities to public keys",
+        "It replaces encryption",
+        "It removes certificates",
+        "It manages DNS"
+      ],
+      "correct_answer": "It binds verified identities to public keys",
+      "explanation": "The correct answer is 'It binds verified identities to public keys' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is automated certificate issuance commonly associated with?",
+      "options": [
+        "ACME and automated PKI services",
+        "DNSSEC",
+        "ARP",
+        "FTP"
+      ],
+      "correct_answer": "ACME and automated PKI services",
+      "explanation": "The correct answer is 'ACME and automated PKI services' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is auditing certificate issuance important?",
+      "options": [
+        "To detect improper or fraudulent certificate issuance",
+        "To compress certificates",
+        "To improve bandwidth",
+        "To replace revocation"
+      ],
+      "correct_answer": "To detect improper or fraudulent certificate issuance",
+      "explanation": "The correct answer is 'To detect improper or fraudulent certificate issuance' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is certificate transparency?",
+      "options": [
+        "A system for publicly logging issued certificates",
+        "Certificate encryption",
+        "Private key storage",
+        "Hash generation"
+      ],
+      "correct_answer": "A system for publicly logging issued certificates",
+      "explanation": "The correct answer is 'A system for publicly logging issued certificates' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How can certificate transparency improve security?",
+      "options": [
+        "By detecting unauthorized certificate issuance",
+        "By increasing key sizes",
+        "By replacing CAs",
+        "By removing trust stores"
+      ],
+      "correct_answer": "By detecting unauthorized certificate issuance",
+      "explanation": "The correct answer is 'By detecting unauthorized certificate issuance' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What happens if a certificate is issued with incorrect subject information?",
+      "options": [
+        "Trust and authentication may be compromised",
+        "The certificate becomes stronger",
+        "The CA key changes",
+        "TLS is disabled"
+      ],
+      "correct_answer": "Trust and authentication may be compromised",
+      "explanation": "The correct answer is 'Trust and authentication may be compromised' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which attack can result from improperly validated certificate requests?",
+      "options": [
+        "Impersonation using fraudulent certificates",
+        "DDoS",
+        "Replay attack",
+        "Dictionary attack"
+      ],
+      "correct_answer": "Impersonation using fraudulent certificates",
+      "explanation": "The correct answer is 'Impersonation using fraudulent certificates' because it best explains the certificate issuance process and PKI workflows."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes the certificate issuance process?",
+      "options": [
+        "A controlled procedure that validates identities and binds them to public keys through signed certificates",
+        "A method of encrypting files",
+        "A hashing process",
+        "A network routing mechanism"
+      ],
+      "correct_answer": "A controlled procedure that validates identities and binds them to public keys through signed certificates",
+      "explanation": "The correct answer is 'A controlled procedure that validates identities and binds them to public keys through signed certificates' because it best explains the certificate issuance process and PKI workflows."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "Syslog",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Syslog primarily used for?",
+      "options": [
+        "Gaming",
+        "Centralized logging",
+        "Video streaming",
+        "File compression"
+      ],
+      "correct_answer": "Centralized logging",
+      "explanation": "The correct answer is 'Centralized logging'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which port is commonly used by Syslog over UDP?",
+      "options": [
+        "21",
+        "25",
+        "514",
+        "443"
+      ],
+      "correct_answer": "514",
+      "explanation": "The correct answer is '514'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Syslog helps administrators to?",
+      "options": [
+        "Monitor events",
+        "Increase CPU speed",
+        "Create databases",
+        "Write code"
+      ],
+      "correct_answer": "Monitor events",
+      "explanation": "The correct answer is 'Monitor events'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which device can send Syslog messages?",
+      "options": [
+        "Router",
+        "Firewall",
+        "Server",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Syslog messages are mainly used for?",
+      "options": [
+        "Logging events",
+        "Video playback",
+        "Printing",
+        "DNS resolution"
+      ],
+      "correct_answer": "Logging events",
+      "explanation": "The correct answer is 'Logging events'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which protocol is traditionally used by Syslog?",
+      "options": [
+        "UDP",
+        "SMTP",
+        "FTP",
+        "ARP"
+      ],
+      "correct_answer": "UDP",
+      "explanation": "The correct answer is 'UDP'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "A Syslog server collects logs from?",
+      "options": [
+        "One device only",
+        "Multiple devices",
+        "Only firewalls",
+        "Only routers"
+      ],
+      "correct_answer": "Multiple devices",
+      "explanation": "The correct answer is 'Multiple devices'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which of the following can generate Syslog events?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Network Devices",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the benefit of centralized logging?",
+      "options": [
+        "Easier monitoring",
+        "More bandwidth",
+        "Faster CPU",
+        "Larger RAM"
+      ],
+      "correct_answer": "Easier monitoring",
+      "explanation": "The correct answer is 'Easier monitoring'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Syslog is commonly used in?",
+      "options": [
+        "Network management",
+        "Graphic design",
+        "Video editing",
+        "Gaming"
+      ],
+      "correct_answer": "Network management",
+      "explanation": "The correct answer is 'Network management'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which RFC standardized Syslog protocol?",
+      "options": [
+        "RFC 5424",
+        "RFC 1918",
+        "RFC 1035",
+        "RFC 2616"
+      ],
+      "correct_answer": "RFC 5424",
+      "explanation": "The correct answer is 'RFC 5424'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Syslog facility?",
+      "options": [
+        "Type of log source",
+        "Encryption key",
+        "Firewall rule",
+        "VPN tunnel"
+      ],
+      "correct_answer": "Type of log source",
+      "explanation": "The correct answer is 'Type of log source'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which facility is commonly used for authentication logs?",
+      "options": [
+        "auth",
+        "ftp",
+        "news",
+        "uucp"
+      ],
+      "correct_answer": "auth",
+      "explanation": "The correct answer is 'auth'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What does Syslog severity indicate?",
+      "options": [
+        "Importance of event",
+        "Log size",
+        "IP address",
+        "Port number"
+      ],
+      "correct_answer": "Importance of event",
+      "explanation": "The correct answer is 'Importance of event'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which severity level is the most critical?",
+      "options": [
+        "Debug",
+        "Info",
+        "Emergency",
+        "Notice"
+      ],
+      "correct_answer": "Emergency",
+      "explanation": "The correct answer is 'Emergency'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which severity level is used for troubleshooting details?",
+      "options": [
+        "Debug",
+        "Alert",
+        "Critical",
+        "Error"
+      ],
+      "correct_answer": "Debug",
+      "explanation": "The correct answer is 'Debug'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is log rotation?",
+      "options": [
+        "Deleting cables",
+        "Managing old log files",
+        "Encrypting traffic",
+        "Changing IPs"
+      ],
+      "correct_answer": "Managing old log files",
+      "explanation": "The correct answer is 'Managing old log files'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why is timestamp important in Syslog?",
+      "options": [
+        "Event sequencing",
+        "Encryption",
+        "Compression",
+        "Routing"
+      ],
+      "correct_answer": "Event sequencing",
+      "explanation": "The correct answer is 'Event sequencing'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which transport improves reliability for Syslog?",
+      "options": [
+        "TCP",
+        "ICMP",
+        "ARP",
+        "RARP"
+      ],
+      "correct_answer": "TCP",
+      "explanation": "The correct answer is 'TCP'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a Syslog collector?",
+      "options": [
+        "Device receiving logs",
+        "Firewall",
+        "VPN",
+        "Proxy"
+      ],
+      "correct_answer": "Device receiving logs",
+      "explanation": "The correct answer is 'Device receiving logs'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is Syslog important in incident response?",
+      "options": [
+        "Provides evidence",
+        "Improves graphics",
+        "Increases RAM",
+        "Reduces latency"
+      ],
+      "correct_answer": "Provides evidence",
+      "explanation": "The correct answer is 'Provides evidence'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which attack may attempt to erase Syslog records?",
+      "options": [
+        "Log tampering",
+        "ARP request",
+        "DHCP renewal",
+        "NAT"
+      ],
+      "correct_answer": "Log tampering",
+      "explanation": "The correct answer is 'Log tampering'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is the main advantage of sending logs to a remote Syslog server?",
+      "options": [
+        "Prevent local log loss",
+        "Increase bandwidth",
+        "Reduce storage",
+        "Improve routing"
+      ],
+      "correct_answer": "Prevent local log loss",
+      "explanation": "The correct answer is 'Prevent local log loss'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which Syslog component identifies the source category?",
+      "options": [
+        "Facility",
+        "Payload",
+        "Checksum",
+        "Frame"
+      ],
+      "correct_answer": "Facility",
+      "explanation": "The correct answer is 'Facility'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What challenge occurs when logs from multiple time zones are collected?",
+      "options": [
+        "Time synchronization",
+        "DNS failure",
+        "ARP spoofing",
+        "Load balancing"
+      ],
+      "correct_answer": "Time synchronization",
+      "explanation": "The correct answer is 'Time synchronization'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which protocol can secure Syslog transmission?",
+      "options": [
+        "TLS",
+        "Telnet",
+        "FTP",
+        "TFTP"
+      ],
+      "correct_answer": "TLS",
+      "explanation": "The correct answer is 'TLS'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is log correlation?",
+      "options": [
+        "Connecting related events",
+        "Compressing logs",
+        "Deleting logs",
+        "Encrypting logs"
+      ],
+      "correct_answer": "Connecting related events",
+      "explanation": "The correct answer is 'Connecting related events'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which security platform heavily relies on Syslog data?",
+      "options": [
+        "SIEM",
+        "DHCP",
+        "NAT",
+        "Proxy"
+      ],
+      "correct_answer": "SIEM",
+      "explanation": "The correct answer is 'SIEM'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What could indicate a brute-force attack in Syslog?",
+      "options": [
+        "Repeated failed logins",
+        "Successful backup",
+        "Printer activity",
+        "Disk cleanup"
+      ],
+      "correct_answer": "Repeated failed logins",
+      "explanation": "The correct answer is 'Repeated failed logins'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which practice improves Syslog integrity?",
+      "options": [
+        "Restricted access and backups",
+        "Open access",
+        "Deleting old logs immediately",
+        "Disabling timestamps"
+      ],
+      "correct_answer": "Restricted access and backups",
+      "explanation": "The correct answer is 'Restricted access and backups'. This concept belongs to Syslog and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "RSA (Rivest-Shamir-Adleman)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does RSA stand for?",
+      "options": [
+        "Rivest, Shamir, Adleman",
+        "Rivest, Security, Algorithm",
+        "Random Security Access",
+        "Remote Secure Authentication"
+      ],
+      "correct_answer": "Rivest, Shamir, Adleman",
+      "explanation": "The correct answer is 'Rivest, Shamir, Adleman' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "RSA is a type of?",
+      "options": [
+        "Asymmetric encryption algorithm",
+        "Symmetric encryption algorithm",
+        "Hash function",
+        "Stream cipher"
+      ],
+      "correct_answer": "Asymmetric encryption algorithm",
+      "explanation": "The correct answer is 'Asymmetric encryption algorithm' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "RSA uses which key pair?",
+      "options": [
+        "Public and Private keys",
+        "Shared secret keys",
+        "Session and master keys",
+        "Hash and salt"
+      ],
+      "correct_answer": "Public and Private keys",
+      "explanation": "The correct answer is 'Public and Private keys' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which key can be shared openly in RSA?",
+      "options": [
+        "Public key",
+        "Private key",
+        "Session key",
+        "Root key"
+      ],
+      "correct_answer": "Public key",
+      "explanation": "The correct answer is 'Public key' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which key must remain secret in RSA?",
+      "options": [
+        "Private key",
+        "Public key",
+        "Certificate",
+        "Hash"
+      ],
+      "correct_answer": "Private key",
+      "explanation": "The correct answer is 'Private key' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "RSA is commonly used for?",
+      "options": [
+        "Encryption and digital signatures",
+        "Compression",
+        "Routing",
+        "Caching"
+      ],
+      "correct_answer": "Encryption and digital signatures",
+      "explanation": "The correct answer is 'Encryption and digital signatures' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "RSA belongs to which cryptographic category?",
+      "options": [
+        "Public-key cryptography",
+        "Secret-key cryptography",
+        "Hashing",
+        "Steganography"
+      ],
+      "correct_answer": "Public-key cryptography",
+      "explanation": "The correct answer is 'Public-key cryptography' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What mathematical problem is RSA based on?",
+      "options": [
+        "Integer factorization",
+        "Discrete logarithm",
+        "Hash collision",
+        "Sorting"
+      ],
+      "correct_answer": "Integer factorization",
+      "explanation": "The correct answer is 'Integer factorization' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Who are the creators of RSA?",
+      "options": [
+        "Rivest, Shamir, and Adleman",
+        "Diffie and Hellman",
+        "Whitfield and Rivest",
+        "NIST Team"
+      ],
+      "correct_answer": "Rivest, Shamir, and Adleman",
+      "explanation": "The correct answer is 'Rivest, Shamir, and Adleman' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "RSA primarily provides?",
+      "options": [
+        "Confidentiality and authentication",
+        "Compression",
+        "Load balancing",
+        "Redundancy"
+      ],
+      "correct_answer": "Confidentiality and authentication",
+      "explanation": "The correct answer is 'Confidentiality and authentication' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "In RSA, data encrypted with the public key can be decrypted using the?",
+      "options": [
+        "Private key",
+        "Public key",
+        "Hash key",
+        "Session key"
+      ],
+      "correct_answer": "Private key",
+      "explanation": "The correct answer is 'Private key' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Digital signatures in RSA are typically created using the?",
+      "options": [
+        "Private key",
+        "Public key",
+        "Session key",
+        "Certificate"
+      ],
+      "correct_answer": "Private key",
+      "explanation": "The correct answer is 'Private key' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the purpose of the RSA public key?",
+      "options": [
+        "Encryption and signature verification",
+        "Decryption only",
+        "Hash generation",
+        "Password storage"
+      ],
+      "correct_answer": "Encryption and signature verification",
+      "explanation": "The correct answer is 'Encryption and signature verification' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which key size is considered stronger for RSA?",
+      "options": [
+        "4096-bit",
+        "512-bit",
+        "768-bit",
+        "1024-bit"
+      ],
+      "correct_answer": "4096-bit",
+      "explanation": "The correct answer is '4096-bit' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are larger RSA key sizes used today?",
+      "options": [
+        "To improve resistance against attacks",
+        "To reduce storage",
+        "To speed up encryption",
+        "To avoid certificates"
+      ],
+      "correct_answer": "To improve resistance against attacks",
+      "explanation": "The correct answer is 'To improve resistance against attacks' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "RSA key generation requires selecting two large?",
+      "options": [
+        "Prime numbers",
+        "Hashes",
+        "Certificates",
+        "Passwords"
+      ],
+      "correct_answer": "Prime numbers",
+      "explanation": "The correct answer is 'Prime numbers' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a major advantage of RSA?",
+      "options": [
+        "Secure key exchange over insecure channels",
+        "Very fast bulk encryption",
+        "No keys required",
+        "No mathematics involved"
+      ],
+      "correct_answer": "Secure key exchange over insecure channels",
+      "explanation": "The correct answer is 'Secure key exchange over insecure channels' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "RSA is generally slower than?",
+      "options": [
+        "AES",
+        "ECC",
+        "SHA",
+        "HMAC"
+      ],
+      "correct_answer": "AES",
+      "explanation": "The correct answer is 'AES' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is RSA often combined with AES?",
+      "options": [
+        "RSA exchanges keys while AES encrypts bulk data",
+        "AES creates certificates",
+        "RSA compresses files",
+        "AES verifies signatures"
+      ],
+      "correct_answer": "RSA exchanges keys while AES encrypts bulk data",
+      "explanation": "The correct answer is 'RSA exchanges keys while AES encrypts bulk data' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What role does RSA play in TLS?",
+      "options": [
+        "Secure key exchange and authentication",
+        "DNS resolution",
+        "Packet routing",
+        "Compression"
+      ],
+      "correct_answer": "Secure key exchange and authentication",
+      "explanation": "The correct answer is 'Secure key exchange and authentication' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the primary security assumption behind RSA?",
+      "options": [
+        "Factoring large composite numbers is computationally difficult",
+        "Hash collisions are impossible",
+        "Public keys are secret",
+        "AES is unbreakable"
+      ],
+      "correct_answer": "Factoring large composite numbers is computationally difficult",
+      "explanation": "The correct answer is 'Factoring large composite numbers is computationally difficult' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is RSA not typically used to encrypt large files directly?",
+      "options": [
+        "It is computationally expensive",
+        "It cannot encrypt data",
+        "It uses no keys",
+        "It requires hashing"
+      ],
+      "correct_answer": "It is computationally expensive",
+      "explanation": "The correct answer is 'It is computationally expensive' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "If an RSA private key is compromised, what is the most serious consequence?",
+      "options": [
+        "Attackers can decrypt data and forge signatures",
+        "AES becomes insecure",
+        "Certificates disappear",
+        "Hashes are modified"
+      ],
+      "correct_answer": "Attackers can decrypt data and forge signatures",
+      "explanation": "The correct answer is 'Attackers can decrypt data and forge signatures' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which attack becomes more feasible with weak RSA key sizes?",
+      "options": [
+        "Factorization attacks",
+        "Replay attacks",
+        "ARP spoofing",
+        "Smishing"
+      ],
+      "correct_answer": "Factorization attacks",
+      "explanation": "The correct answer is 'Factorization attacks' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is non-repudiation in the context of RSA?",
+      "options": [
+        "A sender cannot deny creating a valid digital signature",
+        "Data cannot be encrypted",
+        "Keys cannot be revoked",
+        "Hashes cannot be generated"
+      ],
+      "correct_answer": "A sender cannot deny creating a valid digital signature",
+      "explanation": "The correct answer is 'A sender cannot deny creating a valid digital signature' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is padding important in RSA implementations?",
+      "options": [
+        "To prevent several practical cryptographic attacks",
+        "To increase file size",
+        "To replace keys",
+        "To create certificates"
+      ],
+      "correct_answer": "To prevent several practical cryptographic attacks",
+      "explanation": "The correct answer is 'To prevent several practical cryptographic attacks' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which statement best describes hybrid cryptography?",
+      "options": [
+        "RSA secures key exchange while symmetric algorithms protect data",
+        "RSA replaces AES",
+        "Only public keys are used",
+        "Only private keys are used"
+      ],
+      "correct_answer": "RSA secures key exchange while symmetric algorithms protect data",
+      "explanation": "The correct answer is 'RSA secures key exchange while symmetric algorithms protect data' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is the relationship between RSA and digital certificates?",
+      "options": [
+        "Certificates often contain RSA public keys",
+        "RSA replaces certificates",
+        "Certificates store private keys publicly",
+        "They are unrelated"
+      ],
+      "correct_answer": "Certificates often contain RSA public keys",
+      "explanation": "The correct answer is 'Certificates often contain RSA public keys' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Compared with RSA, ECC can provide similar security with?",
+      "options": [
+        "Smaller key sizes",
+        "Larger ciphertexts",
+        "No keys",
+        "No certificates"
+      ],
+      "correct_answer": "Smaller key sizes",
+      "explanation": "The correct answer is 'Smaller key sizes' because it best explains RSA cryptography concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes RSA today?",
+      "options": [
+        "Widely used public-key algorithm for encryption, signatures, and PKI",
+        "Obsolete symmetric cipher",
+        "Hashing standard",
+        "Replacement for AES"
+      ],
+      "correct_answer": "Widely used public-key algorithm for encryption, signatures, and PKI",
+      "explanation": "The correct answer is 'Widely used public-key algorithm for encryption, signatures, and PKI' because it best explains RSA cryptography concepts."
+    }
+  ]
+}

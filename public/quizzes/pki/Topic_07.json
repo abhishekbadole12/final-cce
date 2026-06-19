@@ -1,0 +1,396 @@
+{
+  "topic": "DES (Data Encryption Standard)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does DES stand for?",
+      "options": [
+        "Data Encryption Standard",
+        "Digital Encryption Service",
+        "Data Encoding Standard",
+        "Digital Encoding Service"
+      ],
+      "correct_answer": "Data Encryption Standard",
+      "explanation": "The correct answer is 'Data Encryption Standard' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "DES is a type of?",
+      "options": [
+        "Symmetric key algorithm",
+        "Asymmetric key algorithm",
+        "Hash function",
+        "Digital signature"
+      ],
+      "correct_answer": "Symmetric key algorithm",
+      "explanation": "The correct answer is 'Symmetric key algorithm' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the block size of DES?",
+      "options": [
+        "64 bits",
+        "56 bits",
+        "128 bits",
+        "32 bits"
+      ],
+      "correct_answer": "64 bits",
+      "explanation": "The correct answer is '64 bits' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the effective key size of DES?",
+      "options": [
+        "56 bits",
+        "64 bits",
+        "128 bits",
+        "48 bits"
+      ],
+      "correct_answer": "56 bits",
+      "explanation": "The correct answer is '56 bits' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Who developed DES?",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "Google",
+        "Oracle"
+      ],
+      "correct_answer": "IBM",
+      "explanation": "The correct answer is 'IBM' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "DES became a federal standard in?",
+      "options": [
+        "1977",
+        "1985",
+        "1995",
+        "2005"
+      ],
+      "correct_answer": "1977",
+      "explanation": "The correct answer is '1977' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "DES encrypts data in fixed-size?",
+      "options": [
+        "Blocks",
+        "Streams",
+        "Packets",
+        "Frames"
+      ],
+      "correct_answer": "Blocks",
+      "explanation": "The correct answer is 'Blocks' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "DES uses how many rounds?",
+      "options": [
+        "16",
+        "8",
+        "32",
+        "64"
+      ],
+      "correct_answer": "16",
+      "explanation": "The correct answer is '16' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "DES is based on which structure?",
+      "options": [
+        "Feistel Network",
+        "Merkle Tree",
+        "RSA Structure",
+        "Diffie-Hellman Model"
+      ],
+      "correct_answer": "Feistel Network",
+      "explanation": "The correct answer is 'Feistel Network' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which security service does DES primarily provide?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Redundancy",
+        "Compression"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why is DES considered insecure today?",
+      "options": [
+        "Short key length",
+        "Large block size",
+        "Too many rounds",
+        "Uses public keys"
+      ],
+      "correct_answer": "Short key length",
+      "explanation": "The correct answer is 'Short key length' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "A brute-force attack on DES targets?",
+      "options": [
+        "The encryption key",
+        "The block size",
+        "The IV only",
+        "The ciphertext format"
+      ],
+      "correct_answer": "The encryption key",
+      "explanation": "The correct answer is 'The encryption key' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the purpose of DES rounds?",
+      "options": [
+        "Increase security through repeated transformations",
+        "Reduce file size",
+        "Generate certificates",
+        "Create hashes"
+      ],
+      "correct_answer": "Increase security through repeated transformations",
+      "explanation": "The correct answer is 'Increase security through repeated transformations' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which operation is NOT part of DES processing?",
+      "options": [
+        "Certificate issuance",
+        "Permutation",
+        "Substitution",
+        "Key mixing"
+      ],
+      "correct_answer": "Certificate issuance",
+      "explanation": "The correct answer is 'Certificate issuance' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "DES uses what type of substitution technique?",
+      "options": [
+        "S-Boxes",
+        "Hash tables",
+        "Certificates",
+        "Tokens"
+      ],
+      "correct_answer": "S-Boxes",
+      "explanation": "The correct answer is 'S-Boxes' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the primary role of S-Boxes in DES?",
+      "options": [
+        "Provide confusion",
+        "Provide routing",
+        "Generate keys",
+        "Create IVs"
+      ],
+      "correct_answer": "Provide confusion",
+      "explanation": "The correct answer is 'Provide confusion' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What provides diffusion in DES?",
+      "options": [
+        "Permutations",
+        "Certificates",
+        "Passwords",
+        "Hashes"
+      ],
+      "correct_answer": "Permutations",
+      "explanation": "The correct answer is 'Permutations' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is Triple DES (3DES)?",
+      "options": [
+        "Applying DES three times",
+        "DES with three public keys",
+        "DES with three IVs",
+        "DES without keys"
+      ],
+      "correct_answer": "Applying DES three times",
+      "explanation": "The correct answer is 'Applying DES three times' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why was 3DES introduced?",
+      "options": [
+        "To improve DES security",
+        "To reduce encryption time",
+        "To eliminate keys",
+        "To replace AES"
+      ],
+      "correct_answer": "To improve DES security",
+      "explanation": "The correct answer is 'To improve DES security' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which attack became practical against DES due to advances in computing power?",
+      "options": [
+        "Brute-force attack",
+        "Replay attack",
+        "Phishing",
+        "Spoofing"
+      ],
+      "correct_answer": "Brute-force attack",
+      "explanation": "The correct answer is 'Brute-force attack' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "The DES key is often described as 64 bits. Why is the effective key length 56 bits?",
+      "options": [
+        "8 bits are used for parity",
+        "8 bits are encrypted",
+        "8 bits are IVs",
+        "8 bits are discarded after encryption"
+      ],
+      "correct_answer": "8 bits are used for parity",
+      "explanation": "The correct answer is '8 bits are used for parity' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the primary weakness of DES from a modern security perspective?",
+      "options": [
+        "Insufficient key length against exhaustive search",
+        "Weak confidentiality model",
+        "No decryption support",
+        "No block processing"
+      ],
+      "correct_answer": "Insufficient key length against exhaustive search",
+      "explanation": "The correct answer is 'Insufficient key length against exhaustive search' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does 3DES improve resistance to brute-force attacks?",
+      "options": [
+        "By effectively increasing key strength",
+        "By reducing rounds",
+        "By removing permutations",
+        "By using certificates"
+      ],
+      "correct_answer": "By effectively increasing key strength",
+      "explanation": "The correct answer is 'By effectively increasing key strength' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which principle is demonstrated by DES's use of substitutions and permutations?",
+      "options": [
+        "Confusion and diffusion",
+        "Authentication and authorization",
+        "Compression and caching",
+        "Hashing and signing"
+      ],
+      "correct_answer": "Confusion and diffusion",
+      "explanation": "The correct answer is 'Confusion and diffusion' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the major drawback of 3DES compared to AES?",
+      "options": [
+        "Slower performance",
+        "Smaller keys",
+        "No confidentiality",
+        "No decryption capability"
+      ],
+      "correct_answer": "Slower performance",
+      "explanation": "The correct answer is 'Slower performance' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "DES was eventually replaced largely by which algorithm?",
+      "options": [
+        "AES",
+        "MD5",
+        "SHA-1",
+        "RC2"
+      ],
+      "correct_answer": "AES",
+      "explanation": "The correct answer is 'AES' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why is DES unsuitable for modern high-security applications?",
+      "options": [
+        "Modern hardware can brute-force its keyspace",
+        "It cannot encrypt files",
+        "It lacks ciphertext",
+        "It requires certificates"
+      ],
+      "correct_answer": "Modern hardware can brute-force its keyspace",
+      "explanation": "The correct answer is 'Modern hardware can brute-force its keyspace' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "In a Feistel network such as DES, why is decryption possible using the same structure?",
+      "options": [
+        "Rounds can be reversed using subkeys in reverse order",
+        "Ciphertext stores plaintext",
+        "No key is required",
+        "Hashes are used"
+      ],
+      "correct_answer": "Rounds can be reversed using subkeys in reverse order",
+      "explanation": "The correct answer is 'Rounds can be reversed using subkeys in reverse order' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which statement about DES and cryptanalysis is most accurate?",
+      "options": [
+        "Key length is a greater concern today than the algorithm design itself",
+        "DES has no known weaknesses",
+        "DES uses public keys",
+        "DES is stronger than AES"
+      ],
+      "correct_answer": "Key length is a greater concern today than the algorithm design itself",
+      "explanation": "The correct answer is 'Key length is a greater concern today than the algorithm design itself' because it best reflects DES concepts and implementation details."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What is the historical significance of DES?",
+      "options": [
+        "It became one of the first widely adopted encryption standards",
+        "It introduced public-key cryptography",
+        "It replaced RSA",
+        "It created digital signatures"
+      ],
+      "correct_answer": "It became one of the first widely adopted encryption standards",
+      "explanation": "The correct answer is 'It became one of the first widely adopted encryption standards' because it best reflects DES concepts and implementation details."
+    }
+  ]
+}

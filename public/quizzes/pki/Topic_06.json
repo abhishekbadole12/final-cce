@@ -1,0 +1,396 @@
+{
+  "topic": "Symmetric Key Cryptography",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is symmetric key cryptography?",
+      "options": [
+        "Uses the same key for encryption and decryption",
+        "Uses public and private keys",
+        "Uses no keys",
+        "Uses certificates only"
+      ],
+      "correct_answer": "Uses the same key for encryption and decryption",
+      "explanation": "The correct answer is 'Uses the same key for encryption and decryption' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which key is used in symmetric encryption?",
+      "options": [
+        "Shared secret key",
+        "Public key",
+        "Private key",
+        "Session certificate"
+      ],
+      "correct_answer": "Shared secret key",
+      "explanation": "The correct answer is 'Shared secret key' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which type of encryption is generally faster?",
+      "options": [
+        "Symmetric encryption",
+        "Asymmetric encryption",
+        "Hashing",
+        "Digital signatures"
+      ],
+      "correct_answer": "Symmetric encryption",
+      "explanation": "The correct answer is 'Symmetric encryption' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "AES is an example of?",
+      "options": [
+        "Symmetric algorithm",
+        "Asymmetric algorithm",
+        "Hash function",
+        "Protocol"
+      ],
+      "correct_answer": "Symmetric algorithm",
+      "explanation": "The correct answer is 'Symmetric algorithm' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "DES stands for?",
+      "options": [
+        "Data Encryption Standard",
+        "Digital Encryption Service",
+        "Data Encoding Standard",
+        "Digital Encoding Service"
+      ],
+      "correct_answer": "Data Encryption Standard",
+      "explanation": "The correct answer is 'Data Encryption Standard' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is the primary advantage of symmetric encryption?",
+      "options": [
+        "High speed",
+        "No key required",
+        "Public verification",
+        "Non-repudiation"
+      ],
+      "correct_answer": "High speed",
+      "explanation": "The correct answer is 'High speed' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which cipher encrypts data one bit or byte at a time?",
+      "options": [
+        "Stream cipher",
+        "Block cipher",
+        "Hash cipher",
+        "Hybrid cipher"
+      ],
+      "correct_answer": "Stream cipher",
+      "explanation": "The correct answer is 'Stream cipher' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which cipher encrypts fixed-size blocks of data?",
+      "options": [
+        "Block cipher",
+        "Stream cipher",
+        "Substitution only",
+        "Hash function"
+      ],
+      "correct_answer": "Block cipher",
+      "explanation": "The correct answer is 'Block cipher' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "RC4 is an example of?",
+      "options": [
+        "Stream cipher",
+        "Block cipher",
+        "Hash function",
+        "Digital signature"
+      ],
+      "correct_answer": "Stream cipher",
+      "explanation": "The correct answer is 'Stream cipher' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Symmetric encryption mainly provides?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Redundancy",
+        "Scalability"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the main challenge in symmetric cryptography?",
+      "options": [
+        "Key distribution",
+        "Encryption speed",
+        "File size",
+        "Hash generation"
+      ],
+      "correct_answer": "Key distribution",
+      "explanation": "The correct answer is 'Key distribution' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "A session key is typically used for?",
+      "options": [
+        "One communication session",
+        "Certificate issuance",
+        "Password storage",
+        "DNS resolution"
+      ],
+      "correct_answer": "One communication session",
+      "explanation": "The correct answer is 'One communication session' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which algorithm replaced DES in many applications?",
+      "options": [
+        "AES",
+        "MD5",
+        "SHA-1",
+        "RSA"
+      ],
+      "correct_answer": "AES",
+      "explanation": "The correct answer is 'AES' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "DES uses an effective key size of?",
+      "options": [
+        "56 bits",
+        "128 bits",
+        "192 bits",
+        "256 bits"
+      ],
+      "correct_answer": "56 bits",
+      "explanation": "The correct answer is '56 bits' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is a major weakness of DES today?",
+      "options": [
+        "Short key length",
+        "Large key size",
+        "Slow networking",
+        "No decryption support"
+      ],
+      "correct_answer": "Short key length",
+      "explanation": "The correct answer is 'Short key length' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Triple DES improves security by?",
+      "options": [
+        "Applying DES three times",
+        "Using three public keys",
+        "Adding certificates",
+        "Using hashing"
+      ],
+      "correct_answer": "Applying DES three times",
+      "explanation": "The correct answer is 'Applying DES three times' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which mode allows identical plaintext blocks to produce identical ciphertext blocks?",
+      "options": [
+        "ECB",
+        "CBC",
+        "CTR",
+        "GCM"
+      ],
+      "correct_answer": "ECB",
+      "explanation": "The correct answer is 'ECB' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why is ECB generally discouraged?",
+      "options": [
+        "Patterns may be visible in ciphertext",
+        "It is too secure",
+        "It requires certificates",
+        "It cannot decrypt data"
+      ],
+      "correct_answer": "Patterns may be visible in ciphertext",
+      "explanation": "The correct answer is 'Patterns may be visible in ciphertext' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "CBC mode improves security by?",
+      "options": [
+        "Using chaining between blocks",
+        "Removing keys",
+        "Using public keys",
+        "Disabling IVs"
+      ],
+      "correct_answer": "Using chaining between blocks",
+      "explanation": "The correct answer is 'Using chaining between blocks' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is an Initialization Vector (IV)?",
+      "options": [
+        "Random value used with encryption modes",
+        "Private key",
+        "Certificate field",
+        "Hash digest"
+      ],
+      "correct_answer": "Random value used with encryption modes",
+      "explanation": "The correct answer is 'Random value used with encryption modes' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is symmetric encryption often combined with asymmetric encryption?",
+      "options": [
+        "To solve secure key distribution problems",
+        "To replace confidentiality",
+        "To remove keys",
+        "To disable authentication"
+      ],
+      "correct_answer": "To solve secure key distribution problems",
+      "explanation": "The correct answer is 'To solve secure key distribution problems' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which attack becomes easier when weak keys are used?",
+      "options": [
+        "Brute-force attack",
+        "Replay attack",
+        "Phishing",
+        "Shoulder surfing"
+      ],
+      "correct_answer": "Brute-force attack",
+      "explanation": "The correct answer is 'Brute-force attack' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What happens if the same key is shared with too many users?",
+      "options": [
+        "Key compromise impact increases",
+        "Security improves",
+        "Encryption becomes asymmetric",
+        "Certificates are unnecessary"
+      ],
+      "correct_answer": "Key compromise impact increases",
+      "explanation": "The correct answer is 'Key compromise impact increases' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which statement best describes a stream cipher?",
+      "options": [
+        "Encrypts data as a continuous stream",
+        "Encrypts only files",
+        "Uses certificates",
+        "Generates hashes"
+      ],
+      "correct_answer": "Encrypts data as a continuous stream",
+      "explanation": "The correct answer is 'Encrypts data as a continuous stream' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the purpose of key rotation?",
+      "options": [
+        "Reducing exposure from long-term key compromise",
+        "Improving DNS",
+        "Reducing storage",
+        "Creating certificates"
+      ],
+      "correct_answer": "Reducing exposure from long-term key compromise",
+      "explanation": "The correct answer is 'Reducing exposure from long-term key compromise' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "A symmetric algorithm with a larger keyspace generally provides?",
+      "options": [
+        "Greater resistance to brute-force attacks",
+        "Less confidentiality",
+        "Faster key guessing",
+        "No security improvement"
+      ],
+      "correct_answer": "Greater resistance to brute-force attacks",
+      "explanation": "The correct answer is 'Greater resistance to brute-force attacks' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which mode provides both encryption and integrity protection?",
+      "options": [
+        "GCM",
+        "ECB",
+        "CBC",
+        "CFB"
+      ],
+      "correct_answer": "GCM",
+      "explanation": "The correct answer is 'GCM' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are random IVs important?",
+      "options": [
+        "They prevent predictable ciphertext patterns",
+        "They replace keys",
+        "They increase storage",
+        "They act as certificates"
+      ],
+      "correct_answer": "They prevent predictable ciphertext patterns",
+      "explanation": "The correct answer is 'They prevent predictable ciphertext patterns' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "If an attacker obtains the shared secret key, what can happen?",
+      "options": [
+        "Encrypted data can be decrypted",
+        "Hashes are deleted",
+        "Certificates are revoked automatically",
+        "Availability increases"
+      ],
+      "correct_answer": "Encrypted data can be decrypted",
+      "explanation": "The correct answer is 'Encrypted data can be decrypted' because it best explains symmetric key cryptography concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes symmetric cryptography in modern systems?",
+      "options": [
+        "Fast for bulk data encryption but requires secure key exchange",
+        "Replaces asymmetric cryptography completely",
+        "Does not require keys",
+        "Provides non-repudiation by itself"
+      ],
+      "correct_answer": "Fast for bulk data encryption but requires secure key exchange",
+      "explanation": "The correct answer is 'Fast for bulk data encryption but requires secure key exchange' because it best explains symmetric key cryptography concepts."
+    }
+  ]
+}

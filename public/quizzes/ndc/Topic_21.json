@@ -1,0 +1,396 @@
+{
+  "topic": "Snort (Network Intrusion Detection System)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Snort?",
+      "options": [
+        "An open-source Network Intrusion Detection System",
+        "A firewall",
+        "A VPN",
+        "A load balancer"
+      ],
+      "correct_answer": "An open-source Network Intrusion Detection System",
+      "explanation": "The correct answer is 'An open-source Network Intrusion Detection System'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who developed Snort?",
+      "options": [
+        "Martin Roesch",
+        "Linus Torvalds",
+        "Richard Stallman",
+        "Dennis Ritchie"
+      ],
+      "correct_answer": "Martin Roesch",
+      "explanation": "The correct answer is 'Martin Roesch'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of Snort?",
+      "options": [
+        "Detect malicious network activity",
+        "Manage databases",
+        "Encrypt traffic",
+        "Provide VPN access"
+      ],
+      "correct_answer": "Detect malicious network activity",
+      "explanation": "The correct answer is 'Detect malicious network activity'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which type of IDS is Snort?",
+      "options": [
+        "NIDS",
+        "HIDS",
+        "IPS only",
+        "WAF"
+      ],
+      "correct_answer": "NIDS",
+      "explanation": "The correct answer is 'NIDS'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "In which mode can Snort simply display packets on screen?",
+      "options": [
+        "Sniffer Mode",
+        "NIDS Mode",
+        "Logger Mode",
+        "Proxy Mode"
+      ],
+      "correct_answer": "Sniffer Mode",
+      "explanation": "The correct answer is 'Sniffer Mode'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which Snort mode records packets to disk?",
+      "options": [
+        "Packet Logger Mode",
+        "Sniffer Mode",
+        "Inline Mode",
+        "Proxy Mode"
+      ],
+      "correct_answer": "Packet Logger Mode",
+      "explanation": "The correct answer is 'Packet Logger Mode'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which Snort mode analyzes traffic against rules?",
+      "options": [
+        "NIDS Mode",
+        "Logger Mode",
+        "Bridge Mode",
+        "NAT Mode"
+      ],
+      "correct_answer": "NIDS Mode",
+      "explanation": "The correct answer is 'NIDS Mode'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the main configuration file of Snort?",
+      "options": [
+        "snort.conf",
+        "iptables.conf",
+        "nginx.conf",
+        "syslog.conf"
+      ],
+      "correct_answer": "snort.conf",
+      "explanation": "The correct answer is 'snort.conf'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What does a Snort rule define?",
+      "options": [
+        "Traffic patterns to detect",
+        "Routing information",
+        "DNS records",
+        "User accounts"
+      ],
+      "correct_answer": "Traffic patterns to detect",
+      "explanation": "The correct answer is 'Traffic patterns to detect'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What action does the 'alert' rule keyword perform?",
+      "options": [
+        "Generates an alert",
+        "Drops traffic",
+        "Encrypts packets",
+        "Routes traffic"
+      ],
+      "correct_answer": "Generates an alert",
+      "explanation": "The correct answer is 'Generates an alert'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the structure of a Snort rule?",
+      "options": [
+        "Rule Header and Rule Options",
+        "Only Header",
+        "Only Options",
+        "Policy and ACL"
+      ],
+      "correct_answer": "Rule Header and Rule Options",
+      "explanation": "The correct answer is 'Rule Header and Rule Options'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which protocol can Snort inspect?",
+      "options": [
+        "TCP, UDP, and ICMP",
+        "Only TCP",
+        "Only UDP",
+        "Only HTTP"
+      ],
+      "correct_answer": "TCP, UDP, and ICMP",
+      "explanation": "The correct answer is 'TCP, UDP, and ICMP'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a Snort signature?",
+      "options": [
+        "Pattern used to detect attacks",
+        "Encryption key",
+        "Firewall rule",
+        "VPN tunnel"
+      ],
+      "correct_answer": "Pattern used to detect attacks",
+      "explanation": "The correct answer is 'Pattern used to detect attacks'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which field in a Snort rule specifies the source IP?",
+      "options": [
+        "Source Address",
+        "Destination Port",
+        "SID",
+        "MSG"
+      ],
+      "correct_answer": "Source Address",
+      "explanation": "The correct answer is 'Source Address'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What does SID stand for in Snort?",
+      "options": [
+        "Signature ID",
+        "Session ID",
+        "System Identifier",
+        "Source Identifier"
+      ],
+      "correct_answer": "Signature ID",
+      "explanation": "The correct answer is 'Signature ID'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why are Snort rules updated regularly?",
+      "options": [
+        "To detect new threats",
+        "To increase speed",
+        "To reduce storage",
+        "To improve routing"
+      ],
+      "correct_answer": "To detect new threats",
+      "explanation": "The correct answer is 'To detect new threats'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What type of attack can Snort detect?",
+      "options": [
+        "Port Scans",
+        "Hard Disk Failure",
+        "Power Outage",
+        "Printer Errors"
+      ],
+      "correct_answer": "Port Scans",
+      "explanation": "The correct answer is 'Port Scans'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which protocol is commonly monitored for web attacks?",
+      "options": [
+        "HTTP",
+        "ARP",
+        "NTP",
+        "DHCP"
+      ],
+      "correct_answer": "HTTP",
+      "explanation": "The correct answer is 'HTTP'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is the purpose of the msg option in a Snort rule?",
+      "options": [
+        "Provides alert description",
+        "Defines encryption",
+        "Stores logs",
+        "Routes packets"
+      ],
+      "correct_answer": "Provides alert description",
+      "explanation": "The correct answer is 'Provides alert description'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "How can Snort help incident response teams?",
+      "options": [
+        "Provides alerts and traffic evidence",
+        "Encrypts traffic",
+        "Repairs systems",
+        "Manages backups"
+      ],
+      "correct_answer": "Provides alerts and traffic evidence",
+      "explanation": "The correct answer is 'Provides alerts and traffic evidence'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is a major limitation of signature-based Snort detection?",
+      "options": [
+        "Cannot reliably detect unknown attacks",
+        "Blocks all attacks",
+        "Requires no tuning",
+        "Consumes no resources"
+      ],
+      "correct_answer": "Cannot reliably detect unknown attacks",
+      "explanation": "The correct answer is 'Cannot reliably detect unknown attacks'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why can poorly written Snort rules create false positives?",
+      "options": [
+        "Legitimate traffic may match signatures",
+        "Rules encrypt traffic",
+        "Rules disable logging",
+        "Rules block DNS"
+      ],
+      "correct_answer": "Legitimate traffic may match signatures",
+      "explanation": "The correct answer is 'Legitimate traffic may match signatures'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is inline mode in Snort?",
+      "options": [
+        "Allows Snort to actively block traffic",
+        "Displays packets only",
+        "Stores logs only",
+        "Routes traffic"
+      ],
+      "correct_answer": "Allows Snort to actively block traffic",
+      "explanation": "The correct answer is 'Allows Snort to actively block traffic'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which Snort rule action can be used to block malicious traffic in IPS mode?",
+      "options": [
+        "drop",
+        "alert",
+        "log",
+        "pass"
+      ],
+      "correct_answer": "drop",
+      "explanation": "The correct answer is 'drop'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is rule tuning important in Snort deployments?",
+      "options": [
+        "Improve detection accuracy and reduce false positives",
+        "Increase bandwidth",
+        "Improve graphics",
+        "Reduce encryption"
+      ],
+      "correct_answer": "Improve detection accuracy and reduce false positives",
+      "explanation": "The correct answer is 'Improve detection accuracy and reduce false positives'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How can Snort detect an ICMP flood?",
+      "options": [
+        "Matching excessive ICMP traffic patterns",
+        "Monitoring disk usage",
+        "Checking printer logs",
+        "Monitoring RAM"
+      ],
+      "correct_answer": "Matching excessive ICMP traffic patterns",
+      "explanation": "The correct answer is 'Matching excessive ICMP traffic patterns'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What role does Snort play in defense in depth?",
+      "options": [
+        "Provides network threat detection as an additional security layer",
+        "Replaces firewalls",
+        "Eliminates all attacks",
+        "Acts as a VPN"
+      ],
+      "correct_answer": "Provides network threat detection as an additional security layer",
+      "explanation": "The correct answer is 'Provides network threat detection as an additional security layer'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is packet capture useful in Snort investigations?",
+      "options": [
+        "Provides evidence of suspicious activity",
+        "Improves routing",
+        "Increases storage",
+        "Reduces latency"
+      ],
+      "correct_answer": "Provides evidence of suspicious activity",
+      "explanation": "The correct answer is 'Provides evidence of suspicious activity'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the benefit of integrating Snort with SIEM?",
+      "options": [
+        "Centralized alert correlation and analysis",
+        "Improved graphics",
+        "Reduced storage",
+        "DNS optimization"
+      ],
+      "correct_answer": "Centralized alert correlation and analysis",
+      "explanation": "The correct answer is 'Centralized alert correlation and analysis'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes Snort?",
+      "options": [
+        "An open-source NIDS/IPS that uses rules to detect and respond to suspicious network activity",
+        "A packet routing protocol",
+        "A VPN service",
+        "A load balancing solution"
+      ],
+      "correct_answer": "An open-source NIDS/IPS that uses rules to detect and respond to suspicious network activity",
+      "explanation": "The correct answer is 'An open-source NIDS/IPS that uses rules to detect and respond to suspicious network activity'. This concept is part of Snort (Network Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    }
+  ]
+}

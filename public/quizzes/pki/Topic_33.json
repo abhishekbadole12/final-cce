@@ -1,0 +1,396 @@
+{
+  "topic": "Authentication Protocols",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is an authentication protocol?",
+      "options": [
+        "A set of rules used to verify identity",
+        "An encryption algorithm",
+        "A hashing standard",
+        "A routing protocol"
+      ],
+      "correct_answer": "A set of rules used to verify identity",
+      "explanation": "The correct answer is 'A set of rules used to verify identity' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of authentication protocols?",
+      "options": [
+        "Verify users and systems",
+        "Compress data",
+        "Manage DNS",
+        "Increase bandwidth"
+      ],
+      "correct_answer": "Verify users and systems",
+      "explanation": "The correct answer is 'Verify users and systems' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which protocol is commonly used for centralized authentication in networks?",
+      "options": [
+        "Kerberos",
+        "ARP",
+        "ICMP",
+        "FTP"
+      ],
+      "correct_answer": "Kerberos",
+      "explanation": "The correct answer is 'Kerberos' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Authentication protocols help prevent?",
+      "options": [
+        "Unauthorized access",
+        "File compression",
+        "Network routing",
+        "Disk fragmentation"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "The correct answer is 'Unauthorized access' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is Kerberos based on?",
+      "options": [
+        "Tickets",
+        "Certificates only",
+        "Passwords only",
+        "Hashes only"
+      ],
+      "correct_answer": "Tickets",
+      "explanation": "The correct answer is 'Tickets' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which server issues tickets in Kerberos?",
+      "options": [
+        "Key Distribution Center (KDC)",
+        "DNS Server",
+        "Firewall",
+        "Router"
+      ],
+      "correct_answer": "Key Distribution Center (KDC)",
+      "explanation": "The correct answer is 'Key Distribution Center (KDC)' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does KDC stand for?",
+      "options": [
+        "Key Distribution Center",
+        "Key Delivery Channel",
+        "Knowledge Distribution Center",
+        "Key Domain Controller"
+      ],
+      "correct_answer": "Key Distribution Center",
+      "explanation": "The correct answer is 'Key Distribution Center' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which authentication protocol is commonly used in enterprise Windows environments?",
+      "options": [
+        "Kerberos",
+        "SMTP",
+        "FTP",
+        "ARP"
+      ],
+      "correct_answer": "Kerberos",
+      "explanation": "The correct answer is 'Kerberos' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Authentication protocols support which security service?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Why are authentication protocols important?",
+      "options": [
+        "They verify identities before granting access",
+        "They create certificates",
+        "They replace encryption",
+        "They manage storage"
+      ],
+      "correct_answer": "They verify identities before granting access",
+      "explanation": "The correct answer is 'They verify identities before granting access' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is mutual authentication?",
+      "options": [
+        "Both parties verify each other's identity",
+        "Only users authenticate",
+        "Only servers authenticate",
+        "No authentication occurs"
+      ],
+      "correct_answer": "Both parties verify each other's identity",
+      "explanation": "The correct answer is 'Both parties verify each other's identity' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Kerberos ticket?",
+      "options": [
+        "A credential proving authentication",
+        "A password",
+        "A certificate",
+        "A hash"
+      ],
+      "correct_answer": "A credential proving authentication",
+      "explanation": "The correct answer is 'A credential proving authentication' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why does Kerberos use tickets?",
+      "options": [
+        "To avoid repeatedly sending passwords",
+        "To encrypt files",
+        "To create certificates",
+        "To manage DNS"
+      ],
+      "correct_answer": "To avoid repeatedly sending passwords",
+      "explanation": "The correct answer is 'To avoid repeatedly sending passwords' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is LDAP often used for alongside authentication protocols?",
+      "options": [
+        "Directory services and user information",
+        "Video streaming",
+        "Routing",
+        "Disk management"
+      ],
+      "correct_answer": "Directory services and user information",
+      "explanation": "The correct answer is 'Directory services and user information' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which protocol is commonly used for remote authentication of network devices?",
+      "options": [
+        "RADIUS",
+        "ARP",
+        "SMTP",
+        "NTP"
+      ],
+      "correct_answer": "RADIUS",
+      "explanation": "The correct answer is 'RADIUS' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What does RADIUS stand for?",
+      "options": [
+        "Remote Authentication Dial-In User Service",
+        "Remote Access Digital Identity User Service",
+        "Rapid Authentication Directory User Service",
+        "Remote Authorization Directory User Service"
+      ],
+      "correct_answer": "Remote Authentication Dial-In User Service",
+      "explanation": "The correct answer is 'Remote Authentication Dial-In User Service' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which protocol is often considered an alternative to RADIUS?",
+      "options": [
+        "TACACS+",
+        "FTP",
+        "DHCP",
+        "DNS"
+      ],
+      "correct_answer": "TACACS+",
+      "explanation": "The correct answer is 'TACACS+' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a benefit of centralized authentication?",
+      "options": [
+        "Simplified identity management",
+        "Reduced encryption",
+        "More passwords",
+        "Higher bandwidth"
+      ],
+      "correct_answer": "Simplified identity management",
+      "explanation": "The correct answer is 'Simplified identity management' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is replay protection important in authentication protocols?",
+      "options": [
+        "To prevent reuse of captured authentication data",
+        "To compress packets",
+        "To generate hashes",
+        "To create certificates"
+      ],
+      "correct_answer": "To prevent reuse of captured authentication data",
+      "explanation": "The correct answer is 'To prevent reuse of captured authentication data' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a common feature of modern authentication protocols?",
+      "options": [
+        "Session management",
+        "Disk formatting",
+        "File compression",
+        "Routing updates"
+      ],
+      "correct_answer": "Session management",
+      "explanation": "The correct answer is 'Session management' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is Kerberos considered more secure than transmitting passwords repeatedly?",
+      "options": [
+        "It uses tickets and session keys instead of repeatedly exposing passwords",
+        "It removes authentication",
+        "It replaces encryption",
+        "It stores passwords publicly"
+      ],
+      "correct_answer": "It uses tickets and session keys instead of repeatedly exposing passwords",
+      "explanation": "The correct answer is 'It uses tickets and session keys instead of repeatedly exposing passwords' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What security issue can occur if authentication tickets are stolen?",
+      "options": [
+        "Attackers may impersonate users",
+        "DNS fails",
+        "Certificates expire",
+        "Hashes collide"
+      ],
+      "correct_answer": "Attackers may impersonate users",
+      "explanation": "The correct answer is 'Attackers may impersonate users' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does mutual authentication help security?",
+      "options": [
+        "It reduces the risk of impersonation attacks",
+        "It replaces authorization",
+        "It removes passwords",
+        "It eliminates encryption"
+      ],
+      "correct_answer": "It reduces the risk of impersonation attacks",
+      "explanation": "The correct answer is 'It reduces the risk of impersonation attacks' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why are timestamps often used in authentication protocols?",
+      "options": [
+        "To prevent replay attacks",
+        "To generate keys",
+        "To issue certificates",
+        "To compress messages"
+      ],
+      "correct_answer": "To prevent replay attacks",
+      "explanation": "The correct answer is 'To prevent replay attacks' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the role of RADIUS in enterprise networks?",
+      "options": [
+        "Centralized authentication, authorization, and accounting",
+        "Certificate issuance",
+        "DNS management",
+        "File storage"
+      ],
+      "correct_answer": "Centralized authentication, authorization, and accounting",
+      "explanation": "The correct answer is 'Centralized authentication, authorization, and accounting' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does TACACS+ differ from RADIUS?",
+      "options": [
+        "It separates authentication, authorization, and accounting functions more completely",
+        "It replaces Kerberos",
+        "It removes identities",
+        "It uses no encryption"
+      ],
+      "correct_answer": "It separates authentication, authorization, and accounting functions more completely",
+      "explanation": "The correct answer is 'It separates authentication, authorization, and accounting functions more completely' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why is session management important after authentication?",
+      "options": [
+        "It maintains secure access throughout a user's session",
+        "It creates certificates",
+        "It replaces passwords",
+        "It manages DNS"
+      ],
+      "correct_answer": "It maintains secure access throughout a user's session",
+      "explanation": "The correct answer is 'It maintains secure access throughout a user's session' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which attack specifically targets reused authentication messages?",
+      "options": [
+        "Replay attack",
+        "DDoS attack",
+        "ARP spoofing",
+        "Brute-force attack"
+      ],
+      "correct_answer": "Replay attack",
+      "explanation": "The correct answer is 'Replay attack' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the relationship between authentication and authorization?",
+      "options": [
+        "Authentication verifies identity; authorization determines permissions",
+        "They are identical",
+        "Authorization happens first",
+        "Authentication replaces authorization"
+      ],
+      "correct_answer": "Authentication verifies identity; authorization determines permissions",
+      "explanation": "The correct answer is 'Authentication verifies identity; authorization determines permissions' because it best explains authentication protocol concepts and deployment scenarios."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes authentication protocols today?",
+      "options": [
+        "Mechanisms that securely verify identities and manage access to systems and resources",
+        "Hashing algorithms",
+        "PKI standards",
+        "Routing protocols"
+      ],
+      "correct_answer": "Mechanisms that securely verify identities and manage access to systems and resources",
+      "explanation": "The correct answer is 'Mechanisms that securely verify identities and manage access to systems and resources' because it best explains authentication protocol concepts and deployment scenarios."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "MITRE ATT&CK Framework",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does ATT&CK stand for?",
+      "options": [
+        "Adversarial Tactics, Techniques, and Common Knowledge",
+        "Advanced Threat Tracking and Cyber Knowledge",
+        "Attack Techniques and Threat Control Kit",
+        "Advanced Tactics and Threat Countermeasures Knowledge"
+      ],
+      "correct_answer": "Adversarial Tactics, Techniques, and Common Knowledge",
+      "explanation": "The correct answer is 'Adversarial Tactics, Techniques, and Common Knowledge'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who maintains the ATT&CK Framework?",
+      "options": [
+        "MITRE",
+        "Cisco",
+        "Microsoft",
+        "Google"
+      ],
+      "correct_answer": "MITRE",
+      "explanation": "The correct answer is 'MITRE'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the MITRE ATT&CK Framework?",
+      "options": [
+        "Knowledge base of attacker behavior",
+        "Firewall technology",
+        "VPN protocol",
+        "Encryption standard"
+      ],
+      "correct_answer": "Knowledge base of attacker behavior",
+      "explanation": "The correct answer is 'Knowledge base of attacker behavior'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is a tactic in MITRE ATT&CK?",
+      "options": [
+        "An attacker's objective",
+        "A specific exploit",
+        "A firewall rule",
+        "A security patch"
+      ],
+      "correct_answer": "An attacker's objective",
+      "explanation": "The correct answer is 'An attacker's objective'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is a technique in MITRE ATT&CK?",
+      "options": [
+        "A method used to achieve a tactic",
+        "A malware type",
+        "A VPN tunnel",
+        "A firewall action"
+      ],
+      "correct_answer": "A method used to achieve a tactic",
+      "explanation": "The correct answer is 'A method used to achieve a tactic'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which tactic involves gaining entry into a target environment?",
+      "options": [
+        "Initial Access",
+        "Exfiltration",
+        "Impact",
+        "Discovery"
+      ],
+      "correct_answer": "Initial Access",
+      "explanation": "The correct answer is 'Initial Access'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which tactic focuses on running malicious code?",
+      "options": [
+        "Execution",
+        "Persistence",
+        "Collection",
+        "Reconnaissance"
+      ],
+      "correct_answer": "Execution",
+      "explanation": "The correct answer is 'Execution'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which tactic focuses on maintaining access?",
+      "options": [
+        "Persistence",
+        "Execution",
+        "Impact",
+        "Discovery"
+      ],
+      "correct_answer": "Persistence",
+      "explanation": "The correct answer is 'Persistence'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which tactic involves stealing data?",
+      "options": [
+        "Exfiltration",
+        "Execution",
+        "Persistence",
+        "Impact"
+      ],
+      "correct_answer": "Exfiltration",
+      "explanation": "The correct answer is 'Exfiltration'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which tactic focuses on causing damage?",
+      "options": [
+        "Impact",
+        "Collection",
+        "Credential Access",
+        "Discovery"
+      ],
+      "correct_answer": "Impact",
+      "explanation": "The correct answer is 'Impact'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is Privilege Escalation?",
+      "options": [
+        "Gaining higher-level permissions",
+        "Stealing data",
+        "Encrypting traffic",
+        "Scanning ports"
+      ],
+      "correct_answer": "Gaining higher-level permissions",
+      "explanation": "The correct answer is 'Gaining higher-level permissions'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is Credential Access?",
+      "options": [
+        "Obtaining account credentials",
+        "Creating accounts",
+        "Managing passwords",
+        "Blocking users"
+      ],
+      "correct_answer": "Obtaining account credentials",
+      "explanation": "The correct answer is 'Obtaining account credentials'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is Discovery in ATT&CK?",
+      "options": [
+        "Gathering information about systems and networks",
+        "Deleting logs",
+        "Encrypting files",
+        "Routing traffic"
+      ],
+      "correct_answer": "Gathering information about systems and networks",
+      "explanation": "The correct answer is 'Gathering information about systems and networks'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is Lateral Movement?",
+      "options": [
+        "Moving through a network after compromise",
+        "Blocking traffic",
+        "Creating VPNs",
+        "Managing DNS"
+      ],
+      "correct_answer": "Moving through a network after compromise",
+      "explanation": "The correct answer is 'Moving through a network after compromise'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is Defense Evasion?",
+      "options": [
+        "Avoiding detection by security tools",
+        "Increasing bandwidth",
+        "Creating backups",
+        "Improving routing"
+      ],
+      "correct_answer": "Avoiding detection by security tools",
+      "explanation": "The correct answer is 'Avoiding detection by security tools'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is Collection?",
+      "options": [
+        "Gathering data of interest to attackers",
+        "Deleting files",
+        "Managing logs",
+        "Scanning printers"
+      ],
+      "correct_answer": "Gathering data of interest to attackers",
+      "explanation": "The correct answer is 'Gathering data of interest to attackers'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why is the ATT&CK Matrix useful?",
+      "options": [
+        "Maps attacker behavior to tactics and techniques",
+        "Improves encryption",
+        "Increases storage",
+        "Manages DNS"
+      ],
+      "correct_answer": "Maps attacker behavior to tactics and techniques",
+      "explanation": "The correct answer is 'Maps attacker behavior to tactics and techniques'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which security team commonly uses ATT&CK?",
+      "options": [
+        "SOC Analysts",
+        "HR",
+        "Finance",
+        "Marketing"
+      ],
+      "correct_answer": "SOC Analysts",
+      "explanation": "The correct answer is 'SOC Analysts'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "How can ATT&CK improve threat hunting?",
+      "options": [
+        "Provides a framework for attacker behavior analysis",
+        "Increases bandwidth",
+        "Reduces storage",
+        "Creates VPNs"
+      ],
+      "correct_answer": "Provides a framework for attacker behavior analysis",
+      "explanation": "The correct answer is 'Provides a framework for attacker behavior analysis'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a procedure in ATT&CK context?",
+      "options": [
+        "Real-world implementation of a technique",
+        "A firewall rule",
+        "A VPN configuration",
+        "A backup plan"
+      ],
+      "correct_answer": "Real-world implementation of a technique",
+      "explanation": "The correct answer is 'Real-world implementation of a technique'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does ATT&CK support detection engineering?",
+      "options": [
+        "Maps detections to attacker techniques",
+        "Improves graphics",
+        "Manages databases",
+        "Compresses traffic"
+      ],
+      "correct_answer": "Maps detections to attacker techniques",
+      "explanation": "The correct answer is 'Maps detections to attacker techniques'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is ATT&CK valuable for SOC operations?",
+      "options": [
+        "Provides a common language for threats",
+        "Increases storage",
+        "Improves routing",
+        "Reduces logging"
+      ],
+      "correct_answer": "Provides a common language for threats",
+      "explanation": "The correct answer is 'Provides a common language for threats'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is an ATT&CK technique example?",
+      "options": [
+        "PowerShell Execution",
+        "Firewall Deployment",
+        "DNS Configuration",
+        "Printer Installation"
+      ],
+      "correct_answer": "PowerShell Execution",
+      "explanation": "The correct answer is 'PowerShell Execution'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why should defenders map alerts to ATT&CK techniques?",
+      "options": [
+        "Improve understanding of attacker behavior",
+        "Increase bandwidth",
+        "Manage DNS",
+        "Reduce alerts"
+      ],
+      "correct_answer": "Improve understanding of attacker behavior",
+      "explanation": "The correct answer is 'Improve understanding of attacker behavior'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is ATT&CK Navigator?",
+      "options": [
+        "Tool for visualizing ATT&CK techniques",
+        "VPN client",
+        "Packet analyzer",
+        "Firewall manager"
+      ],
+      "correct_answer": "Tool for visualizing ATT&CK techniques",
+      "explanation": "The correct answer is 'Tool for visualizing ATT&CK techniques'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does ATT&CK assist incident response?",
+      "options": [
+        "Helps identify attacker actions and next steps",
+        "Encrypts data",
+        "Creates backups",
+        "Improves routing"
+      ],
+      "correct_answer": "Helps identify attacker actions and next steps",
+      "explanation": "The correct answer is 'Helps identify attacker actions and next steps'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is one limitation of ATT&CK?",
+      "options": [
+        "It describes attacker behavior but does not prevent attacks by itself",
+        "It blocks malware",
+        "It replaces firewalls",
+        "It removes vulnerabilities"
+      ],
+      "correct_answer": "It describes attacker behavior but does not prevent attacks by itself",
+      "explanation": "The correct answer is 'It describes attacker behavior but does not prevent attacks by itself'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How can ATT&CK support purple teaming?",
+      "options": [
+        "Provides a framework for red and blue team collaboration",
+        "Improves storage",
+        "Increases bandwidth",
+        "Creates VPNs"
+      ],
+      "correct_answer": "Provides a framework for red and blue team collaboration",
+      "explanation": "The correct answer is 'Provides a framework for red and blue team collaboration'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the relationship between ATT&CK and threat intelligence?",
+      "options": [
+        "Threat intelligence can be mapped to ATT&CK techniques",
+        "They are unrelated",
+        "ATT&CK replaces threat intelligence",
+        "Threat intelligence replaces ATT&CK"
+      ],
+      "correct_answer": "Threat intelligence can be mapped to ATT&CK techniques",
+      "explanation": "The correct answer is 'Threat intelligence can be mapped to ATT&CK techniques'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes MITRE ATT&CK?",
+      "options": [
+        "A globally used framework documenting adversary tactics, techniques, and procedures for security operations and threat detection",
+        "A firewall appliance",
+        "A VPN protocol",
+        "A load balancing solution"
+      ],
+      "correct_answer": "A globally used framework documenting adversary tactics, techniques, and procedures for security operations and threat detection",
+      "explanation": "The correct answer is 'A globally used framework documenting adversary tactics, techniques, and procedures for security operations and threat detection'. This concept is part of MITRE ATT&CK Framework and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    }
+  ]
+}

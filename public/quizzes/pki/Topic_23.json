@@ -1,0 +1,396 @@
+{
+  "topic": "Types and Classes of Certificates",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a digital certificate type?",
+      "options": [
+        "A category of certificate based on its purpose",
+        "A cryptographic algorithm",
+        "A hashing method",
+        "A network protocol"
+      ],
+      "correct_answer": "A category of certificate based on its purpose",
+      "explanation": "The correct answer is 'A category of certificate based on its purpose' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which certificate type is commonly used for websites?",
+      "options": [
+        "SSL/TLS Certificate",
+        "Code Signing Certificate",
+        "Email Certificate",
+        "Document Signing Certificate"
+      ],
+      "correct_answer": "SSL/TLS Certificate",
+      "explanation": "The correct answer is 'SSL/TLS Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which certificate type is used to sign software?",
+      "options": [
+        "Code Signing Certificate",
+        "SSL Certificate",
+        "Root Certificate",
+        "Email Certificate"
+      ],
+      "correct_answer": "Code Signing Certificate",
+      "explanation": "The correct answer is 'Code Signing Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which certificate type is used to secure email communications?",
+      "options": [
+        "Email Certificate",
+        "Wildcard Certificate",
+        "Root Certificate",
+        "Server Certificate"
+      ],
+      "correct_answer": "Email Certificate",
+      "explanation": "The correct answer is 'Email Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is a Root Certificate?",
+      "options": [
+        "A certificate belonging to a Root CA",
+        "A user certificate",
+        "A server certificate",
+        "An expired certificate"
+      ],
+      "correct_answer": "A certificate belonging to a Root CA",
+      "explanation": "The correct answer is 'A certificate belonging to a Root CA' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is a Server Certificate used for?",
+      "options": [
+        "Authenticating servers",
+        "Authenticating printers",
+        "Encrypting disks",
+        "Managing routers"
+      ],
+      "correct_answer": "Authenticating servers",
+      "explanation": "The correct answer is 'Authenticating servers' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which certificate type can secure multiple subdomains?",
+      "options": [
+        "Wildcard Certificate",
+        "Email Certificate",
+        "Root Certificate",
+        "Personal Certificate"
+      ],
+      "correct_answer": "Wildcard Certificate",
+      "explanation": "The correct answer is 'Wildcard Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is a Client Certificate used for?",
+      "options": [
+        "Authenticating users or devices",
+        "Creating CRLs",
+        "Managing DNS",
+        "Encrypting backups"
+      ],
+      "correct_answer": "Authenticating users or devices",
+      "explanation": "The correct answer is 'Authenticating users or devices' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the purpose of a Document Signing Certificate?",
+      "options": [
+        "Digitally signing documents",
+        "Encrypting websites",
+        "Managing passwords",
+        "Generating hashes"
+      ],
+      "correct_answer": "Digitally signing documents",
+      "explanation": "The correct answer is 'Digitally signing documents' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Certificates primarily support which security service?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a Domain Validation (DV) certificate?",
+      "options": [
+        "A certificate validated by proving control of a domain",
+        "A certificate with organization validation",
+        "A root certificate",
+        "A revoked certificate"
+      ],
+      "correct_answer": "A certificate validated by proving control of a domain",
+      "explanation": "The correct answer is 'A certificate validated by proving control of a domain' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is an Organization Validation (OV) certificate?",
+      "options": [
+        "A certificate that validates both domain ownership and organization identity",
+        "A self-signed certificate",
+        "A wildcard certificate",
+        "A root certificate"
+      ],
+      "correct_answer": "A certificate that validates both domain ownership and organization identity",
+      "explanation": "The correct answer is 'A certificate that validates both domain ownership and organization identity' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is an Extended Validation (EV) certificate?",
+      "options": [
+        "A certificate requiring rigorous identity verification",
+        "A certificate for email only",
+        "A root certificate",
+        "A certificate without validation"
+      ],
+      "correct_answer": "A certificate requiring rigorous identity verification",
+      "explanation": "The correct answer is 'A certificate requiring rigorous identity verification' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which certificate class generally provides the highest assurance?",
+      "options": [
+        "EV",
+        "DV",
+        "Class 1",
+        "Self-Signed"
+      ],
+      "correct_answer": "EV",
+      "explanation": "The correct answer is 'EV' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are wildcard certificates useful?",
+      "options": [
+        "They secure multiple subdomains with one certificate",
+        "They replace CAs",
+        "They remove encryption",
+        "They generate keys"
+      ],
+      "correct_answer": "They secure multiple subdomains with one certificate",
+      "explanation": "The correct answer is 'They secure multiple subdomains with one certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is a SAN certificate?",
+      "options": [
+        "A certificate that secures multiple domains or hostnames",
+        "A revoked certificate",
+        "A root certificate",
+        "An expired certificate"
+      ],
+      "correct_answer": "A certificate that secures multiple domains or hostnames",
+      "explanation": "The correct answer is 'A certificate that secures multiple domains or hostnames' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which certificate is commonly used in mutual TLS authentication?",
+      "options": [
+        "Client Certificate",
+        "Wildcard Certificate",
+        "Root Certificate",
+        "Code Signing Certificate"
+      ],
+      "correct_answer": "Client Certificate",
+      "explanation": "The correct answer is 'Client Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why are code signing certificates important?",
+      "options": [
+        "They verify software authenticity and integrity",
+        "They encrypt websites",
+        "They create CRLs",
+        "They manage DNS"
+      ],
+      "correct_answer": "They verify software authenticity and integrity",
+      "explanation": "The correct answer is 'They verify software authenticity and integrity' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What distinguishes a self-signed certificate from a CA-issued certificate?",
+      "options": [
+        "It is signed by its own key rather than a trusted CA",
+        "It contains a private key",
+        "It uses AES",
+        "It has no public key"
+      ],
+      "correct_answer": "It is signed by its own key rather than a trusted CA",
+      "explanation": "The correct answer is 'It is signed by its own key rather than a trusted CA' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which certificate type is commonly used for internal enterprise authentication?",
+      "options": [
+        "Client Certificate",
+        "Wildcard Certificate",
+        "EV Certificate",
+        "Public Website Certificate"
+      ],
+      "correct_answer": "Client Certificate",
+      "explanation": "The correct answer is 'Client Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why do browsers provide stronger visual trust indicators for EV certificates?",
+      "options": [
+        "Because EV certificates undergo more extensive validation",
+        "Because they use larger keys",
+        "Because they encrypt faster",
+        "Because they contain private keys"
+      ],
+      "correct_answer": "Because EV certificates undergo more extensive validation",
+      "explanation": "The correct answer is 'Because EV certificates undergo more extensive validation' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the primary risk of using self-signed certificates in public-facing services?",
+      "options": [
+        "Users cannot automatically verify trust",
+        "AES becomes insecure",
+        "DNS fails",
+        "Certificates cannot encrypt traffic"
+      ],
+      "correct_answer": "Users cannot automatically verify trust",
+      "explanation": "The correct answer is 'Users cannot automatically verify trust' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does a SAN certificate reduce certificate management complexity?",
+      "options": [
+        "It allows multiple hostnames on a single certificate",
+        "It replaces Root CAs",
+        "It removes validation",
+        "It generates keys automatically"
+      ],
+      "correct_answer": "It allows multiple hostnames on a single certificate",
+      "explanation": "The correct answer is 'It allows multiple hostnames on a single certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which certificate type is most appropriate for signing application executables?",
+      "options": [
+        "Code Signing Certificate",
+        "SSL/TLS Certificate",
+        "Email Certificate",
+        "Client Certificate"
+      ],
+      "correct_answer": "Code Signing Certificate",
+      "explanation": "The correct answer is 'Code Signing Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the main difference between certificate types and certificate classes?",
+      "options": [
+        "Types describe purpose; classes describe assurance/validation level",
+        "They are identical",
+        "Types describe keys only",
+        "Classes replace certificates"
+      ],
+      "correct_answer": "Types describe purpose; classes describe assurance/validation level",
+      "explanation": "The correct answer is 'Types describe purpose; classes describe assurance/validation level' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why are client certificates considered stronger than passwords alone?",
+      "options": [
+        "They provide cryptographic authentication",
+        "They increase bandwidth",
+        "They compress data",
+        "They remove PKI"
+      ],
+      "correct_answer": "They provide cryptographic authentication",
+      "explanation": "The correct answer is 'They provide cryptographic authentication' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which certificate deployment can create broad risk if compromised?",
+      "options": [
+        "Wildcard Certificate",
+        "Single-domain certificate",
+        "Client certificate",
+        "Document-signing certificate"
+      ],
+      "correct_answer": "Wildcard Certificate",
+      "explanation": "The correct answer is 'Wildcard Certificate' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are certificate classes important in PKI?",
+      "options": [
+        "They indicate the level of identity verification performed",
+        "They encrypt certificates",
+        "They generate hashes",
+        "They replace CAs"
+      ],
+      "correct_answer": "They indicate the level of identity verification performed",
+      "explanation": "The correct answer is 'They indicate the level of identity verification performed' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What attack can be reduced through code signing certificates?",
+      "options": [
+        "Software tampering and impersonation",
+        "DDoS",
+        "ARP spoofing",
+        "Replay attacks"
+      ],
+      "correct_answer": "Software tampering and impersonation",
+      "explanation": "The correct answer is 'Software tampering and impersonation' because it best explains certificate types, classes, and validation levels."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes types and classes of certificates?",
+      "options": [
+        "Mechanisms for categorizing certificates by purpose and trust assurance level",
+        "Encryption algorithms",
+        "Hashing standards",
+        "Network protocols"
+      ],
+      "correct_answer": "Mechanisms for categorizing certificates by purpose and trust assurance level",
+      "explanation": "The correct answer is 'Mechanisms for categorizing certificates by purpose and trust assurance level' because it best explains certificate types, classes, and validation levels."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "iptables (Linux Firewall)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is iptables?",
+      "options": [
+        "A Linux firewall utility",
+        "A database",
+        "A web server",
+        "A VPN client"
+      ],
+      "correct_answer": "A Linux firewall utility",
+      "explanation": "The correct answer is 'A Linux firewall utility'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "iptables works with which Linux framework?",
+      "options": [
+        "netfilter",
+        "systemd",
+        "cron",
+        "SELinux"
+      ],
+      "correct_answer": "netfilter",
+      "explanation": "The correct answer is 'netfilter'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which table is used by default for firewall rules?",
+      "options": [
+        "filter",
+        "nat",
+        "mangle",
+        "raw"
+      ],
+      "correct_answer": "filter",
+      "explanation": "The correct answer is 'filter'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which chain processes incoming packets?",
+      "options": [
+        "INPUT",
+        "OUTPUT",
+        "FORWARD",
+        "POSTROUTING"
+      ],
+      "correct_answer": "INPUT",
+      "explanation": "The correct answer is 'INPUT'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which chain processes outgoing packets generated locally?",
+      "options": [
+        "OUTPUT",
+        "INPUT",
+        "FORWARD",
+        "PREROUTING"
+      ],
+      "correct_answer": "OUTPUT",
+      "explanation": "The correct answer is 'OUTPUT'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which chain handles packets being routed through the system?",
+      "options": [
+        "FORWARD",
+        "INPUT",
+        "OUTPUT",
+        "LOG"
+      ],
+      "correct_answer": "FORWARD",
+      "explanation": "The correct answer is 'FORWARD'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which target allows traffic?",
+      "options": [
+        "ACCEPT",
+        "DROP",
+        "REJECT",
+        "LOG"
+      ],
+      "correct_answer": "ACCEPT",
+      "explanation": "The correct answer is 'ACCEPT'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which target silently discards traffic?",
+      "options": [
+        "DROP",
+        "ACCEPT",
+        "REJECT",
+        "TRACE"
+      ],
+      "correct_answer": "DROP",
+      "explanation": "The correct answer is 'DROP'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which target rejects traffic and informs the sender?",
+      "options": [
+        "REJECT",
+        "DROP",
+        "ACCEPT",
+        "LOG"
+      ],
+      "correct_answer": "REJECT",
+      "explanation": "The correct answer is 'REJECT'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which target records packet information in logs?",
+      "options": [
+        "LOG",
+        "DROP",
+        "ACCEPT",
+        "REJECT"
+      ],
+      "correct_answer": "LOG",
+      "explanation": "The correct answer is 'LOG'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the purpose of the nat table?",
+      "options": [
+        "Network Address Translation",
+        "Packet logging",
+        "Packet filtering",
+        "QoS management"
+      ],
+      "correct_answer": "Network Address Translation",
+      "explanation": "The correct answer is 'Network Address Translation'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which chain in the nat table is used before routing decisions?",
+      "options": [
+        "PREROUTING",
+        "POSTROUTING",
+        "INPUT",
+        "OUTPUT"
+      ],
+      "correct_answer": "PREROUTING",
+      "explanation": "The correct answer is 'PREROUTING'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which chain is commonly used for source NAT (SNAT)?",
+      "options": [
+        "POSTROUTING",
+        "PREROUTING",
+        "INPUT",
+        "FORWARD"
+      ],
+      "correct_answer": "POSTROUTING",
+      "explanation": "The correct answer is 'POSTROUTING'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the default policy of a chain?",
+      "options": [
+        "Action applied when no rule matches",
+        "First firewall rule",
+        "Logging behavior",
+        "NAT setting"
+      ],
+      "correct_answer": "Action applied when no rule matches",
+      "explanation": "The correct answer is 'Action applied when no rule matches'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which command lists current iptables rules?",
+      "options": [
+        "iptables -L",
+        "iptables -A",
+        "iptables -D",
+        "iptables -X"
+      ],
+      "correct_answer": "iptables -L",
+      "explanation": "The correct answer is 'iptables -L'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What does the -A option do?",
+      "options": [
+        "Append a rule",
+        "Delete a rule",
+        "List rules",
+        "Flush rules"
+      ],
+      "correct_answer": "Append a rule",
+      "explanation": "The correct answer is 'Append a rule'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What does connection tracking enable?",
+      "options": [
+        "Stateful firewalling",
+        "Load balancing",
+        "DNS resolution",
+        "Compression"
+      ],
+      "correct_answer": "Stateful firewalling",
+      "explanation": "The correct answer is 'Stateful firewalling'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which connection state represents an active session?",
+      "options": [
+        "ESTABLISHED",
+        "NEW",
+        "INVALID",
+        "CLOSED"
+      ],
+      "correct_answer": "ESTABLISHED",
+      "explanation": "The correct answer is 'ESTABLISHED'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is port forwarding?",
+      "options": [
+        "Redirecting traffic from one port to another",
+        "Blocking ports",
+        "Scanning ports",
+        "Logging ports"
+      ],
+      "correct_answer": "Redirecting traffic from one port to another",
+      "explanation": "The correct answer is 'Redirecting traffic from one port to another'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which table can alter packet headers for specialized networking tasks?",
+      "options": [
+        "mangle",
+        "filter",
+        "nat",
+        "security"
+      ],
+      "correct_answer": "mangle",
+      "explanation": "The correct answer is 'mangle'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is rule order important in iptables?",
+      "options": [
+        "Rules are processed sequentially",
+        "Rules are random",
+        "Rules run in parallel",
+        "Order has no effect"
+      ],
+      "correct_answer": "Rules are processed sequentially",
+      "explanation": "The correct answer is 'Rules are processed sequentially'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What happens if the default INPUT policy is DROP?",
+      "options": [
+        "Unmatched incoming packets are blocked",
+        "All packets are allowed",
+        "Only DNS works",
+        "Logging stops"
+      ],
+      "correct_answer": "Unmatched incoming packets are blocked",
+      "explanation": "The correct answer is 'Unmatched incoming packets are blocked'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which module enables stateful inspection in iptables?",
+      "options": [
+        "conntrack",
+        "bridge",
+        "vlan",
+        "route"
+      ],
+      "correct_answer": "conntrack",
+      "explanation": "The correct answer is 'conntrack'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is a common use of the FORWARD chain?",
+      "options": [
+        "Filtering traffic between networks",
+        "Filtering local traffic only",
+        "Managing DNS",
+        "Managing users"
+      ],
+      "correct_answer": "Filtering traffic between networks",
+      "explanation": "The correct answer is 'Filtering traffic between networks'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is IPv6 firewalling important?",
+      "options": [
+        "IPv6 traffic bypasses IPv4-only rules",
+        "IPv6 is obsolete",
+        "IPv6 cannot be filtered",
+        "IPv6 disables security"
+      ],
+      "correct_answer": "IPv6 traffic bypasses IPv4-only rules",
+      "explanation": "The correct answer is 'IPv6 traffic bypasses IPv4-only rules'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is the purpose of Xtables Addons?",
+      "options": [
+        "Provide additional match and target modules",
+        "Replace iptables",
+        "Manage databases",
+        "Configure VPNs"
+      ],
+      "correct_answer": "Provide additional match and target modules",
+      "explanation": "The correct answer is 'Provide additional match and target modules'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What security benefit does a default-deny policy provide?",
+      "options": [
+        "Reduces attack surface",
+        "Increases bandwidth",
+        "Improves graphics",
+        "Reduces logging"
+      ],
+      "correct_answer": "Reduces attack surface",
+      "explanation": "The correct answer is 'Reduces attack surface'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which iptables feature supports GeoIP blocking?",
+      "options": [
+        "Xtables Addons",
+        "Cron",
+        "Systemd",
+        "DHCP"
+      ],
+      "correct_answer": "Xtables Addons",
+      "explanation": "The correct answer is 'Xtables Addons'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "How can iptables help mitigate DoS attacks?",
+      "options": [
+        "Rate limiting and filtering",
+        "Increasing RAM",
+        "Compressing packets",
+        "Changing DNS"
+      ],
+      "correct_answer": "Rate limiting and filtering",
+      "explanation": "The correct answer is 'Rate limiting and filtering'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes iptables?",
+      "options": [
+        "A flexible Linux firewall framework supporting filtering, NAT, and stateful inspection",
+        "A Linux database engine",
+        "A VPN protocol",
+        "A packet capture tool"
+      ],
+      "correct_answer": "A flexible Linux firewall framework supporting filtering, NAT, and stateful inspection",
+      "explanation": "The correct answer is 'A flexible Linux firewall framework supporting filtering, NAT, and stateful inspection'. This answer is correct because it aligns with the core concept of iptables (Linux Firewall). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "Split Tunnel vs Full Tunnel VPN",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a Full Tunnel VPN?",
+      "options": [
+        "All traffic is routed through the VPN",
+        "Only corporate traffic uses VPN",
+        "No traffic uses VPN",
+        "Only DNS uses VPN"
+      ],
+      "correct_answer": "All traffic is routed through the VPN",
+      "explanation": "The correct answer is 'All traffic is routed through the VPN'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is a Split Tunnel VPN?",
+      "options": [
+        "Only selected traffic uses the VPN",
+        "All traffic uses VPN",
+        "No encryption is used",
+        "Only email traffic is allowed"
+      ],
+      "correct_answer": "Only selected traffic uses the VPN",
+      "explanation": "The correct answer is 'Only selected traffic uses the VPN'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which VPN type routes all internet traffic through the corporate network?",
+      "options": [
+        "Full Tunnel",
+        "Split Tunnel",
+        "Hybrid Tunnel",
+        "Direct Tunnel"
+      ],
+      "correct_answer": "Full Tunnel",
+      "explanation": "The correct answer is 'Full Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which VPN type allows direct internet access for non-corporate traffic?",
+      "options": [
+        "Split Tunnel",
+        "Full Tunnel",
+        "IPSec Tunnel",
+        "SSL Tunnel"
+      ],
+      "correct_answer": "Split Tunnel",
+      "explanation": "The correct answer is 'Split Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is a major advantage of Full Tunnel VPN?",
+      "options": [
+        "Improved security visibility",
+        "Higher internet speed",
+        "Lower encryption",
+        "No routing"
+      ],
+      "correct_answer": "Improved security visibility",
+      "explanation": "The correct answer is 'Improved security visibility'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is a major advantage of Split Tunnel VPN?",
+      "options": [
+        "Better performance and lower bandwidth usage",
+        "More encryption",
+        "No internet access",
+        "No routing"
+      ],
+      "correct_answer": "Better performance and lower bandwidth usage",
+      "explanation": "The correct answer is 'Better performance and lower bandwidth usage'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which VPN model is generally more secure?",
+      "options": [
+        "Full Tunnel",
+        "Split Tunnel",
+        "Both are identical",
+        "Neither"
+      ],
+      "correct_answer": "Full Tunnel",
+      "explanation": "The correct answer is 'Full Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which VPN model reduces load on corporate VPN gateways?",
+      "options": [
+        "Split Tunnel",
+        "Full Tunnel",
+        "IPSec",
+        "OpenVPN"
+      ],
+      "correct_answer": "Split Tunnel",
+      "explanation": "The correct answer is 'Split Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What type of traffic always passes through a Full Tunnel VPN?",
+      "options": [
+        "All user traffic",
+        "Only business traffic",
+        "Only DNS traffic",
+        "Only email traffic"
+      ],
+      "correct_answer": "All user traffic",
+      "explanation": "The correct answer is 'All user traffic'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which VPN model is often preferred for high-security environments?",
+      "options": [
+        "Full Tunnel",
+        "Split Tunnel",
+        "Direct Access",
+        "Guest VPN"
+      ],
+      "correct_answer": "Full Tunnel",
+      "explanation": "The correct answer is 'Full Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why does Split Tunnel improve performance?",
+      "options": [
+        "Internet traffic bypasses the VPN gateway",
+        "Uses no encryption",
+        "Disables routing",
+        "Uses fewer users"
+      ],
+      "correct_answer": "Internet traffic bypasses the VPN gateway",
+      "explanation": "The correct answer is 'Internet traffic bypasses the VPN gateway'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a common use case for Split Tunnel VPN?",
+      "options": [
+        "Remote employees accessing company resources while browsing the internet directly",
+        "Data centers only",
+        "Printer management",
+        "DNS servers"
+      ],
+      "correct_answer": "Remote employees accessing company resources while browsing the internet directly",
+      "explanation": "The correct answer is 'Remote employees accessing company resources while browsing the internet directly'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why does Full Tunnel increase bandwidth consumption?",
+      "options": [
+        "All traffic passes through VPN infrastructure",
+        "Traffic is compressed",
+        "Traffic is cached",
+        "Traffic is blocked"
+      ],
+      "correct_answer": "All traffic passes through VPN infrastructure",
+      "explanation": "The correct answer is 'All traffic passes through VPN infrastructure'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which VPN type provides better centralized monitoring?",
+      "options": [
+        "Full Tunnel",
+        "Split Tunnel",
+        "Both equal",
+        "Neither"
+      ],
+      "correct_answer": "Full Tunnel",
+      "explanation": "The correct answer is 'Full Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is a VPN gateway?",
+      "options": [
+        "Device that manages VPN connections",
+        "Packet sniffer",
+        "Printer server",
+        "DNS resolver"
+      ],
+      "correct_answer": "Device that manages VPN connections",
+      "explanation": "The correct answer is 'Device that manages VPN connections'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which VPN type generally offers lower latency for internet browsing?",
+      "options": [
+        "Split Tunnel",
+        "Full Tunnel",
+        "Both equal",
+        "Neither"
+      ],
+      "correct_answer": "Split Tunnel",
+      "explanation": "The correct answer is 'Split Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a policy-based VPN configuration?",
+      "options": [
+        "Traffic routing decisions based on defined rules",
+        "Random routing",
+        "DNS-based routing",
+        "ARP routing"
+      ],
+      "correct_answer": "Traffic routing decisions based on defined rules",
+      "explanation": "The correct answer is 'Traffic routing decisions based on defined rules'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which VPN type can reduce costs for cloud-based VPN infrastructure?",
+      "options": [
+        "Split Tunnel",
+        "Full Tunnel",
+        "IPSec",
+        "L2TP"
+      ],
+      "correct_answer": "Split Tunnel",
+      "explanation": "The correct answer is 'Split Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is traffic inspection easier in Full Tunnel deployments?",
+      "options": [
+        "All traffic traverses corporate controls",
+        "No encryption exists",
+        "No routing exists",
+        "No users connect"
+      ],
+      "correct_answer": "All traffic traverses corporate controls",
+      "explanation": "The correct answer is 'All traffic traverses corporate controls'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which VPN model is commonly used when organizations require strict compliance monitoring?",
+      "options": [
+        "Full Tunnel",
+        "Split Tunnel",
+        "Direct Access",
+        "Guest VPN"
+      ],
+      "correct_answer": "Full Tunnel",
+      "explanation": "The correct answer is 'Full Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is a major security risk of Split Tunnel VPN?",
+      "options": [
+        "Data leakage through direct internet access",
+        "Higher latency",
+        "Excessive bandwidth use",
+        "Reduced performance"
+      ],
+      "correct_answer": "Data leakage through direct internet access",
+      "explanation": "The correct answer is 'Data leakage through direct internet access'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why can Split Tunnel increase exposure to malware?",
+      "options": [
+        "Devices access internet directly while connected to corporate resources",
+        "It removes encryption",
+        "It disables authentication",
+        "It blocks updates"
+      ],
+      "correct_answer": "Devices access internet directly while connected to corporate resources",
+      "explanation": "The correct answer is 'Devices access internet directly while connected to corporate resources'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does Full Tunnel support defense in depth?",
+      "options": [
+        "Allows all traffic to pass through corporate security controls",
+        "Disables firewalls",
+        "Removes IDS",
+        "Reduces monitoring"
+      ],
+      "correct_answer": "Allows all traffic to pass through corporate security controls",
+      "explanation": "The correct answer is 'Allows all traffic to pass through corporate security controls'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What trade-off exists with Full Tunnel VPN?",
+      "options": [
+        "Higher security but lower performance",
+        "Higher performance and lower security",
+        "No security",
+        "No routing"
+      ],
+      "correct_answer": "Higher security but lower performance",
+      "explanation": "The correct answer is 'Higher security but lower performance'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which VPN model is often used for bandwidth optimization?",
+      "options": [
+        "Split Tunnel",
+        "Full Tunnel",
+        "Dedicated Tunnel",
+        "Static Tunnel"
+      ],
+      "correct_answer": "Split Tunnel",
+      "explanation": "The correct answer is 'Split Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is a common enterprise concern when using Split Tunnel VPN?",
+      "options": [
+        "Loss of visibility into user internet activity",
+        "Too much visibility",
+        "No VPN access",
+        "No authentication"
+      ],
+      "correct_answer": "Loss of visibility into user internet activity",
+      "explanation": "The correct answer is 'Loss of visibility into user internet activity'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How can organizations mitigate Split Tunnel risks?",
+      "options": [
+        "Endpoint security and strict access controls",
+        "Disable encryption",
+        "Remove firewalls",
+        "Disable monitoring"
+      ],
+      "correct_answer": "Endpoint security and strict access controls",
+      "explanation": "The correct answer is 'Endpoint security and strict access controls'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which VPN architecture is typically recommended for regulated industries?",
+      "options": [
+        "Full Tunnel",
+        "Split Tunnel",
+        "Direct Internet Access",
+        "Guest Network"
+      ],
+      "correct_answer": "Full Tunnel",
+      "explanation": "The correct answer is 'Full Tunnel'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What factor often influences the choice between Split and Full Tunnel VPN?",
+      "options": [
+        "Security vs performance requirements",
+        "Keyboard type",
+        "Monitor size",
+        "Printer model"
+      ],
+      "correct_answer": "Security vs performance requirements",
+      "explanation": "The correct answer is 'Security vs performance requirements'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes Split Tunnel vs Full Tunnel VPN?",
+      "options": [
+        "Split Tunnel balances performance while Full Tunnel prioritizes security and visibility",
+        "They are identical",
+        "Full Tunnel is always faster",
+        "Split Tunnel has no risks"
+      ],
+      "correct_answer": "Split Tunnel balances performance while Full Tunnel prioritizes security and visibility",
+      "explanation": "The correct answer is 'Split Tunnel balances performance while Full Tunnel prioritizes security and visibility'. This answer is correct because it represents a key concept in Split Tunnel vs Full Tunnel VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    }
+  ]
+}

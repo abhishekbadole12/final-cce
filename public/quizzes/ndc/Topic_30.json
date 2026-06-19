@@ -1,0 +1,396 @@
+{
+  "topic": "Log Correlation",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is log correlation?",
+      "options": [
+        "Linking related log events",
+        "Deleting logs",
+        "Encrypting logs",
+        "Compressing logs"
+      ],
+      "correct_answer": "Linking related log events",
+      "explanation": "The correct answer is 'Linking related log events'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Why is log correlation important?",
+      "options": [
+        "Identify security incidents",
+        "Increase storage",
+        "Reduce CPU usage",
+        "Create backups"
+      ],
+      "correct_answer": "Identify security incidents",
+      "explanation": "The correct answer is 'Identify security incidents'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which platform commonly performs log correlation?",
+      "options": [
+        "SIEM",
+        "FTP",
+        "DHCP",
+        "DNS"
+      ],
+      "correct_answer": "SIEM",
+      "explanation": "The correct answer is 'SIEM'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is a log source?",
+      "options": [
+        "System generating logs",
+        "Firewall rule",
+        "VPN tunnel",
+        "Database table"
+      ],
+      "correct_answer": "System generating logs",
+      "explanation": "The correct answer is 'System generating logs'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which device can provide logs for correlation?",
+      "options": [
+        "Firewall",
+        "Server",
+        "IDS",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is the primary goal of correlating logs?",
+      "options": [
+        "Detect patterns",
+        "Delete records",
+        "Increase bandwidth",
+        "Optimize code"
+      ],
+      "correct_answer": "Detect patterns",
+      "explanation": "The correct answer is 'Detect patterns'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which log event may indicate a login attempt?",
+      "options": [
+        "Authentication log",
+        "ARP table",
+        "Routing table",
+        "DNS cache"
+      ],
+      "correct_answer": "Authentication log",
+      "explanation": "The correct answer is 'Authentication log'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What helps correlate events from multiple systems?",
+      "options": [
+        "Timestamps",
+        "MAC addresses",
+        "Cables",
+        "Switch ports"
+      ],
+      "correct_answer": "Timestamps",
+      "explanation": "The correct answer is 'Timestamps'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which type of attack can be detected using log correlation?",
+      "options": [
+        "Brute-force attack",
+        "Normal browsing",
+        "Printing",
+        "File compression"
+      ],
+      "correct_answer": "Brute-force attack",
+      "explanation": "The correct answer is 'Brute-force attack'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Log correlation improves?",
+      "options": [
+        "Security visibility",
+        "Monitor size",
+        "RAM speed",
+        "Disk partitioning"
+      ],
+      "correct_answer": "Security visibility",
+      "explanation": "The correct answer is 'Security visibility'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What role do timestamps play in correlation?",
+      "options": [
+        "Sequence events",
+        "Encrypt logs",
+        "Compress logs",
+        "Delete logs"
+      ],
+      "correct_answer": "Sequence events",
+      "explanation": "The correct answer is 'Sequence events'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why is time synchronization important?",
+      "options": [
+        "Accurate event analysis",
+        "Faster CPU",
+        "Better graphics",
+        "More storage"
+      ],
+      "correct_answer": "Accurate event analysis",
+      "explanation": "The correct answer is 'Accurate event analysis'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which protocol is commonly used to collect logs centrally?",
+      "options": [
+        "Syslog",
+        "FTP",
+        "SMTP",
+        "ICMP"
+      ],
+      "correct_answer": "Syslog",
+      "explanation": "The correct answer is 'Syslog'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is an event in SIEM terminology?",
+      "options": [
+        "Recorded occurrence",
+        "Network cable",
+        "Database row",
+        "Switch port"
+      ],
+      "correct_answer": "Recorded occurrence",
+      "explanation": "The correct answer is 'Recorded occurrence'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which combination may indicate a brute-force attack?",
+      "options": [
+        "Multiple failed logins + account lockout",
+        "Printer logs",
+        "Backup logs",
+        "DHCP renewal"
+      ],
+      "correct_answer": "Multiple failed logins + account lockout",
+      "explanation": "The correct answer is 'Multiple failed logins + account lockout'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is a correlation rule?",
+      "options": [
+        "Logic used to identify related events",
+        "Firewall policy",
+        "VPN profile",
+        "DNS record"
+      ],
+      "correct_answer": "Logic used to identify related events",
+      "explanation": "The correct answer is 'Logic used to identify related events'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which source can contribute to threat detection?",
+      "options": [
+        "Firewall logs",
+        "IDS alerts",
+        "System logs",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is event aggregation?",
+      "options": [
+        "Combining similar events",
+        "Deleting logs",
+        "Encrypting events",
+        "Routing packets"
+      ],
+      "correct_answer": "Combining similar events",
+      "explanation": "The correct answer is 'Combining similar events'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a false positive?",
+      "options": [
+        "Benign event flagged as malicious",
+        "Successful attack",
+        "Deleted log",
+        "Network outage"
+      ],
+      "correct_answer": "Benign event flagged as malicious",
+      "explanation": "The correct answer is 'Benign event flagged as malicious'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why are correlation rules updated regularly?",
+      "options": [
+        "Adapt to new threats",
+        "Increase storage",
+        "Reduce logging",
+        "Change IPs"
+      ],
+      "correct_answer": "Adapt to new threats",
+      "explanation": "The correct answer is 'Adapt to new threats'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "A firewall blocks an IP and IDS reports scanning from the same IP. What does correlation reveal?",
+      "options": [
+        "Coordinated attack activity",
+        "Normal traffic",
+        "Hardware failure",
+        "DNS issue"
+      ],
+      "correct_answer": "Coordinated attack activity",
+      "explanation": "The correct answer is 'Coordinated attack activity'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which challenge affects large-scale log correlation?",
+      "options": [
+        "High data volume",
+        "Keyboard failure",
+        "Printer errors",
+        "Screen resolution"
+      ],
+      "correct_answer": "High data volume",
+      "explanation": "The correct answer is 'High data volume'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How can correlation help incident responders?",
+      "options": [
+        "Provide attack timeline",
+        "Increase CPU speed",
+        "Create backups",
+        "Encrypt traffic"
+      ],
+      "correct_answer": "Provide attack timeline",
+      "explanation": "The correct answer is 'Provide attack timeline'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is the benefit of correlating authentication and firewall logs?",
+      "options": [
+        "Identify compromised accounts",
+        "Improve graphics",
+        "Manage printers",
+        "Allocate RAM"
+      ],
+      "correct_answer": "Identify compromised accounts",
+      "explanation": "The correct answer is 'Identify compromised accounts'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which SIEM feature commonly supports log correlation?",
+      "options": [
+        "Rule engine",
+        "DHCP server",
+        "Proxy cache",
+        "Load balancer"
+      ],
+      "correct_answer": "Rule engine",
+      "explanation": "The correct answer is 'Rule engine'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What could indicate lateral movement?",
+      "options": [
+        "Successful logins across multiple hosts",
+        "Single printer event",
+        "Backup completion",
+        "Disk cleanup"
+      ],
+      "correct_answer": "Successful logins across multiple hosts",
+      "explanation": "The correct answer is 'Successful logins across multiple hosts'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why is normalization important before correlation?",
+      "options": [
+        "Standardize log formats",
+        "Increase storage",
+        "Compress packets",
+        "Encrypt files"
+      ],
+      "correct_answer": "Standardize log formats",
+      "explanation": "The correct answer is 'Standardize log formats'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is an attack chain?",
+      "options": [
+        "Sequence of related malicious actions",
+        "Firewall configuration",
+        "VPN setup",
+        "Backup process"
+      ],
+      "correct_answer": "Sequence of related malicious actions",
+      "explanation": "The correct answer is 'Sequence of related malicious actions'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which logs are most useful in detecting privilege escalation?",
+      "options": [
+        "Authentication and system logs",
+        "Printer logs",
+        "DHCP logs",
+        "ARP tables"
+      ],
+      "correct_answer": "Authentication and system logs",
+      "explanation": "The correct answer is 'Authentication and system logs'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What is the primary outcome of effective log correlation?",
+      "options": [
+        "Faster threat detection and response",
+        "Higher bandwidth",
+        "Lower screen brightness",
+        "More disk partitions"
+      ],
+      "correct_answer": "Faster threat detection and response",
+      "explanation": "The correct answer is 'Faster threat detection and response'. This concept belongs to Log Correlation and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    }
+  ]
+}

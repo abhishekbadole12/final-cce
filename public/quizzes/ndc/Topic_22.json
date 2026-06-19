@@ -1,0 +1,396 @@
+{
+  "topic": "OSSEC (Host Intrusion Detection System)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is OSSEC?",
+      "options": [
+        "An open-source Host Intrusion Detection System",
+        "A firewall",
+        "A VPN",
+        "A load balancer"
+      ],
+      "correct_answer": "An open-source Host Intrusion Detection System",
+      "explanation": "The correct answer is 'An open-source Host Intrusion Detection System'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What type of IDS is OSSEC?",
+      "options": [
+        "HIDS",
+        "NIDS",
+        "IPS only",
+        "WAF"
+      ],
+      "correct_answer": "HIDS",
+      "explanation": "The correct answer is 'HIDS'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What does HIDS stand for?",
+      "options": [
+        "Host Intrusion Detection System",
+        "Hybrid Intrusion Detection Service",
+        "Host Internet Detection System",
+        "Hardware Intrusion Detection System"
+      ],
+      "correct_answer": "Host Intrusion Detection System",
+      "explanation": "The correct answer is 'Host Intrusion Detection System'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of OSSEC?",
+      "options": [
+        "Monitor hosts for suspicious activity",
+        "Route network traffic",
+        "Manage DNS",
+        "Balance server load"
+      ],
+      "correct_answer": "Monitor hosts for suspicious activity",
+      "explanation": "The correct answer is 'Monitor hosts for suspicious activity'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which operating systems are supported by OSSEC?",
+      "options": [
+        "Windows and Linux",
+        "Only Linux",
+        "Only Windows",
+        "Only macOS"
+      ],
+      "correct_answer": "Windows and Linux",
+      "explanation": "The correct answer is 'Windows and Linux'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What OSSEC component collects data from monitored systems?",
+      "options": [
+        "Agent",
+        "Manager",
+        "Firewall",
+        "Router"
+      ],
+      "correct_answer": "Agent",
+      "explanation": "The correct answer is 'Agent'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What OSSEC component receives and analyzes data from agents?",
+      "options": [
+        "Manager",
+        "Agent",
+        "Switch",
+        "Proxy"
+      ],
+      "correct_answer": "Manager",
+      "explanation": "The correct answer is 'Manager'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What does FIM stand for?",
+      "options": [
+        "File Integrity Monitoring",
+        "File Inspection Manager",
+        "Firewall Integrity Monitor",
+        "File Internet Management"
+      ],
+      "correct_answer": "File Integrity Monitoring",
+      "explanation": "The correct answer is 'File Integrity Monitoring'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is File Integrity Monitoring used for?",
+      "options": [
+        "Detect changes to files",
+        "Encrypt files",
+        "Backup files",
+        "Delete files"
+      ],
+      "correct_answer": "Detect changes to files",
+      "explanation": "The correct answer is 'Detect changes to files'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What can OSSEC generate when suspicious activity is detected?",
+      "options": [
+        "Alerts",
+        "VPN Tunnels",
+        "Certificates",
+        "DNS Records"
+      ],
+      "correct_answer": "Alerts",
+      "explanation": "The correct answer is 'Alerts'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is log analysis in OSSEC?",
+      "options": [
+        "Examining logs for suspicious events",
+        "Encrypting logs",
+        "Deleting logs",
+        "Compressing logs"
+      ],
+      "correct_answer": "Examining logs for suspicious events",
+      "explanation": "The correct answer is 'Examining logs for suspicious events'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a rootkit?",
+      "options": [
+        "Malicious software designed to hide its presence",
+        "A firewall",
+        "A VPN protocol",
+        "A log file"
+      ],
+      "correct_answer": "Malicious software designed to hide its presence",
+      "explanation": "The correct answer is 'Malicious software designed to hide its presence'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which OSSEC feature helps detect rootkits?",
+      "options": [
+        "Rootkit Detection",
+        "Packet Capture",
+        "Load Balancing",
+        "DNS Filtering"
+      ],
+      "correct_answer": "Rootkit Detection",
+      "explanation": "The correct answer is 'Rootkit Detection'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is Active Response in OSSEC?",
+      "options": [
+        "Automatically responding to threats",
+        "Creating backups",
+        "Compressing traffic",
+        "Routing packets"
+      ],
+      "correct_answer": "Automatically responding to threats",
+      "explanation": "The correct answer is 'Automatically responding to threats'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What can Active Response do?",
+      "options": [
+        "Block an IP address",
+        "Increase bandwidth",
+        "Create users",
+        "Manage printers"
+      ],
+      "correct_answer": "Block an IP address",
+      "explanation": "The correct answer is 'Block an IP address'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why is centralized monitoring useful?",
+      "options": [
+        "Manage alerts from multiple systems",
+        "Increase storage",
+        "Improve graphics",
+        "Reduce encryption"
+      ],
+      "correct_answer": "Manage alerts from multiple systems",
+      "explanation": "The correct answer is 'Manage alerts from multiple systems'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is event correlation?",
+      "options": [
+        "Connecting related security events",
+        "Compressing events",
+        "Deleting events",
+        "Encrypting events"
+      ],
+      "correct_answer": "Connecting related security events",
+      "explanation": "The correct answer is 'Connecting related security events'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which data source does OSSEC primarily analyze?",
+      "options": [
+        "Host logs and system activity",
+        "Network cables",
+        "DNS zones",
+        "Switch ports"
+      ],
+      "correct_answer": "Host logs and system activity",
+      "explanation": "The correct answer is 'Host logs and system activity'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is FIM important?",
+      "options": [
+        "Detect unauthorized file changes",
+        "Increase bandwidth",
+        "Improve routing",
+        "Reduce storage"
+      ],
+      "correct_answer": "Detect unauthorized file changes",
+      "explanation": "The correct answer is 'Detect unauthorized file changes'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What type of attacks can OSSEC help detect?",
+      "options": [
+        "Unauthorized system changes",
+        "Printer failures",
+        "Power outages",
+        "Monitor issues"
+      ],
+      "correct_answer": "Unauthorized system changes",
+      "explanation": "The correct answer is 'Unauthorized system changes'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does OSSEC differ from Snort?",
+      "options": [
+        "OSSEC monitors hosts, Snort monitors network traffic",
+        "They are identical",
+        "Snort monitors hosts",
+        "OSSEC is a firewall"
+      ],
+      "correct_answer": "OSSEC monitors hosts, Snort monitors network traffic",
+      "explanation": "The correct answer is 'OSSEC monitors hosts, Snort monitors network traffic'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is a false positive in OSSEC?",
+      "options": [
+        "Legitimate activity flagged as malicious",
+        "Missed attack",
+        "Blocked attack",
+        "Encrypted attack"
+      ],
+      "correct_answer": "Legitimate activity flagged as malicious",
+      "explanation": "The correct answer is 'Legitimate activity flagged as malicious'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why should OSSEC rules be tuned?",
+      "options": [
+        "Reduce false positives and improve detection",
+        "Increase RAM",
+        "Improve graphics",
+        "Disable logging"
+      ],
+      "correct_answer": "Reduce false positives and improve detection",
+      "explanation": "The correct answer is 'Reduce false positives and improve detection'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How can OSSEC support compliance requirements?",
+      "options": [
+        "Provides monitoring, logging, and audit trails",
+        "Increases bandwidth",
+        "Compresses files",
+        "Routes traffic"
+      ],
+      "correct_answer": "Provides monitoring, logging, and audit trails",
+      "explanation": "The correct answer is 'Provides monitoring, logging, and audit trails'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What risk exists if file integrity monitoring is disabled?",
+      "options": [
+        "Unauthorized file modifications may go unnoticed",
+        "Bandwidth decreases",
+        "DNS fails",
+        "Logs stop working"
+      ],
+      "correct_answer": "Unauthorized file modifications may go unnoticed",
+      "explanation": "The correct answer is 'Unauthorized file modifications may go unnoticed'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is agent-manager communication important?",
+      "options": [
+        "Enables centralized analysis and monitoring",
+        "Improves graphics",
+        "Reduces storage",
+        "Disables encryption"
+      ],
+      "correct_answer": "Enables centralized analysis and monitoring",
+      "explanation": "The correct answer is 'Enables centralized analysis and monitoring'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What security benefit does Active Response provide?",
+      "options": [
+        "Faster containment of threats",
+        "Improved routing",
+        "More storage",
+        "Reduced logging"
+      ],
+      "correct_answer": "Faster containment of threats",
+      "explanation": "The correct answer is 'Faster containment of threats'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How does OSSEC contribute to defense in depth?",
+      "options": [
+        "Adds host-level monitoring and detection",
+        "Replaces firewalls",
+        "Eliminates malware",
+        "Acts as a VPN"
+      ],
+      "correct_answer": "Adds host-level monitoring and detection",
+      "explanation": "The correct answer is 'Adds host-level monitoring and detection'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why is log retention important in OSSEC deployments?",
+      "options": [
+        "Supports investigations and auditing",
+        "Improves CPU speed",
+        "Increases bandwidth",
+        "Enhances graphics"
+      ],
+      "correct_answer": "Supports investigations and auditing",
+      "explanation": "The correct answer is 'Supports investigations and auditing'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes OSSEC?",
+      "options": [
+        "An open-source HIDS that performs log analysis, file integrity monitoring, rootkit detection, and active response",
+        "A packet routing protocol",
+        "A VPN technology",
+        "A load balancer"
+      ],
+      "correct_answer": "An open-source HIDS that performs log analysis, file integrity monitoring, rootkit detection, and active response",
+      "explanation": "The correct answer is 'An open-source HIDS that performs log analysis, file integrity monitoring, rootkit detection, and active response'. This concept is part of OSSEC (Host Intrusion Detection System) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    }
+  ]
+}

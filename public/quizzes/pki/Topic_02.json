@@ -1,0 +1,396 @@
+{
+  "topic": "Security Attacks & Threats",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a security threat?",
+      "options": [
+        "A potential cause of harm",
+        "A backup process",
+        "A software update",
+        "A network cable"
+      ],
+      "correct_answer": "A potential cause of harm",
+      "explanation": "The correct answer is 'A potential cause of harm' because it best fits the security concept being tested."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which attack only observes data without altering it?",
+      "options": [
+        "Passive attack",
+        "Active attack",
+        "DoS attack",
+        "Malware attack"
+      ],
+      "correct_answer": "Passive attack",
+      "explanation": "The correct answer is 'Passive attack' because it best fits the security concept being tested."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which attack modifies system resources or data?",
+      "options": [
+        "Active attack",
+        "Passive attack",
+        "Physical attack",
+        "Natural attack"
+      ],
+      "correct_answer": "Active attack",
+      "explanation": "The correct answer is 'Active attack' because it best fits the security concept being tested."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Unauthorized reading of data is called?",
+      "options": [
+        "Interception",
+        "Modification",
+        "Fabrication",
+        "Interruption"
+      ],
+      "correct_answer": "Interception",
+      "explanation": "The correct answer is 'Interception' because it best fits the security concept being tested."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which malware replicates itself without user action?",
+      "options": [
+        "Worm",
+        "Trojan",
+        "Spyware",
+        "Adware"
+      ],
+      "correct_answer": "Worm",
+      "explanation": "The correct answer is 'Worm' because it best fits the security concept being tested."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "A Trojan horse is malware that?",
+      "options": [
+        "Disguises itself as legitimate software",
+        "Encrypts disks only",
+        "Improves security",
+        "Blocks websites"
+      ],
+      "correct_answer": "Disguises itself as legitimate software",
+      "explanation": "The correct answer is 'Disguises itself as legitimate software' because it best fits the security concept being tested."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Phishing attacks primarily aim to?",
+      "options": [
+        "Steal sensitive information",
+        "Improve performance",
+        "Patch systems",
+        "Compress files"
+      ],
+      "correct_answer": "Steal sensitive information",
+      "explanation": "The correct answer is 'Steal sensitive information' because it best fits the security concept being tested."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which attack affects availability?",
+      "options": [
+        "DoS",
+        "Hashing",
+        "Encryption",
+        "Compression"
+      ],
+      "correct_answer": "DoS",
+      "explanation": "The correct answer is 'DoS' because it best fits the security concept being tested."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Ransomware typically?",
+      "options": [
+        "Encrypts data and demands payment",
+        "Monitors traffic",
+        "Improves authentication",
+        "Creates backups"
+      ],
+      "correct_answer": "Encrypts data and demands payment",
+      "explanation": "The correct answer is 'Encrypts data and demands payment' because it best fits the security concept being tested."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "An insider threat originates from?",
+      "options": [
+        "Authorized users",
+        "Hackers only",
+        "Competitors only",
+        "ISPs only"
+      ],
+      "correct_answer": "Authorized users",
+      "explanation": "The correct answer is 'Authorized users' because it best fits the security concept being tested."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the difference between a threat and a vulnerability?",
+      "options": [
+        "Threat exploits vulnerability",
+        "Both are identical",
+        "Vulnerability exploits threat",
+        "Neither"
+      ],
+      "correct_answer": "Threat exploits vulnerability",
+      "explanation": "The correct answer is 'Threat exploits vulnerability' because it best fits the security concept being tested."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which attack category includes message alteration?",
+      "options": [
+        "Modification",
+        "Interception",
+        "Eavesdropping",
+        "Scanning"
+      ],
+      "correct_answer": "Modification",
+      "explanation": "The correct answer is 'Modification' because it best fits the security concept being tested."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Fabrication attack means?",
+      "options": [
+        "Creating fake data or messages",
+        "Deleting files",
+        "Reading traffic",
+        "Blocking service"
+      ],
+      "correct_answer": "Creating fake data or messages",
+      "explanation": "The correct answer is 'Creating fake data or messages' because it best fits the security concept being tested."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "A botnet is commonly used for?",
+      "options": [
+        "DDoS attacks",
+        "Data compression",
+        "Hash generation",
+        "Backup operations"
+      ],
+      "correct_answer": "DDoS attacks",
+      "explanation": "The correct answer is 'DDoS attacks' because it best fits the security concept being tested."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Social engineering attacks target?",
+      "options": [
+        "Human behavior",
+        "CPU resources",
+        "Memory chips",
+        "Network cables"
+      ],
+      "correct_answer": "Human behavior",
+      "explanation": "The correct answer is 'Human behavior' because it best fits the security concept being tested."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which is an example of a passive attack?",
+      "options": [
+        "Traffic analysis",
+        "Data tampering",
+        "Website defacement",
+        "Ransomware"
+      ],
+      "correct_answer": "Traffic analysis",
+      "explanation": "The correct answer is 'Traffic analysis' because it best fits the security concept being tested."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Spyware is designed to?",
+      "options": [
+        "Secretly collect information",
+        "Destroy hardware",
+        "Improve security",
+        "Patch systems"
+      ],
+      "correct_answer": "Secretly collect information",
+      "explanation": "The correct answer is 'Secretly collect information' because it best fits the security concept being tested."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a zero-day attack?",
+      "options": [
+        "Attack exploiting unknown vulnerability",
+        "Attack after patching",
+        "Physical theft",
+        "Password reset"
+      ],
+      "correct_answer": "Attack exploiting unknown vulnerability",
+      "explanation": "The correct answer is 'Attack exploiting unknown vulnerability' because it best fits the security concept being tested."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Smishing is phishing via?",
+      "options": [
+        "SMS messages",
+        "USB drives",
+        "DNS servers",
+        "Firewalls"
+      ],
+      "correct_answer": "SMS messages",
+      "explanation": "The correct answer is 'SMS messages' because it best fits the security concept being tested."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which attack attempts to overwhelm multiple targets through many compromised devices?",
+      "options": [
+        "Distributed Denial of Service",
+        "Password hashing",
+        "Data deduplication",
+        "Load balancing"
+      ],
+      "correct_answer": "Distributed Denial of Service",
+      "explanation": "The correct answer is 'Distributed Denial of Service' because it best fits the security concept being tested."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Interruption attacks primarily violate which CIA property?",
+      "options": [
+        "Availability",
+        "Confidentiality",
+        "Integrity",
+        "Authenticity"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best fits the security concept being tested."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Modification attacks primarily violate?",
+      "options": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Non-repudiation"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best fits the security concept being tested."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "An attacker silently captures packets to gather credentials. This is?",
+      "options": [
+        "Passive interception",
+        "Fabrication",
+        "Interruption",
+        "Privilege escalation"
+      ],
+      "correct_answer": "Passive interception",
+      "explanation": "The correct answer is 'Passive interception' because it best fits the security concept being tested."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which combination best represents the attack lifecycle?",
+      "options": [
+        "Reconnaissance, exploitation, persistence",
+        "Backup, restore, archive",
+        "Hash, encrypt, compress",
+        "Authenticate, authorize, audit"
+      ],
+      "correct_answer": "Reconnaissance, exploitation, persistence",
+      "explanation": "The correct answer is 'Reconnaissance, exploitation, persistence' because it best fits the security concept being tested."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the primary goal of advanced persistent threats (APTs)?",
+      "options": [
+        "Long-term unauthorized access",
+        "Immediate service outage",
+        "Password complexity",
+        "Data compression"
+      ],
+      "correct_answer": "Long-term unauthorized access",
+      "explanation": "The correct answer is 'Long-term unauthorized access' because it best fits the security concept being tested."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "A successful DNS spoofing attack can lead to?",
+      "options": [
+        "Redirection to malicious sites",
+        "Improved performance",
+        "Data backup",
+        "Certificate renewal"
+      ],
+      "correct_answer": "Redirection to malicious sites",
+      "explanation": "The correct answer is 'Redirection to malicious sites' because it best fits the security concept being tested."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which control is most effective against phishing?",
+      "options": [
+        "Security awareness training",
+        "More RAM",
+        "Disk cleanup",
+        "Load balancing"
+      ],
+      "correct_answer": "Security awareness training",
+      "explanation": "The correct answer is 'Security awareness training' because it best fits the security concept being tested."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "An organization with many exposed services has a larger?",
+      "options": [
+        "Attack surface",
+        "Hash value",
+        "Key length",
+        "Certificate chain"
+      ],
+      "correct_answer": "Attack surface",
+      "explanation": "The correct answer is 'Attack surface' because it best fits the security concept being tested."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Credential stuffing attacks rely on?",
+      "options": [
+        "Reused passwords",
+        "Strong MFA",
+        "Digital signatures",
+        "Encryption keys"
+      ],
+      "correct_answer": "Reused passwords",
+      "explanation": "The correct answer is 'Reused passwords' because it best fits the security concept being tested."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes risk?",
+      "options": [
+        "Likelihood and impact of a threat exploiting a vulnerability",
+        "Any malware infection",
+        "Only financial loss",
+        "A network scan"
+      ],
+      "correct_answer": "Likelihood and impact of a threat exploiting a vulnerability",
+      "explanation": "The correct answer is 'Likelihood and impact of a threat exploiting a vulnerability' because it best fits the security concept being tested."
+    }
+  ]
+}

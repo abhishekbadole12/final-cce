@@ -1,0 +1,396 @@
+{
+  "topic": "Digital Signatures",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a digital signature?",
+      "options": [
+        "A cryptographic mechanism used to verify authenticity and integrity",
+        "A scanned handwritten signature",
+        "A password",
+        "An encrypted file"
+      ],
+      "correct_answer": "A cryptographic mechanism used to verify authenticity and integrity",
+      "explanation": "The correct answer is 'A cryptographic mechanism used to verify authenticity and integrity' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Digital signatures primarily provide?",
+      "options": [
+        "Authentication, integrity, and non-repudiation",
+        "Confidentiality only",
+        "Compression",
+        "Availability"
+      ],
+      "correct_answer": "Authentication, integrity, and non-repudiation",
+      "explanation": "The correct answer is 'Authentication, integrity, and non-repudiation' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which key is used to create a digital signature?",
+      "options": [
+        "Private key",
+        "Public key",
+        "Session key",
+        "Shared key"
+      ],
+      "correct_answer": "Private key",
+      "explanation": "The correct answer is 'Private key' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which key is used to verify a digital signature?",
+      "options": [
+        "Public key",
+        "Private key",
+        "Hash key",
+        "Shared key"
+      ],
+      "correct_answer": "Public key",
+      "explanation": "The correct answer is 'Public key' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Digital signatures are based on?",
+      "options": [
+        "Asymmetric cryptography",
+        "Symmetric cryptography",
+        "Compression",
+        "Encoding"
+      ],
+      "correct_answer": "Asymmetric cryptography",
+      "explanation": "The correct answer is 'Asymmetric cryptography' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is verified when a digital signature is checked?",
+      "options": [
+        "Integrity and authenticity",
+        "Encryption strength",
+        "File size",
+        "Network speed"
+      ],
+      "correct_answer": "Integrity and authenticity",
+      "explanation": "The correct answer is 'Integrity and authenticity' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Can digital signatures provide confidentiality by themselves?",
+      "options": [
+        "No",
+        "Yes",
+        "Only with SHA",
+        "Only with HMAC"
+      ],
+      "correct_answer": "No",
+      "explanation": "The correct answer is 'No' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which algorithm is commonly used for digital signatures?",
+      "options": [
+        "RSA",
+        "AES",
+        "DES",
+        "RC4"
+      ],
+      "correct_answer": "RSA",
+      "explanation": "The correct answer is 'RSA' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What happens if a signed document is modified?",
+      "options": [
+        "Signature verification fails",
+        "Signature becomes stronger",
+        "Nothing changes",
+        "File is encrypted"
+      ],
+      "correct_answer": "Signature verification fails",
+      "explanation": "The correct answer is 'Signature verification fails' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Digital signatures help prevent?",
+      "options": [
+        "Repudiation",
+        "Compression",
+        "Caching",
+        "Fragmentation"
+      ],
+      "correct_answer": "Repudiation",
+      "explanation": "The correct answer is 'Repudiation' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why is a hash generated before signing data?",
+      "options": [
+        "Signing a hash is more efficient than signing large data",
+        "Hashes encrypt data",
+        "Hashes replace keys",
+        "Hashes create certificates"
+      ],
+      "correct_answer": "Signing a hash is more efficient than signing large data",
+      "explanation": "The correct answer is 'Signing a hash is more efficient than signing large data' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which security property ensures a sender cannot deny signing a message?",
+      "options": [
+        "Non-repudiation",
+        "Availability",
+        "Redundancy",
+        "Scalability"
+      ],
+      "correct_answer": "Non-repudiation",
+      "explanation": "The correct answer is 'Non-repudiation' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What role does SHA play in digital signatures?",
+      "options": [
+        "Creates a digest of the data being signed",
+        "Encrypts the document",
+        "Issues certificates",
+        "Stores private keys"
+      ],
+      "correct_answer": "Creates a digest of the data being signed",
+      "explanation": "The correct answer is 'Creates a digest of the data being signed' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the first step in verifying a digital signature?",
+      "options": [
+        "Calculate the hash of the received data",
+        "Generate a certificate",
+        "Encrypt the message",
+        "Create a new key pair"
+      ],
+      "correct_answer": "Calculate the hash of the received data",
+      "explanation": "The correct answer is 'Calculate the hash of the received data' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are digital signatures widely used in email security?",
+      "options": [
+        "To verify sender authenticity and message integrity",
+        "To compress emails",
+        "To route emails",
+        "To block spam"
+      ],
+      "correct_answer": "To verify sender authenticity and message integrity",
+      "explanation": "The correct answer is 'To verify sender authenticity and message integrity' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which technology commonly associates public keys with identities?",
+      "options": [
+        "Digital certificates",
+        "Firewalls",
+        "Routers",
+        "Switches"
+      ],
+      "correct_answer": "Digital certificates",
+      "explanation": "The correct answer is 'Digital certificates' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is signature verification?",
+      "options": [
+        "Checking that the signature matches the data and signer",
+        "Encrypting a file",
+        "Creating a key",
+        "Generating a hash only"
+      ],
+      "correct_answer": "Checking that the signature matches the data and signer",
+      "explanation": "The correct answer is 'Checking that the signature matches the data and signer' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which standard email technology uses digital signatures?",
+      "options": [
+        "S/MIME",
+        "ARP",
+        "ICMP",
+        "FTP"
+      ],
+      "correct_answer": "S/MIME",
+      "explanation": "The correct answer is 'S/MIME' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "If a private signing key is compromised, an attacker can?",
+      "options": [
+        "Create forged signatures",
+        "Break AES directly",
+        "Modify DNS",
+        "Issue CA certificates automatically"
+      ],
+      "correct_answer": "Create forged signatures",
+      "explanation": "The correct answer is 'Create forged signatures' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Digital signatures are commonly used in?",
+      "options": [
+        "Software signing",
+        "Disk formatting",
+        "Network routing",
+        "Video encoding"
+      ],
+      "correct_answer": "Software signing",
+      "explanation": "The correct answer is 'Software signing' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the main difference between encryption and digital signatures?",
+      "options": [
+        "Encryption protects confidentiality, signatures provide authenticity and integrity",
+        "They are identical",
+        "Signatures encrypt data",
+        "Encryption verifies identity"
+      ],
+      "correct_answer": "Encryption protects confidentiality, signatures provide authenticity and integrity",
+      "explanation": "The correct answer is 'Encryption protects confidentiality, signatures provide authenticity and integrity' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why can't a public key be used to create a valid digital signature?",
+      "options": [
+        "Only the corresponding private key can generate it",
+        "Public keys are secret",
+        "Hashes prevent it",
+        "Certificates block it"
+      ],
+      "correct_answer": "Only the corresponding private key can generate it",
+      "explanation": "The correct answer is 'Only the corresponding private key can generate it' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How do digital signatures support legal accountability?",
+      "options": [
+        "They provide evidence linking a signer to a document",
+        "They hide document contents",
+        "They replace encryption",
+        "They create passwords"
+      ],
+      "correct_answer": "They provide evidence linking a signer to a document",
+      "explanation": "The correct answer is 'They provide evidence linking a signer to a document' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What happens if two different documents produce different hashes during verification?",
+      "options": [
+        "The signature validation fails",
+        "The signature is stronger",
+        "The certificate is renewed",
+        "The key changes"
+      ],
+      "correct_answer": "The signature validation fails",
+      "explanation": "The correct answer is 'The signature validation fails' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why are timestamping services often used with digital signatures?",
+      "options": [
+        "To prove when a document was signed",
+        "To encrypt the signature",
+        "To generate keys",
+        "To compress files"
+      ],
+      "correct_answer": "To prove when a document was signed",
+      "explanation": "The correct answer is 'To prove when a document was signed' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which attack is mitigated by digital signatures?",
+      "options": [
+        "Message tampering",
+        "DDoS",
+        "ARP spoofing",
+        "Physical theft"
+      ],
+      "correct_answer": "Message tampering",
+      "explanation": "The correct answer is 'Message tampering' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What role do Certificate Authorities play in digital signatures?",
+      "options": [
+        "They help establish trust in public keys",
+        "They create private keys for users",
+        "They replace signatures",
+        "They perform encryption"
+      ],
+      "correct_answer": "They help establish trust in public keys",
+      "explanation": "The correct answer is 'They help establish trust in public keys' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are digital signatures critical in software distribution?",
+      "options": [
+        "They verify software origin and integrity",
+        "They compress applications",
+        "They improve performance",
+        "They manage DNS"
+      ],
+      "correct_answer": "They verify software origin and integrity",
+      "explanation": "The correct answer is 'They verify software origin and integrity' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which statement best describes a valid digital signature?",
+      "options": [
+        "The signed data has not been altered and came from the expected signer",
+        "The document is encrypted",
+        "The hash is secret",
+        "The certificate is hidden"
+      ],
+      "correct_answer": "The signed data has not been altered and came from the expected signer",
+      "explanation": "The correct answer is 'The signed data has not been altered and came from the expected signer' because it best explains digital signature concepts and applications."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes digital signatures today?",
+      "options": [
+        "A fundamental technology for authentication, integrity, and non-repudiation",
+        "A replacement for encryption",
+        "A hashing algorithm",
+        "A certificate authority"
+      ],
+      "correct_answer": "A fundamental technology for authentication, integrity, and non-repudiation",
+      "explanation": "The correct answer is 'A fundamental technology for authentication, integrity, and non-repudiation' because it best explains digital signature concepts and applications."
+    }
+  ]
+}

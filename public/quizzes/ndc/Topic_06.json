@@ -1,0 +1,396 @@
+{
+  "topic": "DMZ (Demilitarized Zone)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does DMZ stand for in networking?",
+      "options": [
+        "Demilitarized Zone",
+        "Data Management Zone",
+        "Distributed Monitoring Zone",
+        "Digital Management Zone"
+      ],
+      "correct_answer": "Demilitarized Zone",
+      "explanation": "The correct answer is 'Demilitarized Zone'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a DMZ?",
+      "options": [
+        "Isolate public-facing services from internal networks",
+        "Increase bandwidth",
+        "Store backups",
+        "Manage printers"
+      ],
+      "correct_answer": "Isolate public-facing services from internal networks",
+      "explanation": "The correct answer is 'Isolate public-facing services from internal networks'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which server is commonly placed in a DMZ?",
+      "options": [
+        "Web Server",
+        "Database Server",
+        "Domain Controller",
+        "File Server"
+      ],
+      "correct_answer": "Web Server",
+      "explanation": "The correct answer is 'Web Server'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "A DMZ is located between?",
+      "options": [
+        "Internet and Internal Network",
+        "Switch and Router",
+        "Client and Server",
+        "LAN and WAN"
+      ],
+      "correct_answer": "Internet and Internal Network",
+      "explanation": "The correct answer is 'Internet and Internal Network'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which device commonly protects a DMZ?",
+      "options": [
+        "Firewall",
+        "Hub",
+        "Repeater",
+        "Bridge"
+      ],
+      "correct_answer": "Firewall",
+      "explanation": "The correct answer is 'Firewall'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Why are public-facing servers placed in a DMZ?",
+      "options": [
+        "To reduce risk to internal systems",
+        "To improve graphics",
+        "To increase RAM",
+        "To speed up storage"
+      ],
+      "correct_answer": "To reduce risk to internal systems",
+      "explanation": "The correct answer is 'To reduce risk to internal systems'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which service is commonly hosted in a DMZ?",
+      "options": [
+        "Web Service",
+        "Payroll Database",
+        "HR System",
+        "Backup Storage"
+      ],
+      "correct_answer": "Web Service",
+      "explanation": "The correct answer is 'Web Service'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What type of traffic is usually allowed into a DMZ?",
+      "options": [
+        "Public traffic",
+        "Internal database traffic only",
+        "Printer traffic",
+        "USB traffic"
+      ],
+      "correct_answer": "Public traffic",
+      "explanation": "The correct answer is 'Public traffic'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which network is most protected in a DMZ architecture?",
+      "options": [
+        "Internal Network",
+        "Internet",
+        "DMZ",
+        "Guest Network"
+      ],
+      "correct_answer": "Internal Network",
+      "explanation": "The correct answer is 'Internal Network'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is a DMZ sometimes called?",
+      "options": [
+        "Perimeter Network",
+        "VPN Network",
+        "Storage Network",
+        "Management Network"
+      ],
+      "correct_answer": "Perimeter Network",
+      "explanation": "The correct answer is 'Perimeter Network'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a bastion host?",
+      "options": [
+        "Hardened system exposed to external networks",
+        "A switch",
+        "A firewall rule",
+        "A VPN tunnel"
+      ],
+      "correct_answer": "Hardened system exposed to external networks",
+      "explanation": "The correct answer is 'Hardened system exposed to external networks'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which architecture uses one firewall with three interfaces?",
+      "options": [
+        "Three-legged Firewall",
+        "Dual Firewall",
+        "Host-only",
+        "Bridge Mode"
+      ],
+      "correct_answer": "Three-legged Firewall",
+      "explanation": "The correct answer is 'Three-legged Firewall'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the advantage of a DMZ?",
+      "options": [
+        "Limits lateral movement after compromise",
+        "Improves CPU performance",
+        "Increases disk space",
+        "Reduces RAM usage"
+      ],
+      "correct_answer": "Limits lateral movement after compromise",
+      "explanation": "The correct answer is 'Limits lateral movement after compromise'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which server should generally NOT be placed in a DMZ?",
+      "options": [
+        "Internal Database Server",
+        "Public Web Server",
+        "Mail Gateway",
+        "DNS Server"
+      ],
+      "correct_answer": "Internal Database Server",
+      "explanation": "The correct answer is 'Internal Database Server'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is the purpose of network segmentation in a DMZ?",
+      "options": [
+        "Reduce attack surface",
+        "Increase internet speed",
+        "Improve graphics",
+        "Compress traffic"
+      ],
+      "correct_answer": "Reduce attack surface",
+      "explanation": "The correct answer is 'Reduce attack surface'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which protocol is commonly allowed from the internet to a DMZ web server?",
+      "options": [
+        "HTTP/HTTPS",
+        "SMB",
+        "RDP",
+        "NFS"
+      ],
+      "correct_answer": "HTTP/HTTPS",
+      "explanation": "The correct answer is 'HTTP/HTTPS'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a screened host architecture?",
+      "options": [
+        "Firewall protecting a bastion host",
+        "VPN setup",
+        "Cloud deployment",
+        "Load balancing"
+      ],
+      "correct_answer": "Firewall protecting a bastion host",
+      "explanation": "The correct answer is 'Firewall protecting a bastion host'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is the main role of a perimeter firewall?",
+      "options": [
+        "Control access to DMZ resources",
+        "Store logs",
+        "Manage DNS",
+        "Provide DHCP"
+      ],
+      "correct_answer": "Control access to DMZ resources",
+      "explanation": "The correct answer is 'Control access to DMZ resources'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which organization benefits from a DMZ?",
+      "options": [
+        "Any organization hosting public services",
+        "Only ISPs",
+        "Only banks",
+        "Only governments"
+      ],
+      "correct_answer": "Any organization hosting public services",
+      "explanation": "The correct answer is 'Any organization hosting public services'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What security principle does a DMZ support?",
+      "options": [
+        "Defense in Depth",
+        "Single Point of Failure",
+        "Open Access",
+        "No Authentication"
+      ],
+      "correct_answer": "Defense in Depth",
+      "explanation": "The correct answer is 'Defense in Depth'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is a screened subnet architecture?",
+      "options": [
+        "DMZ protected by two filtering layers",
+        "Single switch network",
+        "VPN topology",
+        "Wireless-only network"
+      ],
+      "correct_answer": "DMZ protected by two filtering layers",
+      "explanation": "The correct answer is 'DMZ protected by two filtering layers'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why should direct internet access to internal servers be avoided?",
+      "options": [
+        "Increases exposure to attacks",
+        "Improves performance",
+        "Reduces security logging",
+        "Prevents encryption"
+      ],
+      "correct_answer": "Increases exposure to attacks",
+      "explanation": "The correct answer is 'Increases exposure to attacks'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "In a dual-firewall DMZ, how many firewalls separate the internet from the internal LAN?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "correct_answer": "Two",
+      "explanation": "The correct answer is 'Two'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "If a web server in the DMZ is compromised, what should happen?",
+      "options": [
+        "Internal network remains protected",
+        "Entire network is compromised automatically",
+        "Firewall stops working",
+        "Internet disconnects"
+      ],
+      "correct_answer": "Internal network remains protected",
+      "explanation": "The correct answer is 'Internal network remains protected'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which security control is commonly used alongside a DMZ?",
+      "options": [
+        "IDS/IPS",
+        "Printer Server",
+        "Media Server",
+        "File Compression"
+      ],
+      "correct_answer": "IDS/IPS",
+      "explanation": "The correct answer is 'IDS/IPS'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is the biggest risk of a poorly configured DMZ?",
+      "options": [
+        "Unauthorized access to internal network",
+        "Higher RAM usage",
+        "Lower storage",
+        "Slow DNS"
+      ],
+      "correct_answer": "Unauthorized access to internal network",
+      "explanation": "The correct answer is 'Unauthorized access to internal network'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why are firewall rules between DMZ and internal LAN usually restrictive?",
+      "options": [
+        "To limit access if DMZ systems are compromised",
+        "To increase traffic",
+        "To reduce logging",
+        "To disable encryption"
+      ],
+      "correct_answer": "To limit access if DMZ systems are compromised",
+      "explanation": "The correct answer is 'To limit access if DMZ systems are compromised'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which enterprise service is often deployed in the DMZ to filter email threats?",
+      "options": [
+        "Mail Gateway",
+        "Database Cluster",
+        "ERP Server",
+        "Backup Server"
+      ],
+      "correct_answer": "Mail Gateway",
+      "explanation": "The correct answer is 'Mail Gateway'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What security benefit does a dual-firewall DMZ provide compared to a single-firewall DMZ?",
+      "options": [
+        "Additional layer of protection",
+        "More storage",
+        "Faster internet",
+        "Reduced monitoring"
+      ],
+      "correct_answer": "Additional layer of protection",
+      "explanation": "The correct answer is 'Additional layer of protection'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes a DMZ?",
+      "options": [
+        "A network segment that separates public services from internal systems",
+        "A VPN technology",
+        "A database security model",
+        "A wireless protocol"
+      ],
+      "correct_answer": "A network segment that separates public services from internal systems",
+      "explanation": "The correct answer is 'A network segment that separates public services from internal systems'. This concept belongs to DMZ (Demilitarized Zone). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    }
+  ]
+}

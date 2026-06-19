@@ -1,0 +1,396 @@
+{
+  "topic": "Attacks Against Encryption and Cryptographic Issues",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is cryptanalysis?",
+      "options": [
+        "The study of breaking cryptographic systems",
+        "The creation of encryption keys",
+        "The management of certificates",
+        "The process of hashing data"
+      ],
+      "correct_answer": "The study of breaking cryptographic systems",
+      "explanation": "The correct answer is 'The study of breaking cryptographic systems' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "A brute-force attack attempts to?",
+      "options": [
+        "Try every possible key",
+        "Steal certificates",
+        "Modify DNS records",
+        "Compress encrypted files"
+      ],
+      "correct_answer": "Try every possible key",
+      "explanation": "The correct answer is 'Try every possible key' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which attack uses a list of common passwords or keys?",
+      "options": [
+        "Dictionary attack",
+        "Replay attack",
+        "MITM attack",
+        "Side-channel attack"
+      ],
+      "correct_answer": "Dictionary attack",
+      "explanation": "The correct answer is 'Dictionary attack' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is a replay attack?",
+      "options": [
+        "Reusing captured valid communications",
+        "Guessing encryption keys",
+        "Deleting certificates",
+        "Modifying hashes"
+      ],
+      "correct_answer": "Reusing captured valid communications",
+      "explanation": "The correct answer is 'Reusing captured valid communications' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which attack intercepts communication between two parties?",
+      "options": [
+        "Man-in-the-Middle attack",
+        "Brute-force attack",
+        "Dictionary attack",
+        "Birthday attack"
+      ],
+      "correct_answer": "Man-in-the-Middle attack",
+      "explanation": "The correct answer is 'Man-in-the-Middle attack' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is a side-channel attack?",
+      "options": [
+        "Attack using implementation information such as timing or power usage",
+        "Attack on DNS",
+        "Attack on routing",
+        "Attack using malware only"
+      ],
+      "correct_answer": "Attack using implementation information such as timing or power usage",
+      "explanation": "The correct answer is 'Attack using implementation information such as timing or power usage' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Weak passwords primarily increase the risk of?",
+      "options": [
+        "Brute-force attacks",
+        "Packet loss",
+        "Compression failures",
+        "Certificate expiration"
+      ],
+      "correct_answer": "Brute-force attacks",
+      "explanation": "The correct answer is 'Brute-force attacks' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which factor most improves resistance to brute-force attacks?",
+      "options": [
+        "Longer keys",
+        "Smaller files",
+        "More certificates",
+        "More routers"
+      ],
+      "correct_answer": "Longer keys",
+      "explanation": "The correct answer is 'Longer keys' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "A cryptographic vulnerability is?",
+      "options": [
+        "A weakness that can be exploited",
+        "A type of certificate",
+        "A secure key",
+        "A hashing algorithm"
+      ],
+      "correct_answer": "A weakness that can be exploited",
+      "explanation": "The correct answer is 'A weakness that can be exploited' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is the goal of most cryptographic attacks?",
+      "options": [
+        "Compromise confidentiality, integrity, or authenticity",
+        "Improve performance",
+        "Increase storage",
+        "Reduce latency"
+      ],
+      "correct_answer": "Compromise confidentiality, integrity, or authenticity",
+      "explanation": "The correct answer is 'Compromise confidentiality, integrity, or authenticity' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a known-plaintext attack?",
+      "options": [
+        "Attacker has both plaintext and corresponding ciphertext",
+        "Attacker knows only the key",
+        "Attacker knows only ciphertext",
+        "Attacker owns the server"
+      ],
+      "correct_answer": "Attacker has both plaintext and corresponding ciphertext",
+      "explanation": "The correct answer is 'Attacker has both plaintext and corresponding ciphertext' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a ciphertext-only attack?",
+      "options": [
+        "Attacker only has access to ciphertext",
+        "Attacker knows the private key",
+        "Attacker knows plaintext",
+        "Attacker controls DNS"
+      ],
+      "correct_answer": "Attacker only has access to ciphertext",
+      "explanation": "The correct answer is 'Attacker only has access to ciphertext' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a chosen-plaintext attack?",
+      "options": [
+        "Attacker can encrypt selected plaintexts and observe ciphertexts",
+        "Attacker steals certificates",
+        "Attacker guesses passwords",
+        "Attacker captures hashes"
+      ],
+      "correct_answer": "Attacker can encrypt selected plaintexts and observe ciphertexts",
+      "explanation": "The correct answer is 'Attacker can encrypt selected plaintexts and observe ciphertexts' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is a chosen-ciphertext attack?",
+      "options": [
+        "Attacker can decrypt selected ciphertexts",
+        "Attacker chooses passwords",
+        "Attacker creates certificates",
+        "Attacker modifies logs"
+      ],
+      "correct_answer": "Attacker can decrypt selected ciphertexts",
+      "explanation": "The correct answer is 'Attacker can decrypt selected ciphertexts' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Birthday attacks are associated with weaknesses in?",
+      "options": [
+        "Hash functions",
+        "AES",
+        "DES",
+        "ECC"
+      ],
+      "correct_answer": "Hash functions",
+      "explanation": "The correct answer is 'Hash functions' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is key exhaustion?",
+      "options": [
+        "Trying all possible keys until the correct one is found",
+        "Deleting all keys",
+        "Losing private keys",
+        "Rotating keys frequently"
+      ],
+      "correct_answer": "Trying all possible keys until the correct one is found",
+      "explanation": "The correct answer is 'Trying all possible keys until the correct one is found' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why is proper key management critical?",
+      "options": [
+        "Strong algorithms fail if keys are compromised",
+        "Keys are optional",
+        "Algorithms replace keys",
+        "Certificates eliminate keys"
+      ],
+      "correct_answer": "Strong algorithms fail if keys are compromised",
+      "explanation": "The correct answer is 'Strong algorithms fail if keys are compromised' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What does salting help prevent?",
+      "options": [
+        "Precomputed hash attacks",
+        "Replay attacks",
+        "MITM attacks",
+        "Packet sniffing"
+      ],
+      "correct_answer": "Precomputed hash attacks",
+      "explanation": "The correct answer is 'Precomputed hash attacks' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which cryptographic issue occurs when random numbers are predictable?",
+      "options": [
+        "Weak key generation",
+        "Strong authentication",
+        "Perfect secrecy",
+        "Forward secrecy"
+      ],
+      "correct_answer": "Weak key generation",
+      "explanation": "The correct answer is 'Weak key generation' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why are outdated algorithms considered risky?",
+      "options": [
+        "They may contain known weaknesses",
+        "They improve performance too much",
+        "They use smaller files",
+        "They require certificates"
+      ],
+      "correct_answer": "They may contain known weaknesses",
+      "explanation": "The correct answer is 'They may contain known weaknesses' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the primary risk of poor random number generation in cryptography?",
+      "options": [
+        "Predictable keys and weakened security",
+        "Faster encryption",
+        "Improved key exchange",
+        "Reduced storage"
+      ],
+      "correct_answer": "Predictable keys and weakened security",
+      "explanation": "The correct answer is 'Predictable keys and weakened security' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why are side-channel attacks dangerous?",
+      "options": [
+        "They bypass mathematical security by targeting implementations",
+        "They break all encryption instantly",
+        "They require no access",
+        "They only affect networks"
+      ],
+      "correct_answer": "They bypass mathematical security by targeting implementations",
+      "explanation": "The correct answer is 'They bypass mathematical security by targeting implementations' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What cryptographic issue occurs when the same key is reused excessively?",
+      "options": [
+        "Increased exposure if the key is compromised",
+        "Improved confidentiality",
+        "Perfect secrecy",
+        "Automatic authentication"
+      ],
+      "correct_answer": "Increased exposure if the key is compromised",
+      "explanation": "The correct answer is 'Increased exposure if the key is compromised' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "A successful MITM attack against Diffie-Hellman typically exploits?",
+      "options": [
+        "Lack of authentication",
+        "Weak hashing",
+        "Large key sizes",
+        "Certificate revocation"
+      ],
+      "correct_answer": "Lack of authentication",
+      "explanation": "The correct answer is 'Lack of authentication' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is authenticated encryption recommended?",
+      "options": [
+        "It provides confidentiality and integrity together",
+        "It removes the need for keys",
+        "It replaces certificates",
+        "It compresses data"
+      ],
+      "correct_answer": "It provides confidentiality and integrity together",
+      "explanation": "The correct answer is 'It provides confidentiality and integrity together' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is the significance of the birthday paradox in cryptography?",
+      "options": [
+        "It increases the probability of hash collisions",
+        "It breaks RSA directly",
+        "It weakens AES keys",
+        "It generates certificates"
+      ],
+      "correct_answer": "It increases the probability of hash collisions",
+      "explanation": "The correct answer is 'It increases the probability of hash collisions' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which issue is most likely when organizations fail to rotate cryptographic keys?",
+      "options": [
+        "Long-term compromise impact increases",
+        "Encryption becomes faster",
+        "Hashes disappear",
+        "Certificates self-renew"
+      ],
+      "correct_answer": "Long-term compromise impact increases",
+      "explanation": "The correct answer is 'Long-term compromise impact increases' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What best describes defense in depth for cryptographic systems?",
+      "options": [
+        "Using multiple complementary security controls",
+        "Using only strong encryption",
+        "Using only MFA",
+        "Using only certificates"
+      ],
+      "correct_answer": "Using multiple complementary security controls",
+      "explanation": "The correct answer is 'Using multiple complementary security controls' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why are cryptographic implementations often attacked instead of algorithms?",
+      "options": [
+        "Implementations may contain practical weaknesses",
+        "Algorithms are public",
+        "Certificates are weak",
+        "Keys are unnecessary"
+      ],
+      "correct_answer": "Implementations may contain practical weaknesses",
+      "explanation": "The correct answer is 'Implementations may contain practical weaknesses' because it best explains attacks against encryption and common cryptographic issues."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes modern cryptographic security?",
+      "options": [
+        "Strong algorithms, secure implementations, and proper key management are all required",
+        "Algorithms alone are sufficient",
+        "Keys alone are sufficient",
+        "Certificates alone are sufficient"
+      ],
+      "correct_answer": "Strong algorithms, secure implementations, and proper key management are all required",
+      "explanation": "The correct answer is 'Strong algorithms, secure implementations, and proper key management are all required' because it best explains attacks against encryption and common cryptographic issues."
+    }
+  ]
+}

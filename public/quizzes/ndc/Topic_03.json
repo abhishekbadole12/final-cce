@@ -1,0 +1,396 @@
+{
+  "topic": "Vulnerability, Threat and Risk",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a vulnerability?",
+      "options": [
+        "A weakness in a system",
+        "An attack",
+        "A security policy",
+        "A firewall"
+      ],
+      "correct_answer": "A weakness in a system",
+      "explanation": "Correct answer: A weakness in a system. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is a threat?",
+      "options": [
+        "Potential danger",
+        "Patch update",
+        "Backup file",
+        "Network cable"
+      ],
+      "correct_answer": "Potential danger",
+      "explanation": "Correct answer: Potential danger. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is risk?",
+      "options": [
+        "Potential loss from a threat exploiting a vulnerability",
+        "A type of malware",
+        "A firewall rule",
+        "A security tool"
+      ],
+      "correct_answer": "Potential loss from a threat exploiting a vulnerability",
+      "explanation": "Correct answer: Potential loss from a threat exploiting a vulnerability. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which is an example of a vulnerability?",
+      "options": [
+        "Weak password",
+        "Hacker",
+        "Flood",
+        "Power outage"
+      ],
+      "correct_answer": "Weak password",
+      "explanation": "Correct answer: Weak password. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which is an example of a threat actor?",
+      "options": [
+        "Cybercriminal",
+        "Firewall",
+        "Switch",
+        "Router"
+      ],
+      "correct_answer": "Cybercriminal",
+      "explanation": "Correct answer: Cybercriminal. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "A missing security patch is a?",
+      "options": [
+        "Vulnerability",
+        "Threat",
+        "Risk",
+        "Control"
+      ],
+      "correct_answer": "Vulnerability",
+      "explanation": "Correct answer: Vulnerability. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Phishing is an example of?",
+      "options": [
+        "Threat",
+        "Asset",
+        "Control",
+        "Policy"
+      ],
+      "correct_answer": "Threat",
+      "explanation": "Correct answer: Threat. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Risk exists when?",
+      "options": [
+        "Threat and vulnerability exist together",
+        "Only threat exists",
+        "Only asset exists",
+        "No vulnerability exists"
+      ],
+      "correct_answer": "Threat and vulnerability exist together",
+      "explanation": "Correct answer: Threat and vulnerability exist together. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is an asset?",
+      "options": [
+        "Something valuable to protect",
+        "An attack",
+        "A vulnerability",
+        "A patch"
+      ],
+      "correct_answer": "Something valuable to protect",
+      "explanation": "Correct answer: Something valuable to protect. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which is NOT a threat?",
+      "options": [
+        "Antivirus",
+        "Malware",
+        "Insider attack",
+        "DDoS"
+      ],
+      "correct_answer": "Antivirus",
+      "explanation": "Correct answer: Antivirus. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Risk is commonly calculated using?",
+      "options": [
+        "Threat \u00d7 Vulnerability \u00d7 Impact",
+        "Bandwidth \u00d7 Latency",
+        "Users \u00d7 Devices",
+        "CPU \u00d7 RAM"
+      ],
+      "correct_answer": "Threat \u00d7 Vulnerability \u00d7 Impact",
+      "explanation": "Correct answer: Threat \u00d7 Vulnerability \u00d7 Impact. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which vulnerability is commonly exploited in web applications?",
+      "options": [
+        "SQL Injection",
+        "UPS",
+        "RAID",
+        "VPN"
+      ],
+      "correct_answer": "SQL Injection",
+      "explanation": "Correct answer: SQL Injection. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "A disgruntled employee is considered a?",
+      "options": [
+        "Insider threat",
+        "Vulnerability",
+        "Control",
+        "Asset"
+      ],
+      "correct_answer": "Insider threat",
+      "explanation": "Correct answer: Insider threat. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the purpose of a risk assessment?",
+      "options": [
+        "Identify and evaluate risks",
+        "Install software",
+        "Increase bandwidth",
+        "Create backups"
+      ],
+      "correct_answer": "Identify and evaluate risks",
+      "explanation": "Correct answer: Identify and evaluate risks. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which action reduces vulnerability?",
+      "options": [
+        "Applying patches",
+        "Increasing users",
+        "Disabling logs",
+        "Removing backups"
+      ],
+      "correct_answer": "Applying patches",
+      "explanation": "Correct answer: Applying patches. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is exposure?",
+      "options": [
+        "Degree of potential loss",
+        "Firewall rule",
+        "Encryption key",
+        "Authentication method"
+      ],
+      "correct_answer": "Degree of potential loss",
+      "explanation": "Correct answer: Degree of potential loss. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which threat exploits human behavior?",
+      "options": [
+        "Social Engineering",
+        "RAID",
+        "NAT",
+        "Proxy"
+      ],
+      "correct_answer": "Social Engineering",
+      "explanation": "Correct answer: Social Engineering. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a zero-day vulnerability?",
+      "options": [
+        "Unknown vulnerability without patch",
+        "Expired certificate",
+        "Weak password",
+        "Open port"
+      ],
+      "correct_answer": "Unknown vulnerability without patch",
+      "explanation": "Correct answer: Unknown vulnerability without patch. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which factor increases risk the most?",
+      "options": [
+        "High impact and high likelihood",
+        "Low impact",
+        "No threats",
+        "Strong controls"
+      ],
+      "correct_answer": "High impact and high likelihood",
+      "explanation": "Correct answer: High impact and high likelihood. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is risk mitigation?",
+      "options": [
+        "Reducing risk",
+        "Creating threats",
+        "Removing assets",
+        "Increasing vulnerabilities"
+      ],
+      "correct_answer": "Reducing risk",
+      "explanation": "Correct answer: Reducing risk. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "A company stores sensitive data on an unpatched server exposed to the internet. What creates the highest risk?",
+      "options": [
+        "Threat exploiting vulnerability",
+        "Firewall logs",
+        "User accounts",
+        "Network speed"
+      ],
+      "correct_answer": "Threat exploiting vulnerability",
+      "explanation": "Correct answer: Threat exploiting vulnerability. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which strategy transfers risk to another party?",
+      "options": [
+        "Cyber Insurance",
+        "Patch Management",
+        "Network Segmentation",
+        "Access Control"
+      ],
+      "correct_answer": "Cyber Insurance",
+      "explanation": "Correct answer: Cyber Insurance. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is residual risk?",
+      "options": [
+        "Risk remaining after controls are applied",
+        "Initial risk",
+        "Accepted vulnerability",
+        "Threat actor"
+      ],
+      "correct_answer": "Risk remaining after controls are applied",
+      "explanation": "Correct answer: Risk remaining after controls are applied. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "A flood damaging a data center is classified as?",
+      "options": [
+        "Natural threat",
+        "Logical vulnerability",
+        "Technical control",
+        "Access control"
+      ],
+      "correct_answer": "Natural threat",
+      "explanation": "Correct answer: Natural threat. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is risk avoidance?",
+      "options": [
+        "Eliminating activities causing risk",
+        "Reducing risk",
+        "Sharing risk",
+        "Monitoring risk"
+      ],
+      "correct_answer": "Eliminating activities causing risk",
+      "explanation": "Correct answer: Eliminating activities causing risk. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which framework commonly helps identify cybersecurity risks?",
+      "options": [
+        "NIST CSF",
+        "SMTP",
+        "FTP",
+        "DHCP"
+      ],
+      "correct_answer": "NIST CSF",
+      "explanation": "Correct answer: NIST CSF. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is the primary goal of vulnerability management?",
+      "options": [
+        "Identify, assess, and remediate vulnerabilities",
+        "Increase storage",
+        "Create backups only",
+        "Manage users"
+      ],
+      "correct_answer": "Identify, assess, and remediate vulnerabilities",
+      "explanation": "Correct answer: Identify, assess, and remediate vulnerabilities. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "An attacker exploits a weak password and steals customer data. Which sequence is correct?",
+      "options": [
+        "Threat exploits vulnerability causing risk impact",
+        "Risk creates threat",
+        "Asset exploits threat",
+        "Firewall creates risk"
+      ],
+      "correct_answer": "Threat exploits vulnerability causing risk impact",
+      "explanation": "Correct answer: Threat exploits vulnerability causing risk impact. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the difference between a threat and a vulnerability?",
+      "options": [
+        "Threat causes harm; vulnerability is a weakness",
+        "They are identical",
+        "Threat is a control",
+        "Vulnerability is an asset"
+      ],
+      "correct_answer": "Threat causes harm; vulnerability is a weakness",
+      "explanation": "Correct answer: Threat causes harm; vulnerability is a weakness. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which risk treatment option accepts risk without additional controls?",
+      "options": [
+        "Risk Acceptance",
+        "Risk Mitigation",
+        "Risk Transfer",
+        "Risk Avoidance"
+      ],
+      "correct_answer": "Risk Acceptance",
+      "explanation": "Correct answer: Risk Acceptance. This answer is correct based on the core concepts of Vulnerability, Threat and Risk. Review the question keywords and security principle being tested."
+    }
+  ]
+}

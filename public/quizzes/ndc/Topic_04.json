@@ -1,0 +1,396 @@
+{
+  "topic": "Risk Management and Countermeasures",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary objective of risk management?",
+      "options": [
+        "Reduce risk to acceptable levels",
+        "Eliminate all threats",
+        "Increase network speed",
+        "Replace firewalls"
+      ],
+      "correct_answer": "Reduce risk to acceptable levels",
+      "explanation": "Correct answer: Reduce risk to acceptable levels. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the first step in risk management?",
+      "options": [
+        "Risk Identification",
+        "Risk Treatment",
+        "Risk Monitoring",
+        "Risk Transfer"
+      ],
+      "correct_answer": "Risk Identification",
+      "explanation": "Correct answer: Risk Identification. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which item is identified during risk identification?",
+      "options": [
+        "Assets and threats",
+        "IP addresses only",
+        "Firewalls only",
+        "Users only"
+      ],
+      "correct_answer": "Assets and threats",
+      "explanation": "Correct answer: Assets and threats. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is a countermeasure?",
+      "options": [
+        "A control used to reduce risk",
+        "A threat actor",
+        "A vulnerability",
+        "A malware"
+      ],
+      "correct_answer": "A control used to reduce risk",
+      "explanation": "Correct answer: A control used to reduce risk. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which of the following is a security control?",
+      "options": [
+        "Firewall",
+        "Virus",
+        "Exploit",
+        "Threat"
+      ],
+      "correct_answer": "Firewall",
+      "explanation": "Correct answer: Firewall. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does risk assessment help determine?",
+      "options": [
+        "Likelihood and impact",
+        "Internet speed",
+        "Disk size",
+        "CPU usage"
+      ],
+      "correct_answer": "Likelihood and impact",
+      "explanation": "Correct answer: Likelihood and impact. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which control prevents unauthorized access?",
+      "options": [
+        "Access Control",
+        "Packet Loss",
+        "Latency",
+        "Routing"
+      ],
+      "correct_answer": "Access Control",
+      "explanation": "Correct answer: Access Control. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is risk treatment?",
+      "options": [
+        "Selecting methods to handle risk",
+        "Creating vulnerabilities",
+        "Installing malware",
+        "Deleting logs"
+      ],
+      "correct_answer": "Selecting methods to handle risk",
+      "explanation": "Correct answer: Selecting methods to handle risk. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which is an example of a technical control?",
+      "options": [
+        "Antivirus",
+        "Security Policy",
+        "Security Guard",
+        "Locked Door"
+      ],
+      "correct_answer": "Antivirus",
+      "explanation": "Correct answer: Antivirus. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which is an example of a physical control?",
+      "options": [
+        "CCTV Camera",
+        "Firewall",
+        "VPN",
+        "Encryption"
+      ],
+      "correct_answer": "CCTV Camera",
+      "explanation": "Correct answer: CCTV Camera. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is risk mitigation?",
+      "options": [
+        "Reducing risk through controls",
+        "Ignoring risk",
+        "Creating risk",
+        "Accepting all risks"
+      ],
+      "correct_answer": "Reducing risk through controls",
+      "explanation": "Correct answer: Reducing risk through controls. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which risk treatment strategy removes the source of risk?",
+      "options": [
+        "Risk Avoidance",
+        "Risk Transfer",
+        "Risk Acceptance",
+        "Risk Monitoring"
+      ],
+      "correct_answer": "Risk Avoidance",
+      "explanation": "Correct answer: Risk Avoidance. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Cyber insurance is an example of?",
+      "options": [
+        "Risk Transfer",
+        "Risk Avoidance",
+        "Risk Acceptance",
+        "Risk Mitigation"
+      ],
+      "correct_answer": "Risk Transfer",
+      "explanation": "Correct answer: Risk Transfer. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is risk acceptance?",
+      "options": [
+        "Accepting remaining risk",
+        "Eliminating risk",
+        "Transferring risk",
+        "Ignoring threats"
+      ],
+      "correct_answer": "Accepting remaining risk",
+      "explanation": "Correct answer: Accepting remaining risk. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which control detects security incidents?",
+      "options": [
+        "IDS",
+        "Firewall",
+        "VPN",
+        "NAT"
+      ],
+      "correct_answer": "IDS",
+      "explanation": "Correct answer: IDS. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Security awareness training is what type of control?",
+      "options": [
+        "Administrative Control",
+        "Technical Control",
+        "Physical Control",
+        "Environmental Control"
+      ],
+      "correct_answer": "Administrative Control",
+      "explanation": "Correct answer: Administrative Control. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the purpose of a security policy?",
+      "options": [
+        "Define security rules",
+        "Increase bandwidth",
+        "Create vulnerabilities",
+        "Replace controls"
+      ],
+      "correct_answer": "Define security rules",
+      "explanation": "Correct answer: Define security rules. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which control helps recover after an incident?",
+      "options": [
+        "Backup System",
+        "Firewall",
+        "IDS",
+        "ACL"
+      ],
+      "correct_answer": "Backup System",
+      "explanation": "Correct answer: Backup System. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is exposure in risk management?",
+      "options": [
+        "Potential loss from a threat",
+        "Internet access",
+        "System uptime",
+        "CPU utilization"
+      ],
+      "correct_answer": "Potential loss from a threat",
+      "explanation": "Correct answer: Potential loss from a threat. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which control category includes biometric authentication?",
+      "options": [
+        "Technical Control",
+        "Administrative Control",
+        "Environmental Control",
+        "Legal Control"
+      ],
+      "correct_answer": "Technical Control",
+      "explanation": "Correct answer: Technical Control. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is residual risk?",
+      "options": [
+        "Remaining risk after controls are applied",
+        "Initial risk",
+        "Unknown risk",
+        "Accepted threat"
+      ],
+      "correct_answer": "Remaining risk after controls are applied",
+      "explanation": "Correct answer: Remaining risk after controls are applied. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which control type identifies security events after they occur?",
+      "options": [
+        "Detective Control",
+        "Preventive Control",
+        "Corrective Control",
+        "Compensating Control"
+      ],
+      "correct_answer": "Detective Control",
+      "explanation": "Correct answer: Detective Control. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is a corrective control?",
+      "options": [
+        "Control that restores systems after an incident",
+        "Control that blocks attacks",
+        "Control that monitors traffic",
+        "Control that identifies assets"
+      ],
+      "correct_answer": "Control that restores systems after an incident",
+      "explanation": "Correct answer: Control that restores systems after an incident. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Defense in depth refers to?",
+      "options": [
+        "Multiple layers of security",
+        "Single strong firewall",
+        "Only IDS deployment",
+        "Only VPN usage"
+      ],
+      "correct_answer": "Multiple layers of security",
+      "explanation": "Correct answer: Multiple layers of security. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which framework is widely used for cybersecurity risk management?",
+      "options": [
+        "NIST Cybersecurity Framework",
+        "FTP",
+        "SMTP",
+        "POP3"
+      ],
+      "correct_answer": "NIST Cybersecurity Framework",
+      "explanation": "Correct answer: NIST Cybersecurity Framework. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is a compensating control?",
+      "options": [
+        "Alternative control when primary control cannot be implemented",
+        "Backup file",
+        "Threat actor",
+        "Patch"
+      ],
+      "correct_answer": "Alternative control when primary control cannot be implemented",
+      "explanation": "Correct answer: Alternative control when primary control cannot be implemented. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "A company patches servers and deploys MFA. What type of action is this?",
+      "options": [
+        "Risk Mitigation",
+        "Risk Transfer",
+        "Risk Acceptance",
+        "Risk Avoidance"
+      ],
+      "correct_answer": "Risk Mitigation",
+      "explanation": "Correct answer: Risk Mitigation. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is the purpose of continuous risk monitoring?",
+      "options": [
+        "Track changes in risk levels",
+        "Increase storage",
+        "Reduce network traffic",
+        "Manage printers"
+      ],
+      "correct_answer": "Track changes in risk levels",
+      "explanation": "Correct answer: Track changes in risk levels. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which scenario best demonstrates risk avoidance?",
+      "options": [
+        "Discontinuing a vulnerable service",
+        "Buying insurance",
+        "Installing IDS",
+        "Monitoring logs"
+      ],
+      "correct_answer": "Discontinuing a vulnerable service",
+      "explanation": "Correct answer: Discontinuing a vulnerable service. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes effective risk management?",
+      "options": [
+        "Balancing risk, cost, and business objectives",
+        "Eliminating all risk",
+        "Deploying only technical controls",
+        "Using only firewalls"
+      ],
+      "correct_answer": "Balancing risk, cost, and business objectives",
+      "explanation": "Correct answer: Balancing risk, cost, and business objectives. This answer is correct based on the core concepts of Risk Management and Countermeasures. Review the question keywords and security principle being tested."
+    }
+  ]
+}

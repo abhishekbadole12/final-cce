@@ -1,0 +1,396 @@
+{
+  "topic": "Intrusion Detection System (IDS)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does IDS stand for?",
+      "options": [
+        "Intrusion Detection System",
+        "Internet Defense System",
+        "Integrated Detection Service",
+        "Internal Defense Service"
+      ],
+      "correct_answer": "Intrusion Detection System",
+      "explanation": "The correct answer is 'Intrusion Detection System'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of an IDS?",
+      "options": [
+        "Detect suspicious activities",
+        "Block all traffic",
+        "Encrypt data",
+        "Load balance traffic"
+      ],
+      "correct_answer": "Detect suspicious activities",
+      "explanation": "The correct answer is 'Detect suspicious activities'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Does an IDS primarily detect or prevent attacks?",
+      "options": [
+        "Detect",
+        "Prevent",
+        "Encrypt",
+        "Route"
+      ],
+      "correct_answer": "Detect",
+      "explanation": "The correct answer is 'Detect'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which IDS type monitors network traffic?",
+      "options": [
+        "NIDS",
+        "HIDS",
+        "VPN",
+        "WAF"
+      ],
+      "correct_answer": "NIDS",
+      "explanation": "The correct answer is 'NIDS'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which IDS type monitors activity on a specific host?",
+      "options": [
+        "HIDS",
+        "NIDS",
+        "Router",
+        "Firewall"
+      ],
+      "correct_answer": "HIDS",
+      "explanation": "The correct answer is 'HIDS'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does NIDS stand for?",
+      "options": [
+        "Network Intrusion Detection System",
+        "Network Internet Detection Service",
+        "Node Intrusion Detection System",
+        "Network Internal Defense System"
+      ],
+      "correct_answer": "Network Intrusion Detection System",
+      "explanation": "The correct answer is 'Network Intrusion Detection System'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does HIDS stand for?",
+      "options": [
+        "Host Intrusion Detection System",
+        "Host Internet Detection Service",
+        "Hybrid Intrusion Detection System",
+        "Hardware Intrusion Defense System"
+      ],
+      "correct_answer": "Host Intrusion Detection System",
+      "explanation": "The correct answer is 'Host Intrusion Detection System'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which device is commonly used to mirror network traffic to a NIDS?",
+      "options": [
+        "Switch SPAN Port",
+        "Printer",
+        "UPS",
+        "Monitor"
+      ],
+      "correct_answer": "Switch SPAN Port",
+      "explanation": "The correct answer is 'Switch SPAN Port'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is an alert in IDS terminology?",
+      "options": [
+        "Notification of suspicious activity",
+        "Blocked packet",
+        "Encrypted file",
+        "Routing update"
+      ],
+      "correct_answer": "Notification of suspicious activity",
+      "explanation": "The correct answer is 'Notification of suspicious activity'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What does an IDS analyze?",
+      "options": [
+        "Logs, traffic, and events",
+        "Only passwords",
+        "Only databases",
+        "Only DNS"
+      ],
+      "correct_answer": "Logs, traffic, and events",
+      "explanation": "The correct answer is 'Logs, traffic, and events'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is signature-based detection?",
+      "options": [
+        "Detecting known attack patterns",
+        "Detecting hardware failures",
+        "Detecting bandwidth issues",
+        "Detecting routing loops"
+      ],
+      "correct_answer": "Detecting known attack patterns",
+      "explanation": "The correct answer is 'Detecting known attack patterns'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is anomaly-based detection?",
+      "options": [
+        "Detecting deviations from normal behavior",
+        "Matching attack signatures",
+        "Blocking traffic",
+        "Encrypting packets"
+      ],
+      "correct_answer": "Detecting deviations from normal behavior",
+      "explanation": "The correct answer is 'Detecting deviations from normal behavior'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a false positive?",
+      "options": [
+        "Benign activity incorrectly flagged as malicious",
+        "Missed attack",
+        "Successful attack",
+        "Blocked attack"
+      ],
+      "correct_answer": "Benign activity incorrectly flagged as malicious",
+      "explanation": "The correct answer is 'Benign activity incorrectly flagged as malicious'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is a false negative?",
+      "options": [
+        "Attack not detected",
+        "Normal traffic flagged",
+        "Encrypted traffic",
+        "Logged traffic"
+      ],
+      "correct_answer": "Attack not detected",
+      "explanation": "The correct answer is 'Attack not detected'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is an IDS sensor?",
+      "options": [
+        "Component that collects and analyzes data",
+        "Firewall rule",
+        "Routing table",
+        "DNS record"
+      ],
+      "correct_answer": "Component that collects and analyzes data",
+      "explanation": "The correct answer is 'Component that collects and analyzes data'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the role of an IDS manager?",
+      "options": [
+        "Centralized monitoring and analysis",
+        "Packet forwarding",
+        "Load balancing",
+        "DHCP management"
+      ],
+      "correct_answer": "Centralized monitoring and analysis",
+      "explanation": "The correct answer is 'Centralized monitoring and analysis'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which detection method is best for identifying known threats?",
+      "options": [
+        "Signature-Based Detection",
+        "Anomaly Detection",
+        "Manual Inspection",
+        "Load Balancing"
+      ],
+      "correct_answer": "Signature-Based Detection",
+      "explanation": "The correct answer is 'Signature-Based Detection'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which detection method is more likely to detect zero-day attacks?",
+      "options": [
+        "Anomaly-Based Detection",
+        "Signature-Based Detection",
+        "DNS Filtering",
+        "Static Routing"
+      ],
+      "correct_answer": "Anomaly-Based Detection",
+      "explanation": "The correct answer is 'Anomaly-Based Detection'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why are IDS logs important?",
+      "options": [
+        "Incident investigation and monitoring",
+        "Increase bandwidth",
+        "Reduce latency",
+        "Improve graphics"
+      ],
+      "correct_answer": "Incident investigation and monitoring",
+      "explanation": "The correct answer is 'Incident investigation and monitoring'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a security event?",
+      "options": [
+        "Observable occurrence relevant to security",
+        "Printer failure",
+        "Monitor issue",
+        "Power outage"
+      ],
+      "correct_answer": "Observable occurrence relevant to security",
+      "explanation": "The correct answer is 'Observable occurrence relevant to security'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is a major limitation of signature-based IDS?",
+      "options": [
+        "Cannot detect unknown attacks",
+        "Consumes no resources",
+        "Blocks all attacks",
+        "Requires no updates"
+      ],
+      "correct_answer": "Cannot detect unknown attacks",
+      "explanation": "The correct answer is 'Cannot detect unknown attacks'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why do anomaly-based IDS systems often generate more false positives?",
+      "options": [
+        "Unusual but legitimate activity may appear suspicious",
+        "They use signatures",
+        "They block traffic",
+        "They ignore logs"
+      ],
+      "correct_answer": "Unusual but legitimate activity may appear suspicious",
+      "explanation": "The correct answer is 'Unusual but legitimate activity may appear suspicious'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is defense in depth in relation to IDS?",
+      "options": [
+        "Using IDS as one layer of security among many",
+        "Using only IDS",
+        "Replacing firewalls",
+        "Disabling monitoring"
+      ],
+      "correct_answer": "Using IDS as one layer of security among many",
+      "explanation": "The correct answer is 'Using IDS as one layer of security among many'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How does an IDS support threat hunting?",
+      "options": [
+        "Provides data and alerts for investigation",
+        "Encrypts traffic",
+        "Routes packets",
+        "Creates VPN tunnels"
+      ],
+      "correct_answer": "Provides data and alerts for investigation",
+      "explanation": "The correct answer is 'Provides data and alerts for investigation'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is a common deployment location for a NIDS?",
+      "options": [
+        "Network perimeter or DMZ",
+        "Printer network",
+        "USB hub",
+        "Monitor port"
+      ],
+      "correct_answer": "Network perimeter or DMZ",
+      "explanation": "The correct answer is 'Network perimeter or DMZ'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why should IDS signatures be updated regularly?",
+      "options": [
+        "To detect newly discovered threats",
+        "To improve graphics",
+        "To reduce storage",
+        "To increase bandwidth"
+      ],
+      "correct_answer": "To detect newly discovered threats",
+      "explanation": "The correct answer is 'To detect newly discovered threats'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What risk exists if IDS alerts are ignored?",
+      "options": [
+        "Attacks may go undetected and unresolved",
+        "Bandwidth increases",
+        "Logs are deleted",
+        "VPN fails"
+      ],
+      "correct_answer": "Attacks may go undetected and unresolved",
+      "explanation": "The correct answer is 'Attacks may go undetected and unresolved'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which concept describes correlating multiple security events to identify attacks?",
+      "options": [
+        "Event Correlation",
+        "Packet Fragmentation",
+        "DNS Resolution",
+        "ARP Caching"
+      ],
+      "correct_answer": "Event Correlation",
+      "explanation": "The correct answer is 'Event Correlation'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the relationship between IDS and SIEM?",
+      "options": [
+        "IDS generates alerts that SIEM can correlate",
+        "They are identical",
+        "SIEM replaces IDS",
+        "IDS stores backups"
+      ],
+      "correct_answer": "IDS generates alerts that SIEM can correlate",
+      "explanation": "The correct answer is 'IDS generates alerts that SIEM can correlate'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes an IDS?",
+      "options": [
+        "A security solution that monitors systems or networks and alerts on suspicious activity",
+        "A firewall that blocks all attacks",
+        "A VPN protocol",
+        "A load balancer"
+      ],
+      "correct_answer": "A security solution that monitors systems or networks and alerts on suspicious activity",
+      "explanation": "The correct answer is 'A security solution that monitors systems or networks and alerts on suspicious activity'. This answer is correct because it represents a key concept in Intrusion Detection System (IDS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    }
+  ]
+}

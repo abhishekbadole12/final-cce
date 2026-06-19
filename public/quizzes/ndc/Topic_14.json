@@ -1,0 +1,396 @@
+{
+  "topic": "Load Balancer and Server Farming",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a load balancer?",
+      "options": [
+        "Distribute traffic across multiple servers",
+        "Encrypt data",
+        "Store backups",
+        "Capture packets"
+      ],
+      "correct_answer": "Distribute traffic across multiple servers",
+      "explanation": "The correct answer is 'Distribute traffic across multiple servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is server farming?",
+      "options": [
+        "Using multiple servers to provide a service",
+        "Growing servers physically",
+        "Managing databases",
+        "Packet filtering"
+      ],
+      "correct_answer": "Using multiple servers to provide a service",
+      "explanation": "The correct answer is 'Using multiple servers to provide a service'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which benefit does load balancing provide?",
+      "options": [
+        "High Availability",
+        "Disk Encryption",
+        "Packet Capture",
+        "User Authentication"
+      ],
+      "correct_answer": "High Availability",
+      "explanation": "The correct answer is 'High Availability'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "A load balancer sits between?",
+      "options": [
+        "Clients and servers",
+        "Two switches",
+        "Two routers",
+        "Two firewalls"
+      ],
+      "correct_answer": "Clients and servers",
+      "explanation": "The correct answer is 'Clients and servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What does HA stand for?",
+      "options": [
+        "High Availability",
+        "Host Authentication",
+        "High Access",
+        "Host Availability"
+      ],
+      "correct_answer": "High Availability",
+      "explanation": "The correct answer is 'High Availability'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which load balancing algorithm distributes requests sequentially?",
+      "options": [
+        "Round Robin",
+        "IP Hash",
+        "Least Connections",
+        "Random DNS"
+      ],
+      "correct_answer": "Round Robin",
+      "explanation": "The correct answer is 'Round Robin'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which load balancer type operates using ports and IP addresses?",
+      "options": [
+        "Layer 4",
+        "Layer 7",
+        "Application Firewall",
+        "Proxy Cache"
+      ],
+      "correct_answer": "Layer 4",
+      "explanation": "The correct answer is 'Layer 4'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which layer understands HTTP requests?",
+      "options": [
+        "Layer 7",
+        "Layer 4",
+        "Layer 2",
+        "Layer 1"
+      ],
+      "correct_answer": "Layer 7",
+      "explanation": "The correct answer is 'Layer 7'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Why are multiple servers used in server farms?",
+      "options": [
+        "Improve availability and scalability",
+        "Reduce RAM",
+        "Increase latency",
+        "Disable redundancy"
+      ],
+      "correct_answer": "Improve availability and scalability",
+      "explanation": "The correct answer is 'Improve availability and scalability'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What happens if one server fails in a properly configured load-balanced setup?",
+      "options": [
+        "Traffic is redirected to healthy servers",
+        "Entire service stops",
+        "DNS stops working",
+        "All clients disconnect"
+      ],
+      "correct_answer": "Traffic is redirected to healthy servers",
+      "explanation": "The correct answer is 'Traffic is redirected to healthy servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the Least Connections algorithm?",
+      "options": [
+        "Sends traffic to the server with the fewest active connections",
+        "Uses random selection",
+        "Uses source IP only",
+        "Uses DNS records"
+      ],
+      "correct_answer": "Sends traffic to the server with the fewest active connections",
+      "explanation": "The correct answer is 'Sends traffic to the server with the fewest active connections'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is IP Hash load balancing?",
+      "options": [
+        "Routes clients based on source IP hash",
+        "Encrypts IP addresses",
+        "Changes client IPs",
+        "Blocks traffic"
+      ],
+      "correct_answer": "Routes clients based on source IP hash",
+      "explanation": "The correct answer is 'Routes clients based on source IP hash'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is scalability?",
+      "options": [
+        "Ability to handle increased load",
+        "Ability to encrypt traffic",
+        "Ability to compress data",
+        "Ability to monitor logs"
+      ],
+      "correct_answer": "Ability to handle increased load",
+      "explanation": "The correct answer is 'Ability to handle increased load'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why are health checks important?",
+      "options": [
+        "Identify failed servers",
+        "Increase bandwidth",
+        "Encrypt traffic",
+        "Reduce storage"
+      ],
+      "correct_answer": "Identify failed servers",
+      "explanation": "The correct answer is 'Identify failed servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is horizontal scaling?",
+      "options": [
+        "Adding more servers",
+        "Upgrading server RAM only",
+        "Replacing switches",
+        "Changing DNS"
+      ],
+      "correct_answer": "Adding more servers",
+      "explanation": "The correct answer is 'Adding more servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is vertical scaling?",
+      "options": [
+        "Adding resources to an existing server",
+        "Adding servers",
+        "Adding routers",
+        "Adding firewalls"
+      ],
+      "correct_answer": "Adding resources to an existing server",
+      "explanation": "The correct answer is 'Adding resources to an existing server'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which device commonly performs load balancing?",
+      "options": [
+        "Load Balancer",
+        "Hub",
+        "Repeater",
+        "Bridge"
+      ],
+      "correct_answer": "Load Balancer",
+      "explanation": "The correct answer is 'Load Balancer'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "How does load balancing improve performance?",
+      "options": [
+        "Distributes workload across servers",
+        "Blocks traffic",
+        "Compresses files",
+        "Encrypts traffic"
+      ],
+      "correct_answer": "Distributes workload across servers",
+      "explanation": "The correct answer is 'Distributes workload across servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is session persistence (sticky sessions)?",
+      "options": [
+        "Keeping a client connected to the same backend server",
+        "Dropping idle sessions",
+        "Encrypting sessions",
+        "Blocking sessions"
+      ],
+      "correct_answer": "Keeping a client connected to the same backend server",
+      "explanation": "The correct answer is 'Keeping a client connected to the same backend server'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which technology often combines reverse proxy and load balancing?",
+      "options": [
+        "Nginx",
+        "ARP",
+        "FTP",
+        "SMTP"
+      ],
+      "correct_answer": "Nginx",
+      "explanation": "The correct answer is 'Nginx'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is Active-Active architecture?",
+      "options": [
+        "Multiple servers actively handling traffic",
+        "One active and one standby server",
+        "No redundancy",
+        "Offline servers"
+      ],
+      "correct_answer": "Multiple servers actively handling traffic",
+      "explanation": "The correct answer is 'Multiple servers actively handling traffic'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is Active-Passive architecture?",
+      "options": [
+        "One active server with standby backup",
+        "All servers active",
+        "No failover",
+        "Only DNS balancing"
+      ],
+      "correct_answer": "One active server with standby backup",
+      "explanation": "The correct answer is 'One active server with standby backup'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why can Layer 7 load balancers make smarter routing decisions?",
+      "options": [
+        "They inspect application data",
+        "They use bigger CPUs",
+        "They ignore HTTP",
+        "They disable encryption"
+      ],
+      "correct_answer": "They inspect application data",
+      "explanation": "The correct answer is 'They inspect application data'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is a common challenge with sticky sessions?",
+      "options": [
+        "Uneven load distribution",
+        "More bandwidth",
+        "Improved redundancy",
+        "Better scalability"
+      ],
+      "correct_answer": "Uneven load distribution",
+      "explanation": "The correct answer is 'Uneven load distribution'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How does load balancing contribute to fault tolerance?",
+      "options": [
+        "Redirects traffic away from failed servers",
+        "Blocks all failures",
+        "Disables redundancy",
+        "Removes health checks"
+      ],
+      "correct_answer": "Redirects traffic away from failed servers",
+      "explanation": "The correct answer is 'Redirects traffic away from failed servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why are load balancers often placed behind reverse proxies?",
+      "options": [
+        "Improve security and scalability",
+        "Reduce storage",
+        "Increase packet loss",
+        "Disable logging"
+      ],
+      "correct_answer": "Improve security and scalability",
+      "explanation": "The correct answer is 'Improve security and scalability'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which metric is commonly monitored by health checks?",
+      "options": [
+        "Server availability",
+        "Printer status",
+        "Monitor brightness",
+        "Keyboard usage"
+      ],
+      "correct_answer": "Server availability",
+      "explanation": "The correct answer is 'Server availability'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is the key difference between a reverse proxy and a load balancer?",
+      "options": [
+        "Load balancer distributes traffic; reverse proxy primarily protects and forwards requests",
+        "They are identical",
+        "Load balancer captures packets",
+        "Reverse proxy manages databases"
+      ],
+      "correct_answer": "Load balancer distributes traffic; reverse proxy primarily protects and forwards requests",
+      "explanation": "The correct answer is 'Load balancer distributes traffic; reverse proxy primarily protects and forwards requests'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What happens if health checks are not configured correctly?",
+      "options": [
+        "Traffic may be sent to failed servers",
+        "Traffic becomes encrypted",
+        "Bandwidth doubles",
+        "Logs are deleted"
+      ],
+      "correct_answer": "Traffic may be sent to failed servers",
+      "explanation": "The correct answer is 'Traffic may be sent to failed servers'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes load balancing?",
+      "options": [
+        "A technique that distributes traffic across multiple servers to improve availability, scalability, and performance",
+        "A firewall technology",
+        "A VPN protocol",
+        "A packet capture method"
+      ],
+      "correct_answer": "A technique that distributes traffic across multiple servers to improve availability, scalability, and performance",
+      "explanation": "The correct answer is 'A technique that distributes traffic across multiple servers to improve availability, scalability, and performance'. This answer is correct because it aligns with the core concept of Load Balancer and Server Farming. Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    }
+  ]
+}

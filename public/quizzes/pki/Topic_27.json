@@ -1,0 +1,396 @@
+{
+  "topic": "FIPS 140-2",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does FIPS stand for?",
+      "options": [
+        "Federal Information Processing Standards",
+        "Federal Information Protection System",
+        "File Integrity Protection Standard",
+        "Federal Identity Processing System"
+      ],
+      "correct_answer": "Federal Information Processing Standards",
+      "explanation": "The correct answer is 'Federal Information Processing Standards' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who publishes FIPS 140-2?",
+      "options": [
+        "NIST",
+        "RSA Laboratories",
+        "IETF",
+        "Microsoft"
+      ],
+      "correct_answer": "NIST",
+      "explanation": "The correct answer is 'NIST' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of FIPS 140-2?",
+      "options": [
+        "Validate cryptographic modules",
+        "Issue certificates",
+        "Encrypt emails",
+        "Manage DNS"
+      ],
+      "correct_answer": "Validate cryptographic modules",
+      "explanation": "The correct answer is 'Validate cryptographic modules' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "FIPS 140-2 applies mainly to?",
+      "options": [
+        "Cryptographic modules",
+        "Operating systems only",
+        "Web browsers only",
+        "Routers only"
+      ],
+      "correct_answer": "Cryptographic modules",
+      "explanation": "The correct answer is 'Cryptographic modules' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "How many security levels are defined in FIPS 140-2?",
+      "options": [
+        "4",
+        "2",
+        "5",
+        "10"
+      ],
+      "correct_answer": "4",
+      "explanation": "The correct answer is '4' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which organization commonly requires FIPS-compliant products?",
+      "options": [
+        "Government agencies",
+        "Social media companies only",
+        "Video streaming services",
+        "Gaming platforms"
+      ],
+      "correct_answer": "Government agencies",
+      "explanation": "The correct answer is 'Government agencies' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "FIPS 140-2 focuses on?",
+      "options": [
+        "Security of cryptographic implementations",
+        "Network routing",
+        "Database design",
+        "Web development"
+      ],
+      "correct_answer": "Security of cryptographic implementations",
+      "explanation": "The correct answer is 'Security of cryptographic implementations' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is a cryptographic module?",
+      "options": [
+        "Hardware, software, or firmware implementing cryptography",
+        "A firewall",
+        "A router",
+        "A DNS server"
+      ],
+      "correct_answer": "Hardware, software, or firmware implementing cryptography",
+      "explanation": "The correct answer is 'Hardware, software, or firmware implementing cryptography' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "FIPS validation helps provide?",
+      "options": [
+        "Assurance and trust",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Assurance and trust",
+      "explanation": "The correct answer is 'Assurance and trust' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which security area is evaluated under FIPS 140-2?",
+      "options": [
+        "Key management",
+        "Video encoding",
+        "DNS resolution",
+        "Database indexing"
+      ],
+      "correct_answer": "Key management",
+      "explanation": "The correct answer is 'Key management' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What does FIPS 140-2 Security Level 1 provide?",
+      "options": [
+        "Basic cryptographic security requirements",
+        "Tamper-resistant hardware",
+        "Strong physical security",
+        "Identity verification"
+      ],
+      "correct_answer": "Basic cryptographic security requirements",
+      "explanation": "The correct answer is 'Basic cryptographic security requirements' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What additional protection is expected at higher FIPS levels?",
+      "options": [
+        "Physical tamper resistance",
+        "Faster encryption",
+        "Smaller keys",
+        "Certificate renewal"
+      ],
+      "correct_answer": "Physical tamper resistance",
+      "explanation": "The correct answer is 'Physical tamper resistance' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which FIPS level introduces tamper-evidence mechanisms?",
+      "options": [
+        "Level 2",
+        "Level 1",
+        "Level 4",
+        "Level 0"
+      ],
+      "correct_answer": "Level 2",
+      "explanation": "The correct answer is 'Level 2' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which FIPS level requires tamper-resistant mechanisms?",
+      "options": [
+        "Level 3",
+        "Level 1",
+        "Level 2",
+        "Level 0"
+      ],
+      "correct_answer": "Level 3",
+      "explanation": "The correct answer is 'Level 3' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is a major focus of FIPS validation testing?",
+      "options": [
+        "Correct implementation of cryptographic functions",
+        "Website design",
+        "Database performance",
+        "Network bandwidth"
+      ],
+      "correct_answer": "Correct implementation of cryptographic functions",
+      "explanation": "The correct answer is 'Correct implementation of cryptographic functions' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why is key management important in FIPS evaluations?",
+      "options": [
+        "Poor key handling can undermine security",
+        "Keys are optional",
+        "Certificates replace keys",
+        "Hashes replace keys"
+      ],
+      "correct_answer": "Poor key handling can undermine security",
+      "explanation": "The correct answer is 'Poor key handling can undermine security' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What type of modules can be FIPS validated?",
+      "options": [
+        "Hardware, software, and firmware modules",
+        "Only hardware",
+        "Only software",
+        "Only cloud services"
+      ],
+      "correct_answer": "Hardware, software, and firmware modules",
+      "explanation": "The correct answer is 'Hardware, software, and firmware modules' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "FIPS 140-2 validation is often required for?",
+      "options": [
+        "Sensitive government information systems",
+        "Video games",
+        "Social media apps",
+        "Streaming platforms"
+      ],
+      "correct_answer": "Sensitive government information systems",
+      "explanation": "The correct answer is 'Sensitive government information systems' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is one benefit of FIPS validation for vendors?",
+      "options": [
+        "Demonstrates compliance and security assurance",
+        "Increases internet speed",
+        "Creates certificates automatically",
+        "Removes encryption"
+      ],
+      "correct_answer": "Demonstrates compliance and security assurance",
+      "explanation": "The correct answer is 'Demonstrates compliance and security assurance' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What happens during FIPS validation?",
+      "options": [
+        "The cryptographic module is independently tested",
+        "A certificate is revoked",
+        "Passwords are generated",
+        "DNS records are checked"
+      ],
+      "correct_answer": "The cryptographic module is independently tested",
+      "explanation": "The correct answer is 'The cryptographic module is independently tested' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is FIPS 140-2 important in regulated environments?",
+      "options": [
+        "It provides standardized assurance for cryptographic security",
+        "It replaces PKI",
+        "It manages DNS",
+        "It eliminates key management"
+      ],
+      "correct_answer": "It provides standardized assurance for cryptographic security",
+      "explanation": "The correct answer is 'It provides standardized assurance for cryptographic security' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What risk exists if a cryptographic module is poorly implemented despite using strong algorithms?",
+      "options": [
+        "Security can still be compromised",
+        "AES becomes invalid",
+        "Certificates stop working",
+        "Hashes disappear"
+      ],
+      "correct_answer": "Security can still be compromised",
+      "explanation": "The correct answer is 'Security can still be compromised' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is the primary difference between FIPS 140-2 Level 1 and Level 4?",
+      "options": [
+        "Level 4 provides the highest protection against environmental and physical attacks",
+        "Level 1 uses larger keys",
+        "Level 4 replaces encryption",
+        "There is no difference"
+      ],
+      "correct_answer": "Level 4 provides the highest protection against environmental and physical attacks",
+      "explanation": "The correct answer is 'Level 4 provides the highest protection against environmental and physical attacks' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why are physical security controls included in FIPS requirements?",
+      "options": [
+        "Attackers may target hardware directly",
+        "They improve bandwidth",
+        "They compress data",
+        "They replace cryptography"
+      ],
+      "correct_answer": "Attackers may target hardware directly",
+      "explanation": "The correct answer is 'Attackers may target hardware directly' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How does FIPS validation contribute to trust in security products?",
+      "options": [
+        "Independent testing verifies security claims",
+        "It guarantees systems cannot be hacked",
+        "It replaces audits",
+        "It removes vulnerabilities"
+      ],
+      "correct_answer": "Independent testing verifies security claims",
+      "explanation": "The correct answer is 'Independent testing verifies security claims' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is the relationship between FIPS 140-2 and cryptographic algorithms?",
+      "options": [
+        "FIPS validates implementations, not just algorithms",
+        "FIPS invents algorithms",
+        "FIPS replaces algorithms",
+        "FIPS removes encryption"
+      ],
+      "correct_answer": "FIPS validates implementations, not just algorithms",
+      "explanation": "The correct answer is 'FIPS validates implementations, not just algorithms' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why are Hardware Security Modules (HSMs) often evaluated under higher FIPS levels?",
+      "options": [
+        "They store highly sensitive cryptographic keys",
+        "They manage DNS",
+        "They replace certificates",
+        "They provide compression"
+      ],
+      "correct_answer": "They store highly sensitive cryptographic keys",
+      "explanation": "The correct answer is 'They store highly sensitive cryptographic keys' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What attack category do higher FIPS levels specifically address?",
+      "options": [
+        "Physical tampering attacks",
+        "Replay attacks",
+        "Phishing attacks",
+        "ARP spoofing"
+      ],
+      "correct_answer": "Physical tampering attacks",
+      "explanation": "The correct answer is 'Physical tampering attacks' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which newer standard succeeded FIPS 140-2?",
+      "options": [
+        "FIPS 140-3",
+        "FIPS 180-4",
+        "PKCS #12",
+        "TLS 1.3"
+      ],
+      "correct_answer": "FIPS 140-3",
+      "explanation": "The correct answer is 'FIPS 140-3' because it best explains FIPS 140-2 concepts and security requirements."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes FIPS 140-2?",
+      "options": [
+        "A security standard for validating cryptographic modules and their implementations",
+        "A hashing algorithm",
+        "A PKI trust model",
+        "A network protocol"
+      ],
+      "correct_answer": "A security standard for validating cryptographic modules and their implementations",
+      "explanation": "The correct answer is 'A security standard for validating cryptographic modules and their implementations' because it best explains FIPS 140-2 concepts and security requirements."
+    }
+  ]
+}

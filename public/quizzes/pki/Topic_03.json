@@ -1,0 +1,396 @@
+{
+  "topic": "Basic Encryption Concepts",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is encryption?",
+      "options": [
+        "Converting plaintext into ciphertext",
+        "Compressing files",
+        "Creating backups",
+        "Deleting data"
+      ],
+      "correct_answer": "Converting plaintext into ciphertext",
+      "explanation": "The correct answer is 'Converting plaintext into ciphertext' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "The original readable message is called?",
+      "options": [
+        "Plaintext",
+        "Ciphertext",
+        "Hash",
+        "Token"
+      ],
+      "correct_answer": "Plaintext",
+      "explanation": "The correct answer is 'Plaintext' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Encrypted unreadable data is called?",
+      "options": [
+        "Ciphertext",
+        "Plaintext",
+        "Digest",
+        "Certificate"
+      ],
+      "correct_answer": "Ciphertext",
+      "explanation": "The correct answer is 'Ciphertext' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of encryption?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Compression",
+        "Routing"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which component performs encryption and decryption?",
+      "options": [
+        "Cipher",
+        "Firewall",
+        "Router",
+        "Proxy"
+      ],
+      "correct_answer": "Cipher",
+      "explanation": "The correct answer is 'Cipher' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is a cryptographic key?",
+      "options": [
+        "A value used by an algorithm",
+        "A password manager",
+        "A hardware token only",
+        "A certificate"
+      ],
+      "correct_answer": "A value used by an algorithm",
+      "explanation": "The correct answer is 'A value used by an algorithm' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which type of encryption uses the same key for both operations?",
+      "options": [
+        "Symmetric",
+        "Asymmetric",
+        "Hashing",
+        "Tokenization"
+      ],
+      "correct_answer": "Symmetric",
+      "explanation": "The correct answer is 'Symmetric' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which type uses a public and private key pair?",
+      "options": [
+        "Asymmetric",
+        "Symmetric",
+        "Hashing",
+        "Encoding"
+      ],
+      "correct_answer": "Asymmetric",
+      "explanation": "The correct answer is 'Asymmetric' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which is NOT encryption?",
+      "options": [
+        "Hashing",
+        "AES",
+        "DES",
+        "RSA"
+      ],
+      "correct_answer": "Hashing",
+      "explanation": "The correct answer is 'Hashing' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Data being transmitted is called?",
+      "options": [
+        "Data in transit",
+        "Data at rest",
+        "Metadata",
+        "Archive data"
+      ],
+      "correct_answer": "Data in transit",
+      "explanation": "The correct answer is 'Data in transit' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What determines the strength of an encryption system?",
+      "options": [
+        "Algorithm and key length",
+        "File size",
+        "RAM size",
+        "Monitor resolution"
+      ],
+      "correct_answer": "Algorithm and key length",
+      "explanation": "The correct answer is 'Algorithm and key length' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which process converts ciphertext back into plaintext?",
+      "options": [
+        "Decryption",
+        "Encoding",
+        "Hashing",
+        "Tokenization"
+      ],
+      "correct_answer": "Decryption",
+      "explanation": "The correct answer is 'Decryption' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Brute-force attacks attempt to?",
+      "options": [
+        "Guess keys systematically",
+        "Compress files",
+        "Create certificates",
+        "Monitor traffic"
+      ],
+      "correct_answer": "Guess keys systematically",
+      "explanation": "The correct answer is 'Guess keys systematically' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "A longer encryption key generally provides?",
+      "options": [
+        "Stronger security",
+        "Faster attacks",
+        "Smaller files",
+        "Less confidentiality"
+      ],
+      "correct_answer": "Stronger security",
+      "explanation": "The correct answer is 'Stronger security' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which encryption is generally faster?",
+      "options": [
+        "Symmetric encryption",
+        "Asymmetric encryption",
+        "Hashing",
+        "Steganography"
+      ],
+      "correct_answer": "Symmetric encryption",
+      "explanation": "The correct answer is 'Symmetric encryption' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is steganography?",
+      "options": [
+        "Hiding data within another medium",
+        "Encrypting data",
+        "Hashing passwords",
+        "Signing certificates"
+      ],
+      "correct_answer": "Hiding data within another medium",
+      "explanation": "The correct answer is 'Hiding data within another medium' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which encryption method is commonly used for bulk data encryption?",
+      "options": [
+        "AES",
+        "RSA",
+        "ECC",
+        "SHA"
+      ],
+      "correct_answer": "AES",
+      "explanation": "The correct answer is 'AES' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Key management refers to?",
+      "options": [
+        "Handling generation, storage and distribution of keys",
+        "Managing users",
+        "Managing routers",
+        "Managing backups"
+      ],
+      "correct_answer": "Handling generation, storage and distribution of keys",
+      "explanation": "The correct answer is 'Handling generation, storage and distribution of keys' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a keyspace?",
+      "options": [
+        "Set of all possible keys",
+        "Set of certificates",
+        "Network addresses",
+        "User accounts"
+      ],
+      "correct_answer": "Set of all possible keys",
+      "explanation": "The correct answer is 'Set of all possible keys' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why are public keys shared openly?",
+      "options": [
+        "They cannot decrypt private-key encrypted data alone",
+        "They are secret",
+        "They replace passwords",
+        "They store hashes"
+      ],
+      "correct_answer": "They cannot decrypt private-key encrypted data alone",
+      "explanation": "The correct answer is 'They cannot decrypt private-key encrypted data alone' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Which security objective is achieved when only intended recipients can read data?",
+      "options": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Accountability"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "A hybrid encryption system typically combines?",
+      "options": [
+        "Symmetric and asymmetric encryption",
+        "Hashing and compression",
+        "TLS and DNS",
+        "Passwords and biometrics"
+      ],
+      "correct_answer": "Symmetric and asymmetric encryption",
+      "explanation": "The correct answer is 'Symmetric and asymmetric encryption' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why is key management often considered the hardest part of cryptography?",
+      "options": [
+        "Weak key handling can compromise strong algorithms",
+        "Algorithms are secret",
+        "Keys are optional",
+        "Encryption is simple"
+      ],
+      "correct_answer": "Weak key handling can compromise strong algorithms",
+      "explanation": "The correct answer is 'Weak key handling can compromise strong algorithms' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What happens if the encryption key is lost and no backup exists?",
+      "options": [
+        "Encrypted data may become unrecoverable",
+        "Data becomes public",
+        "Hashes are generated",
+        "Certificates renew automatically"
+      ],
+      "correct_answer": "Encrypted data may become unrecoverable",
+      "explanation": "The correct answer is 'Encrypted data may become unrecoverable' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which attack becomes impractical with sufficiently large keyspaces?",
+      "options": [
+        "Brute-force attack",
+        "Phishing",
+        "Shoulder surfing",
+        "Social engineering"
+      ],
+      "correct_answer": "Brute-force attack",
+      "explanation": "The correct answer is 'Brute-force attack' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Perfect secrecy is most closely associated with?",
+      "options": [
+        "One-Time Pad",
+        "DES",
+        "MD5",
+        "RC4"
+      ],
+      "correct_answer": "One-Time Pad",
+      "explanation": "The correct answer is 'One-Time Pad' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is the main drawback of One-Time Pad encryption?",
+      "options": [
+        "Key distribution and management",
+        "Weak confidentiality",
+        "Slow decryption only",
+        "No key required"
+      ],
+      "correct_answer": "Key distribution and management",
+      "explanation": "The correct answer is 'Key distribution and management' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "In hybrid cryptography, asymmetric encryption is mainly used for?",
+      "options": [
+        "Secure key exchange",
+        "Encrypting entire databases",
+        "Compression",
+        "Hashing"
+      ],
+      "correct_answer": "Secure key exchange",
+      "explanation": "The correct answer is 'Secure key exchange' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "An encryption algorithm should remain secure even if attackers know the algorithm. This principle is called?",
+      "options": [
+        "Kerckhoffs's Principle",
+        "Least Privilege",
+        "Defense in Depth",
+        "Zero Trust"
+      ],
+      "correct_answer": "Kerckhoffs's Principle",
+      "explanation": "The correct answer is 'Kerckhoffs's Principle' because it best satisfies the encryption concept being tested."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes modern encryption?",
+      "options": [
+        "Security should depend on the secrecy of keys, not algorithms",
+        "Algorithms must remain secret",
+        "Passwords replace keys",
+        "Encryption prevents all attacks"
+      ],
+      "correct_answer": "Security should depend on the secrecy of keys, not algorithms",
+      "explanation": "The correct answer is 'Security should depend on the secrecy of keys, not algorithms' because it best satisfies the encryption concept being tested."
+    }
+  ]
+}

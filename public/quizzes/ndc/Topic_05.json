@@ -1,0 +1,396 @@
+{
+  "topic": "Firewall",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a firewall?",
+      "options": [
+        "A network security device that filters traffic",
+        "A type of malware",
+        "A programming language",
+        "A database"
+      ],
+      "correct_answer": "A network security device that filters traffic",
+      "explanation": "Correct answer: A network security device that filters traffic. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a firewall?",
+      "options": [
+        "Control network traffic",
+        "Increase CPU speed",
+        "Store files",
+        "Manage printers"
+      ],
+      "correct_answer": "Control network traffic",
+      "explanation": "Correct answer: Control network traffic. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which traffic can a firewall control?",
+      "options": [
+        "Inbound and outbound traffic",
+        "Only inbound traffic",
+        "Only outbound traffic",
+        "Only wireless traffic"
+      ],
+      "correct_answer": "Inbound and outbound traffic",
+      "explanation": "Correct answer: Inbound and outbound traffic. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which layer does a basic packet filtering firewall primarily operate on?",
+      "options": [
+        "Network Layer",
+        "Presentation Layer",
+        "Application Layer",
+        "Session Layer"
+      ],
+      "correct_answer": "Network Layer",
+      "explanation": "Correct answer: Network Layer. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which of the following is a firewall action?",
+      "options": [
+        "Allow",
+        "Compile",
+        "Encrypt",
+        "Hash"
+      ],
+      "correct_answer": "Allow",
+      "explanation": "Correct answer: Allow. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "A firewall rule typically contains?",
+      "options": [
+        "Source, Destination, Port, Action",
+        "CPU, RAM, Disk",
+        "Username, Password",
+        "MAC Address only"
+      ],
+      "correct_answer": "Source, Destination, Port, Action",
+      "explanation": "Correct answer: Source, Destination, Port, Action. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which firewall type inspects packet headers?",
+      "options": [
+        "Packet Filtering Firewall",
+        "Proxy Firewall",
+        "UTM",
+        "WAF"
+      ],
+      "correct_answer": "Packet Filtering Firewall",
+      "explanation": "Correct answer: Packet Filtering Firewall. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the default-deny approach?",
+      "options": [
+        "Block all traffic unless explicitly allowed",
+        "Allow all traffic",
+        "Disable firewall",
+        "Allow unknown traffic"
+      ],
+      "correct_answer": "Block all traffic unless explicitly allowed",
+      "explanation": "Correct answer: Block all traffic unless explicitly allowed. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which protocol commonly uses port 80?",
+      "options": [
+        "HTTP",
+        "SSH",
+        "FTP",
+        "DNS"
+      ],
+      "correct_answer": "HTTP",
+      "explanation": "Correct answer: HTTP. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which protocol commonly uses port 443?",
+      "options": [
+        "HTTPS",
+        "Telnet",
+        "SMTP",
+        "SNMP"
+      ],
+      "correct_answer": "HTTPS",
+      "explanation": "Correct answer: HTTPS. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a stateful firewall?",
+      "options": [
+        "Tracks connection states",
+        "Only filters ports",
+        "Only works on Linux",
+        "Only blocks malware"
+      ],
+      "correct_answer": "Tracks connection states",
+      "explanation": "Correct answer: Tracks connection states. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which firewall type acts as an intermediary between client and server?",
+      "options": [
+        "Proxy Firewall",
+        "Packet Filter",
+        "Router",
+        "Switch"
+      ],
+      "correct_answer": "Proxy Firewall",
+      "explanation": "Correct answer: Proxy Firewall. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a firewall ACL?",
+      "options": [
+        "Access Control List",
+        "Application Control Layer",
+        "Attack Control Logic",
+        "Administrative Control Log"
+      ],
+      "correct_answer": "Access Control List",
+      "explanation": "Correct answer: Access Control List. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which firewall type provides application-level inspection?",
+      "options": [
+        "Proxy Firewall",
+        "Hub",
+        "Repeater",
+        "Bridge"
+      ],
+      "correct_answer": "Proxy Firewall",
+      "explanation": "Correct answer: Proxy Firewall. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is egress filtering?",
+      "options": [
+        "Filtering outbound traffic",
+        "Filtering inbound traffic",
+        "Encrypting traffic",
+        "Capturing packets"
+      ],
+      "correct_answer": "Filtering outbound traffic",
+      "explanation": "Correct answer: Filtering outbound traffic. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is ingress filtering?",
+      "options": [
+        "Filtering incoming traffic",
+        "Filtering outgoing traffic",
+        "Routing packets",
+        "Load balancing"
+      ],
+      "correct_answer": "Filtering incoming traffic",
+      "explanation": "Correct answer: Filtering incoming traffic. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which firewall deployment protects an entire network perimeter?",
+      "options": [
+        "Network Firewall",
+        "Host Firewall",
+        "Personal Firewall",
+        "Application Firewall"
+      ],
+      "correct_answer": "Network Firewall",
+      "explanation": "Correct answer: Network Firewall. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a host-based firewall?",
+      "options": [
+        "Firewall installed on a device",
+        "Firewall on a router",
+        "Cloud firewall",
+        "DMZ firewall"
+      ],
+      "correct_answer": "Firewall installed on a device",
+      "explanation": "Correct answer: Firewall installed on a device. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which operating system includes Windows Defender Firewall?",
+      "options": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "correct_answer": "Windows",
+      "explanation": "Correct answer: Windows. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which Linux tool is commonly used as a firewall?",
+      "options": [
+        "iptables",
+        "Excel",
+        "Apache",
+        "MySQL"
+      ],
+      "correct_answer": "iptables",
+      "explanation": "Correct answer: iptables. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the primary advantage of a stateful firewall over a stateless firewall?",
+      "options": [
+        "Tracks active connections",
+        "Consumes less memory",
+        "No rules required",
+        "Cannot be bypassed"
+      ],
+      "correct_answer": "Tracks active connections",
+      "explanation": "Correct answer: Tracks active connections. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which firewall type can inspect encrypted HTTPS traffic using SSL inspection?",
+      "options": [
+        "NGFW",
+        "Hub",
+        "Bridge",
+        "Repeater"
+      ],
+      "correct_answer": "NGFW",
+      "explanation": "Correct answer: NGFW. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "A firewall placed between the internet and a DMZ is called?",
+      "options": [
+        "Perimeter Firewall",
+        "Host Firewall",
+        "Software Firewall",
+        "Personal Firewall"
+      ],
+      "correct_answer": "Perimeter Firewall",
+      "explanation": "Correct answer: Perimeter Firewall. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is firewall rule shadowing?",
+      "options": [
+        "A rule never matches because a previous rule overrides it",
+        "A backup rule",
+        "A logging rule",
+        "An encrypted rule"
+      ],
+      "correct_answer": "A rule never matches because a previous rule overrides it",
+      "explanation": "Correct answer: A rule never matches because a previous rule overrides it. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which firewall feature helps block applications like Facebook or WhatsApp?",
+      "options": [
+        "Application Control",
+        "Routing",
+        "DHCP",
+        "ARP"
+      ],
+      "correct_answer": "Application Control",
+      "explanation": "Correct answer: Application Control. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is the risk of an overly permissive firewall policy?",
+      "options": [
+        "Unauthorized access",
+        "Faster traffic",
+        "Lower latency",
+        "Better encryption"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "Correct answer: Unauthorized access. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which firewall architecture uses two filtering devices around a DMZ?",
+      "options": [
+        "Screened Subnet",
+        "Dual Boot",
+        "Host-only",
+        "NAT Mode"
+      ],
+      "correct_answer": "Screened Subnet",
+      "explanation": "Correct answer: Screened Subnet. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is deep packet inspection (DPI)?",
+      "options": [
+        "Examining packet payloads and headers",
+        "Checking only IP addresses",
+        "Checking MAC addresses",
+        "Encrypting packets"
+      ],
+      "correct_answer": "Examining packet payloads and headers",
+      "explanation": "Correct answer: Examining packet payloads and headers. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why should firewall logs be monitored regularly?",
+      "options": [
+        "Detect suspicious activity",
+        "Increase storage",
+        "Reduce bandwidth",
+        "Improve DNS"
+      ],
+      "correct_answer": "Detect suspicious activity",
+      "explanation": "Correct answer: Detect suspicious activity. This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which firewall is best suited for modern application-aware security?",
+      "options": [
+        "Next Generation Firewall (NGFW)",
+        "Packet Filter",
+        "Hub",
+        "Bridge"
+      ],
+      "correct_answer": "Next Generation Firewall (NGFW)",
+      "explanation": "Correct answer: Next Generation Firewall (NGFW). This answer is correct based on the core concepts of Firewall. Review the question keywords and security principle being tested."
+    }
+  ]
+}

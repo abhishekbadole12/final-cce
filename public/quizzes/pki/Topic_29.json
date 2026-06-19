@@ -1,0 +1,396 @@
+{
+  "topic": "Single-Factor and Multi-Factor Authentication (MFA)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Single-Factor Authentication (SFA)?",
+      "options": [
+        "Authentication using one factor only",
+        "Authentication using two factors",
+        "Authentication without passwords",
+        "Authentication using certificates only"
+      ],
+      "correct_answer": "Authentication using one factor only",
+      "explanation": "The correct answer is 'Authentication using one factor only' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the most common example of SFA?",
+      "options": [
+        "Username and password",
+        "Password and OTP",
+        "Smart card and PIN",
+        "Fingerprint and password"
+      ],
+      "correct_answer": "Username and password",
+      "explanation": "The correct answer is 'Username and password' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is Multi-Factor Authentication (MFA)?",
+      "options": [
+        "Authentication using two or more independent factors",
+        "Authentication using one password",
+        "Authentication without identity verification",
+        "Authentication using encryption only"
+      ],
+      "correct_answer": "Authentication using two or more independent factors",
+      "explanation": "The correct answer is 'Authentication using two or more independent factors' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which factor category does a password belong to?",
+      "options": [
+        "Something you know",
+        "Something you have",
+        "Something you are",
+        "Somewhere you are"
+      ],
+      "correct_answer": "Something you know",
+      "explanation": "The correct answer is 'Something you know' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which factor category does an OTP token belong to?",
+      "options": [
+        "Something you have",
+        "Something you know",
+        "Something you are",
+        "Behavioral factor"
+      ],
+      "correct_answer": "Something you have",
+      "explanation": "The correct answer is 'Something you have' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which factor category does a fingerprint belong to?",
+      "options": [
+        "Something you are",
+        "Something you know",
+        "Something you have",
+        "Location factor"
+      ],
+      "correct_answer": "Something you are",
+      "explanation": "The correct answer is 'Something you are' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Why is MFA generally more secure than SFA?",
+      "options": [
+        "It requires multiple independent authentication factors",
+        "It uses longer passwords",
+        "It removes user accounts",
+        "It increases bandwidth"
+      ],
+      "correct_answer": "It requires multiple independent authentication factors",
+      "explanation": "The correct answer is 'It requires multiple independent authentication factors' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What does OTP stand for?",
+      "options": [
+        "One-Time Password",
+        "Online Token Password",
+        "Open Trust Protocol",
+        "One-Time PIN"
+      ],
+      "correct_answer": "One-Time Password",
+      "explanation": "The correct answer is 'One-Time Password' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "MFA primarily helps prevent?",
+      "options": [
+        "Unauthorized access",
+        "Data compression",
+        "Network congestion",
+        "Disk fragmentation"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "The correct answer is 'Unauthorized access' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "MFA is commonly used in?",
+      "options": [
+        "Online banking",
+        "Video streaming only",
+        "File compression",
+        "Network routing"
+      ],
+      "correct_answer": "Online banking",
+      "explanation": "The correct answer is 'Online banking' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which combination represents MFA?",
+      "options": [
+        "Password + Fingerprint",
+        "Password only",
+        "Fingerprint only",
+        "PIN only"
+      ],
+      "correct_answer": "Password + Fingerprint",
+      "explanation": "The correct answer is 'Password + Fingerprint' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why is password-only authentication risky?",
+      "options": [
+        "Passwords can be guessed, reused, or stolen",
+        "Passwords are encrypted",
+        "Passwords are certificates",
+        "Passwords cannot be changed"
+      ],
+      "correct_answer": "Passwords can be guessed, reused, or stolen",
+      "explanation": "The correct answer is 'Passwords can be guessed, reused, or stolen' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a possession factor?",
+      "options": [
+        "Something the user has",
+        "Something the user knows",
+        "Something the user is",
+        "Something the user remembers"
+      ],
+      "correct_answer": "Something the user has",
+      "explanation": "The correct answer is 'Something the user has' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is an inherence factor?",
+      "options": [
+        "A biometric characteristic",
+        "A password",
+        "A smart card",
+        "A PIN"
+      ],
+      "correct_answer": "A biometric characteristic",
+      "explanation": "The correct answer is 'A biometric characteristic' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which technology often delivers OTPs?",
+      "options": [
+        "Authenticator apps",
+        "DNS servers",
+        "Routers",
+        "Firewalls"
+      ],
+      "correct_answer": "Authenticator apps",
+      "explanation": "The correct answer is 'Authenticator apps' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is a benefit of authenticator apps over SMS OTPs?",
+      "options": [
+        "Less vulnerable to SIM-swap attacks",
+        "Faster internet",
+        "Automatic certificate issuance",
+        "Higher bandwidth"
+      ],
+      "correct_answer": "Less vulnerable to SIM-swap attacks",
+      "explanation": "The correct answer is 'Less vulnerable to SIM-swap attacks' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why do organizations implement MFA?",
+      "options": [
+        "To strengthen account security",
+        "To compress data",
+        "To replace encryption",
+        "To manage DNS"
+      ],
+      "correct_answer": "To strengthen account security",
+      "explanation": "The correct answer is 'To strengthen account security' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is adaptive MFA?",
+      "options": [
+        "Authentication requirements change based on risk",
+        "Authentication without passwords",
+        "Authentication using one factor",
+        "Authentication without users"
+      ],
+      "correct_answer": "Authentication requirements change based on risk",
+      "explanation": "The correct answer is 'Authentication requirements change based on risk' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which attack is MFA particularly effective against?",
+      "options": [
+        "Password theft misuse",
+        "Disk corruption",
+        "Routing failures",
+        "File fragmentation"
+      ],
+      "correct_answer": "Password theft misuse",
+      "explanation": "The correct answer is 'Password theft misuse' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a common challenge of MFA?",
+      "options": [
+        "Balancing security and user convenience",
+        "Creating hashes",
+        "Managing DNS",
+        "Increasing storage"
+      ],
+      "correct_answer": "Balancing security and user convenience",
+      "explanation": "The correct answer is 'Balancing security and user convenience' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why does MFA significantly reduce account takeover risk?",
+      "options": [
+        "A stolen password alone is insufficient for access",
+        "Passwords become stronger automatically",
+        "Biometrics replace users",
+        "Accounts cannot be attacked"
+      ],
+      "correct_answer": "A stolen password alone is insufficient for access",
+      "explanation": "The correct answer is 'A stolen password alone is insufficient for access' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What risk still exists even with MFA?",
+      "options": [
+        "Sophisticated phishing and session hijacking attacks",
+        "All attacks are eliminated",
+        "Passwords disappear",
+        "Encryption becomes unnecessary"
+      ],
+      "correct_answer": "Sophisticated phishing and session hijacking attacks",
+      "explanation": "The correct answer is 'Sophisticated phishing and session hijacking attacks' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why are SMS-based MFA methods considered less secure?",
+      "options": [
+        "SMS messages may be intercepted or redirected",
+        "SMS uses encryption",
+        "SMS is biometric",
+        "SMS requires certificates"
+      ],
+      "correct_answer": "SMS messages may be intercepted or redirected",
+      "explanation": "The correct answer is 'SMS messages may be intercepted or redirected' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is MFA fatigue?",
+      "options": [
+        "Users being repeatedly prompted until they approve a fraudulent request",
+        "Password expiration",
+        "Certificate renewal",
+        "Network congestion"
+      ],
+      "correct_answer": "Users being repeatedly prompted until they approve a fraudulent request",
+      "explanation": "The correct answer is 'Users being repeatedly prompted until they approve a fraudulent request' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which authentication method is generally considered phishing-resistant?",
+      "options": [
+        "Hardware security keys",
+        "SMS OTP",
+        "Email OTP",
+        "Static passwords"
+      ],
+      "correct_answer": "Hardware security keys",
+      "explanation": "The correct answer is 'Hardware security keys' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does MFA support Zero Trust security?",
+      "options": [
+        "It strengthens identity verification before access is granted",
+        "It replaces authorization",
+        "It eliminates encryption",
+        "It removes trust policies"
+      ],
+      "correct_answer": "It strengthens identity verification before access is granted",
+      "explanation": "The correct answer is 'It strengthens identity verification before access is granted' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is the strongest MFA combination?",
+      "options": [
+        "Password + Hardware Security Key + Biometric",
+        "Password only",
+        "PIN only",
+        "Fingerprint only"
+      ],
+      "correct_answer": "Password + Hardware Security Key + Biometric",
+      "explanation": "The correct answer is 'Password + Hardware Security Key + Biometric' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are hardware security keys preferred in high-security environments?",
+      "options": [
+        "They are resistant to phishing and credential theft",
+        "They increase bandwidth",
+        "They replace PKI",
+        "They generate DNS records"
+      ],
+      "correct_answer": "They are resistant to phishing and credential theft",
+      "explanation": "The correct answer is 'They are resistant to phishing and credential theft' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the relationship between MFA and authentication assurance?",
+      "options": [
+        "MFA generally increases confidence in user identity",
+        "MFA replaces identities",
+        "MFA removes authorization",
+        "MFA eliminates passwords"
+      ],
+      "correct_answer": "MFA generally increases confidence in user identity",
+      "explanation": "The correct answer is 'MFA generally increases confidence in user identity' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes MFA today?",
+      "options": [
+        "A critical security control that uses multiple authentication factors to reduce unauthorized access",
+        "A hashing algorithm",
+        "A certificate authority",
+        "A routing protocol"
+      ],
+      "correct_answer": "A critical security control that uses multiple authentication factors to reduce unauthorized access",
+      "explanation": "The correct answer is 'A critical security control that uses multiple authentication factors to reduce unauthorized access' because it best explains Single-Factor and Multi-Factor Authentication concepts."
+    }
+  ]
+}

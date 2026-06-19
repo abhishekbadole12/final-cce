@@ -1,0 +1,396 @@
+{
+  "topic": "Cryptographic Fundamentals",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is cryptography?",
+      "options": [
+        "The science of securing information",
+        "Database management",
+        "Network routing",
+        "Data compression"
+      ],
+      "correct_answer": "The science of securing information",
+      "explanation": "The correct answer is 'The science of securing information' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is plaintext?",
+      "options": [
+        "Original readable data",
+        "Encrypted data",
+        "Hash value",
+        "Digital certificate"
+      ],
+      "correct_answer": "Original readable data",
+      "explanation": "The correct answer is 'Original readable data' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is ciphertext?",
+      "options": [
+        "Encrypted unreadable data",
+        "Readable data",
+        "Backup data",
+        "Compressed file"
+      ],
+      "correct_answer": "Encrypted unreadable data",
+      "explanation": "The correct answer is 'Encrypted unreadable data' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which element is essential in cryptography?",
+      "options": [
+        "Key",
+        "Monitor",
+        "Printer",
+        "Switch"
+      ],
+      "correct_answer": "Key",
+      "explanation": "The correct answer is 'Key' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is encryption?",
+      "options": [
+        "Converting plaintext into ciphertext",
+        "Deleting data",
+        "Compressing data",
+        "Backing up data"
+      ],
+      "correct_answer": "Converting plaintext into ciphertext",
+      "explanation": "The correct answer is 'Converting plaintext into ciphertext' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is decryption?",
+      "options": [
+        "Converting ciphertext into plaintext",
+        "Hashing data",
+        "Signing data",
+        "Compressing data"
+      ],
+      "correct_answer": "Converting ciphertext into plaintext",
+      "explanation": "The correct answer is 'Converting ciphertext into plaintext' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which security goal is mainly achieved through encryption?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Scalability",
+        "Redundancy"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "A cryptographic algorithm is also called a?",
+      "options": [
+        "Cipher",
+        "Certificate",
+        "Protocol",
+        "Token"
+      ],
+      "correct_answer": "Cipher",
+      "explanation": "The correct answer is 'Cipher' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which cryptographic technique uses the same key for encryption and decryption?",
+      "options": [
+        "Symmetric cryptography",
+        "Asymmetric cryptography",
+        "Hashing",
+        "Steganography"
+      ],
+      "correct_answer": "Symmetric cryptography",
+      "explanation": "The correct answer is 'Symmetric cryptography' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which technique uses public and private keys?",
+      "options": [
+        "Asymmetric cryptography",
+        "Symmetric cryptography",
+        "Compression",
+        "Encoding"
+      ],
+      "correct_answer": "Asymmetric cryptography",
+      "explanation": "The correct answer is 'Asymmetric cryptography' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is cryptanalysis?",
+      "options": [
+        "Study of breaking cryptographic systems",
+        "Creating backups",
+        "Managing certificates",
+        "Configuring firewalls"
+      ],
+      "correct_answer": "Study of breaking cryptographic systems",
+      "explanation": "The correct answer is 'Study of breaking cryptographic systems' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which term refers to the strength of a cryptographic key?",
+      "options": [
+        "Key length",
+        "Packet size",
+        "File size",
+        "RAM size"
+      ],
+      "correct_answer": "Key length",
+      "explanation": "The correct answer is 'Key length' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a cryptographic protocol?",
+      "options": [
+        "A set of rules using cryptography for secure communication",
+        "A routing protocol",
+        "A backup method",
+        "A compression standard"
+      ],
+      "correct_answer": "A set of rules using cryptography for secure communication",
+      "explanation": "The correct answer is 'A set of rules using cryptography for secure communication' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which concept ensures a sender cannot deny sending a message?",
+      "options": [
+        "Non-repudiation",
+        "Availability",
+        "Redundancy",
+        "Compression"
+      ],
+      "correct_answer": "Non-repudiation",
+      "explanation": "The correct answer is 'Non-repudiation' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is authentication in cryptography?",
+      "options": [
+        "Verifying identity",
+        "Encrypting files",
+        "Creating backups",
+        "Compressing data"
+      ],
+      "correct_answer": "Verifying identity",
+      "explanation": "The correct answer is 'Verifying identity' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which technique verifies data has not been modified?",
+      "options": [
+        "Integrity checking",
+        "Load balancing",
+        "Caching",
+        "Fragmentation"
+      ],
+      "correct_answer": "Integrity checking",
+      "explanation": "The correct answer is 'Integrity checking' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is key management?",
+      "options": [
+        "Generation, storage, and distribution of keys",
+        "Managing routers",
+        "Managing users",
+        "Managing disks"
+      ],
+      "correct_answer": "Generation, storage, and distribution of keys",
+      "explanation": "The correct answer is 'Generation, storage, and distribution of keys' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which cryptographic primitive is used for integrity checking?",
+      "options": [
+        "Hash function",
+        "Firewall",
+        "VPN",
+        "Proxy"
+      ],
+      "correct_answer": "Hash function",
+      "explanation": "The correct answer is 'Hash function' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is brute-force cryptanalysis?",
+      "options": [
+        "Trying every possible key",
+        "Intercepting traffic",
+        "Creating fake messages",
+        "Stealing certificates"
+      ],
+      "correct_answer": "Trying every possible key",
+      "explanation": "The correct answer is 'Trying every possible key' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which principle states security should depend on the key, not the algorithm?",
+      "options": [
+        "Kerckhoffs's Principle",
+        "Least Privilege",
+        "Defense in Depth",
+        "Zero Trust"
+      ],
+      "correct_answer": "Kerckhoffs's Principle",
+      "explanation": "The correct answer is 'Kerckhoffs's Principle' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Which combination provides confidentiality, integrity, and authenticity?",
+      "options": [
+        "Encryption, hashing, and digital signatures",
+        "Compression and backup",
+        "DNS and DHCP",
+        "Firewall and proxy"
+      ],
+      "correct_answer": "Encryption, hashing, and digital signatures",
+      "explanation": "The correct answer is 'Encryption, hashing, and digital signatures' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is randomness important in cryptography?",
+      "options": [
+        "Predictable values weaken security",
+        "It speeds up networks",
+        "It reduces storage",
+        "It improves DNS"
+      ],
+      "correct_answer": "Predictable values weaken security",
+      "explanation": "The correct answer is 'Predictable values weaken security' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "A secure cryptographic system should remain secure even when?",
+      "options": [
+        "The algorithm is publicly known",
+        "The key is public",
+        "The password is weak",
+        "The data is deleted"
+      ],
+      "correct_answer": "The algorithm is publicly known",
+      "explanation": "The correct answer is 'The algorithm is publicly known' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is computational security?",
+      "options": [
+        "Breaking the cipher is impractical with available resources",
+        "The cipher is impossible to break",
+        "No key is needed",
+        "All attacks are prevented"
+      ],
+      "correct_answer": "Breaking the cipher is impractical with available resources",
+      "explanation": "The correct answer is 'Breaking the cipher is impractical with available resources' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which attack targets weaknesses in implementation rather than algorithms?",
+      "options": [
+        "Side-channel attack",
+        "Brute-force attack",
+        "Dictionary attack",
+        "Replay attack"
+      ],
+      "correct_answer": "Side-channel attack",
+      "explanation": "The correct answer is 'Side-channel attack' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is a replay attack?",
+      "options": [
+        "Reusing captured valid communications",
+        "Guessing passwords",
+        "Modifying source code",
+        "Deleting logs"
+      ],
+      "correct_answer": "Reusing captured valid communications",
+      "explanation": "The correct answer is 'Reusing captured valid communications' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why are cryptographic protocols needed in addition to algorithms?",
+      "options": [
+        "Algorithms alone do not define complete secure communication processes",
+        "Protocols replace encryption",
+        "Algorithms cannot encrypt",
+        "Protocols store keys"
+      ],
+      "correct_answer": "Algorithms alone do not define complete secure communication processes",
+      "explanation": "The correct answer is 'Algorithms alone do not define complete secure communication processes' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which property ensures a message came from the claimed sender?",
+      "options": [
+        "Authenticity",
+        "Availability",
+        "Redundancy",
+        "Scalability"
+      ],
+      "correct_answer": "Authenticity",
+      "explanation": "The correct answer is 'Authenticity' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "A system using strong encryption but poor key management is?",
+      "options": [
+        "Still vulnerable",
+        "Completely secure",
+        "Immune to attacks",
+        "More secure than PKI"
+      ],
+      "correct_answer": "Still vulnerable",
+      "explanation": "The correct answer is 'Still vulnerable' because it best satisfies the cryptographic concept being tested."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes modern cryptography?",
+      "options": [
+        "A combination of algorithms, keys, protocols, and secure implementation",
+        "Only encryption",
+        "Only hashing",
+        "Only certificates"
+      ],
+      "correct_answer": "A combination of algorithms, keys, protocols, and secure implementation",
+      "explanation": "The correct answer is 'A combination of algorithms, keys, protocols, and secure implementation' because it best satisfies the cryptographic concept being tested."
+    }
+  ]
+}

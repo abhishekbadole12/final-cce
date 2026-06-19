@@ -1,0 +1,396 @@
+{
+  "topic": "Suricata (IDS/IPS)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Suricata?",
+      "options": [
+        "An open-source IDS/IPS engine",
+        "A VPN protocol",
+        "A firewall only",
+        "A load balancer"
+      ],
+      "correct_answer": "An open-source IDS/IPS engine",
+      "explanation": "The correct answer is 'An open-source IDS/IPS engine'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which security functions can Suricata perform?",
+      "options": [
+        "IDS and IPS",
+        "DNS and DHCP",
+        "VPN and NAT",
+        "Load balancing only"
+      ],
+      "correct_answer": "IDS and IPS",
+      "explanation": "The correct answer is 'IDS and IPS'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is a major advantage of Suricata over older IDS tools?",
+      "options": [
+        "Multi-threaded architecture",
+        "No configuration required",
+        "No logging",
+        "No signatures"
+      ],
+      "correct_answer": "Multi-threaded architecture",
+      "explanation": "The correct answer is 'Multi-threaded architecture'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What does IDS stand for?",
+      "options": [
+        "Intrusion Detection System",
+        "Internet Detection Service",
+        "Integrated Defense System",
+        "Internal Detection Service"
+      ],
+      "correct_answer": "Intrusion Detection System",
+      "explanation": "The correct answer is 'Intrusion Detection System'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What does IPS stand for?",
+      "options": [
+        "Intrusion Prevention System",
+        "Internet Prevention Service",
+        "Integrated Protection System",
+        "Internal Protection Service"
+      ],
+      "correct_answer": "Intrusion Prevention System",
+      "explanation": "The correct answer is 'Intrusion Prevention System'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Can Suricata operate in inline mode?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on Windows",
+        "Only on Linux"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "The correct answer is 'Yes'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which feature allows Suricata to inspect application-layer traffic?",
+      "options": [
+        "Deep Packet Inspection",
+        "Load Balancing",
+        "NAT",
+        "ARP"
+      ],
+      "correct_answer": "Deep Packet Inspection",
+      "explanation": "The correct answer is 'Deep Packet Inspection'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What type of traffic can Suricata inspect?",
+      "options": [
+        "Network traffic",
+        "Printer traffic only",
+        "USB traffic",
+        "Power traffic"
+      ],
+      "correct_answer": "Network traffic",
+      "explanation": "The correct answer is 'Network traffic'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which output format is commonly used by Suricata?",
+      "options": [
+        "EVE JSON",
+        "CSV only",
+        "XML only",
+        "TXT only"
+      ],
+      "correct_answer": "EVE JSON",
+      "explanation": "The correct answer is 'EVE JSON'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of Suricata?",
+      "options": [
+        "Detect and prevent network threats",
+        "Manage databases",
+        "Encrypt disks",
+        "Route packets"
+      ],
+      "correct_answer": "Detect and prevent network threats",
+      "explanation": "The correct answer is 'Detect and prevent network threats'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is Deep Packet Inspection (DPI)?",
+      "options": [
+        "Inspecting packet headers and payloads",
+        "Only checking IP addresses",
+        "Only checking ports",
+        "Encrypting packets"
+      ],
+      "correct_answer": "Inspecting packet headers and payloads",
+      "explanation": "The correct answer is 'Inspecting packet headers and payloads'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why is Suricata's multi-threading beneficial?",
+      "options": [
+        "Better performance on modern CPUs",
+        "Less logging",
+        "Reduced security",
+        "No signatures needed"
+      ],
+      "correct_answer": "Better performance on modern CPUs",
+      "explanation": "The correct answer is 'Better performance on modern CPUs'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a Suricata rule?",
+      "options": [
+        "A signature used to detect suspicious traffic",
+        "A routing table",
+        "A DNS record",
+        "A user account"
+      ],
+      "correct_answer": "A signature used to detect suspicious traffic",
+      "explanation": "The correct answer is 'A signature used to detect suspicious traffic'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Can Suricata use Snort-compatible rules?",
+      "options": [
+        "Yes",
+        "No",
+        "Only on Linux",
+        "Only in IPS mode"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "The correct answer is 'Yes'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is protocol detection in Suricata?",
+      "options": [
+        "Identifying application protocols regardless of port",
+        "Blocking protocols",
+        "Encrypting protocols",
+        "Routing protocols"
+      ],
+      "correct_answer": "Identifying application protocols regardless of port",
+      "explanation": "The correct answer is 'Identifying application protocols regardless of port'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which deployment mode allows Suricata to only monitor traffic?",
+      "options": [
+        "IDS Mode",
+        "IPS Mode",
+        "VPN Mode",
+        "Proxy Mode"
+      ],
+      "correct_answer": "IDS Mode",
+      "explanation": "The correct answer is 'IDS Mode'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which deployment mode allows Suricata to block traffic?",
+      "options": [
+        "IPS Mode",
+        "IDS Mode",
+        "Passive Mode",
+        "Logger Mode"
+      ],
+      "correct_answer": "IPS Mode",
+      "explanation": "The correct answer is 'IPS Mode'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why are EVE JSON logs useful?",
+      "options": [
+        "Structured logging for analysis and SIEM integration",
+        "Increase bandwidth",
+        "Improve graphics",
+        "Reduce storage"
+      ],
+      "correct_answer": "Structured logging for analysis and SIEM integration",
+      "explanation": "The correct answer is 'Structured logging for analysis and SIEM integration'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What kind of attack can Suricata detect?",
+      "options": [
+        "Port Scans",
+        "Printer Errors",
+        "Disk Failures",
+        "Power Outages"
+      ],
+      "correct_answer": "Port Scans",
+      "explanation": "The correct answer is 'Port Scans'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why is protocol awareness important?",
+      "options": [
+        "Improves detection accuracy",
+        "Reduces CPU speed",
+        "Disables logging",
+        "Removes signatures"
+      ],
+      "correct_answer": "Improves detection accuracy",
+      "explanation": "The correct answer is 'Improves detection accuracy'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does Suricata differ from Snort?",
+      "options": [
+        "Suricata is multi-threaded and has advanced protocol detection",
+        "Snort is multi-threaded",
+        "Suricata cannot inspect traffic",
+        "They are identical"
+      ],
+      "correct_answer": "Suricata is multi-threaded and has advanced protocol detection",
+      "explanation": "The correct answer is 'Suricata is multi-threaded and has advanced protocol detection'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is inline IPS mode more powerful than IDS mode?",
+      "options": [
+        "It can actively block malicious traffic",
+        "It generates fewer logs",
+        "It disables signatures",
+        "It requires no rules"
+      ],
+      "correct_answer": "It can actively block malicious traffic",
+      "explanation": "The correct answer is 'It can actively block malicious traffic'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is a false positive in Suricata?",
+      "options": [
+        "Legitimate activity identified as malicious",
+        "Missed attack",
+        "Blocked malware",
+        "Encrypted traffic"
+      ],
+      "correct_answer": "Legitimate activity identified as malicious",
+      "explanation": "The correct answer is 'Legitimate activity identified as malicious'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why should Suricata rules be tuned regularly?",
+      "options": [
+        "Reduce false positives and improve detection",
+        "Increase RAM",
+        "Improve graphics",
+        "Reduce encryption"
+      ],
+      "correct_answer": "Reduce false positives and improve detection",
+      "explanation": "The correct answer is 'Reduce false positives and improve detection'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How can Suricata support threat hunting?",
+      "options": [
+        "Provides detailed network visibility and alerts",
+        "Encrypts traffic",
+        "Routes packets",
+        "Creates VPN tunnels"
+      ],
+      "correct_answer": "Provides detailed network visibility and alerts",
+      "explanation": "The correct answer is 'Provides detailed network visibility and alerts'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is SIEM integration common with Suricata?",
+      "options": [
+        "Centralized analysis and event correlation",
+        "Improves bandwidth",
+        "Manages DNS",
+        "Improves storage"
+      ],
+      "correct_answer": "Centralized analysis and event correlation",
+      "explanation": "The correct answer is 'Centralized analysis and event correlation'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What risk exists if Suricata signatures are outdated?",
+      "options": [
+        "New threats may not be detected",
+        "Bandwidth decreases",
+        "Traffic stops",
+        "DNS fails"
+      ],
+      "correct_answer": "New threats may not be detected",
+      "explanation": "The correct answer is 'New threats may not be detected'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How does Suricata contribute to defense in depth?",
+      "options": [
+        "Adds detection and prevention capabilities to network security",
+        "Replaces all security controls",
+        "Eliminates attacks permanently",
+        "Acts as a VPN"
+      ],
+      "correct_answer": "Adds detection and prevention capabilities to network security",
+      "explanation": "The correct answer is 'Adds detection and prevention capabilities to network security'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the benefit of protocol-independent detection?",
+      "options": [
+        "Detects applications even on non-standard ports",
+        "Disables protocols",
+        "Reduces logging",
+        "Improves routing"
+      ],
+      "correct_answer": "Detects applications even on non-standard ports",
+      "explanation": "The correct answer is 'Detects applications even on non-standard ports'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes Suricata?",
+      "options": [
+        "An open-source IDS/IPS with deep packet inspection, protocol awareness, and multi-threaded performance",
+        "A routing protocol",
+        "A VPN technology",
+        "A database engine"
+      ],
+      "correct_answer": "An open-source IDS/IPS with deep packet inspection, protocol awareness, and multi-threaded performance",
+      "explanation": "The correct answer is 'An open-source IDS/IPS with deep packet inspection, protocol awareness, and multi-threaded performance'. This concept is part of Suricata (IDS/IPS) and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    }
+  ]
+}

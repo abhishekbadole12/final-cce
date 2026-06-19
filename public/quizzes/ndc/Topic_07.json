@@ -1,0 +1,396 @@
+{
+  "topic": "Packet Filtering Firewall",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a packet filtering firewall?",
+      "options": [
+        "A firewall that filters packets based on rules",
+        "A database firewall",
+        "A VPN server",
+        "A load balancer"
+      ],
+      "correct_answer": "A firewall that filters packets based on rules",
+      "explanation": "The correct answer is 'A firewall that filters packets based on rules'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Packet filtering primarily examines?",
+      "options": [
+        "Packet headers",
+        "File contents",
+        "User passwords",
+        "Disk sectors"
+      ],
+      "correct_answer": "Packet headers",
+      "explanation": "The correct answer is 'Packet headers'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which field can a packet filter inspect?",
+      "options": [
+        "Source IP Address",
+        "CPU Usage",
+        "RAM Size",
+        "Screen Resolution"
+      ],
+      "correct_answer": "Source IP Address",
+      "explanation": "The correct answer is 'Source IP Address'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which field can be used in packet filtering rules?",
+      "options": [
+        "Destination Port",
+        "Hard Disk Size",
+        "Username Length",
+        "Monitor Type"
+      ],
+      "correct_answer": "Destination Port",
+      "explanation": "The correct answer is 'Destination Port'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which protocol field can packet filters examine?",
+      "options": [
+        "TCP/UDP",
+        "JPEG",
+        "PDF",
+        "DOCX"
+      ],
+      "correct_answer": "TCP/UDP",
+      "explanation": "The correct answer is 'TCP/UDP'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Packet filtering firewalls are usually considered?",
+      "options": [
+        "Stateless",
+        "Stateful",
+        "Encrypted",
+        "Wireless"
+      ],
+      "correct_answer": "Stateless",
+      "explanation": "The correct answer is 'Stateless'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which action can a packet filter perform?",
+      "options": [
+        "Allow or Deny",
+        "Compile",
+        "Encrypt",
+        "Hash"
+      ],
+      "correct_answer": "Allow or Deny",
+      "explanation": "The correct answer is 'Allow or Deny'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which network layer is most commonly associated with packet filtering?",
+      "options": [
+        "Network Layer",
+        "Presentation Layer",
+        "Application Layer",
+        "Session Layer"
+      ],
+      "correct_answer": "Network Layer",
+      "explanation": "The correct answer is 'Network Layer'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is an ACL?",
+      "options": [
+        "Access Control List",
+        "Application Control Layer",
+        "Attack Control Logic",
+        "Audit Command List"
+      ],
+      "correct_answer": "Access Control List",
+      "explanation": "The correct answer is 'Access Control List'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Packet filtering is commonly implemented on?",
+      "options": [
+        "Routers and Firewalls",
+        "Printers",
+        "Scanners",
+        "Monitors"
+      ],
+      "correct_answer": "Routers and Firewalls",
+      "explanation": "The correct answer is 'Routers and Firewalls'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a major advantage of packet filtering firewalls?",
+      "options": [
+        "Fast performance",
+        "Deep application inspection",
+        "Malware analysis",
+        "User authentication"
+      ],
+      "correct_answer": "Fast performance",
+      "explanation": "The correct answer is 'Fast performance'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a limitation of packet filtering firewalls?",
+      "options": [
+        "Cannot inspect payload content deeply",
+        "Consumes excessive memory",
+        "Requires VPN",
+        "Cannot block ports"
+      ],
+      "correct_answer": "Cannot inspect payload content deeply",
+      "explanation": "The correct answer is 'Cannot inspect payload content deeply'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which packet filtering rule blocks SSH traffic?",
+      "options": [
+        "Block TCP port 22",
+        "Block TCP port 80",
+        "Block UDP port 53",
+        "Block TCP port 443"
+      ],
+      "correct_answer": "Block TCP port 22",
+      "explanation": "The correct answer is 'Block TCP port 22'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which packet filtering rule allows web traffic?",
+      "options": [
+        "Allow TCP port 80",
+        "Allow TCP port 22",
+        "Allow UDP port 161",
+        "Allow TCP port 25"
+      ],
+      "correct_answer": "Allow TCP port 80",
+      "explanation": "The correct answer is 'Allow TCP port 80'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is rule order processing?",
+      "options": [
+        "Firewall evaluates rules sequentially",
+        "Rules execute randomly",
+        "Rules execute in parallel",
+        "Rules are encrypted"
+      ],
+      "correct_answer": "Firewall evaluates rules sequentially",
+      "explanation": "The correct answer is 'Firewall evaluates rules sequentially'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What happens when a packet matches a firewall rule?",
+      "options": [
+        "Specified action is applied",
+        "Packet is always dropped",
+        "Packet is encrypted",
+        "Packet is duplicated"
+      ],
+      "correct_answer": "Specified action is applied",
+      "explanation": "The correct answer is 'Specified action is applied'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a default deny policy?",
+      "options": [
+        "Block traffic unless explicitly allowed",
+        "Allow all traffic",
+        "Disable filtering",
+        "Allow unknown traffic"
+      ],
+      "correct_answer": "Block traffic unless explicitly allowed",
+      "explanation": "The correct answer is 'Block traffic unless explicitly allowed'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which type of traffic is commonly allowed through packet filters?",
+      "options": [
+        "Traffic matching defined rules",
+        "All traffic",
+        "Only encrypted traffic",
+        "Only internal traffic"
+      ],
+      "correct_answer": "Traffic matching defined rules",
+      "explanation": "The correct answer is 'Traffic matching defined rules'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What does source IP filtering control?",
+      "options": [
+        "Traffic from specific IP addresses",
+        "Disk access",
+        "User accounts",
+        "CPU utilization"
+      ],
+      "correct_answer": "Traffic from specific IP addresses",
+      "explanation": "The correct answer is 'Traffic from specific IP addresses'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What does destination port filtering control?",
+      "options": [
+        "Access to specific services",
+        "Storage allocation",
+        "System updates",
+        "Memory management"
+      ],
+      "correct_answer": "Access to specific services",
+      "explanation": "The correct answer is 'Access to specific services'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why are packet filtering firewalls considered stateless?",
+      "options": [
+        "They do not track connection states",
+        "They block all traffic",
+        "They inspect payloads",
+        "They use encryption"
+      ],
+      "correct_answer": "They do not track connection states",
+      "explanation": "The correct answer is 'They do not track connection states'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is first-match rule processing?",
+      "options": [
+        "The first matching rule determines the action",
+        "All matching rules are applied",
+        "Rules are ignored",
+        "Packets are cached"
+      ],
+      "correct_answer": "The first matching rule determines the action",
+      "explanation": "The correct answer is 'The first matching rule determines the action'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What risk exists if rule ordering is incorrect?",
+      "options": [
+        "Rule shadowing",
+        "Faster performance",
+        "Improved security",
+        "Reduced logging"
+      ],
+      "correct_answer": "Rule shadowing",
+      "explanation": "The correct answer is 'Rule shadowing'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How can attackers sometimes bypass packet filters?",
+      "options": [
+        "Using allowed ports or protocols",
+        "Removing routers",
+        "Increasing RAM",
+        "Disabling DNS"
+      ],
+      "correct_answer": "Using allowed ports or protocols",
+      "explanation": "The correct answer is 'Using allowed ports or protocols'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which firewall type provides more context than packet filtering?",
+      "options": [
+        "Stateful Inspection Firewall",
+        "Hub",
+        "Bridge",
+        "Repeater"
+      ],
+      "correct_answer": "Stateful Inspection Firewall",
+      "explanation": "The correct answer is 'Stateful Inspection Firewall'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is packet filtering insufficient against modern application attacks?",
+      "options": [
+        "It lacks deep application awareness",
+        "It is too expensive",
+        "It requires cloud services",
+        "It blocks all traffic"
+      ],
+      "correct_answer": "It lacks deep application awareness",
+      "explanation": "The correct answer is 'It lacks deep application awareness'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is egress packet filtering?",
+      "options": [
+        "Filtering outbound traffic",
+        "Filtering inbound traffic",
+        "Encrypting traffic",
+        "Logging traffic"
+      ],
+      "correct_answer": "Filtering outbound traffic",
+      "explanation": "The correct answer is 'Filtering outbound traffic'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is ingress packet filtering?",
+      "options": [
+        "Filtering incoming traffic",
+        "Filtering outgoing traffic",
+        "Routing traffic",
+        "Balancing traffic"
+      ],
+      "correct_answer": "Filtering incoming traffic",
+      "explanation": "The correct answer is 'Filtering incoming traffic'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which principle improves packet filtering security?",
+      "options": [
+        "Least Privilege",
+        "Open Access",
+        "Anonymous Access",
+        "Unlimited Connectivity"
+      ],
+      "correct_answer": "Least Privilege",
+      "explanation": "The correct answer is 'Least Privilege'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes packet filtering firewalls?",
+      "options": [
+        "Fast and simple but limited in visibility",
+        "Provides full application inspection",
+        "Replaces IDS/IPS",
+        "Eliminates all threats"
+      ],
+      "correct_answer": "Fast and simple but limited in visibility",
+      "explanation": "The correct answer is 'Fast and simple but limited in visibility'. This concept belongs to Packet Filtering Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    }
+  ]
+}

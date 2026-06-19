@@ -1,0 +1,396 @@
+{
+  "topic": "AES (Advanced Encryption Standard)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does AES stand for?",
+      "options": [
+        "Advanced Encryption Standard",
+        "Advanced Encoding Standard",
+        "Automatic Encryption System",
+        "Advanced Electronic Security"
+      ],
+      "correct_answer": "Advanced Encryption Standard",
+      "explanation": "The correct answer is 'Advanced Encryption Standard' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "AES is a type of?",
+      "options": [
+        "Symmetric key algorithm",
+        "Asymmetric key algorithm",
+        "Hash function",
+        "Digital signature"
+      ],
+      "correct_answer": "Symmetric key algorithm",
+      "explanation": "The correct answer is 'Symmetric key algorithm' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "AES replaced which older encryption standard?",
+      "options": [
+        "DES",
+        "RSA",
+        "ECC",
+        "SHA"
+      ],
+      "correct_answer": "DES",
+      "explanation": "The correct answer is 'DES' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the AES block size?",
+      "options": [
+        "128 bits",
+        "64 bits",
+        "256 bits",
+        "512 bits"
+      ],
+      "correct_answer": "128 bits",
+      "explanation": "The correct answer is '128 bits' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which AES key size is valid?",
+      "options": [
+        "128 bits",
+        "100 bits",
+        "96 bits",
+        "72 bits"
+      ],
+      "correct_answer": "128 bits",
+      "explanation": "The correct answer is '128 bits' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "AES is widely used for?",
+      "options": [
+        "Data encryption",
+        "Routing",
+        "Compression",
+        "DNS resolution"
+      ],
+      "correct_answer": "Data encryption",
+      "explanation": "The correct answer is 'Data encryption' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which organization selected AES as a standard?",
+      "options": [
+        "NIST",
+        "IEEE",
+        "ISO",
+        "IETF"
+      ],
+      "correct_answer": "NIST",
+      "explanation": "The correct answer is 'NIST' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "AES uses how many rounds with a 128-bit key?",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "20"
+      ],
+      "correct_answer": "10",
+      "explanation": "The correct answer is '10' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "AES provides which primary security service?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Redundancy",
+        "Scalability"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "AES is generally considered?",
+      "options": [
+        "Secure and efficient",
+        "Obsolete",
+        "Broken",
+        "Public-key cryptography"
+      ],
+      "correct_answer": "Secure and efficient",
+      "explanation": "The correct answer is 'Secure and efficient' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which algorithm became the AES standard?",
+      "options": [
+        "Rijndael",
+        "Blowfish",
+        "DES",
+        "RC4"
+      ],
+      "correct_answer": "Rijndael",
+      "explanation": "The correct answer is 'Rijndael' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "AES supports which key lengths?",
+      "options": [
+        "128, 192, and 256 bits",
+        "56 and 64 bits",
+        "512 and 1024 bits",
+        "40 and 80 bits"
+      ],
+      "correct_answer": "128, 192, and 256 bits",
+      "explanation": "The correct answer is '128, 192, and 256 bits' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why is AES preferred over DES?",
+      "options": [
+        "Stronger security and larger key sizes",
+        "Smaller block size",
+        "Uses public keys",
+        "Requires no keys"
+      ],
+      "correct_answer": "Stronger security and larger key sizes",
+      "explanation": "The correct answer is 'Stronger security and larger key sizes' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "AES operates on a structure called?",
+      "options": [
+        "State Matrix",
+        "Feistel Network",
+        "Merkle Tree",
+        "Hash Chain"
+      ],
+      "correct_answer": "State Matrix",
+      "explanation": "The correct answer is 'State Matrix' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which AES operation provides non-linearity?",
+      "options": [
+        "SubBytes",
+        "AddRoundKey",
+        "ShiftRows",
+        "MixColumns"
+      ],
+      "correct_answer": "SubBytes",
+      "explanation": "The correct answer is 'SubBytes' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the purpose of ShiftRows?",
+      "options": [
+        "Provide diffusion",
+        "Generate keys",
+        "Compress data",
+        "Create certificates"
+      ],
+      "correct_answer": "Provide diffusion",
+      "explanation": "The correct answer is 'Provide diffusion' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What does AddRoundKey do?",
+      "options": [
+        "Combines data with round keys",
+        "Generates hashes",
+        "Creates IVs",
+        "Signs messages"
+      ],
+      "correct_answer": "Combines data with round keys",
+      "explanation": "The correct answer is 'Combines data with round keys' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "AES-256 uses how many rounds?",
+      "options": [
+        "14",
+        "10",
+        "12",
+        "16"
+      ],
+      "correct_answer": "14",
+      "explanation": "The correct answer is '14' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "AES-192 uses how many rounds?",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "correct_answer": "12",
+      "explanation": "The correct answer is '12' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Where is AES commonly used today?",
+      "options": [
+        "VPNs, TLS, disk encryption",
+        "DNS only",
+        "Routing protocols",
+        "Email headers only"
+      ],
+      "correct_answer": "VPNs, TLS, disk encryption",
+      "explanation": "The correct answer is 'VPNs, TLS, disk encryption' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is AES considered resistant to brute-force attacks?",
+      "options": [
+        "Large keyspace makes exhaustive search impractical",
+        "It uses certificates",
+        "It hides keys in files",
+        "It uses compression"
+      ],
+      "correct_answer": "Large keyspace makes exhaustive search impractical",
+      "explanation": "The correct answer is 'Large keyspace makes exhaustive search impractical' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which statement about AES and performance is correct?",
+      "options": [
+        "AES is both secure and computationally efficient",
+        "AES is slower than 3DES in most cases",
+        "AES cannot be hardware accelerated",
+        "AES only works on files"
+      ],
+      "correct_answer": "AES is both secure and computationally efficient",
+      "explanation": "The correct answer is 'AES is both secure and computationally efficient' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is the primary advantage of AES-256 over AES-128?",
+      "options": [
+        "Larger keyspace and greater brute-force resistance",
+        "Smaller ciphertext",
+        "Faster encryption",
+        "Fewer rounds"
+      ],
+      "correct_answer": "Larger keyspace and greater brute-force resistance",
+      "explanation": "The correct answer is 'Larger keyspace and greater brute-force resistance' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which AES mode provides authenticated encryption?",
+      "options": [
+        "GCM",
+        "ECB",
+        "CBC",
+        "CFB"
+      ],
+      "correct_answer": "GCM",
+      "explanation": "The correct answer is 'GCM' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is ECB mode discouraged even when used with AES?",
+      "options": [
+        "Patterns in plaintext may remain visible",
+        "AES becomes asymmetric",
+        "Keys are not required",
+        "Data cannot be decrypted"
+      ],
+      "correct_answer": "Patterns in plaintext may remain visible",
+      "explanation": "The correct answer is 'Patterns in plaintext may remain visible' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is the role of key expansion in AES?",
+      "options": [
+        "Generate round keys from the original key",
+        "Create certificates",
+        "Hash plaintext",
+        "Compress ciphertext"
+      ],
+      "correct_answer": "Generate round keys from the original key",
+      "explanation": "The correct answer is 'Generate round keys from the original key' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which attack is generally considered the most practical threat against poorly implemented AES systems?",
+      "options": [
+        "Side-channel attacks",
+        "Direct cryptanalysis of AES",
+        "Replay attacks",
+        "ARP spoofing"
+      ],
+      "correct_answer": "Side-channel attacks",
+      "explanation": "The correct answer is 'Side-channel attacks' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is AES suitable for encrypting large volumes of data?",
+      "options": [
+        "High speed and strong security",
+        "No key management needed",
+        "Uses public keys",
+        "Produces smaller files"
+      ],
+      "correct_answer": "High speed and strong security",
+      "explanation": "The correct answer is 'High speed and strong security' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "AES belongs to which class of ciphers?",
+      "options": [
+        "Substitution-Permutation Network",
+        "Feistel Network",
+        "One-Time Pad",
+        "Transposition Cipher"
+      ],
+      "correct_answer": "Substitution-Permutation Network",
+      "explanation": "The correct answer is 'Substitution-Permutation Network' because it best explains AES concepts and usage."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes the current status of AES?",
+      "options": [
+        "Widely trusted and globally adopted encryption standard",
+        "Deprecated standard",
+        "Broken by brute force",
+        "Replaced by DES"
+      ],
+      "correct_answer": "Widely trusted and globally adopted encryption standard",
+      "explanation": "The correct answer is 'Widely trusted and globally adopted encryption standard' because it best explains AES concepts and usage."
+    }
+  ]
+}

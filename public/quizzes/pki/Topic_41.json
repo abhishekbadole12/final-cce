@@ -1,0 +1,396 @@
+{
+  "topic": "Introduction to Blockchain",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a blockchain?",
+      "options": [
+        "A distributed digital ledger",
+        "A firewall",
+        "A router",
+        "A database backup"
+      ],
+      "correct_answer": "A distributed digital ledger",
+      "explanation": "The correct answer is 'A distributed digital ledger' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of blockchain technology?",
+      "options": [
+        "Record transactions securely and transparently",
+        "Compress files",
+        "Manage DNS",
+        "Route packets"
+      ],
+      "correct_answer": "Record transactions securely and transparently",
+      "explanation": "The correct answer is 'Record transactions securely and transparently' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which characteristic is commonly associated with blockchain?",
+      "options": [
+        "Decentralization",
+        "Centralized control",
+        "Single server dependency",
+        "Password storage"
+      ],
+      "correct_answer": "Decentralization",
+      "explanation": "The correct answer is 'Decentralization' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "A blockchain is made up of?",
+      "options": [
+        "Blocks linked together",
+        "Routers",
+        "Certificates",
+        "DNS records"
+      ],
+      "correct_answer": "Blocks linked together",
+      "explanation": "The correct answer is 'Blocks linked together' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is stored inside a blockchain block?",
+      "options": [
+        "Transaction data",
+        "Printer settings",
+        "Firewall rules",
+        "Video files"
+      ],
+      "correct_answer": "Transaction data",
+      "explanation": "The correct answer is 'Transaction data' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What links one block to the previous block?",
+      "options": [
+        "Cryptographic hash",
+        "Password",
+        "Certificate",
+        "IP address"
+      ],
+      "correct_answer": "Cryptographic hash",
+      "explanation": "The correct answer is 'Cryptographic hash' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which technology helps ensure blockchain integrity?",
+      "options": [
+        "Hashing",
+        "Compression",
+        "Caching",
+        "Routing"
+      ],
+      "correct_answer": "Hashing",
+      "explanation": "The correct answer is 'Hashing' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Blockchain transactions are generally?",
+      "options": [
+        "Immutable",
+        "Temporary",
+        "Editable by anyone",
+        "Automatically deleted"
+      ],
+      "correct_answer": "Immutable",
+      "explanation": "The correct answer is 'Immutable' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which famous cryptocurrency uses blockchain?",
+      "options": [
+        "Bitcoin",
+        "FTP",
+        "Kerberos",
+        "LDAP"
+      ],
+      "correct_answer": "Bitcoin",
+      "explanation": "The correct answer is 'Bitcoin' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Blockchain primarily improves?",
+      "options": [
+        "Trust and transparency",
+        "Bandwidth",
+        "File size",
+        "Printer performance"
+      ],
+      "correct_answer": "Trust and transparency",
+      "explanation": "The correct answer is 'Trust and transparency' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is decentralization in blockchain?",
+      "options": [
+        "No single entity controls the ledger",
+        "One company owns everything",
+        "Only governments can modify records",
+        "A single server stores all data"
+      ],
+      "correct_answer": "No single entity controls the ledger",
+      "explanation": "The correct answer is 'No single entity controls the ledger' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a distributed ledger?",
+      "options": [
+        "A ledger replicated across multiple nodes",
+        "A local password file",
+        "A DNS table",
+        "A routing table"
+      ],
+      "correct_answer": "A ledger replicated across multiple nodes",
+      "explanation": "The correct answer is 'A ledger replicated across multiple nodes' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a blockchain node?",
+      "options": [
+        "A participant maintaining a copy of the blockchain",
+        "A certificate",
+        "A password",
+        "A firewall"
+      ],
+      "correct_answer": "A participant maintaining a copy of the blockchain",
+      "explanation": "The correct answer is 'A participant maintaining a copy of the blockchain' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why are hashes important in blockchain?",
+      "options": [
+        "They help detect data tampering",
+        "They compress files",
+        "They issue certificates",
+        "They manage DNS"
+      ],
+      "correct_answer": "They help detect data tampering",
+      "explanation": "The correct answer is 'They help detect data tampering' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What happens if transaction data inside a block changes?",
+      "options": [
+        "The block hash changes",
+        "Nothing happens",
+        "The certificate expires",
+        "The node is deleted"
+      ],
+      "correct_answer": "The block hash changes",
+      "explanation": "The correct answer is 'The block hash changes' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is consensus in blockchain?",
+      "options": [
+        "Agreement among participants on the ledger state",
+        "Password synchronization",
+        "Certificate renewal",
+        "File compression"
+      ],
+      "correct_answer": "Agreement among participants on the ledger state",
+      "explanation": "The correct answer is 'Agreement among participants on the ledger state' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which consensus mechanism is used by Bitcoin?",
+      "options": [
+        "Proof of Work (PoW)",
+        "Proof of Identity",
+        "LDAP",
+        "Kerberos"
+      ],
+      "correct_answer": "Proof of Work (PoW)",
+      "explanation": "The correct answer is 'Proof of Work (PoW)' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a smart contract?",
+      "options": [
+        "Self-executing code running on a blockchain",
+        "A firewall rule",
+        "A password policy",
+        "A DNS record"
+      ],
+      "correct_answer": "Self-executing code running on a blockchain",
+      "explanation": "The correct answer is 'Self-executing code running on a blockchain' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is blockchain considered transparent?",
+      "options": [
+        "Transactions can be verified by participants",
+        "Passwords are public",
+        "Private keys are shared",
+        "Certificates are removed"
+      ],
+      "correct_answer": "Transactions can be verified by participants",
+      "explanation": "The correct answer is 'Transactions can be verified by participants' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which field benefits from blockchain beyond cryptocurrency?",
+      "options": [
+        "Supply chain management",
+        "Printer maintenance",
+        "Video rendering",
+        "Disk cleanup"
+      ],
+      "correct_answer": "Supply chain management",
+      "explanation": "The correct answer is 'Supply chain management' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does blockchain provide tamper resistance?",
+      "options": [
+        "Changing a block would require altering linked hashes and gaining consensus",
+        "It uses passwords",
+        "It hides all transactions",
+        "It removes cryptography"
+      ],
+      "correct_answer": "Changing a block would require altering linked hashes and gaining consensus",
+      "explanation": "The correct answer is 'Changing a block would require altering linked hashes and gaining consensus' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What security property is strengthened by blockchain immutability?",
+      "options": [
+        "Integrity",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why is consensus important in decentralized systems?",
+      "options": [
+        "It ensures participants agree on a single version of truth",
+        "It increases bandwidth",
+        "It compresses data",
+        "It replaces authentication"
+      ],
+      "correct_answer": "It ensures participants agree on a single version of truth",
+      "explanation": "The correct answer is 'It ensures participants agree on a single version of truth' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What risk exists in a 51% attack?",
+      "options": [
+        "A majority of network power could manipulate transaction confirmation",
+        "DNS fails",
+        "Certificates expire",
+        "Hashes disappear"
+      ],
+      "correct_answer": "A majority of network power could manipulate transaction confirmation",
+      "explanation": "The correct answer is 'A majority of network power could manipulate transaction confirmation' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How are public and private keys used in blockchain systems?",
+      "options": [
+        "To sign and verify transactions",
+        "To compress files",
+        "To route traffic",
+        "To manage DNS"
+      ],
+      "correct_answer": "To sign and verify transactions",
+      "explanation": "The correct answer is 'To sign and verify transactions' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What role does cryptography play in blockchain?",
+      "options": [
+        "It secures transactions and identities",
+        "It replaces transactions",
+        "It eliminates trust",
+        "It removes hashing"
+      ],
+      "correct_answer": "It secures transactions and identities",
+      "explanation": "The correct answer is 'It secures transactions and identities' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why are smart contracts important?",
+      "options": [
+        "They automate trusted business logic",
+        "They replace blockchains",
+        "They create passwords",
+        "They manage routing"
+      ],
+      "correct_answer": "They automate trusted business logic",
+      "explanation": "The correct answer is 'They automate trusted business logic' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How can blockchain support PKI-related applications?",
+      "options": [
+        "By providing tamper-resistant records and trust verification",
+        "By replacing certificates entirely",
+        "By eliminating encryption",
+        "By managing DNS"
+      ],
+      "correct_answer": "By providing tamper-resistant records and trust verification",
+      "explanation": "The correct answer is 'By providing tamper-resistant records and trust verification' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which challenge is often associated with blockchain systems?",
+      "options": [
+        "Scalability",
+        "Authentication",
+        "Hashing",
+        "Digital signatures"
+      ],
+      "correct_answer": "Scalability",
+      "explanation": "The correct answer is 'Scalability' because it best explains blockchain concepts and applications."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes blockchain today?",
+      "options": [
+        "A decentralized, cryptographically secured ledger used for transparent and tamper-resistant record keeping",
+        "A hashing algorithm",
+        "A certificate authority",
+        "A routing protocol"
+      ],
+      "correct_answer": "A decentralized, cryptographically secured ledger used for transparent and tamper-resistant record keeping",
+      "explanation": "The correct answer is 'A decentralized, cryptographically secured ledger used for transparent and tamper-resistant record keeping' because it best explains blockchain concepts and applications."
+    }
+  ]
+}

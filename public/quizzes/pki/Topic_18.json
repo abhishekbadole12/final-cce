@@ -1,0 +1,396 @@
+{
+  "topic": "PKI Fundamentals",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does PKI stand for?",
+      "options": [
+        "Public Key Infrastructure",
+        "Private Key Infrastructure",
+        "Public Key Integration",
+        "Protected Key Infrastructure"
+      ],
+      "correct_answer": "Public Key Infrastructure",
+      "explanation": "The correct answer is 'Public Key Infrastructure' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of PKI?",
+      "options": [
+        "Manage digital certificates and public keys",
+        "Encrypt all files",
+        "Store passwords",
+        "Manage routers"
+      ],
+      "correct_answer": "Manage digital certificates and public keys",
+      "explanation": "The correct answer is 'Manage digital certificates and public keys' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "PKI is mainly based on which type of cryptography?",
+      "options": [
+        "Asymmetric cryptography",
+        "Symmetric cryptography",
+        "Hashing",
+        "Steganography"
+      ],
+      "correct_answer": "Asymmetric cryptography",
+      "explanation": "The correct answer is 'Asymmetric cryptography' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which component issues digital certificates in PKI?",
+      "options": [
+        "Certificate Authority (CA)",
+        "Firewall",
+        "DNS Server",
+        "Switch"
+      ],
+      "correct_answer": "Certificate Authority (CA)",
+      "explanation": "The correct answer is 'Certificate Authority (CA)' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What does PKI help establish?",
+      "options": [
+        "Trust",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Trust",
+      "explanation": "The correct answer is 'Trust' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which key can be shared publicly in PKI?",
+      "options": [
+        "Public key",
+        "Private key",
+        "Session key",
+        "Master key"
+      ],
+      "correct_answer": "Public key",
+      "explanation": "The correct answer is 'Public key' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which key must remain secret?",
+      "options": [
+        "Private key",
+        "Public key",
+        "Certificate key",
+        "Hash key"
+      ],
+      "correct_answer": "Private key",
+      "explanation": "The correct answer is 'Private key' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Digital certificates in PKI bind a public key to?",
+      "options": [
+        "An identity",
+        "A password",
+        "A router",
+        "A database"
+      ],
+      "correct_answer": "An identity",
+      "explanation": "The correct answer is 'An identity' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which protocol commonly relies on PKI?",
+      "options": [
+        "HTTPS",
+        "ARP",
+        "ICMP",
+        "FTP"
+      ],
+      "correct_answer": "HTTPS",
+      "explanation": "The correct answer is 'HTTPS' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "PKI supports which security service?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Redundancy"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the role of a Registration Authority (RA)?",
+      "options": [
+        "Verifies identities before certificate issuance",
+        "Encrypts files",
+        "Stores private keys",
+        "Routes traffic"
+      ],
+      "correct_answer": "Verifies identities before certificate issuance",
+      "explanation": "The correct answer is 'Verifies identities before certificate issuance' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Root CA?",
+      "options": [
+        "Top-level trusted Certificate Authority",
+        "Web server",
+        "DNS server",
+        "Firewall"
+      ],
+      "correct_answer": "Top-level trusted Certificate Authority",
+      "explanation": "The correct answer is 'Top-level trusted Certificate Authority' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is an Intermediate CA?",
+      "options": [
+        "A CA that issues certificates on behalf of a Root CA",
+        "A backup server",
+        "A browser component",
+        "A hash function"
+      ],
+      "correct_answer": "A CA that issues certificates on behalf of a Root CA",
+      "explanation": "The correct answer is 'A CA that issues certificates on behalf of a Root CA' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why are Intermediate CAs used?",
+      "options": [
+        "To reduce risk to the Root CA",
+        "To replace certificates",
+        "To generate passwords",
+        "To compress data"
+      ],
+      "correct_answer": "To reduce risk to the Root CA",
+      "explanation": "The correct answer is 'To reduce risk to the Root CA' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is a certificate chain?",
+      "options": [
+        "A path of trust from a certificate to a trusted Root CA",
+        "A list of passwords",
+        "A group of firewalls",
+        "A DNS hierarchy"
+      ],
+      "correct_answer": "A path of trust from a certificate to a trusted Root CA",
+      "explanation": "The correct answer is 'A path of trust from a certificate to a trusted Root CA' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What happens if a certificate cannot be traced to a trusted Root CA?",
+      "options": [
+        "It is generally not trusted",
+        "It becomes stronger",
+        "It is encrypted",
+        "It becomes a wildcard certificate"
+      ],
+      "correct_answer": "It is generally not trusted",
+      "explanation": "The correct answer is 'It is generally not trusted' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is certificate enrollment?",
+      "options": [
+        "The process of requesting and obtaining a certificate",
+        "Certificate revocation",
+        "Hash generation",
+        "Key destruction"
+      ],
+      "correct_answer": "The process of requesting and obtaining a certificate",
+      "explanation": "The correct answer is 'The process of requesting and obtaining a certificate' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why is PKI important for secure email?",
+      "options": [
+        "It enables encryption and digital signatures",
+        "It compresses emails",
+        "It blocks spam",
+        "It routes messages"
+      ],
+      "correct_answer": "It enables encryption and digital signatures",
+      "explanation": "The correct answer is 'It enables encryption and digital signatures' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a trust store?",
+      "options": [
+        "A collection of trusted root certificates",
+        "A password database",
+        "A certificate revocation list",
+        "A key generator"
+      ],
+      "correct_answer": "A collection of trusted root certificates",
+      "explanation": "The correct answer is 'A collection of trusted root certificates' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which PKI component manages certificate status?",
+      "options": [
+        "CA and revocation services",
+        "Router",
+        "Proxy",
+        "Load balancer"
+      ],
+      "correct_answer": "CA and revocation services",
+      "explanation": "The correct answer is 'CA and revocation services' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is trust the central concept of PKI?",
+      "options": [
+        "Certificates are only useful if the issuing authority is trusted",
+        "PKI encrypts all traffic",
+        "Trust replaces encryption",
+        "Trust stores passwords"
+      ],
+      "correct_answer": "Certificates are only useful if the issuing authority is trusted",
+      "explanation": "The correct answer is 'Certificates are only useful if the issuing authority is trusted' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the primary risk if a Root CA is compromised?",
+      "options": [
+        "Attackers can issue fraudulent trusted certificates",
+        "AES becomes insecure",
+        "DNS fails",
+        "Hashes collide"
+      ],
+      "correct_answer": "Attackers can issue fraudulent trusted certificates",
+      "explanation": "The correct answer is 'Attackers can issue fraudulent trusted certificates' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why are Root CA private keys usually kept offline?",
+      "options": [
+        "To minimize compromise risk",
+        "To improve performance",
+        "To speed up certificate issuance",
+        "To reduce storage"
+      ],
+      "correct_answer": "To minimize compromise risk",
+      "explanation": "The correct answer is 'To minimize compromise risk' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is key escrow in PKI?",
+      "options": [
+        "Controlled storage of cryptographic keys for recovery purposes",
+        "Certificate revocation",
+        "Password rotation",
+        "Hash generation"
+      ],
+      "correct_answer": "Controlled storage of cryptographic keys for recovery purposes",
+      "explanation": "The correct answer is 'Controlled storage of cryptographic keys for recovery purposes' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which PKI process ensures a certificate is no longer trusted before expiration?",
+      "options": [
+        "Certificate revocation",
+        "Certificate chaining",
+        "Enrollment",
+        "Key generation"
+      ],
+      "correct_answer": "Certificate revocation",
+      "explanation": "The correct answer is 'Certificate revocation' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does PKI support non-repudiation?",
+      "options": [
+        "By combining certificates with digital signatures",
+        "By compressing data",
+        "By encrypting DNS",
+        "By replacing hashes"
+      ],
+      "correct_answer": "By combining certificates with digital signatures",
+      "explanation": "The correct answer is 'By combining certificates with digital signatures' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is cross-certification in PKI?",
+      "options": [
+        "Two CAs establishing trust between each other",
+        "Two users sharing passwords",
+        "Two servers sharing files",
+        "Two routers exchanging routes"
+      ],
+      "correct_answer": "Two CAs establishing trust between each other",
+      "explanation": "The correct answer is 'Two CAs establishing trust between each other' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are certificate policies important?",
+      "options": [
+        "They define rules for certificate issuance and usage",
+        "They create hashes",
+        "They replace CAs",
+        "They generate keys"
+      ],
+      "correct_answer": "They define rules for certificate issuance and usage",
+      "explanation": "The correct answer is 'They define rules for certificate issuance and usage' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which attack targets user trust by presenting a fraudulent certificate?",
+      "options": [
+        "Certificate spoofing / MITM attack",
+        "DDoS attack",
+        "Replay attack",
+        "Brute-force attack"
+      ],
+      "correct_answer": "Certificate spoofing / MITM attack",
+      "explanation": "The correct answer is 'Certificate spoofing / MITM attack' because it best explains PKI fundamentals and trust concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes PKI today?",
+      "options": [
+        "A framework of certificates, keys, policies, and trust relationships used to secure digital communications",
+        "A single encryption algorithm",
+        "A hashing standard",
+        "A network routing protocol"
+      ],
+      "correct_answer": "A framework of certificates, keys, policies, and trust relationships used to secure digital communications",
+      "explanation": "The correct answer is 'A framework of certificates, keys, policies, and trust relationships used to secure digital communications' because it best explains PKI fundamentals and trust concepts."
+    }
+  ]
+}

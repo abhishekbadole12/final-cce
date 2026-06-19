@@ -1,0 +1,396 @@
+{
+  "topic": "Intrusion Prevention System (IPS)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does IPS stand for?",
+      "options": [
+        "Intrusion Prevention System",
+        "Internet Protection Service",
+        "Integrated Prevention System",
+        "Internal Protection Service"
+      ],
+      "correct_answer": "Intrusion Prevention System",
+      "explanation": "The correct answer is 'Intrusion Prevention System'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of an IPS?",
+      "options": [
+        "Detect and block malicious activity",
+        "Only detect attacks",
+        "Manage DNS",
+        "Load balance traffic"
+      ],
+      "correct_answer": "Detect and block malicious activity",
+      "explanation": "The correct answer is 'Detect and block malicious activity'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "How is an IPS different from an IDS?",
+      "options": [
+        "IPS can actively block threats",
+        "IPS only logs events",
+        "IPS is a VPN",
+        "There is no difference"
+      ],
+      "correct_answer": "IPS can actively block threats",
+      "explanation": "The correct answer is 'IPS can actively block threats'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Where is an IPS typically deployed?",
+      "options": [
+        "Inline with network traffic",
+        "On a printer",
+        "Inside a monitor",
+        "In a database"
+      ],
+      "correct_answer": "Inline with network traffic",
+      "explanation": "The correct answer is 'Inline with network traffic'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which IPS type protects network traffic?",
+      "options": [
+        "NIPS",
+        "HIPS",
+        "VPN",
+        "WAF"
+      ],
+      "correct_answer": "NIPS",
+      "explanation": "The correct answer is 'NIPS'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which IPS type protects individual hosts?",
+      "options": [
+        "HIPS",
+        "NIPS",
+        "Router",
+        "Switch"
+      ],
+      "correct_answer": "HIPS",
+      "explanation": "The correct answer is 'HIPS'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does NIPS stand for?",
+      "options": [
+        "Network Intrusion Prevention System",
+        "Network Internet Prevention Service",
+        "Node Intrusion Protection System",
+        "Network Internal Protection Service"
+      ],
+      "correct_answer": "Network Intrusion Prevention System",
+      "explanation": "The correct answer is 'Network Intrusion Prevention System'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What does HIPS stand for?",
+      "options": [
+        "Host Intrusion Prevention System",
+        "Host Internet Protection Service",
+        "Hybrid Intrusion Prevention System",
+        "Hardware Intrusion Protection System"
+      ],
+      "correct_answer": "Host Intrusion Prevention System",
+      "explanation": "The correct answer is 'Host Intrusion Prevention System'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What action can an IPS perform?",
+      "options": [
+        "Block malicious traffic",
+        "Only monitor",
+        "Only log",
+        "Only route"
+      ],
+      "correct_answer": "Block malicious traffic",
+      "explanation": "The correct answer is 'Block malicious traffic'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is a security policy in an IPS?",
+      "options": [
+        "Rules defining what traffic is allowed or blocked",
+        "A backup file",
+        "A routing table",
+        "A DNS record"
+      ],
+      "correct_answer": "Rules defining what traffic is allowed or blocked",
+      "explanation": "The correct answer is 'Rules defining what traffic is allowed or blocked'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is signature-based prevention?",
+      "options": [
+        "Blocking traffic matching known attack patterns",
+        "Blocking all traffic",
+        "Encrypting packets",
+        "Load balancing"
+      ],
+      "correct_answer": "Blocking traffic matching known attack patterns",
+      "explanation": "The correct answer is 'Blocking traffic matching known attack patterns'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is anomaly-based prevention?",
+      "options": [
+        "Blocking traffic that deviates from normal behavior",
+        "Blocking based on signatures only",
+        "Routing packets",
+        "Managing users"
+      ],
+      "correct_answer": "Blocking traffic that deviates from normal behavior",
+      "explanation": "The correct answer is 'Blocking traffic that deviates from normal behavior'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why are IPS signatures updated regularly?",
+      "options": [
+        "To detect new threats",
+        "To increase bandwidth",
+        "To improve graphics",
+        "To reduce storage"
+      ],
+      "correct_answer": "To detect new threats",
+      "explanation": "The correct answer is 'To detect new threats'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the benefit of inline deployment?",
+      "options": [
+        "Immediate threat prevention",
+        "Faster logging only",
+        "More storage",
+        "Reduced routing"
+      ],
+      "correct_answer": "Immediate threat prevention",
+      "explanation": "The correct answer is 'Immediate threat prevention'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which attack can an IPS help stop?",
+      "options": [
+        "Port Scan",
+        "Power Failure",
+        "Disk Crash",
+        "Printer Error"
+      ],
+      "correct_answer": "Port Scan",
+      "explanation": "The correct answer is 'Port Scan'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is packet inspection?",
+      "options": [
+        "Analyzing packet contents and headers",
+        "Encrypting packets",
+        "Dropping packets",
+        "Routing packets"
+      ],
+      "correct_answer": "Analyzing packet contents and headers",
+      "explanation": "The correct answer is 'Analyzing packet contents and headers'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a common IPS response to malicious traffic?",
+      "options": [
+        "Drop or block the packet",
+        "Increase bandwidth",
+        "Disable logging",
+        "Create backups"
+      ],
+      "correct_answer": "Drop or block the packet",
+      "explanation": "The correct answer is 'Drop or block the packet'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "How does a HIPS differ from a NIPS?",
+      "options": [
+        "HIPS protects hosts, NIPS protects networks",
+        "They are identical",
+        "NIPS protects hosts",
+        "HIPS manages DNS"
+      ],
+      "correct_answer": "HIPS protects hosts, NIPS protects networks",
+      "explanation": "The correct answer is 'HIPS protects hosts, NIPS protects networks'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is deep packet inspection used for in IPS?",
+      "options": [
+        "Detect sophisticated threats",
+        "Increase storage",
+        "Improve performance",
+        "Compress traffic"
+      ],
+      "correct_answer": "Detect sophisticated threats",
+      "explanation": "The correct answer is 'Detect sophisticated threats'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why is an IPS valuable in enterprise security?",
+      "options": [
+        "Provides automated threat prevention",
+        "Eliminates firewalls",
+        "Replaces VPNs",
+        "Disables monitoring"
+      ],
+      "correct_answer": "Provides automated threat prevention",
+      "explanation": "The correct answer is 'Provides automated threat prevention'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is a major risk of false positives in IPS?",
+      "options": [
+        "Legitimate traffic may be blocked",
+        "More attacks occur",
+        "Logs are deleted",
+        "Encryption fails"
+      ],
+      "correct_answer": "Legitimate traffic may be blocked",
+      "explanation": "The correct answer is 'Legitimate traffic may be blocked'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why must IPS policies be carefully tuned?",
+      "options": [
+        "To balance security and availability",
+        "To improve graphics",
+        "To increase storage",
+        "To disable monitoring"
+      ],
+      "correct_answer": "To balance security and availability",
+      "explanation": "The correct answer is 'To balance security and availability'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does IPS contribute to defense in depth?",
+      "options": [
+        "Adds an active prevention layer",
+        "Replaces all controls",
+        "Eliminates risk",
+        "Disables threats permanently"
+      ],
+      "correct_answer": "Adds an active prevention layer",
+      "explanation": "The correct answer is 'Adds an active prevention layer'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is the relationship between IDS and IPS?",
+      "options": [
+        "IDS detects, IPS detects and prevents",
+        "They are identical",
+        "IPS only logs",
+        "IDS blocks traffic"
+      ],
+      "correct_answer": "IDS detects, IPS detects and prevents",
+      "explanation": "The correct answer is 'IDS detects, IPS detects and prevents'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is inline IPS deployment a potential bottleneck?",
+      "options": [
+        "All traffic must pass through it",
+        "It disables routing",
+        "It blocks DNS",
+        "It removes encryption"
+      ],
+      "correct_answer": "All traffic must pass through it",
+      "explanation": "The correct answer is 'All traffic must pass through it'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which detection method is most effective against known attacks?",
+      "options": [
+        "Signature-Based",
+        "Anomaly-Based",
+        "Manual Detection",
+        "Static Routing"
+      ],
+      "correct_answer": "Signature-Based",
+      "explanation": "The correct answer is 'Signature-Based'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which detection method may help identify zero-day attacks?",
+      "options": [
+        "Anomaly-Based",
+        "Signature-Based",
+        "Port-Based",
+        "DNS-Based"
+      ],
+      "correct_answer": "Anomaly-Based",
+      "explanation": "The correct answer is 'Anomaly-Based'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How can an IPS respond to an attack besides blocking packets?",
+      "options": [
+        "Reset connections and generate alerts",
+        "Increase RAM",
+        "Disable firewalls",
+        "Compress logs"
+      ],
+      "correct_answer": "Reset connections and generate alerts",
+      "explanation": "The correct answer is 'Reset connections and generate alerts'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What happens if an IPS fails in an inline deployment without redundancy?",
+      "options": [
+        "Traffic disruption may occur",
+        "Traffic becomes encrypted",
+        "Logs improve",
+        "Bandwidth doubles"
+      ],
+      "correct_answer": "Traffic disruption may occur",
+      "explanation": "The correct answer is 'Traffic disruption may occur'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes an IPS?",
+      "options": [
+        "A security system that monitors and actively blocks malicious activity in real time",
+        "A passive monitoring tool only",
+        "A VPN protocol",
+        "A load balancer"
+      ],
+      "correct_answer": "A security system that monitors and actively blocks malicious activity in real time",
+      "explanation": "The correct answer is 'A security system that monitors and actively blocks malicious activity in real time'. This answer is correct because it represents a key concept in Intrusion Prevention System (IPS). Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    }
+  ]
+}

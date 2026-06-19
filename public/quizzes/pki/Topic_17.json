@@ -1,0 +1,396 @@
+{
+  "topic": "Digital Certificates",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a digital certificate?",
+      "options": [
+        "An electronic document that binds a public key to an identity",
+        "A password file",
+        "An encrypted email",
+        "A hash value"
+      ],
+      "correct_answer": "An electronic document that binds a public key to an identity",
+      "explanation": "The correct answer is 'An electronic document that binds a public key to an identity' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which organization typically issues digital certificates?",
+      "options": [
+        "Certificate Authority (CA)",
+        "Firewall",
+        "Router",
+        "DNS Server"
+      ],
+      "correct_answer": "Certificate Authority (CA)",
+      "explanation": "The correct answer is 'Certificate Authority (CA)' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a digital certificate?",
+      "options": [
+        "Establish trust in a public key",
+        "Encrypt files",
+        "Compress data",
+        "Store passwords"
+      ],
+      "correct_answer": "Establish trust in a public key",
+      "explanation": "The correct answer is 'Establish trust in a public key' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which key is usually contained in a digital certificate?",
+      "options": [
+        "Public key",
+        "Private key",
+        "Session key",
+        "Shared key"
+      ],
+      "correct_answer": "Public key",
+      "explanation": "The correct answer is 'Public key' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Digital certificates are commonly used in?",
+      "options": [
+        "HTTPS websites",
+        "Disk defragmentation",
+        "Video encoding",
+        "Load balancing"
+      ],
+      "correct_answer": "HTTPS websites",
+      "explanation": "The correct answer is 'HTTPS websites' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does a certificate help verify?",
+      "options": [
+        "Identity of an entity",
+        "Internet speed",
+        "Storage capacity",
+        "Network topology"
+      ],
+      "correct_answer": "Identity of an entity",
+      "explanation": "The correct answer is 'Identity of an entity' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which standard is commonly used for digital certificates?",
+      "options": [
+        "X.509",
+        "IPv4",
+        "AES",
+        "SHA"
+      ],
+      "correct_answer": "X.509",
+      "explanation": "The correct answer is 'X.509' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Can a digital certificate contain a private key?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for CAs",
+        "Only for servers"
+      ],
+      "correct_answer": "No",
+      "explanation": "The correct answer is 'No' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What browser feature relies on digital certificates?",
+      "options": [
+        "HTTPS padlock icon",
+        "Bookmarks",
+        "History",
+        "Downloads"
+      ],
+      "correct_answer": "HTTPS padlock icon",
+      "explanation": "The correct answer is 'HTTPS padlock icon' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Digital certificates support which security service?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Redundancy"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What information is typically found in a digital certificate?",
+      "options": [
+        "Subject name, public key, issuer, validity period",
+        "Private key",
+        "Passwords",
+        "Database records"
+      ],
+      "correct_answer": "Subject name, public key, issuer, validity period",
+      "explanation": "The correct answer is 'Subject name, public key, issuer, validity period' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Who signs a certificate to make it trusted?",
+      "options": [
+        "Certificate Authority",
+        "Website owner",
+        "Browser",
+        "Operating System"
+      ],
+      "correct_answer": "Certificate Authority",
+      "explanation": "The correct answer is 'Certificate Authority' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the validity period of a certificate?",
+      "options": [
+        "Time during which the certificate is considered valid",
+        "Hash lifetime",
+        "Password expiration",
+        "DNS cache duration"
+      ],
+      "correct_answer": "Time during which the certificate is considered valid",
+      "explanation": "The correct answer is 'Time during which the certificate is considered valid' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is a self-signed certificate?",
+      "options": [
+        "A certificate signed by its own private key",
+        "A certificate signed by a CA",
+        "An expired certificate",
+        "A revoked certificate"
+      ],
+      "correct_answer": "A certificate signed by its own private key",
+      "explanation": "The correct answer is 'A certificate signed by its own private key' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why do browsers warn about self-signed certificates?",
+      "options": [
+        "They are not automatically trusted",
+        "They are encrypted",
+        "They contain private keys",
+        "They use SHA-256"
+      ],
+      "correct_answer": "They are not automatically trusted",
+      "explanation": "The correct answer is 'They are not automatically trusted' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the subject field in a certificate?",
+      "options": [
+        "The identity being certified",
+        "The CA name",
+        "The hash value",
+        "The serial number"
+      ],
+      "correct_answer": "The identity being certified",
+      "explanation": "The correct answer is 'The identity being certified' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the issuer field in a certificate?",
+      "options": [
+        "The entity that issued the certificate",
+        "The website owner",
+        "The browser",
+        "The DNS server"
+      ],
+      "correct_answer": "The entity that issued the certificate",
+      "explanation": "The correct answer is 'The entity that issued the certificate' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is certificate chaining?",
+      "options": [
+        "Linking certificates back to a trusted root CA",
+        "Combining certificates",
+        "Encrypting certificates",
+        "Compressing certificates"
+      ],
+      "correct_answer": "Linking certificates back to a trusted root CA",
+      "explanation": "The correct answer is 'Linking certificates back to a trusted root CA' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why are certificates important in TLS?",
+      "options": [
+        "They authenticate servers and sometimes clients",
+        "They replace encryption",
+        "They create passwords",
+        "They route packets"
+      ],
+      "correct_answer": "They authenticate servers and sometimes clients",
+      "explanation": "The correct answer is 'They authenticate servers and sometimes clients' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What uniquely identifies a certificate?",
+      "options": [
+        "Serial number",
+        "Port number",
+        "IP address",
+        "Hash length"
+      ],
+      "correct_answer": "Serial number",
+      "explanation": "The correct answer is 'Serial number' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the purpose of the certificate signature?",
+      "options": [
+        "To verify the certificate has not been altered and was issued by the claimed CA",
+        "To encrypt traffic",
+        "To create a private key",
+        "To compress certificate data"
+      ],
+      "correct_answer": "To verify the certificate has not been altered and was issued by the claimed CA",
+      "explanation": "The correct answer is 'To verify the certificate has not been altered and was issued by the claimed CA' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What happens if a certificate expires?",
+      "options": [
+        "It should no longer be trusted",
+        "Its public key changes automatically",
+        "It becomes self-signed",
+        "It encrypts data faster"
+      ],
+      "correct_answer": "It should no longer be trusted",
+      "explanation": "The correct answer is 'It should no longer be trusted' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why is the trust chain important in PKI?",
+      "options": [
+        "It allows verification up to a trusted root authority",
+        "It stores passwords",
+        "It encrypts certificates",
+        "It replaces digital signatures"
+      ],
+      "correct_answer": "It allows verification up to a trusted root authority",
+      "explanation": "The correct answer is 'It allows verification up to a trusted root authority' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What risk exists if a CA is compromised?",
+      "options": [
+        "Fraudulent certificates could be issued",
+        "AES becomes insecure",
+        "DNS stops working",
+        "Hashes are deleted"
+      ],
+      "correct_answer": "Fraudulent certificates could be issued",
+      "explanation": "The correct answer is 'Fraudulent certificates could be issued' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How do browsers determine whether to trust a certificate?",
+      "options": [
+        "By validating the chain to a trusted root CA",
+        "By checking the website logo",
+        "By comparing IP addresses",
+        "By checking bandwidth"
+      ],
+      "correct_answer": "By validating the chain to a trusted root CA",
+      "explanation": "The correct answer is 'By validating the chain to a trusted root CA' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is certificate revocation?",
+      "options": [
+        "Invalidating a certificate before its expiration date",
+        "Deleting a browser cache",
+        "Changing a public key",
+        "Renewing a certificate"
+      ],
+      "correct_answer": "Invalidating a certificate before its expiration date",
+      "explanation": "The correct answer is 'Invalidating a certificate before its expiration date' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which mechanism checks certificate revocation status?",
+      "options": [
+        "CRL and OCSP",
+        "AES and RSA",
+        "DNS and DHCP",
+        "TLS and SSL"
+      ],
+      "correct_answer": "CRL and OCSP",
+      "explanation": "The correct answer is 'CRL and OCSP' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are Subject Alternative Names (SANs) important?",
+      "options": [
+        "They allow a certificate to secure multiple domains",
+        "They create private keys",
+        "They store passwords",
+        "They compress certificates"
+      ],
+      "correct_answer": "They allow a certificate to secure multiple domains",
+      "explanation": "The correct answer is 'They allow a certificate to secure multiple domains' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What best describes a wildcard certificate?",
+      "options": [
+        "A certificate that secures a domain and its subdomains",
+        "A certificate without a CA",
+        "A revoked certificate",
+        "A certificate with no expiration"
+      ],
+      "correct_answer": "A certificate that secures a domain and its subdomains",
+      "explanation": "The correct answer is 'A certificate that secures a domain and its subdomains' because it best explains digital certificate concepts and PKI usage."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes digital certificates today?",
+      "options": [
+        "A foundational component of PKI used to establish trust and authenticate identities",
+        "A replacement for encryption",
+        "A hashing algorithm",
+        "A network protocol"
+      ],
+      "correct_answer": "A foundational component of PKI used to establish trust and authenticate identities",
+      "explanation": "The correct answer is 'A foundational component of PKI used to establish trust and authenticate identities' because it best explains digital certificate concepts and PKI usage."
+    }
+  ]
+}

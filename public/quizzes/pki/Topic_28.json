@@ -1,0 +1,396 @@
+{
+  "topic": "Strong Authentication",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is strong authentication?",
+      "options": [
+        "Authentication that provides a higher level of assurance of identity",
+        "A fast login process",
+        "A password manager",
+        "A network protocol"
+      ],
+      "correct_answer": "Authentication that provides a higher level of assurance of identity",
+      "explanation": "The correct answer is 'Authentication that provides a higher level of assurance of identity' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary goal of strong authentication?",
+      "options": [
+        "Verify user identity securely",
+        "Increase internet speed",
+        "Compress data",
+        "Manage DNS"
+      ],
+      "correct_answer": "Verify user identity securely",
+      "explanation": "The correct answer is 'Verify user identity securely' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Strong authentication reduces the risk of?",
+      "options": [
+        "Unauthorized access",
+        "Data compression",
+        "Network latency",
+        "Disk failures"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "The correct answer is 'Unauthorized access' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which factor is commonly used in strong authentication?",
+      "options": [
+        "Something you know",
+        "Something you download",
+        "Something you stream",
+        "Something you cache"
+      ],
+      "correct_answer": "Something you know",
+      "explanation": "The correct answer is 'Something you know' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "A password is an example of?",
+      "options": [
+        "Something you know",
+        "Something you have",
+        "Something you are",
+        "Somewhere you are"
+      ],
+      "correct_answer": "Something you know",
+      "explanation": "The correct answer is 'Something you know' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "A smart card is an example of?",
+      "options": [
+        "Something you have",
+        "Something you know",
+        "Something you are",
+        "Somewhere you are"
+      ],
+      "correct_answer": "Something you have",
+      "explanation": "The correct answer is 'Something you have' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "A fingerprint is an example of?",
+      "options": [
+        "Something you are",
+        "Something you know",
+        "Something you have",
+        "Something you install"
+      ],
+      "correct_answer": "Something you are",
+      "explanation": "The correct answer is 'Something you are' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Strong authentication often combines?",
+      "options": [
+        "Multiple authentication factors",
+        "Multiple routers",
+        "Multiple certificates",
+        "Multiple DNS servers"
+      ],
+      "correct_answer": "Multiple authentication factors",
+      "explanation": "The correct answer is 'Multiple authentication factors' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which security service is directly improved by strong authentication?",
+      "options": [
+        "Access control",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Access control",
+      "explanation": "The correct answer is 'Access control' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Strong authentication is commonly used in?",
+      "options": [
+        "Banking and enterprise systems",
+        "Video streaming",
+        "File compression",
+        "Gaming only"
+      ],
+      "correct_answer": "Banking and enterprise systems",
+      "explanation": "The correct answer is 'Banking and enterprise systems' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a major weakness of password-only authentication?",
+      "options": [
+        "Passwords can be guessed, stolen, or reused",
+        "Passwords are encrypted",
+        "Passwords require certificates",
+        "Passwords improve security automatically"
+      ],
+      "correct_answer": "Passwords can be guessed, stolen, or reused",
+      "explanation": "The correct answer is 'Passwords can be guessed, stolen, or reused' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why is multi-factor authentication stronger than passwords alone?",
+      "options": [
+        "It requires additional independent factors",
+        "It uses larger passwords",
+        "It eliminates identities",
+        "It removes encryption"
+      ],
+      "correct_answer": "It requires additional independent factors",
+      "explanation": "The correct answer is 'It requires additional independent factors' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which factor category does an OTP token belong to?",
+      "options": [
+        "Something you have",
+        "Something you know",
+        "Something you are",
+        "Behavioral factor"
+      ],
+      "correct_answer": "Something you have",
+      "explanation": "The correct answer is 'Something you have' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which factor category does facial recognition belong to?",
+      "options": [
+        "Something you are",
+        "Something you know",
+        "Something you have",
+        "Location factor"
+      ],
+      "correct_answer": "Something you are",
+      "explanation": "The correct answer is 'Something you are' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is risk-based authentication?",
+      "options": [
+        "Authentication requirements change based on risk levels",
+        "Authentication without passwords",
+        "Authentication using only biometrics",
+        "Authentication without identities"
+      ],
+      "correct_answer": "Authentication requirements change based on risk levels",
+      "explanation": "The correct answer is 'Authentication requirements change based on risk levels' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why are biometrics often used in strong authentication?",
+      "options": [
+        "They are tied to unique physical characteristics",
+        "They replace PKI",
+        "They increase bandwidth",
+        "They create certificates"
+      ],
+      "correct_answer": "They are tied to unique physical characteristics",
+      "explanation": "The correct answer is 'They are tied to unique physical characteristics' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which attack is mitigated by strong authentication?",
+      "options": [
+        "Credential theft misuse",
+        "Disk fragmentation",
+        "Packet routing errors",
+        "Compression failures"
+      ],
+      "correct_answer": "Credential theft misuse",
+      "explanation": "The correct answer is 'Credential theft misuse' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is adaptive authentication?",
+      "options": [
+        "Authentication that adjusts based on context and risk",
+        "A hashing algorithm",
+        "A network protocol",
+        "Certificate renewal"
+      ],
+      "correct_answer": "Authentication that adjusts based on context and risk",
+      "explanation": "The correct answer is 'Authentication that adjusts based on context and risk' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why are hardware tokens considered secure?",
+      "options": [
+        "They provide possession-based authentication",
+        "They compress data",
+        "They create passwords",
+        "They replace encryption"
+      ],
+      "correct_answer": "They provide possession-based authentication",
+      "explanation": "The correct answer is 'They provide possession-based authentication' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a common enterprise use case for strong authentication?",
+      "options": [
+        "Remote access security",
+        "Video rendering",
+        "Disk cleanup",
+        "File archiving"
+      ],
+      "correct_answer": "Remote access security",
+      "explanation": "The correct answer is 'Remote access security' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is strong authentication important in Zero Trust architectures?",
+      "options": [
+        "Identity verification is continuously emphasized",
+        "It replaces encryption",
+        "It eliminates certificates",
+        "It removes access controls"
+      ],
+      "correct_answer": "Identity verification is continuously emphasized",
+      "explanation": "The correct answer is 'Identity verification is continuously emphasized' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What risk remains even with strong authentication?",
+      "options": [
+        "Phishing and session hijacking may still occur",
+        "Authentication guarantees perfect security",
+        "Passwords disappear",
+        "Networks cannot be attacked"
+      ],
+      "correct_answer": "Phishing and session hijacking may still occur",
+      "explanation": "The correct answer is 'Phishing and session hijacking may still occur' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does strong authentication support compliance requirements?",
+      "options": [
+        "It helps protect sensitive systems and data",
+        "It increases internet speed",
+        "It replaces audits",
+        "It compresses logs"
+      ],
+      "correct_answer": "It helps protect sensitive systems and data",
+      "explanation": "The correct answer is 'It helps protect sensitive systems and data' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why are SMS-based OTPs considered weaker than hardware tokens?",
+      "options": [
+        "SMS messages can be intercepted or redirected",
+        "SMS uses encryption",
+        "Hardware tokens use DNS",
+        "SMS cannot authenticate users"
+      ],
+      "correct_answer": "SMS messages can be intercepted or redirected",
+      "explanation": "The correct answer is 'SMS messages can be intercepted or redirected' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is authentication assurance?",
+      "options": [
+        "Confidence that a user is truly who they claim to be",
+        "Encryption strength",
+        "Hash complexity",
+        "Certificate lifespan"
+      ],
+      "correct_answer": "Confidence that a user is truly who they claim to be",
+      "explanation": "The correct answer is 'Confidence that a user is truly who they claim to be' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does strong authentication reduce account takeover risk?",
+      "options": [
+        "Additional factors make stolen passwords less useful",
+        "It removes passwords",
+        "It disables accounts",
+        "It replaces PKI"
+      ],
+      "correct_answer": "Additional factors make stolen passwords less useful",
+      "explanation": "The correct answer is 'Additional factors make stolen passwords less useful' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which threat specifically targets authentication credentials?",
+      "options": [
+        "Phishing",
+        "Load balancing",
+        "Caching",
+        "Compression"
+      ],
+      "correct_answer": "Phishing",
+      "explanation": "The correct answer is 'Phishing' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are possession factors valuable?",
+      "options": [
+        "Attackers need physical access to the factor",
+        "They increase bandwidth",
+        "They create hashes",
+        "They replace encryption"
+      ],
+      "correct_answer": "Attackers need physical access to the factor",
+      "explanation": "The correct answer is 'Attackers need physical access to the factor' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the relationship between strong authentication and least privilege?",
+      "options": [
+        "Strong authentication helps ensure the right user receives authorized access",
+        "They are unrelated",
+        "Least privilege replaces authentication",
+        "Authentication removes authorization"
+      ],
+      "correct_answer": "Strong authentication helps ensure the right user receives authorized access",
+      "explanation": "The correct answer is 'Strong authentication helps ensure the right user receives authorized access' because it best explains strong authentication concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes strong authentication?",
+      "options": [
+        "An approach that uses robust identity verification methods to reduce unauthorized access risks",
+        "A hashing standard",
+        "A PKI trust model",
+        "A routing protocol"
+      ],
+      "correct_answer": "An approach that uses robust identity verification methods to reduce unauthorized access risks",
+      "explanation": "The correct answer is 'An approach that uses robust identity verification methods to reduce unauthorized access risks' because it best explains strong authentication concepts."
+    }
+  ]
+}

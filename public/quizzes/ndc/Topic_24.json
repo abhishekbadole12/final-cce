@@ -1,0 +1,396 @@
+{
+  "topic": "Threat Hunting",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Threat Hunting?",
+      "options": [
+        "Proactively searching for threats in an environment",
+        "Blocking all traffic",
+        "Managing VPNs",
+        "Creating backups"
+      ],
+      "correct_answer": "Proactively searching for threats in an environment",
+      "explanation": "The correct answer is 'Proactively searching for threats in an environment'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Is Threat Hunting reactive or proactive?",
+      "options": [
+        "Proactive",
+        "Reactive",
+        "Passive",
+        "Automatic"
+      ],
+      "correct_answer": "Proactive",
+      "explanation": "The correct answer is 'Proactive'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary goal of Threat Hunting?",
+      "options": [
+        "Identify hidden threats before major damage occurs",
+        "Increase bandwidth",
+        "Manage users",
+        "Improve routing"
+      ],
+      "correct_answer": "Identify hidden threats before major damage occurs",
+      "explanation": "The correct answer is 'Identify hidden threats before major damage occurs'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What does IOC stand for?",
+      "options": [
+        "Indicator of Compromise",
+        "Indicator of Control",
+        "Internet Operations Center",
+        "Internal Operational Check"
+      ],
+      "correct_answer": "Indicator of Compromise",
+      "explanation": "The correct answer is 'Indicator of Compromise'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What does IOA stand for?",
+      "options": [
+        "Indicator of Attack",
+        "Internet Operations Analysis",
+        "Indicator of Access",
+        "Internal Operations Audit"
+      ],
+      "correct_answer": "Indicator of Attack",
+      "explanation": "The correct answer is 'Indicator of Attack'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which team commonly performs Threat Hunting?",
+      "options": [
+        "Security Operations Team",
+        "HR Team",
+        "Finance Team",
+        "Marketing Team"
+      ],
+      "correct_answer": "Security Operations Team",
+      "explanation": "The correct answer is 'Security Operations Team'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Threat Hunting relies heavily on?",
+      "options": [
+        "Data Analysis",
+        "Printer Management",
+        "Database Design",
+        "Graphic Design"
+      ],
+      "correct_answer": "Data Analysis",
+      "explanation": "The correct answer is 'Data Analysis'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is a common source of Threat Hunting data?",
+      "options": [
+        "Logs",
+        "Printers",
+        "Monitors",
+        "UPS Devices"
+      ],
+      "correct_answer": "Logs",
+      "explanation": "The correct answer is 'Logs'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which security platform often supports Threat Hunting?",
+      "options": [
+        "SIEM",
+        "DHCP",
+        "FTP",
+        "ARP"
+      ],
+      "correct_answer": "SIEM",
+      "explanation": "The correct answer is 'SIEM'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is a threat hunter looking for?",
+      "options": [
+        "Signs of malicious activity",
+        "New printers",
+        "Bandwidth upgrades",
+        "Hardware warranties"
+      ],
+      "correct_answer": "Signs of malicious activity",
+      "explanation": "The correct answer is 'Signs of malicious activity'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is hypothesis-based hunting?",
+      "options": [
+        "Investigating a suspected attack scenario",
+        "Blocking traffic automatically",
+        "Updating antivirus",
+        "Creating VPNs"
+      ],
+      "correct_answer": "Investigating a suspected attack scenario",
+      "explanation": "The correct answer is 'Investigating a suspected attack scenario'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which is an example of an IOC?",
+      "options": [
+        "Known malicious IP address",
+        "CPU temperature",
+        "Disk size",
+        "Printer queue"
+      ],
+      "correct_answer": "Known malicious IP address",
+      "explanation": "The correct answer is 'Known malicious IP address'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which is an example of an IOA?",
+      "options": [
+        "Suspicious PowerShell execution",
+        "Monitor brightness",
+        "Disk capacity",
+        "RAM size"
+      ],
+      "correct_answer": "Suspicious PowerShell execution",
+      "explanation": "The correct answer is 'Suspicious PowerShell execution'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why are logs important for Threat Hunting?",
+      "options": [
+        "Provide evidence of activity",
+        "Increase bandwidth",
+        "Reduce storage",
+        "Improve graphics"
+      ],
+      "correct_answer": "Provide evidence of activity",
+      "explanation": "The correct answer is 'Provide evidence of activity'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What role does Threat Intelligence play in hunting?",
+      "options": [
+        "Provides information about known threats",
+        "Improves routing",
+        "Manages storage",
+        "Creates backups"
+      ],
+      "correct_answer": "Provides information about known threats",
+      "explanation": "The correct answer is 'Provides information about known threats'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which framework is commonly used during Threat Hunting?",
+      "options": [
+        "MITRE ATT&CK",
+        "OSI Model",
+        "TCP/IP",
+        "ITIL"
+      ],
+      "correct_answer": "MITRE ATT&CK",
+      "explanation": "The correct answer is 'MITRE ATT&CK'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a hunting hypothesis?",
+      "options": [
+        "An assumption that guides investigation",
+        "A firewall rule",
+        "A routing protocol",
+        "A backup plan"
+      ],
+      "correct_answer": "An assumption that guides investigation",
+      "explanation": "The correct answer is 'An assumption that guides investigation'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is lateral movement?",
+      "options": [
+        "Attacker moving within a network",
+        "Load balancing",
+        "DNS routing",
+        "Traffic shaping"
+      ],
+      "correct_answer": "Attacker moving within a network",
+      "explanation": "The correct answer is 'Attacker moving within a network'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is endpoint data valuable in Threat Hunting?",
+      "options": [
+        "Provides visibility into host activity",
+        "Increases storage",
+        "Improves graphics",
+        "Reduces logs"
+      ],
+      "correct_answer": "Provides visibility into host activity",
+      "explanation": "The correct answer is 'Provides visibility into host activity'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which activity is part of Threat Hunting?",
+      "options": [
+        "Analyzing unusual behavior",
+        "Installing printers",
+        "Replacing cables",
+        "Managing monitors"
+      ],
+      "correct_answer": "Analyzing unusual behavior",
+      "explanation": "The correct answer is 'Analyzing unusual behavior'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does Threat Hunting differ from IDS alerts?",
+      "options": [
+        "Threat Hunting actively searches beyond alerts",
+        "IDS and hunting are identical",
+        "IDS replaces hunting",
+        "Threat Hunting only blocks traffic"
+      ],
+      "correct_answer": "Threat Hunting actively searches beyond alerts",
+      "explanation": "The correct answer is 'Threat Hunting actively searches beyond alerts'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why are IOAs often considered more valuable than IOCs?",
+      "options": [
+        "They can identify attacker behavior even if indicators change",
+        "They require less data",
+        "They increase bandwidth",
+        "They reduce logging"
+      ],
+      "correct_answer": "They can identify attacker behavior even if indicators change",
+      "explanation": "The correct answer is 'They can identify attacker behavior even if indicators change'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is one challenge of Threat Hunting?",
+      "options": [
+        "Large volumes of data",
+        "Too little security data",
+        "No logs exist",
+        "No tools available"
+      ],
+      "correct_answer": "Large volumes of data",
+      "explanation": "The correct answer is 'Large volumes of data'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How does Threat Hunting support defense in depth?",
+      "options": [
+        "Provides proactive detection beyond automated controls",
+        "Eliminates need for firewalls",
+        "Disables IDS",
+        "Removes SIEM"
+      ],
+      "correct_answer": "Provides proactive detection beyond automated controls",
+      "explanation": "The correct answer is 'Provides proactive detection beyond automated controls'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is detection engineering?",
+      "options": [
+        "Creating and improving detection logic and rules",
+        "Building routers",
+        "Managing storage",
+        "Encrypting files"
+      ],
+      "correct_answer": "Creating and improving detection logic and rules",
+      "explanation": "The correct answer is 'Creating and improving detection logic and rules'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is MITRE ATT&CK useful in Threat Hunting?",
+      "options": [
+        "Maps attacker tactics and techniques",
+        "Provides encryption",
+        "Manages DNS",
+        "Improves graphics"
+      ],
+      "correct_answer": "Maps attacker tactics and techniques",
+      "explanation": "The correct answer is 'Maps attacker tactics and techniques'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is a common Threat Hunting outcome?",
+      "options": [
+        "Discovery of previously undetected threats",
+        "Automatic patch installation",
+        "Increased bandwidth",
+        "Database optimization"
+      ],
+      "correct_answer": "Discovery of previously undetected threats",
+      "explanation": "The correct answer is 'Discovery of previously undetected threats'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why should hunters validate findings before escalation?",
+      "options": [
+        "Reduce false positives",
+        "Increase alerts",
+        "Reduce logs",
+        "Improve routing"
+      ],
+      "correct_answer": "Reduce false positives",
+      "explanation": "The correct answer is 'Reduce false positives'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which technology helps correlate multiple security events for hunting?",
+      "options": [
+        "SIEM",
+        "DHCP",
+        "ARP",
+        "FTP"
+      ],
+      "correct_answer": "SIEM",
+      "explanation": "The correct answer is 'SIEM'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes Threat Hunting?",
+      "options": [
+        "A proactive cybersecurity practice focused on identifying hidden threats using data analysis, intelligence, and investigation",
+        "A firewall technology",
+        "A VPN protocol",
+        "A packet routing method"
+      ],
+      "correct_answer": "A proactive cybersecurity practice focused on identifying hidden threats using data analysis, intelligence, and investigation",
+      "explanation": "The correct answer is 'A proactive cybersecurity practice focused on identifying hidden threats using data analysis, intelligence, and investigation'. This concept is part of Threat Hunting and is commonly tested in cybersecurity exams. Understanding this topic helps in real-world security monitoring, incident response, threat detection, and defensive security operations."
+    }
+  ]
+}

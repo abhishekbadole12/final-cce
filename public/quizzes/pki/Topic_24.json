@@ -1,0 +1,396 @@
+{
+  "topic": "Aadhaar and e-Sign",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Aadhaar e-Sign?",
+      "options": [
+        "An electronic signature service linked to Aadhaar",
+        "A password manager",
+        "An encryption algorithm",
+        "A digital certificate authority"
+      ],
+      "correct_answer": "An electronic signature service linked to Aadhaar",
+      "explanation": "The correct answer is 'An electronic signature service linked to Aadhaar' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which organization manages Aadhaar in India?",
+      "options": [
+        "UIDAI",
+        "RBI",
+        "CERT-In",
+        "NIXI"
+      ],
+      "correct_answer": "UIDAI",
+      "explanation": "The correct answer is 'UIDAI' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of e-Sign?",
+      "options": [
+        "Digitally sign documents online",
+        "Encrypt files",
+        "Create passwords",
+        "Manage DNS"
+      ],
+      "correct_answer": "Digitally sign documents online",
+      "explanation": "The correct answer is 'Digitally sign documents online' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "e-Sign is based on which technology?",
+      "options": [
+        "Digital Signatures",
+        "Data Compression",
+        "Routing",
+        "Hash Tables"
+      ],
+      "correct_answer": "Digital Signatures",
+      "explanation": "The correct answer is 'Digital Signatures' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What does UIDAI stand for?",
+      "options": [
+        "Unique Identification Authority of India",
+        "Universal Identity Authority of India",
+        "Unique Internet Authority of India",
+        "Unified Identity Administration of India"
+      ],
+      "correct_answer": "Unique Identification Authority of India",
+      "explanation": "The correct answer is 'Unique Identification Authority of India' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which identity document is used in the Aadhaar ecosystem?",
+      "options": [
+        "Aadhaar",
+        "PAN",
+        "Passport only",
+        "Voter ID only"
+      ],
+      "correct_answer": "Aadhaar",
+      "explanation": "The correct answer is 'Aadhaar' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Does e-Sign require a physical signature?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for PDFs",
+        "Only for certificates"
+      ],
+      "correct_answer": "No",
+      "explanation": "The correct answer is 'No' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which type of certificate is typically generated during e-Sign?",
+      "options": [
+        "Short-lived Digital Signature Certificate",
+        "Root Certificate",
+        "Wildcard Certificate",
+        "SSL Certificate"
+      ],
+      "correct_answer": "Short-lived Digital Signature Certificate",
+      "explanation": "The correct answer is 'Short-lived Digital Signature Certificate' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "e-Sign helps users sign documents?",
+      "options": [
+        "Remotely and electronically",
+        "Only in person",
+        "Only on paper",
+        "Only through email"
+      ],
+      "correct_answer": "Remotely and electronically",
+      "explanation": "The correct answer is 'Remotely and electronically' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What security service does e-Sign primarily provide?",
+      "options": [
+        "Authentication and Non-Repudiation",
+        "Compression",
+        "Caching",
+        "Load Balancing"
+      ],
+      "correct_answer": "Authentication and Non-Repudiation",
+      "explanation": "The correct answer is 'Authentication and Non-Repudiation' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which Act gives legal recognition to digital signatures in India?",
+      "options": [
+        "Information Technology Act, 2000",
+        "Companies Act",
+        "Income Tax Act",
+        "Evidence Act"
+      ],
+      "correct_answer": "Information Technology Act, 2000",
+      "explanation": "The correct answer is 'Information Technology Act, 2000' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is required before an e-Sign can be generated?",
+      "options": [
+        "Identity authentication",
+        "Disk encryption",
+        "Certificate revocation",
+        "Firewall configuration"
+      ],
+      "correct_answer": "Identity authentication",
+      "explanation": "The correct answer is 'Identity authentication' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which authentication method is commonly used in Aadhaar e-Sign?",
+      "options": [
+        "OTP authentication",
+        "ARP",
+        "DNSSEC",
+        "NAT"
+      ],
+      "correct_answer": "OTP authentication",
+      "explanation": "The correct answer is 'OTP authentication' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the role of an e-Sign Service Provider (ESP)?",
+      "options": [
+        "Facilitates digital signing using Aadhaar authentication",
+        "Issues passports",
+        "Provides DNS",
+        "Hosts websites"
+      ],
+      "correct_answer": "Facilitates digital signing using Aadhaar authentication",
+      "explanation": "The correct answer is 'Facilitates digital signing using Aadhaar authentication' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are short-lived certificates used in e-Sign?",
+      "options": [
+        "To reduce long-term key management risks",
+        "To increase storage",
+        "To improve routing",
+        "To replace PKI"
+      ],
+      "correct_answer": "To reduce long-term key management risks",
+      "explanation": "The correct answer is 'To reduce long-term key management risks' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What happens after Aadhaar authentication succeeds?",
+      "options": [
+        "A digital signature is generated",
+        "A new Aadhaar is issued",
+        "The document is encrypted only",
+        "The certificate is revoked"
+      ],
+      "correct_answer": "A digital signature is generated",
+      "explanation": "The correct answer is 'A digital signature is generated' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which type of cryptography underlies digital signatures in e-Sign?",
+      "options": [
+        "Asymmetric Cryptography",
+        "Symmetric Cryptography",
+        "Compression",
+        "Encoding"
+      ],
+      "correct_answer": "Asymmetric Cryptography",
+      "explanation": "The correct answer is 'Asymmetric Cryptography' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is one major benefit of e-Sign?",
+      "options": [
+        "Paperless document signing",
+        "Faster internet",
+        "DNS management",
+        "Certificate revocation"
+      ],
+      "correct_answer": "Paperless document signing",
+      "explanation": "The correct answer is 'Paperless document signing' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "e-Sign is commonly used in?",
+      "options": [
+        "Government and business workflows",
+        "Video streaming",
+        "Network routing",
+        "Disk partitioning"
+      ],
+      "correct_answer": "Government and business workflows",
+      "explanation": "The correct answer is 'Government and business workflows' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is verified when using Aadhaar-based authentication?",
+      "options": [
+        "User identity",
+        "Network speed",
+        "Storage capacity",
+        "Hash length"
+      ],
+      "correct_answer": "User identity",
+      "explanation": "The correct answer is 'User identity' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is e-Sign considered legally valid in India?",
+      "options": [
+        "It complies with the IT Act and uses digital signature mechanisms",
+        "It uses passwords",
+        "It replaces certificates",
+        "It uses only OTPs"
+      ],
+      "correct_answer": "It complies with the IT Act and uses digital signature mechanisms",
+      "explanation": "The correct answer is 'It complies with the IT Act and uses digital signature mechanisms' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What PKI concept is central to e-Sign?",
+      "options": [
+        "Digital Certificates",
+        "ARP",
+        "NAT",
+        "Caching"
+      ],
+      "correct_answer": "Digital Certificates",
+      "explanation": "The correct answer is 'Digital Certificates' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why are private signing keys not permanently stored by users in many e-Sign workflows?",
+      "options": [
+        "Short-lived certificates and controlled signing processes reduce risk",
+        "Users do not need keys",
+        "Keys are public",
+        "Certificates replace keys"
+      ],
+      "correct_answer": "Short-lived certificates and controlled signing processes reduce risk",
+      "explanation": "The correct answer is 'Short-lived certificates and controlled signing processes reduce risk' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How does e-Sign support non-repudiation?",
+      "options": [
+        "By linking signatures to authenticated identities",
+        "By encrypting DNS",
+        "By replacing hashes",
+        "By using compression"
+      ],
+      "correct_answer": "By linking signatures to authenticated identities",
+      "explanation": "The correct answer is 'By linking signatures to authenticated identities' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What security risk would arise if Aadhaar authentication were bypassed?",
+      "options": [
+        "Unauthorized signatures could be generated",
+        "AES would fail",
+        "DNS would stop working",
+        "Certificates would self-sign"
+      ],
+      "correct_answer": "Unauthorized signatures could be generated",
+      "explanation": "The correct answer is 'Unauthorized signatures could be generated' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which trust relationship is essential in the e-Sign ecosystem?",
+      "options": [
+        "Trust in identity verification and certificate issuance",
+        "Trust in bandwidth",
+        "Trust in routing",
+        "Trust in storage"
+      ],
+      "correct_answer": "Trust in identity verification and certificate issuance",
+      "explanation": "The correct answer is 'Trust in identity verification and certificate issuance' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How does e-Sign contribute to digital governance?",
+      "options": [
+        "Enables secure paperless transactions",
+        "Replaces PKI",
+        "Eliminates authentication",
+        "Disables certificates"
+      ],
+      "correct_answer": "Enables secure paperless transactions",
+      "explanation": "The correct answer is 'Enables secure paperless transactions' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What role do Certificate Authorities play in e-Sign?",
+      "options": [
+        "Issue digital signature certificates used during signing",
+        "Store Aadhaar data",
+        "Manage DNS",
+        "Generate OTPs"
+      ],
+      "correct_answer": "Issue digital signature certificates used during signing",
+      "explanation": "The correct answer is 'Issue digital signature certificates used during signing' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why is auditability important in e-Sign systems?",
+      "options": [
+        "To provide evidence of signing activities",
+        "To compress records",
+        "To replace authentication",
+        "To manage bandwidth"
+      ],
+      "correct_answer": "To provide evidence of signing activities",
+      "explanation": "The correct answer is 'To provide evidence of signing activities' because it best explains Aadhaar and e-Sign concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes Aadhaar e-Sign?",
+      "options": [
+        "A PKI-based digital signing framework that enables legally valid electronic signatures through Aadhaar authentication",
+        "A hashing standard",
+        "A symmetric encryption algorithm",
+        "A network protocol"
+      ],
+      "correct_answer": "A PKI-based digital signing framework that enables legally valid electronic signatures through Aadhaar authentication",
+      "explanation": "The correct answer is 'A PKI-based digital signing framework that enables legally valid electronic signatures through Aadhaar authentication' because it best explains Aadhaar and e-Sign concepts."
+    }
+  ]
+}

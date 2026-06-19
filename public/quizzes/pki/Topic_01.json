@@ -1,0 +1,396 @@
+{
+  "topic": "Introduction to Information Security",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary goal of Information Security?",
+      "options": [
+        "Increase internet speed",
+        "Protect information assets",
+        "Develop software",
+        "Manage databases"
+      ],
+      "correct_answer": "Protect information assets",
+      "explanation": "The correct answer is 'Protect information assets' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which pillar of the CIA triad ensures data is accessible when needed?",
+      "options": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Authentication"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Confidentiality mainly protects data from?",
+      "options": [
+        "Unauthorized access",
+        "Deletion",
+        "Corruption",
+        "Duplication"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "The correct answer is 'Unauthorized access' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Integrity ensures that data is?",
+      "options": [
+        "Encrypted",
+        "Available",
+        "Accurate and unaltered",
+        "Compressed"
+      ],
+      "correct_answer": "Accurate and unaltered",
+      "explanation": "The correct answer is 'Accurate and unaltered' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which of the following is an example of information?",
+      "options": [
+        "Customer database",
+        "Keyboard",
+        "Monitor",
+        "Router cable"
+      ],
+      "correct_answer": "Customer database",
+      "explanation": "The correct answer is 'Customer database' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which security control is commonly used to maintain confidentiality?",
+      "options": [
+        "Encryption",
+        "Backup",
+        "Load balancing",
+        "Caching"
+      ],
+      "correct_answer": "Encryption",
+      "explanation": "The correct answer is 'Encryption' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does CIA stand for in cybersecurity?",
+      "options": [
+        "Control, Integrity, Access",
+        "Confidentiality, Integrity, Availability",
+        "Cyber, Internet, Access",
+        "Confidentiality, Inspection, Authentication"
+      ],
+      "correct_answer": "Confidentiality, Integrity, Availability",
+      "explanation": "The correct answer is 'Confidentiality, Integrity, Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which asset is most valuable to an organization?",
+      "options": [
+        "Information",
+        "Furniture",
+        "Paintings",
+        "Electricity"
+      ],
+      "correct_answer": "Information",
+      "explanation": "The correct answer is 'Information' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "A strong password primarily supports which security objective?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Confidentiality",
+        "Redundancy"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which is NOT part of the CIA triad?",
+      "options": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Non-repudiation"
+      ],
+      "correct_answer": "Non-repudiation",
+      "explanation": "The correct answer is 'Non-repudiation' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which mechanism helps verify that a message has not been altered?",
+      "options": [
+        "Hashing",
+        "Compression",
+        "NAT",
+        "Proxying"
+      ],
+      "correct_answer": "Hashing",
+      "explanation": "The correct answer is 'Hashing' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is authentication?",
+      "options": [
+        "Granting permissions",
+        "Verifying identity",
+        "Encrypting files",
+        "Backing up data"
+      ],
+      "correct_answer": "Verifying identity",
+      "explanation": "The correct answer is 'Verifying identity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which security principle grants users only the access they need?",
+      "options": [
+        "Open Access",
+        "Least Privilege",
+        "Full Control",
+        "Anonymous Access"
+      ],
+      "correct_answer": "Least Privilege",
+      "explanation": "The correct answer is 'Least Privilege' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "A digital signature primarily provides?",
+      "options": [
+        "Integrity and authenticity",
+        "Compression",
+        "Availability",
+        "Routing"
+      ],
+      "correct_answer": "Integrity and authenticity",
+      "explanation": "The correct answer is 'Integrity and authenticity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which control type prevents incidents from occurring?",
+      "options": [
+        "Preventive",
+        "Detective",
+        "Corrective",
+        "Recovery"
+      ],
+      "correct_answer": "Preventive",
+      "explanation": "The correct answer is 'Preventive' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is non-repudiation?",
+      "options": [
+        "Preventing denial of an action",
+        "Preventing malware",
+        "Preventing outages",
+        "Preventing backups"
+      ],
+      "correct_answer": "Preventing denial of an action",
+      "explanation": "The correct answer is 'Preventing denial of an action' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which of the following is a logical asset?",
+      "options": [
+        "Database",
+        "Server rack",
+        "Building",
+        "UPS"
+      ],
+      "correct_answer": "Database",
+      "explanation": "The correct answer is 'Database' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why is information security important for businesses?",
+      "options": [
+        "Only for compliance",
+        "Only for IT teams",
+        "To protect data and business operations",
+        "Only for websites"
+      ],
+      "correct_answer": "To protect data and business operations",
+      "explanation": "The correct answer is 'To protect data and business operations' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a security policy?",
+      "options": [
+        "Hardware specification",
+        "Formal security rules and guidelines",
+        "Backup file",
+        "Network cable"
+      ],
+      "correct_answer": "Formal security rules and guidelines",
+      "explanation": "The correct answer is 'Formal security rules and guidelines' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which factor is most important when classifying information?",
+      "options": [
+        "Sensitivity",
+        "Color",
+        "Size",
+        "Location"
+      ],
+      "correct_answer": "Sensitivity",
+      "explanation": "The correct answer is 'Sensitivity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "A company encrypts data but fails to back it up. Which CIA component is most at risk?",
+      "options": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Authentication"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which security service assures both source verification and integrity?",
+      "options": [
+        "Digital Signature",
+        "Compression",
+        "Load Balancing",
+        "NAT"
+      ],
+      "correct_answer": "Digital Signature",
+      "explanation": "The correct answer is 'Digital Signature' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "An attacker modifies payroll records without authorization. Which CIA property is violated?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Confidentiality",
+        "Accountability"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which concept ensures actions can be traced to a specific user?",
+      "options": [
+        "Accountability",
+        "Redundancy",
+        "Availability",
+        "Caching"
+      ],
+      "correct_answer": "Accountability",
+      "explanation": "The correct answer is 'Accountability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the relationship between cybersecurity and information security?",
+      "options": [
+        "They are unrelated",
+        "Cybersecurity is broader",
+        "Information security is broader and includes non-digital information",
+        "They are identical"
+      ],
+      "correct_answer": "Information security is broader and includes non-digital information",
+      "explanation": "The correct answer is 'Information security is broader and includes non-digital information' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which security measure best protects data in transit?",
+      "options": [
+        "TLS Encryption",
+        "RAID",
+        "UPS",
+        "Snapshots"
+      ],
+      "correct_answer": "TLS Encryption",
+      "explanation": "The correct answer is 'TLS Encryption' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "A disaster recovery plan mainly supports which CIA objective?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Authenticity",
+        "Authorization"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "The correct answer is 'Availability' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which of the following is an administrative control?",
+      "options": [
+        "Security Awareness Training",
+        "Firewall",
+        "IDS",
+        "Antivirus"
+      ],
+      "correct_answer": "Security Awareness Training",
+      "explanation": "The correct answer is 'Security Awareness Training' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the main objective of defense in depth?",
+      "options": [
+        "Single strong control",
+        "Multiple layers of security",
+        "Faster internet",
+        "Reduce storage"
+      ],
+      "correct_answer": "Multiple layers of security",
+      "explanation": "The correct answer is 'Multiple layers of security' because it best satisfies the security concept being tested in this question."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes information security governance?",
+      "options": [
+        "Managing network cables",
+        "Aligning security with business objectives",
+        "Installing antivirus",
+        "Managing databases only"
+      ],
+      "correct_answer": "Aligning security with business objectives",
+      "explanation": "The correct answer is 'Aligning security with business objectives' because it best satisfies the security concept being tested in this question."
+    }
+  ]
+}

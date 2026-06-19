@@ -1,0 +1,396 @@
+{
+  "topic": "Graphical Passwords",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a graphical password?",
+      "options": [
+        "A password based on images, patterns, or graphical interactions",
+        "A password stored in a graph",
+        "An encrypted password",
+        "A certificate-based password"
+      ],
+      "correct_answer": "A password based on images, patterns, or graphical interactions",
+      "explanation": "The correct answer is 'A password based on images, patterns, or graphical interactions' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Graphical passwords are an alternative to?",
+      "options": [
+        "Text-based passwords",
+        "Certificates",
+        "Tokens",
+        "Firewalls"
+      ],
+      "correct_answer": "Text-based passwords",
+      "explanation": "The correct answer is 'Text-based passwords' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which device commonly uses graphical pattern authentication?",
+      "options": [
+        "Smartphones",
+        "Routers",
+        "Switches",
+        "Printers"
+      ],
+      "correct_answer": "Smartphones",
+      "explanation": "The correct answer is 'Smartphones' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is a pattern lock?",
+      "options": [
+        "A graphical authentication method using a drawn pattern",
+        "A certificate",
+        "A password manager",
+        "A hash function"
+      ],
+      "correct_answer": "A graphical authentication method using a drawn pattern",
+      "explanation": "The correct answer is 'A graphical authentication method using a drawn pattern' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Graphical passwords rely heavily on?",
+      "options": [
+        "Visual memory",
+        "Network speed",
+        "Encryption keys",
+        "DNS records"
+      ],
+      "correct_answer": "Visual memory",
+      "explanation": "The correct answer is 'Visual memory' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which is an example of a graphical password?",
+      "options": [
+        "Drawing a pattern on a grid",
+        "Typing a PIN",
+        "Using a firewall",
+        "Generating a hash"
+      ],
+      "correct_answer": "Drawing a pattern on a grid",
+      "explanation": "The correct answer is 'Drawing a pattern on a grid' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Graphical passwords are often considered easier to?",
+      "options": [
+        "Remember",
+        "Encrypt",
+        "Compress",
+        "Route"
+      ],
+      "correct_answer": "Remember",
+      "explanation": "The correct answer is 'Remember' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is a click-based graphical password?",
+      "options": [
+        "Selecting specific points on an image",
+        "Typing a password",
+        "Using a smart card",
+        "Scanning a fingerprint"
+      ],
+      "correct_answer": "Selecting specific points on an image",
+      "explanation": "The correct answer is 'Selecting specific points on an image' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Graphical passwords primarily support?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which factor category do graphical passwords belong to?",
+      "options": [
+        "Something you know",
+        "Something you have",
+        "Something you are",
+        "Location factor"
+      ],
+      "correct_answer": "Something you know",
+      "explanation": "The correct answer is 'Something you know' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why are graphical passwords often easier to remember?",
+      "options": [
+        "Humans generally remember images better than text",
+        "They use encryption",
+        "They are shorter",
+        "They require certificates"
+      ],
+      "correct_answer": "Humans generally remember images better than text",
+      "explanation": "The correct answer is 'Humans generally remember images better than text' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a recognition-based graphical password?",
+      "options": [
+        "Identifying previously selected images",
+        "Drawing a pattern",
+        "Using biometrics",
+        "Entering an OTP"
+      ],
+      "correct_answer": "Identifying previously selected images",
+      "explanation": "The correct answer is 'Identifying previously selected images' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a recall-based graphical password?",
+      "options": [
+        "Reproducing a previously chosen pattern or action",
+        "Recognizing images",
+        "Using a token",
+        "Using a certificate"
+      ],
+      "correct_answer": "Reproducing a previously chosen pattern or action",
+      "explanation": "The correct answer is 'Reproducing a previously chosen pattern or action' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which attack can threaten graphical passwords in public places?",
+      "options": [
+        "Shoulder surfing",
+        "ARP spoofing",
+        "DDoS",
+        "SQL injection"
+      ],
+      "correct_answer": "Shoulder surfing",
+      "explanation": "The correct answer is 'Shoulder surfing' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why might graphical passwords resist dictionary attacks better than text passwords?",
+      "options": [
+        "They often do not rely on standard words",
+        "They use certificates",
+        "They generate hashes",
+        "They encrypt traffic"
+      ],
+      "correct_answer": "They often do not rely on standard words",
+      "explanation": "The correct answer is 'They often do not rely on standard words' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is a common usability advantage of graphical passwords?",
+      "options": [
+        "Improved memorability",
+        "Higher bandwidth",
+        "Faster routing",
+        "Smaller certificates"
+      ],
+      "correct_answer": "Improved memorability",
+      "explanation": "The correct answer is 'Improved memorability' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a hotspot in click-based authentication?",
+      "options": [
+        "A commonly selected area of an image",
+        "A wireless access point",
+        "A certificate store",
+        "A hash value"
+      ],
+      "correct_answer": "A commonly selected area of an image",
+      "explanation": "The correct answer is 'A commonly selected area of an image' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why can hotspots reduce security?",
+      "options": [
+        "Attackers may guess popular click locations",
+        "They increase encryption",
+        "They create certificates",
+        "They replace passwords"
+      ],
+      "correct_answer": "Attackers may guess popular click locations",
+      "explanation": "The correct answer is 'Attackers may guess popular click locations' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a challenge when designing graphical password systems?",
+      "options": [
+        "Balancing usability and security",
+        "Creating DNS records",
+        "Managing routers",
+        "Compressing images"
+      ],
+      "correct_answer": "Balancing usability and security",
+      "explanation": "The correct answer is 'Balancing usability and security' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Graphical passwords are most often used as?",
+      "options": [
+        "An authentication mechanism",
+        "An encryption algorithm",
+        "A PKI standard",
+        "A network protocol"
+      ],
+      "correct_answer": "An authentication mechanism",
+      "explanation": "The correct answer is 'An authentication mechanism' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why are graphical passwords vulnerable to shoulder-surfing attacks?",
+      "options": [
+        "Authentication actions may be visually observed",
+        "They use weak encryption",
+        "They store passwords publicly",
+        "They disable MFA"
+      ],
+      "correct_answer": "Authentication actions may be visually observed",
+      "explanation": "The correct answer is 'Authentication actions may be visually observed' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What security issue arises if many users choose predictable image points?",
+      "options": [
+        "Reduced password entropy",
+        "Certificate expiration",
+        "Hash collisions",
+        "DNS failures"
+      ],
+      "correct_answer": "Reduced password entropy",
+      "explanation": "The correct answer is 'Reduced password entropy' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How can graphical password systems improve resistance to observation attacks?",
+      "options": [
+        "Using dynamic interfaces and randomized elements",
+        "Removing authentication",
+        "Replacing images with text",
+        "Disabling encryption"
+      ],
+      "correct_answer": "Using dynamic interfaces and randomized elements",
+      "explanation": "The correct answer is 'Using dynamic interfaces and randomized elements' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is password entropy in the context of graphical passwords?",
+      "options": [
+        "The unpredictability of the chosen graphical secret",
+        "Image resolution",
+        "Certificate size",
+        "Hash length"
+      ],
+      "correct_answer": "The unpredictability of the chosen graphical secret",
+      "explanation": "The correct answer is 'The unpredictability of the chosen graphical secret' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why are graphical passwords not universally adopted?",
+      "options": [
+        "Usability, accessibility, and security trade-offs",
+        "They require PKI",
+        "They replace passwords",
+        "They need DNS"
+      ],
+      "correct_answer": "Usability, accessibility, and security trade-offs",
+      "explanation": "The correct answer is 'Usability, accessibility, and security trade-offs' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which users may face accessibility challenges with graphical passwords?",
+      "options": [
+        "Visually impaired users",
+        "Database administrators",
+        "Network engineers",
+        "Developers only"
+      ],
+      "correct_answer": "Visually impaired users",
+      "explanation": "The correct answer is 'Visually impaired users' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How can MFA strengthen graphical password systems?",
+      "options": [
+        "By adding additional authentication factors",
+        "By replacing images",
+        "By removing passwords",
+        "By disabling OTPs"
+      ],
+      "correct_answer": "By adding additional authentication factors",
+      "explanation": "The correct answer is 'By adding additional authentication factors' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which attack specifically targets visible authentication actions?",
+      "options": [
+        "Shoulder surfing",
+        "Replay attack",
+        "DDoS",
+        "ARP spoofing"
+      ],
+      "correct_answer": "Shoulder surfing",
+      "explanation": "The correct answer is 'Shoulder surfing' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the main security goal of graphical passwords?",
+      "options": [
+        "Provide an alternative authentication mechanism that balances usability and security",
+        "Encrypt files",
+        "Create certificates",
+        "Generate hashes"
+      ],
+      "correct_answer": "Provide an alternative authentication mechanism that balances usability and security",
+      "explanation": "The correct answer is 'Provide an alternative authentication mechanism that balances usability and security' because it best explains graphical password concepts and security considerations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes graphical passwords today?",
+      "options": [
+        "Image- or pattern-based authentication methods designed as alternatives to traditional text passwords",
+        "A cryptographic algorithm",
+        "A PKI standard",
+        "A network routing protocol"
+      ],
+      "correct_answer": "Image- or pattern-based authentication methods designed as alternatives to traditional text passwords",
+      "explanation": "The correct answer is 'Image- or pattern-based authentication methods designed as alternatives to traditional text passwords' because it best explains graphical password concepts and security considerations."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "ELK Stack (Elasticsearch, Logstash, Kibana)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does ELK stand for?",
+      "options": [
+        "Elasticsearch, Logstash, Kibana",
+        "Elastic, Linux, Kernel",
+        "Event, Log, Kernel",
+        "Engine, Log, Kibana"
+      ],
+      "correct_answer": "Elasticsearch, Logstash, Kibana",
+      "explanation": "The correct answer is 'Elasticsearch, Logstash, Kibana'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which component stores and indexes data?",
+      "options": [
+        "Kibana",
+        "Logstash",
+        "Elasticsearch",
+        "Beats"
+      ],
+      "correct_answer": "Elasticsearch",
+      "explanation": "The correct answer is 'Elasticsearch'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which ELK component is used for visualization?",
+      "options": [
+        "Elasticsearch",
+        "Logstash",
+        "Kibana",
+        "Syslog"
+      ],
+      "correct_answer": "Kibana",
+      "explanation": "The correct answer is 'Kibana'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which component collects and processes logs?",
+      "options": [
+        "Logstash",
+        "Kibana",
+        "Nagios",
+        "Snort"
+      ],
+      "correct_answer": "Logstash",
+      "explanation": "The correct answer is 'Logstash'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "ELK Stack is commonly used for?",
+      "options": [
+        "Log analysis",
+        "Video editing",
+        "Gaming",
+        "Compiling code"
+      ],
+      "correct_answer": "Log analysis",
+      "explanation": "The correct answer is 'Log analysis'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which company develops the Elastic Stack?",
+      "options": [
+        "Microsoft",
+        "Elastic",
+        "Google",
+        "Cisco"
+      ],
+      "correct_answer": "Elastic",
+      "explanation": "The correct answer is 'Elastic'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is Kibana primarily used for?",
+      "options": [
+        "Dashboards",
+        "Routing",
+        "Encryption",
+        "Packet capture"
+      ],
+      "correct_answer": "Dashboards",
+      "explanation": "The correct answer is 'Dashboards'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which component receives logs from various sources?",
+      "options": [
+        "Logstash",
+        "DNS",
+        "ARP",
+        "FTP"
+      ],
+      "correct_answer": "Logstash",
+      "explanation": "The correct answer is 'Logstash'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is Elasticsearch based on?",
+      "options": [
+        "Search and analytics engine",
+        "Firewall",
+        "Database backup",
+        "VPN"
+      ],
+      "correct_answer": "Search and analytics engine",
+      "explanation": "The correct answer is 'Search and analytics engine'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which ELK component helps create charts and graphs?",
+      "options": [
+        "Kibana",
+        "Snort",
+        "OSSEC",
+        "Nagios"
+      ],
+      "correct_answer": "Kibana",
+      "explanation": "The correct answer is 'Kibana'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What are Beats in Elastic Stack?",
+      "options": [
+        "Lightweight data shippers",
+        "Firewalls",
+        "VPN clients",
+        "IDS sensors"
+      ],
+      "correct_answer": "Lightweight data shippers",
+      "explanation": "The correct answer is 'Lightweight data shippers'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which Beat collects system metrics?",
+      "options": [
+        "Packetbeat",
+        "Metricbeat",
+        "Filebeat",
+        "Auditbeat"
+      ],
+      "correct_answer": "Metricbeat",
+      "explanation": "The correct answer is 'Metricbeat'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which Beat is used to ship log files?",
+      "options": [
+        "Filebeat",
+        "Metricbeat",
+        "Winlogbeat",
+        "Packetbeat"
+      ],
+      "correct_answer": "Filebeat",
+      "explanation": "The correct answer is 'Filebeat'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is an Elasticsearch index?",
+      "options": [
+        "Collection of documents",
+        "Firewall rule",
+        "VPN tunnel",
+        "Packet"
+      ],
+      "correct_answer": "Collection of documents",
+      "explanation": "The correct answer is 'Collection of documents'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which query language is commonly used with Elasticsearch?",
+      "options": [
+        "DSL Query",
+        "SQL only",
+        "HTML",
+        "CSS"
+      ],
+      "correct_answer": "DSL Query",
+      "explanation": "The correct answer is 'DSL Query'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the purpose of Logstash filters?",
+      "options": [
+        "Transform data",
+        "Encrypt traffic",
+        "Monitor CPU",
+        "Capture packets"
+      ],
+      "correct_answer": "Transform data",
+      "explanation": "The correct answer is 'Transform data'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which component can visualize security events?",
+      "options": [
+        "Kibana",
+        "FTP",
+        "SMTP",
+        "DHCP"
+      ],
+      "correct_answer": "Kibana",
+      "explanation": "The correct answer is 'Kibana'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a dashboard in Kibana?",
+      "options": [
+        "Collection of visualizations",
+        "Database",
+        "Firewall",
+        "Script"
+      ],
+      "correct_answer": "Collection of visualizations",
+      "explanation": "The correct answer is 'Collection of visualizations'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which Beat captures network traffic data?",
+      "options": [
+        "Packetbeat",
+        "Metricbeat",
+        "Filebeat",
+        "Heartbeat"
+      ],
+      "correct_answer": "Packetbeat",
+      "explanation": "The correct answer is 'Packetbeat'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is data ingestion in ELK?",
+      "options": [
+        "Importing data",
+        "Deleting logs",
+        "Encrypting files",
+        "Scanning ports"
+      ],
+      "correct_answer": "Importing data",
+      "explanation": "The correct answer is 'Importing data'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is ELK useful in cybersecurity?",
+      "options": [
+        "Centralized log analysis",
+        "Gaming",
+        "Video processing",
+        "Database normalization"
+      ],
+      "correct_answer": "Centralized log analysis",
+      "explanation": "The correct answer is 'Centralized log analysis'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What challenge can occur with large Elasticsearch clusters?",
+      "options": [
+        "Scaling and resource management",
+        "ARP failure",
+        "DNS resolution",
+        "DHCP leasing"
+      ],
+      "correct_answer": "Scaling and resource management",
+      "explanation": "The correct answer is 'Scaling and resource management'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is log correlation in ELK?",
+      "options": [
+        "Linking related events",
+        "Deleting logs",
+        "Encrypting logs",
+        "Routing packets"
+      ],
+      "correct_answer": "Linking related events",
+      "explanation": "The correct answer is 'Linking related events'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which ELK feature helps detect anomalies?",
+      "options": [
+        "Machine Learning",
+        "DHCP",
+        "NAT",
+        "Proxy"
+      ],
+      "correct_answer": "Machine Learning",
+      "explanation": "The correct answer is 'Machine Learning'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How can ELK assist in threat hunting?",
+      "options": [
+        "Analyzing historical logs",
+        "Increasing bandwidth",
+        "Managing printers",
+        "Compiling code"
+      ],
+      "correct_answer": "Analyzing historical logs",
+      "explanation": "The correct answer is 'Analyzing historical logs'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which Beat collects Windows event logs?",
+      "options": [
+        "Winlogbeat",
+        "Filebeat",
+        "Metricbeat",
+        "Packetbeat"
+      ],
+      "correct_answer": "Winlogbeat",
+      "explanation": "The correct answer is 'Winlogbeat'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is a shard in Elasticsearch?",
+      "options": [
+        "Partition of an index",
+        "Firewall zone",
+        "VPN segment",
+        "Log source"
+      ],
+      "correct_answer": "Partition of an index",
+      "explanation": "The correct answer is 'Partition of an index'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is time synchronization important in ELK?",
+      "options": [
+        "Accurate event correlation",
+        "Better graphics",
+        "Lower latency",
+        "More storage"
+      ],
+      "correct_answer": "Accurate event correlation",
+      "explanation": "The correct answer is 'Accurate event correlation'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which visualization can help identify brute-force attacks?",
+      "options": [
+        "Failed login trend dashboard",
+        "Pie chart of printers",
+        "CPU idle chart",
+        "Disk partition map"
+      ],
+      "correct_answer": "Failed login trend dashboard",
+      "explanation": "The correct answer is 'Failed login trend dashboard'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What is a common ELK use case in SOC operations?",
+      "options": [
+        "Security monitoring and incident investigation",
+        "Video rendering",
+        "Application compilation",
+        "Database backup"
+      ],
+      "correct_answer": "Security monitoring and incident investigation",
+      "explanation": "The correct answer is 'Security monitoring and incident investigation'. This concept belongs to ELK Stack (Elasticsearch, Logstash, Kibana) and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    }
+  ]
+}

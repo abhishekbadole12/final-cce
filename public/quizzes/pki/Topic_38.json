@@ -1,0 +1,396 @@
+{
+  "topic": "PGP and S/MIME",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does PGP stand for?",
+      "options": [
+        "Pretty Good Privacy",
+        "Private Good Protection",
+        "Protected Global Privacy",
+        "Public Guard Protocol"
+      ],
+      "correct_answer": "Pretty Good Privacy",
+      "explanation": "The correct answer is 'Pretty Good Privacy' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is PGP primarily used for?",
+      "options": [
+        "Email encryption and digital signatures",
+        "Disk formatting",
+        "DNS management",
+        "Network routing"
+      ],
+      "correct_answer": "Email encryption and digital signatures",
+      "explanation": "The correct answer is 'Email encryption and digital signatures' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What does S/MIME stand for?",
+      "options": [
+        "Secure/Multipurpose Internet Mail Extensions",
+        "Simple Mail Internet Management Extensions",
+        "Secure Mail Identity Management Extensions",
+        "System Mail Internet Messaging Extensions"
+      ],
+      "correct_answer": "Secure/Multipurpose Internet Mail Extensions",
+      "explanation": "The correct answer is 'Secure/Multipurpose Internet Mail Extensions' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "S/MIME is primarily used to secure?",
+      "options": [
+        "Email communications",
+        "DNS traffic",
+        "Routing protocols",
+        "Database connections"
+      ],
+      "correct_answer": "Email communications",
+      "explanation": "The correct answer is 'Email communications' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which cryptography does PGP use?",
+      "options": [
+        "Both symmetric and asymmetric cryptography",
+        "Only symmetric cryptography",
+        "Only hashing",
+        "Only steganography"
+      ],
+      "correct_answer": "Both symmetric and asymmetric cryptography",
+      "explanation": "The correct answer is 'Both symmetric and asymmetric cryptography' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What security service does a digital signature provide?",
+      "options": [
+        "Authentication and integrity",
+        "Compression",
+        "Routing",
+        "Availability"
+      ],
+      "correct_answer": "Authentication and integrity",
+      "explanation": "The correct answer is 'Authentication and integrity' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "PGP can provide which security services?",
+      "options": [
+        "Confidentiality, integrity, authentication",
+        "Compression only",
+        "Routing only",
+        "Availability only"
+      ],
+      "correct_answer": "Confidentiality, integrity, authentication",
+      "explanation": "The correct answer is 'Confidentiality, integrity, authentication' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "S/MIME relies heavily on?",
+      "options": [
+        "Digital certificates",
+        "DNS records",
+        "Routers",
+        "Firewalls"
+      ],
+      "correct_answer": "Digital certificates",
+      "explanation": "The correct answer is 'Digital certificates' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which technology is commonly used with S/MIME?",
+      "options": [
+        "PKI",
+        "ARP",
+        "FTP",
+        "DHCP"
+      ],
+      "correct_answer": "PKI",
+      "explanation": "The correct answer is 'PKI' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "PGP is widely associated with securing?",
+      "options": [
+        "Email messages",
+        "Hard drives only",
+        "Printers",
+        "Switches"
+      ],
+      "correct_answer": "Email messages",
+      "explanation": "The correct answer is 'Email messages' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What trust model is commonly associated with PGP?",
+      "options": [
+        "Web of Trust",
+        "Hierarchical Trust Model only",
+        "Bridge CA",
+        "DNS Trust"
+      ],
+      "correct_answer": "Web of Trust",
+      "explanation": "The correct answer is 'Web of Trust' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What trust model is commonly associated with S/MIME?",
+      "options": [
+        "Hierarchical PKI trust model",
+        "Web of Trust",
+        "Peer-to-peer trust",
+        "No trust model"
+      ],
+      "correct_answer": "Hierarchical PKI trust model",
+      "explanation": "The correct answer is 'Hierarchical PKI trust model' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why does PGP use hybrid encryption?",
+      "options": [
+        "To combine efficiency and security",
+        "To replace certificates",
+        "To manage DNS",
+        "To compress files"
+      ],
+      "correct_answer": "To combine efficiency and security",
+      "explanation": "The correct answer is 'To combine efficiency and security' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is encrypted with a recipient's public key in PGP?",
+      "options": [
+        "The session key",
+        "The entire email directly",
+        "The certificate",
+        "The password"
+      ],
+      "correct_answer": "The session key",
+      "explanation": "The correct answer is 'The session key' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why is symmetric encryption used in PGP after key exchange?",
+      "options": [
+        "It is faster for large amounts of data",
+        "It creates certificates",
+        "It verifies DNS",
+        "It replaces hashing"
+      ],
+      "correct_answer": "It is faster for large amounts of data",
+      "explanation": "The correct answer is 'It is faster for large amounts of data' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "How does S/MIME authenticate email senders?",
+      "options": [
+        "Using digital signatures and certificates",
+        "Using passwords only",
+        "Using DNS records",
+        "Using routers"
+      ],
+      "correct_answer": "Using digital signatures and certificates",
+      "explanation": "The correct answer is 'Using digital signatures and certificates' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the role of a Certificate Authority in S/MIME?",
+      "options": [
+        "Issue and validate certificates",
+        "Encrypt all emails",
+        "Store passwords",
+        "Manage DNS"
+      ],
+      "correct_answer": "Issue and validate certificates",
+      "explanation": "The correct answer is 'Issue and validate certificates' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why are digital signatures important in email security?",
+      "options": [
+        "They verify sender identity and message integrity",
+        "They compress email",
+        "They replace encryption",
+        "They manage routing"
+      ],
+      "correct_answer": "They verify sender identity and message integrity",
+      "explanation": "The correct answer is 'They verify sender identity and message integrity' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which email security technology is more decentralized?",
+      "options": [
+        "PGP",
+        "S/MIME",
+        "Both are identical",
+        "Neither"
+      ],
+      "correct_answer": "PGP",
+      "explanation": "The correct answer is 'PGP' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which email security technology commonly integrates with enterprise PKI?",
+      "options": [
+        "S/MIME",
+        "PGP",
+        "FTP",
+        "SSH"
+      ],
+      "correct_answer": "S/MIME",
+      "explanation": "The correct answer is 'S/MIME' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does PGP's Web of Trust differ from PKI?",
+      "options": [
+        "Users validate each other's keys rather than relying solely on CAs",
+        "It eliminates cryptography",
+        "It uses only passwords",
+        "It removes authentication"
+      ],
+      "correct_answer": "Users validate each other's keys rather than relying solely on CAs",
+      "explanation": "The correct answer is 'Users validate each other's keys rather than relying solely on CAs' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What risk exists if a recipient's public key is not verified before use in PGP?",
+      "options": [
+        "Messages could be encrypted to an attacker's key",
+        "DNS fails",
+        "Certificates expire",
+        "Hashes collide"
+      ],
+      "correct_answer": "Messages could be encrypted to an attacker's key",
+      "explanation": "The correct answer is 'Messages could be encrypted to an attacker's key' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why is S/MIME often preferred in enterprises?",
+      "options": [
+        "It integrates with centralized certificate management",
+        "It removes certificates",
+        "It replaces authentication",
+        "It eliminates encryption"
+      ],
+      "correct_answer": "It integrates with centralized certificate management",
+      "explanation": "The correct answer is 'It integrates with centralized certificate management' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What attack can digital signatures help detect in email communications?",
+      "options": [
+        "Message tampering",
+        "DDoS",
+        "ARP spoofing",
+        "Replay attacks"
+      ],
+      "correct_answer": "Message tampering",
+      "explanation": "The correct answer is 'Message tampering' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How does email encryption support confidentiality?",
+      "options": [
+        "Only intended recipients can read the message",
+        "Anyone can read the message",
+        "Messages are compressed",
+        "Messages are routed differently"
+      ],
+      "correct_answer": "Only intended recipients can read the message",
+      "explanation": "The correct answer is 'Only intended recipients can read the message' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is key management critical in PGP and S/MIME?",
+      "options": [
+        "Compromised keys undermine security",
+        "Keys are optional",
+        "Certificates replace keys",
+        "Encryption works without keys"
+      ],
+      "correct_answer": "Compromised keys undermine security",
+      "explanation": "The correct answer is 'Compromised keys undermine security' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What security risk exists if a private signing key is compromised?",
+      "options": [
+        "Attackers can forge valid signatures",
+        "TLS stops working",
+        "DNS fails",
+        "Emails disappear"
+      ],
+      "correct_answer": "Attackers can forge valid signatures",
+      "explanation": "The correct answer is 'Attackers can forge valid signatures' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How does S/MIME establish trust?",
+      "options": [
+        "Through CA-issued certificates and PKI",
+        "Through Web of Trust only",
+        "Through DNSSEC",
+        "Through shared passwords"
+      ],
+      "correct_answer": "Through CA-issued certificates and PKI",
+      "explanation": "The correct answer is 'Through CA-issued certificates and PKI' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which attack can occur if users ignore certificate validation warnings in S/MIME?",
+      "options": [
+        "Man-in-the-Middle attack",
+        "Replay attack",
+        "DDoS attack",
+        "Dictionary attack"
+      ],
+      "correct_answer": "Man-in-the-Middle attack",
+      "explanation": "The correct answer is 'Man-in-the-Middle attack' because it best explains PGP and S/MIME concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes PGP and S/MIME today?",
+      "options": [
+        "Widely used technologies for securing email through encryption, authentication, and digital signatures",
+        "Hashing algorithms",
+        "Routing protocols",
+        "Database standards"
+      ],
+      "correct_answer": "Widely used technologies for securing email through encryption, authentication, and digital signatures",
+      "explanation": "The correct answer is 'Widely used technologies for securing email through encryption, authentication, and digital signatures' because it best explains PGP and S/MIME concepts."
+    }
+  ]
+}

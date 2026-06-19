@@ -1,0 +1,396 @@
+{
+  "topic": "Stateful Inspection Firewall",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a Stateful Inspection Firewall?",
+      "options": [
+        "A firewall that tracks active connections",
+        "A firewall that only checks ports",
+        "A VPN server",
+        "A load balancer"
+      ],
+      "correct_answer": "A firewall that tracks active connections",
+      "explanation": "The correct answer is 'A firewall that tracks active connections'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the main difference between stateful and stateless firewalls?",
+      "options": [
+        "Stateful firewalls track connection states",
+        "Stateful firewalls do not use rules",
+        "Stateless firewalls use AI",
+        "There is no difference"
+      ],
+      "correct_answer": "Stateful firewalls track connection states",
+      "explanation": "The correct answer is 'Stateful firewalls track connection states'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which protocol benefits most from stateful inspection?",
+      "options": [
+        "TCP",
+        "ARP",
+        "ICMP",
+        "DNS"
+      ],
+      "correct_answer": "TCP",
+      "explanation": "The correct answer is 'TCP'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What does a state table store?",
+      "options": [
+        "Information about active connections",
+        "User passwords",
+        "Firewall logs only",
+        "Routing tables"
+      ],
+      "correct_answer": "Information about active connections",
+      "explanation": "The correct answer is 'Information about active connections'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which TCP state is seen when a connection is initiated?",
+      "options": [
+        "NEW",
+        "ESTABLISHED",
+        "RELATED",
+        "INVALID"
+      ],
+      "correct_answer": "NEW",
+      "explanation": "The correct answer is 'NEW'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which state indicates an active connection?",
+      "options": [
+        "ESTABLISHED",
+        "NEW",
+        "INVALID",
+        "CLOSED"
+      ],
+      "correct_answer": "ESTABLISHED",
+      "explanation": "The correct answer is 'ESTABLISHED'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the primary advantage of a stateful firewall?",
+      "options": [
+        "Better security through connection awareness",
+        "No configuration needed",
+        "Unlimited bandwidth",
+        "No logging required"
+      ],
+      "correct_answer": "Better security through connection awareness",
+      "explanation": "The correct answer is 'Better security through connection awareness'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Stateful firewalls commonly operate at which layers?",
+      "options": [
+        "Network and Transport Layers",
+        "Physical Layer",
+        "Presentation Layer",
+        "Application Layer only"
+      ],
+      "correct_answer": "Network and Transport Layers",
+      "explanation": "The correct answer is 'Network and Transport Layers'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What happens when a packet belongs to an established session?",
+      "options": [
+        "It can be automatically allowed",
+        "It is always blocked",
+        "It is encrypted",
+        "It is dropped"
+      ],
+      "correct_answer": "It can be automatically allowed",
+      "explanation": "The correct answer is 'It can be automatically allowed'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which Linux firewall framework supports stateful inspection?",
+      "options": [
+        "iptables/netfilter",
+        "Excel",
+        "Apache",
+        "MySQL"
+      ],
+      "correct_answer": "iptables/netfilter",
+      "explanation": "The correct answer is 'iptables/netfilter'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why do stateful firewalls maintain a state table?",
+      "options": [
+        "To track ongoing connections",
+        "To store backups",
+        "To manage users",
+        "To increase speed"
+      ],
+      "correct_answer": "To track ongoing connections",
+      "explanation": "The correct answer is 'To track ongoing connections'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What does the RELATED state represent?",
+      "options": [
+        "Traffic related to an existing connection",
+        "New connection request",
+        "Invalid packet",
+        "Closed session"
+      ],
+      "correct_answer": "Traffic related to an existing connection",
+      "explanation": "The correct answer is 'Traffic related to an existing connection'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What does the INVALID state indicate?",
+      "options": [
+        "Packet not matching a valid session",
+        "Encrypted packet",
+        "VPN traffic",
+        "Allowed traffic"
+      ],
+      "correct_answer": "Packet not matching a valid session",
+      "explanation": "The correct answer is 'Packet not matching a valid session'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which TCP process is monitored by stateful firewalls?",
+      "options": [
+        "Three-Way Handshake",
+        "ARP Resolution",
+        "DNS Lookup",
+        "DHCP Lease"
+      ],
+      "correct_answer": "Three-Way Handshake",
+      "explanation": "The correct answer is 'Three-Way Handshake'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is dynamic packet filtering?",
+      "options": [
+        "Rules applied based on connection state",
+        "Random rule creation",
+        "Port forwarding",
+        "Traffic encryption"
+      ],
+      "correct_answer": "Rules applied based on connection state",
+      "explanation": "The correct answer is 'Rules applied based on connection state'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "How does a stateful firewall improve security?",
+      "options": [
+        "Prevents unauthorized packets outside valid sessions",
+        "Increases storage",
+        "Improves graphics",
+        "Adds bandwidth"
+      ],
+      "correct_answer": "Prevents unauthorized packets outside valid sessions",
+      "explanation": "The correct answer is 'Prevents unauthorized packets outside valid sessions'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which connection state is commonly matched in iptables rules?",
+      "options": [
+        "ESTABLISHED",
+        "GRAPHICS",
+        "STORAGE",
+        "DNS"
+      ],
+      "correct_answer": "ESTABLISHED",
+      "explanation": "The correct answer is 'ESTABLISHED'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Why is state tracking useful for outbound connections?",
+      "options": [
+        "Allows return traffic automatically",
+        "Blocks all responses",
+        "Disables logging",
+        "Reduces RAM"
+      ],
+      "correct_answer": "Allows return traffic automatically",
+      "explanation": "The correct answer is 'Allows return traffic automatically'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which attack is harder against stateful firewalls than stateless ones?",
+      "options": [
+        "Spoofed connection attempts",
+        "Power failure",
+        "Disk corruption",
+        "Printer abuse"
+      ],
+      "correct_answer": "Spoofed connection attempts",
+      "explanation": "The correct answer is 'Spoofed connection attempts'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What resource does state tracking consume?",
+      "options": [
+        "Memory",
+        "Monitor Resolution",
+        "Bandwidth only",
+        "Printer Ink"
+      ],
+      "correct_answer": "Memory",
+      "explanation": "The correct answer is 'Memory'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is a potential limitation of stateful firewalls?",
+      "options": [
+        "State table exhaustion under heavy attacks",
+        "No packet filtering",
+        "No rule support",
+        "Cannot inspect TCP"
+      ],
+      "correct_answer": "State table exhaustion under heavy attacks",
+      "explanation": "The correct answer is 'State table exhaustion under heavy attacks'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What happens if a SYN flood fills the state table?",
+      "options": [
+        "Firewall performance may degrade",
+        "Firewall becomes faster",
+        "Traffic is encrypted",
+        "Logs are deleted"
+      ],
+      "correct_answer": "Firewall performance may degrade",
+      "explanation": "The correct answer is 'Firewall performance may degrade'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does a stateful firewall handle return traffic from a trusted outbound connection?",
+      "options": [
+        "Allows it based on state information",
+        "Requires a new rule every time",
+        "Drops it automatically",
+        "Encrypts it first"
+      ],
+      "correct_answer": "Allows it based on state information",
+      "explanation": "The correct answer is 'Allows it based on state information'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why are stateful firewalls considered more secure than packet filtering firewalls?",
+      "options": [
+        "They understand session context",
+        "They use stronger cables",
+        "They increase CPU speed",
+        "They eliminate attacks"
+      ],
+      "correct_answer": "They understand session context",
+      "explanation": "The correct answer is 'They understand session context'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which connection state would an FTP data connection often use?",
+      "options": [
+        "RELATED",
+        "INVALID",
+        "NEW only",
+        "CLOSED"
+      ],
+      "correct_answer": "RELATED",
+      "explanation": "The correct answer is 'RELATED'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is connection awareness?",
+      "options": [
+        "Understanding session status and packet relationships",
+        "Using encryption",
+        "Monitoring storage",
+        "Managing DNS"
+      ],
+      "correct_answer": "Understanding session status and packet relationships",
+      "explanation": "The correct answer is 'Understanding session status and packet relationships'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which firewall technology introduced dynamic rule handling based on sessions?",
+      "options": [
+        "Stateful Inspection",
+        "Hub",
+        "Bridge",
+        "Repeater"
+      ],
+      "correct_answer": "Stateful Inspection",
+      "explanation": "The correct answer is 'Stateful Inspection'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What security benefit is provided by dropping INVALID packets?",
+      "options": [
+        "Reduces malicious or malformed traffic",
+        "Improves storage",
+        "Increases bandwidth",
+        "Speeds up DNS"
+      ],
+      "correct_answer": "Reduces malicious or malformed traffic",
+      "explanation": "The correct answer is 'Reduces malicious or malformed traffic'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "In enterprise environments, why are stateful firewalls widely used?",
+      "options": [
+        "Balance security and performance",
+        "Replace IDS completely",
+        "Require no maintenance",
+        "Block all traffic"
+      ],
+      "correct_answer": "Balance security and performance",
+      "explanation": "The correct answer is 'Balance security and performance'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes a Stateful Inspection Firewall?",
+      "options": [
+        "Tracks and validates traffic based on active connection states",
+        "Only filters source IP addresses",
+        "Functions as a VPN server",
+        "Stores application data"
+      ],
+      "correct_answer": "Tracks and validates traffic based on active connection states",
+      "explanation": "The correct answer is 'Tracks and validates traffic based on active connection states'. This concept belongs to Stateful Inspection Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    }
+  ]
+}

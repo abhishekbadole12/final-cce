@@ -1,0 +1,396 @@
+{
+  "topic": "Next Generation Firewall (NGFW)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does NGFW stand for?",
+      "options": [
+        "Next Generation Firewall",
+        "Network Gateway Firewall",
+        "New Global Firewall",
+        "Next Gateway Filter"
+      ],
+      "correct_answer": "Next Generation Firewall",
+      "explanation": "The correct answer is 'Next Generation Firewall'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary advantage of an NGFW over a traditional firewall?",
+      "options": [
+        "Application awareness",
+        "More cables",
+        "Larger storage",
+        "Faster monitor"
+      ],
+      "correct_answer": "Application awareness",
+      "explanation": "The correct answer is 'Application awareness'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which feature is commonly found in an NGFW?",
+      "options": [
+        "Deep Packet Inspection",
+        "File Compression",
+        "Database Backup",
+        "Load Balancing"
+      ],
+      "correct_answer": "Deep Packet Inspection",
+      "explanation": "The correct answer is 'Deep Packet Inspection'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What does DPI stand for?",
+      "options": [
+        "Deep Packet Inspection",
+        "Dynamic Port Inspection",
+        "Digital Packet Integration",
+        "Data Processing Interface"
+      ],
+      "correct_answer": "Deep Packet Inspection",
+      "explanation": "The correct answer is 'Deep Packet Inspection'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "An NGFW can identify traffic based on?",
+      "options": [
+        "Applications",
+        "Only IP addresses",
+        "Only MAC addresses",
+        "Only ports"
+      ],
+      "correct_answer": "Applications",
+      "explanation": "The correct answer is 'Applications'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which security feature is often integrated into an NGFW?",
+      "options": [
+        "IPS",
+        "Printer Server",
+        "DNS Resolver",
+        "DHCP Server"
+      ],
+      "correct_answer": "IPS",
+      "explanation": "The correct answer is 'IPS'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What type of traffic can an NGFW inspect?",
+      "options": [
+        "Application Layer Traffic",
+        "Power Traffic",
+        "Storage Traffic",
+        "Printer Traffic"
+      ],
+      "correct_answer": "Application Layer Traffic",
+      "explanation": "The correct answer is 'Application Layer Traffic'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which protocol is commonly inspected using SSL/TLS inspection?",
+      "options": [
+        "HTTPS",
+        "ARP",
+        "ICMP",
+        "DHCP"
+      ],
+      "correct_answer": "HTTPS",
+      "explanation": "The correct answer is 'HTTPS'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is URL filtering used for?",
+      "options": [
+        "Controlling access to websites",
+        "Increasing RAM",
+        "Routing traffic",
+        "Creating backups"
+      ],
+      "correct_answer": "Controlling access to websites",
+      "explanation": "The correct answer is 'Controlling access to websites'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "NGFWs are commonly deployed at?",
+      "options": [
+        "Network Perimeter",
+        "Keyboard",
+        "Printer",
+        "Monitor"
+      ],
+      "correct_answer": "Network Perimeter",
+      "explanation": "The correct answer is 'Network Perimeter'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is application awareness in an NGFW?",
+      "options": [
+        "Identifying applications regardless of port",
+        "Increasing bandwidth",
+        "Encrypting packets",
+        "Managing storage"
+      ],
+      "correct_answer": "Identifying applications regardless of port",
+      "explanation": "The correct answer is 'Identifying applications regardless of port'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why is deep packet inspection important?",
+      "options": [
+        "It analyzes packet payloads and headers",
+        "It only checks source IPs",
+        "It improves graphics",
+        "It stores logs"
+      ],
+      "correct_answer": "It analyzes packet payloads and headers",
+      "explanation": "The correct answer is 'It analyzes packet payloads and headers'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is SSL/TLS inspection?",
+      "options": [
+        "Decrypting and inspecting encrypted traffic",
+        "Creating certificates",
+        "Blocking DNS",
+        "Routing VPN traffic"
+      ],
+      "correct_answer": "Decrypting and inspecting encrypted traffic",
+      "explanation": "The correct answer is 'Decrypting and inspecting encrypted traffic'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which NGFW feature helps block known exploits?",
+      "options": [
+        "Intrusion Prevention System (IPS)",
+        "NAT",
+        "DHCP",
+        "ARP"
+      ],
+      "correct_answer": "Intrusion Prevention System (IPS)",
+      "explanation": "The correct answer is 'Intrusion Prevention System (IPS)'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is user identity awareness?",
+      "options": [
+        "Applying policies based on user identity",
+        "Tracking monitor usage",
+        "Managing printers",
+        "Increasing speed"
+      ],
+      "correct_answer": "Applying policies based on user identity",
+      "explanation": "The correct answer is 'Applying policies based on user identity'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is malware protection in an NGFW?",
+      "options": [
+        "Detecting and blocking malicious files",
+        "Managing backups",
+        "Creating VLANs",
+        "Increasing storage"
+      ],
+      "correct_answer": "Detecting and blocking malicious files",
+      "explanation": "The correct answer is 'Detecting and blocking malicious files'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why is URL filtering useful?",
+      "options": [
+        "Blocks access to malicious or unwanted sites",
+        "Improves CPU speed",
+        "Adds memory",
+        "Reduces logs"
+      ],
+      "correct_answer": "Blocks access to malicious or unwanted sites",
+      "explanation": "The correct answer is 'Blocks access to malicious or unwanted sites'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is threat intelligence integration?",
+      "options": [
+        "Using external threat feeds to improve detection",
+        "Improving DNS",
+        "Increasing bandwidth",
+        "Compressing traffic"
+      ],
+      "correct_answer": "Using external threat feeds to improve detection",
+      "explanation": "The correct answer is 'Using external threat feeds to improve detection'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What type of attacks can NGFWs help prevent?",
+      "options": [
+        "Application-layer attacks",
+        "Power failures",
+        "Disk crashes",
+        "Printer jams"
+      ],
+      "correct_answer": "Application-layer attacks",
+      "explanation": "The correct answer is 'Application-layer attacks'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which NGFW capability provides visibility into network applications?",
+      "options": [
+        "Application Control",
+        "RAID",
+        "NAT",
+        "SNMP"
+      ],
+      "correct_answer": "Application Control",
+      "explanation": "The correct answer is 'Application Control'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why can port-based filtering alone be ineffective today?",
+      "options": [
+        "Applications can use non-standard ports",
+        "Ports no longer exist",
+        "NGFWs block all ports",
+        "TCP is obsolete"
+      ],
+      "correct_answer": "Applications can use non-standard ports",
+      "explanation": "The correct answer is 'Applications can use non-standard ports'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is sandboxing in NGFW security?",
+      "options": [
+        "Executing suspicious files in an isolated environment",
+        "Encrypting traffic",
+        "Creating backups",
+        "Blocking DNS"
+      ],
+      "correct_answer": "Executing suspicious files in an isolated environment",
+      "explanation": "The correct answer is 'Executing suspicious files in an isolated environment'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does an NGFW detect evasive threats better than traditional firewalls?",
+      "options": [
+        "Uses DPI, IPS, and threat intelligence",
+        "Uses more RAM",
+        "Uses larger disks",
+        "Uses switches"
+      ],
+      "correct_answer": "Uses DPI, IPS, and threat intelligence",
+      "explanation": "The correct answer is 'Uses DPI, IPS, and threat intelligence'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is a challenge of SSL inspection?",
+      "options": [
+        "Privacy and performance impact",
+        "No encryption support",
+        "No logging",
+        "No routing"
+      ],
+      "correct_answer": "Privacy and performance impact",
+      "explanation": "The correct answer is 'Privacy and performance impact'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is user-based policy enforcement important?",
+      "options": [
+        "Different users require different access levels",
+        "Improves graphics",
+        "Increases bandwidth",
+        "Reduces storage"
+      ],
+      "correct_answer": "Different users require different access levels",
+      "explanation": "The correct answer is 'Different users require different access levels'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which NGFW feature helps identify zero-day threats?",
+      "options": [
+        "Sandboxing and threat intelligence",
+        "NAT",
+        "DHCP",
+        "ARP"
+      ],
+      "correct_answer": "Sandboxing and threat intelligence",
+      "explanation": "The correct answer is 'Sandboxing and threat intelligence'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How does an NGFW support compliance requirements?",
+      "options": [
+        "Provides visibility, logging, and policy enforcement",
+        "Adds memory",
+        "Improves routing",
+        "Reduces traffic"
+      ],
+      "correct_answer": "Provides visibility, logging, and policy enforcement",
+      "explanation": "The correct answer is 'Provides visibility, logging, and policy enforcement'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which capability allows an NGFW to block specific applications like BitTorrent?",
+      "options": [
+        "Application Control",
+        "Static Routing",
+        "VLAN Tagging",
+        "DHCP Relay"
+      ],
+      "correct_answer": "Application Control",
+      "explanation": "The correct answer is 'Application Control'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why are NGFWs considered part of modern defense-in-depth strategies?",
+      "options": [
+        "They combine multiple security technologies",
+        "They replace all security controls",
+        "They eliminate threats completely",
+        "They require no maintenance"
+      ],
+      "correct_answer": "They combine multiple security technologies",
+      "explanation": "The correct answer is 'They combine multiple security technologies'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes an NGFW?",
+      "options": [
+        "A firewall with advanced inspection, application awareness, and threat prevention capabilities",
+        "A router with no filtering",
+        "A VPN-only device",
+        "A packet sniffer"
+      ],
+      "correct_answer": "A firewall with advanced inspection, application awareness, and threat prevention capabilities",
+      "explanation": "The correct answer is 'A firewall with advanced inspection, application awareness, and threat prevention capabilities'. This concept belongs to Next Generation Firewall (NGFW). Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    }
+  ]
+}

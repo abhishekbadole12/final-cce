@@ -1,0 +1,396 @@
+{
+  "topic": "Time Stamping Services",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a Time Stamping Service (TSS)?",
+      "options": [
+        "A service that proves a document existed at a specific time",
+        "A file encryption service",
+        "A password manager",
+        "A DNS service"
+      ],
+      "correct_answer": "A service that proves a document existed at a specific time",
+      "explanation": "The correct answer is 'A service that proves a document existed at a specific time' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the main purpose of a timestamp?",
+      "options": [
+        "Record the date and time of an event",
+        "Encrypt a document",
+        "Create a certificate",
+        "Generate a password"
+      ],
+      "correct_answer": "Record the date and time of an event",
+      "explanation": "The correct answer is 'Record the date and time of an event' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which organization may provide trusted timestamps?",
+      "options": [
+        "Time Stamping Authority (TSA)",
+        "Router",
+        "Firewall",
+        "DNS Server"
+      ],
+      "correct_answer": "Time Stamping Authority (TSA)",
+      "explanation": "The correct answer is 'Time Stamping Authority (TSA)' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "A timestamp is commonly applied to?",
+      "options": [
+        "Digital documents",
+        "Network cables",
+        "Hard drives",
+        "Routers"
+      ],
+      "correct_answer": "Digital documents",
+      "explanation": "The correct answer is 'Digital documents' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Why are timestamps important in digital signatures?",
+      "options": [
+        "They prove when the signature was created",
+        "They encrypt the signature",
+        "They replace certificates",
+        "They generate keys"
+      ],
+      "correct_answer": "They prove when the signature was created",
+      "explanation": "The correct answer is 'They prove when the signature was created' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does TSA stand for?",
+      "options": [
+        "Time Stamping Authority",
+        "Trusted Signature Authority",
+        "Time Security Administration",
+        "Timestamp Service Agency"
+      ],
+      "correct_answer": "Time Stamping Authority",
+      "explanation": "The correct answer is 'Time Stamping Authority' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Timestamps help provide evidence of?",
+      "options": [
+        "Time of document creation or signing",
+        "File size",
+        "Network speed",
+        "Bandwidth"
+      ],
+      "correct_answer": "Time of document creation or signing",
+      "explanation": "The correct answer is 'Time of document creation or signing' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which security property is strengthened by trusted timestamps?",
+      "options": [
+        "Non-repudiation",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Non-repudiation",
+      "explanation": "The correct answer is 'Non-repudiation' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Can a timestamp be used with digital signatures?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with AES",
+        "Only with HMAC"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "The correct answer is 'Yes' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Trusted timestamps are commonly used in?",
+      "options": [
+        "Legal and business records",
+        "Video streaming",
+        "Disk partitioning",
+        "Routing protocols"
+      ],
+      "correct_answer": "Legal and business records",
+      "explanation": "The correct answer is 'Legal and business records' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is typically sent to a TSA for timestamping?",
+      "options": [
+        "A hash of the document",
+        "The private key",
+        "The certificate",
+        "The password"
+      ],
+      "correct_answer": "A hash of the document",
+      "explanation": "The correct answer is 'A hash of the document' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why is a hash sent instead of the full document?",
+      "options": [
+        "To preserve privacy and reduce data exposure",
+        "To encrypt the file",
+        "To generate keys",
+        "To create certificates"
+      ],
+      "correct_answer": "To preserve privacy and reduce data exposure",
+      "explanation": "The correct answer is 'To preserve privacy and reduce data exposure' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What does a TSA return after processing a timestamp request?",
+      "options": [
+        "A signed timestamp token",
+        "A new certificate",
+        "A private key",
+        "A CRL"
+      ],
+      "correct_answer": "A signed timestamp token",
+      "explanation": "The correct answer is 'A signed timestamp token' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why is the TSA's digital signature important?",
+      "options": [
+        "It proves the timestamp was issued by a trusted authority",
+        "It encrypts the document",
+        "It creates hashes",
+        "It stores keys"
+      ],
+      "correct_answer": "It proves the timestamp was issued by a trusted authority",
+      "explanation": "The correct answer is 'It proves the timestamp was issued by a trusted authority' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "How does timestamping support document verification?",
+      "options": [
+        "It proves a document existed at a certain time",
+        "It compresses the document",
+        "It changes the hash",
+        "It generates passwords"
+      ],
+      "correct_answer": "It proves a document existed at a certain time",
+      "explanation": "The correct answer is 'It proves a document existed at a certain time' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which PKI component is most closely related to timestamp trust?",
+      "options": [
+        "Trusted certificates",
+        "DNS records",
+        "Routers",
+        "Switches"
+      ],
+      "correct_answer": "Trusted certificates",
+      "explanation": "The correct answer is 'Trusted certificates' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why are timestamps useful when certificates expire?",
+      "options": [
+        "They can prove a signature was valid when created",
+        "They renew certificates",
+        "They replace PKI",
+        "They revoke certificates"
+      ],
+      "correct_answer": "They can prove a signature was valid when created",
+      "explanation": "The correct answer is 'They can prove a signature was valid when created' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Timestamping is commonly used in?",
+      "options": [
+        "Code signing",
+        "ARP",
+        "NAT",
+        "Packet filtering"
+      ],
+      "correct_answer": "Code signing",
+      "explanation": "The correct answer is 'Code signing' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a timestamp token?",
+      "options": [
+        "A signed record containing time information",
+        "A password",
+        "A certificate request",
+        "A DNS entry"
+      ],
+      "correct_answer": "A signed record containing time information",
+      "explanation": "The correct answer is 'A signed record containing time information' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why is synchronization of time important for TSA operations?",
+      "options": [
+        "Accurate timestamps depend on correct time sources",
+        "It increases encryption speed",
+        "It creates certificates",
+        "It reduces storage"
+      ],
+      "correct_answer": "Accurate timestamps depend on correct time sources",
+      "explanation": "The correct answer is 'Accurate timestamps depend on correct time sources' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How do timestamps strengthen non-repudiation?",
+      "options": [
+        "They provide trusted evidence of when an action occurred",
+        "They encrypt documents",
+        "They replace signatures",
+        "They generate keys"
+      ],
+      "correct_answer": "They provide trusted evidence of when an action occurred",
+      "explanation": "The correct answer is 'They provide trusted evidence of when an action occurred' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is timestamping critical in legal disputes involving digital signatures?",
+      "options": [
+        "It helps prove when a document was signed",
+        "It encrypts evidence",
+        "It replaces courts",
+        "It creates certificates"
+      ],
+      "correct_answer": "It helps prove when a document was signed",
+      "explanation": "The correct answer is 'It helps prove when a document was signed' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What risk exists if a TSA is compromised?",
+      "options": [
+        "False timestamps could be issued",
+        "AES becomes insecure",
+        "DNS fails",
+        "Hashes collide"
+      ],
+      "correct_answer": "False timestamps could be issued",
+      "explanation": "The correct answer is 'False timestamps could be issued' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why is a TSA considered a trusted third party?",
+      "options": [
+        "Users rely on it to provide accurate and verifiable time evidence",
+        "It stores private keys",
+        "It replaces CAs",
+        "It performs encryption"
+      ],
+      "correct_answer": "Users rely on it to provide accurate and verifiable time evidence",
+      "explanation": "The correct answer is 'Users rely on it to provide accurate and verifiable time evidence' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the relationship between timestamping and digital signatures?",
+      "options": [
+        "Timestamping complements signatures by proving when signing occurred",
+        "Timestamping replaces signatures",
+        "They are unrelated",
+        "Timestamping encrypts signatures"
+      ],
+      "correct_answer": "Timestamping complements signatures by proving when signing occurred",
+      "explanation": "The correct answer is 'Timestamping complements signatures by proving when signing occurred' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How can timestamping support long-term document validation?",
+      "options": [
+        "By proving signatures were valid at the time of signing",
+        "By renewing keys",
+        "By replacing certificates",
+        "By generating hashes"
+      ],
+      "correct_answer": "By proving signatures were valid at the time of signing",
+      "explanation": "The correct answer is 'By proving signatures were valid at the time of signing' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which attack could undermine trust if timestamp records are falsified?",
+      "options": [
+        "Repudiation and fraud",
+        "DDoS",
+        "ARP spoofing",
+        "Replay attacks"
+      ],
+      "correct_answer": "Repudiation and fraud",
+      "explanation": "The correct answer is 'Repudiation and fraud' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are audit logs important for TSA operations?",
+      "options": [
+        "They provide accountability and traceability",
+        "They compress data",
+        "They replace certificates",
+        "They increase bandwidth"
+      ],
+      "correct_answer": "They provide accountability and traceability",
+      "explanation": "The correct answer is 'They provide accountability and traceability' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What role does hashing play in timestamping?",
+      "options": [
+        "It allows proof of document existence without exposing document contents",
+        "It encrypts timestamps",
+        "It issues certificates",
+        "It revokes certificates"
+      ],
+      "correct_answer": "It allows proof of document existence without exposing document contents",
+      "explanation": "The correct answer is 'It allows proof of document existence without exposing document contents' because it best explains Time Stamping Services and TSA concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes Time Stamping Services?",
+      "options": [
+        "Trusted services that provide verifiable proof of when digital data existed or was signed",
+        "Encryption algorithms",
+        "Hashing standards",
+        "Network protocols"
+      ],
+      "correct_answer": "Trusted services that provide verifiable proof of when digital data existed or was signed",
+      "explanation": "The correct answer is 'Trusted services that provide verifiable proof of when digital data existed or was signed' because it best explains Time Stamping Services and TSA concepts."
+    }
+  ]
+}

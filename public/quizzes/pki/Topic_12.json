@@ -1,0 +1,396 @@
+{
+  "topic": "Diffie-Hellman Key Exchange",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of Diffie-Hellman?",
+      "options": [
+        "Secure key exchange",
+        "File encryption",
+        "Hash generation",
+        "Digital signatures"
+      ],
+      "correct_answer": "Secure key exchange",
+      "explanation": "The correct answer is 'Secure key exchange' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Diffie-Hellman allows two parties to?",
+      "options": [
+        "Establish a shared secret over an insecure channel",
+        "Encrypt files directly",
+        "Create certificates",
+        "Compress data"
+      ],
+      "correct_answer": "Establish a shared secret over an insecure channel",
+      "explanation": "The correct answer is 'Establish a shared secret over an insecure channel' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Diffie-Hellman is an example of?",
+      "options": [
+        "Key exchange protocol",
+        "Hash function",
+        "Symmetric cipher",
+        "Digital certificate"
+      ],
+      "correct_answer": "Key exchange protocol",
+      "explanation": "The correct answer is 'Key exchange protocol' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Who developed Diffie-Hellman?",
+      "options": [
+        "Whitfield Diffie and Martin Hellman",
+        "Rivest and Shamir",
+        "Ron Rivest",
+        "Niels Ferguson"
+      ],
+      "correct_answer": "Whitfield Diffie and Martin Hellman",
+      "explanation": "The correct answer is 'Whitfield Diffie and Martin Hellman' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Diffie-Hellman was introduced in?",
+      "options": [
+        "1976",
+        "1977",
+        "1994",
+        "2001"
+      ],
+      "correct_answer": "1976",
+      "explanation": "The correct answer is '1976' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Does Diffie-Hellman directly encrypt messages?",
+      "options": [
+        "No",
+        "Yes",
+        "Only large files",
+        "Only emails"
+      ],
+      "correct_answer": "No",
+      "explanation": "The correct answer is 'No' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is generated after a successful Diffie-Hellman exchange?",
+      "options": [
+        "Shared secret key",
+        "Digital certificate",
+        "Hash digest",
+        "Public key"
+      ],
+      "correct_answer": "Shared secret key",
+      "explanation": "The correct answer is 'Shared secret key' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which type of cryptography is Diffie-Hellman associated with?",
+      "options": [
+        "Public-key cryptography",
+        "Symmetric cryptography",
+        "Hashing",
+        "Steganography"
+      ],
+      "correct_answer": "Public-key cryptography",
+      "explanation": "The correct answer is 'Public-key cryptography' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Diffie-Hellman is commonly used in?",
+      "options": [
+        "TLS and VPNs",
+        "Disk defragmentation",
+        "Video compression",
+        "DNS caching"
+      ],
+      "correct_answer": "TLS and VPNs",
+      "explanation": "The correct answer is 'TLS and VPNs' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "The shared secret produced by Diffie-Hellman is typically used for?",
+      "options": [
+        "Symmetric encryption",
+        "Hashing",
+        "Routing",
+        "Certificate revocation"
+      ],
+      "correct_answer": "Symmetric encryption",
+      "explanation": "The correct answer is 'Symmetric encryption' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What problem did Diffie-Hellman primarily solve?",
+      "options": [
+        "Secure key distribution",
+        "File compression",
+        "Password storage",
+        "Certificate management"
+      ],
+      "correct_answer": "Secure key distribution",
+      "explanation": "The correct answer is 'Secure key distribution' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Diffie-Hellman security relies on the difficulty of?",
+      "options": [
+        "Discrete logarithm problem",
+        "Integer factorization",
+        "Hash collisions",
+        "Sorting"
+      ],
+      "correct_answer": "Discrete logarithm problem",
+      "explanation": "The correct answer is 'Discrete logarithm problem' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "In Diffie-Hellman, public values can be?",
+      "options": [
+        "Shared openly",
+        "Kept secret",
+        "Stored only in certificates",
+        "Encrypted with AES"
+      ],
+      "correct_answer": "Shared openly",
+      "explanation": "The correct answer is 'Shared openly' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What must remain secret in Diffie-Hellman?",
+      "options": [
+        "Private values",
+        "Public parameters",
+        "Prime numbers",
+        "Generator values"
+      ],
+      "correct_answer": "Private values",
+      "explanation": "The correct answer is 'Private values' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is ECDH?",
+      "options": [
+        "Elliptic Curve Diffie-Hellman",
+        "Encrypted Certificate DH",
+        "Extended Data Hash",
+        "Electronic Data Handler"
+      ],
+      "correct_answer": "Elliptic Curve Diffie-Hellman",
+      "explanation": "The correct answer is 'Elliptic Curve Diffie-Hellman' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why is ECDH popular?",
+      "options": [
+        "Provides similar security with smaller keys",
+        "Uses no keys",
+        "Replaces AES",
+        "Requires no authentication"
+      ],
+      "correct_answer": "Provides similar security with smaller keys",
+      "explanation": "The correct answer is 'Provides similar security with smaller keys' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which cryptographic algorithm is often paired with Diffie-Hellman?",
+      "options": [
+        "AES",
+        "MD5",
+        "CRC32",
+        "Base64"
+      ],
+      "correct_answer": "AES",
+      "explanation": "The correct answer is 'AES' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is an ephemeral Diffie-Hellman exchange?",
+      "options": [
+        "Temporary keys for a session",
+        "Permanent keys",
+        "Certificate renewal",
+        "Password hashing"
+      ],
+      "correct_answer": "Temporary keys for a session",
+      "explanation": "The correct answer is 'Temporary keys for a session' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Ephemeral Diffie-Hellman helps provide?",
+      "options": [
+        "Forward secrecy",
+        "Compression",
+        "Redundancy",
+        "Availability"
+      ],
+      "correct_answer": "Forward secrecy",
+      "explanation": "The correct answer is 'Forward secrecy' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which protocol version commonly uses Diffie-Hellman key exchange mechanisms?",
+      "options": [
+        "TLS",
+        "ARP",
+        "FTP",
+        "ICMP"
+      ],
+      "correct_answer": "TLS",
+      "explanation": "The correct answer is 'TLS' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the main vulnerability of unauthenticated Diffie-Hellman?",
+      "options": [
+        "Man-in-the-Middle attack",
+        "Brute-force attack",
+        "Phishing",
+        "SQL Injection"
+      ],
+      "correct_answer": "Man-in-the-Middle attack",
+      "explanation": "The correct answer is 'Man-in-the-Middle attack' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is authentication often added to Diffie-Hellman exchanges?",
+      "options": [
+        "To prevent MITM attacks",
+        "To speed up encryption",
+        "To compress data",
+        "To generate hashes"
+      ],
+      "correct_answer": "To prevent MITM attacks",
+      "explanation": "The correct answer is 'To prevent MITM attacks' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What does Perfect Forward Secrecy (PFS) mean?",
+      "options": [
+        "Compromise of long-term keys does not expose past sessions",
+        "All keys are public",
+        "Data never expires",
+        "Certificates are unnecessary"
+      ],
+      "correct_answer": "Compromise of long-term keys does not expose past sessions",
+      "explanation": "The correct answer is 'Compromise of long-term keys does not expose past sessions' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why are ephemeral keys important in modern TLS?",
+      "options": [
+        "They support forward secrecy",
+        "They replace encryption",
+        "They eliminate certificates",
+        "They reduce hashing"
+      ],
+      "correct_answer": "They support forward secrecy",
+      "explanation": "The correct answer is 'They support forward secrecy' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "If an attacker records encrypted traffic today and later steals a server's long-term key, PFS ensures?",
+      "options": [
+        "Past sessions remain protected",
+        "All traffic is decrypted",
+        "Certificates are revoked",
+        "AES becomes insecure"
+      ],
+      "correct_answer": "Past sessions remain protected",
+      "explanation": "The correct answer is 'Past sessions remain protected' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which mathematical assumption underlies classical Diffie-Hellman?",
+      "options": [
+        "Discrete logarithm hardness",
+        "Prime factorization hardness",
+        "Hash collision resistance",
+        "Password entropy"
+      ],
+      "correct_answer": "Discrete logarithm hardness",
+      "explanation": "The correct answer is 'Discrete logarithm hardness' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What role does Diffie-Hellman play in hybrid cryptography?",
+      "options": [
+        "Securely establishing symmetric keys",
+        "Encrypting large files directly",
+        "Generating certificates",
+        "Replacing AES"
+      ],
+      "correct_answer": "Securely establishing symmetric keys",
+      "explanation": "The correct answer is 'Securely establishing symmetric keys' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is Diffie-Hellman considered a milestone in cryptography?",
+      "options": [
+        "It introduced practical public-key key exchange",
+        "It created DES",
+        "It replaced RSA",
+        "It invented hashing"
+      ],
+      "correct_answer": "It introduced practical public-key key exchange",
+      "explanation": "The correct answer is 'It introduced practical public-key key exchange' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which attack targets implementation weaknesses rather than the Diffie-Hellman mathematics?",
+      "options": [
+        "Side-channel attacks",
+        "Dictionary attacks",
+        "Shoulder surfing",
+        "Smishing"
+      ],
+      "correct_answer": "Side-channel attacks",
+      "explanation": "The correct answer is 'Side-channel attacks' because it best explains Diffie-Hellman key exchange concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes Diffie-Hellman today?",
+      "options": [
+        "A foundational key exchange protocol used in secure communications",
+        "An obsolete block cipher",
+        "A hashing standard",
+        "A certificate format"
+      ],
+      "correct_answer": "A foundational key exchange protocol used in secure communications",
+      "explanation": "The correct answer is 'A foundational key exchange protocol used in secure communications' because it best explains Diffie-Hellman key exchange concepts."
+    }
+  ]
+}

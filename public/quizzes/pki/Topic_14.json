@@ -1,0 +1,396 @@
+{
+  "topic": "SHA (Secure Hash Algorithm)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does SHA stand for?",
+      "options": [
+        "Secure Hash Algorithm",
+        "Secure Host Algorithm",
+        "Standard Hash Algorithm",
+        "System Hash Algorithm"
+      ],
+      "correct_answer": "Secure Hash Algorithm",
+      "explanation": "The correct answer is 'Secure Hash Algorithm' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "SHA is primarily used for?",
+      "options": [
+        "Hashing data",
+        "Encrypting files",
+        "Routing packets",
+        "Compressing data"
+      ],
+      "correct_answer": "Hashing data",
+      "explanation": "The correct answer is 'Hashing data' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the output of a hash function called?",
+      "options": [
+        "Hash value",
+        "Ciphertext",
+        "Certificate",
+        "Session key"
+      ],
+      "correct_answer": "Hash value",
+      "explanation": "The correct answer is 'Hash value' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "SHA provides which security property?",
+      "options": [
+        "Integrity",
+        "Confidentiality",
+        "Availability",
+        "Redundancy"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "The correct answer is 'Integrity' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Can SHA be reversed to obtain the original data?",
+      "options": [
+        "No",
+        "Yes",
+        "Only with a private key",
+        "Only with AES"
+      ],
+      "correct_answer": "No",
+      "explanation": "The correct answer is 'No' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which SHA version produces a 256-bit hash?",
+      "options": [
+        "SHA-256",
+        "SHA-1",
+        "SHA-128",
+        "SHA-64"
+      ],
+      "correct_answer": "SHA-256",
+      "explanation": "The correct answer is 'SHA-256' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "A small change in input should produce?",
+      "options": [
+        "A significantly different hash",
+        "The same hash",
+        "A shorter hash",
+        "No hash"
+      ],
+      "correct_answer": "A significantly different hash",
+      "explanation": "The correct answer is 'A significantly different hash' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "SHA belongs to which category?",
+      "options": [
+        "Cryptographic hash functions",
+        "Symmetric encryption",
+        "Asymmetric encryption",
+        "Digital certificates"
+      ],
+      "correct_answer": "Cryptographic hash functions",
+      "explanation": "The correct answer is 'Cryptographic hash functions' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Hashing is commonly used to verify?",
+      "options": [
+        "Data integrity",
+        "Network speed",
+        "Disk size",
+        "Bandwidth"
+      ],
+      "correct_answer": "Data integrity",
+      "explanation": "The correct answer is 'Data integrity' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which SHA version is considered outdated for security-sensitive uses?",
+      "options": [
+        "SHA-1",
+        "SHA-256",
+        "SHA-384",
+        "SHA-512"
+      ],
+      "correct_answer": "SHA-1",
+      "explanation": "The correct answer is 'SHA-1' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a hash collision?",
+      "options": [
+        "Two different inputs producing the same hash",
+        "Two identical passwords",
+        "Two encryption keys",
+        "Two certificates"
+      ],
+      "correct_answer": "Two different inputs producing the same hash",
+      "explanation": "The correct answer is 'Two different inputs producing the same hash' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why are collisions undesirable?",
+      "options": [
+        "They weaken trust in integrity verification",
+        "They improve encryption",
+        "They reduce storage",
+        "They speed up hashing"
+      ],
+      "correct_answer": "They weaken trust in integrity verification",
+      "explanation": "The correct answer is 'They weaken trust in integrity verification' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which SHA family member produces a 512-bit digest?",
+      "options": [
+        "SHA-512",
+        "SHA-1",
+        "SHA-224",
+        "SHA-256"
+      ],
+      "correct_answer": "SHA-512",
+      "explanation": "The correct answer is 'SHA-512' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What property makes SHA useful for integrity checks?",
+      "options": [
+        "Deterministic output",
+        "Encryption capability",
+        "Public-key support",
+        "Compression"
+      ],
+      "correct_answer": "Deterministic output",
+      "explanation": "The correct answer is 'Deterministic output' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Where is SHA commonly used?",
+      "options": [
+        "Digital signatures and certificates",
+        "Routing tables",
+        "Load balancing",
+        "Video encoding"
+      ],
+      "correct_answer": "Digital signatures and certificates",
+      "explanation": "The correct answer is 'Digital signatures and certificates' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is preimage resistance?",
+      "options": [
+        "Difficulty of finding original input from a hash",
+        "Preventing replay attacks",
+        "Generating certificates",
+        "Encrypting hashes"
+      ],
+      "correct_answer": "Difficulty of finding original input from a hash",
+      "explanation": "The correct answer is 'Difficulty of finding original input from a hash' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is second preimage resistance?",
+      "options": [
+        "Difficulty of finding another input with the same hash as a given input",
+        "Encrypting files",
+        "Sharing keys",
+        "Creating certificates"
+      ],
+      "correct_answer": "Difficulty of finding another input with the same hash as a given input",
+      "explanation": "The correct answer is 'Difficulty of finding another input with the same hash as a given input' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which algorithm family replaced MD5 for stronger security?",
+      "options": [
+        "SHA-2",
+        "DES",
+        "RC4",
+        "3DES"
+      ],
+      "correct_answer": "SHA-2",
+      "explanation": "The correct answer is 'SHA-2' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "SHA-256 belongs to which family?",
+      "options": [
+        "SHA-2",
+        "SHA-1",
+        "SHA-3",
+        "MD Family"
+      ],
+      "correct_answer": "SHA-2",
+      "explanation": "The correct answer is 'SHA-2' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why are hashes used before digital signing?",
+      "options": [
+        "Signing a hash is more efficient than signing large data",
+        "Hashes encrypt data",
+        "Hashes create certificates",
+        "Hashes store keys"
+      ],
+      "correct_answer": "Signing a hash is more efficient than signing large data",
+      "explanation": "The correct answer is 'Signing a hash is more efficient than signing large data' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the avalanche effect in SHA?",
+      "options": [
+        "Small input changes cause large output changes",
+        "Hashes can be reversed",
+        "Keys are rotated automatically",
+        "Certificates are renewed"
+      ],
+      "correct_answer": "Small input changes cause large output changes",
+      "explanation": "The correct answer is 'Small input changes cause large output changes' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is SHA not considered encryption?",
+      "options": [
+        "It is a one-way function",
+        "It uses public keys",
+        "It decrypts data",
+        "It requires certificates"
+      ],
+      "correct_answer": "It is a one-way function",
+      "explanation": "The correct answer is 'It is a one-way function' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which attack attempts to find two messages with the same hash?",
+      "options": [
+        "Collision attack",
+        "Replay attack",
+        "MITM attack",
+        "Dictionary attack"
+      ],
+      "correct_answer": "Collision attack",
+      "explanation": "The correct answer is 'Collision attack' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why is SHA-1 no longer recommended?",
+      "options": [
+        "Practical collision attacks have been demonstrated",
+        "It is too slow",
+        "It uses public keys",
+        "It produces large digests"
+      ],
+      "correct_answer": "Practical collision attacks have been demonstrated",
+      "explanation": "The correct answer is 'Practical collision attacks have been demonstrated' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What role does SHA play in blockchain systems?",
+      "options": [
+        "Linking and verifying blocks",
+        "Encrypting all transactions",
+        "Replacing digital signatures",
+        "Generating public keys"
+      ],
+      "correct_answer": "Linking and verifying blocks",
+      "explanation": "The correct answer is 'Linking and verifying blocks' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does SHA contribute to digital certificates?",
+      "options": [
+        "By verifying integrity of signed data",
+        "By encrypting certificates",
+        "By replacing PKI",
+        "By generating DNS records"
+      ],
+      "correct_answer": "By verifying integrity of signed data",
+      "explanation": "The correct answer is 'By verifying integrity of signed data' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which property prevents attackers from easily generating matching hashes for modified data?",
+      "options": [
+        "Collision resistance",
+        "Availability",
+        "Redundancy",
+        "Compression"
+      ],
+      "correct_answer": "Collision resistance",
+      "explanation": "The correct answer is 'Collision resistance' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are longer hash outputs generally more secure?",
+      "options": [
+        "They reduce the feasibility of collision attacks",
+        "They encrypt data better",
+        "They require fewer computations",
+        "They replace keys"
+      ],
+      "correct_answer": "They reduce the feasibility of collision attacks",
+      "explanation": "The correct answer is 'They reduce the feasibility of collision attacks' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the primary difference between SHA-2 and SHA-3?",
+      "options": [
+        "Different internal designs",
+        "Different key lengths only",
+        "One encrypts and one hashes",
+        "One requires certificates"
+      ],
+      "correct_answer": "Different internal designs",
+      "explanation": "The correct answer is 'Different internal designs' because it best explains Secure Hash Algorithm (SHA) concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes SHA today?",
+      "options": [
+        "A widely used family of cryptographic hash algorithms for integrity and authentication systems",
+        "A symmetric encryption standard",
+        "A public-key algorithm",
+        "A certificate authority"
+      ],
+      "correct_answer": "A widely used family of cryptographic hash algorithms for integrity and authentication systems",
+      "explanation": "The correct answer is 'A widely used family of cryptographic hash algorithms for integrity and authentication systems' because it best explains Secure Hash Algorithm (SHA) concepts."
+    }
+  ]
+}

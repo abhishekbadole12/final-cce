@@ -1,0 +1,396 @@
+{
+  "topic": "Reverse Proxy (Nginx & Squid)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a reverse proxy?",
+      "options": [
+        "A server that forwards client requests to backend servers",
+        "A firewall",
+        "A VPN",
+        "A switch"
+      ],
+      "correct_answer": "A server that forwards client requests to backend servers",
+      "explanation": "The correct answer is 'A server that forwards client requests to backend servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which software is commonly used as a reverse proxy?",
+      "options": [
+        "Nginx",
+        "Excel",
+        "MySQL",
+        "Wireshark"
+      ],
+      "correct_answer": "Nginx",
+      "explanation": "The correct answer is 'Nginx'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which software can act as a reverse proxy and caching server?",
+      "options": [
+        "Squid",
+        "Notepad",
+        "Docker",
+        "OpenSSH"
+      ],
+      "correct_answer": "Squid",
+      "explanation": "The correct answer is 'Squid'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "A reverse proxy sits between?",
+      "options": [
+        "Clients and backend servers",
+        "Two switches",
+        "Two routers",
+        "Two firewalls"
+      ],
+      "correct_answer": "Clients and backend servers",
+      "explanation": "The correct answer is 'Clients and backend servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a reverse proxy?",
+      "options": [
+        "Hide backend servers",
+        "Store backups",
+        "Manage users",
+        "Encrypt disks"
+      ],
+      "correct_answer": "Hide backend servers",
+      "explanation": "The correct answer is 'Hide backend servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which protocol is commonly proxied by Nginx?",
+      "options": [
+        "HTTP/HTTPS",
+        "ARP",
+        "ICMP",
+        "SNMP"
+      ],
+      "correct_answer": "HTTP/HTTPS",
+      "explanation": "The correct answer is 'HTTP/HTTPS'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does SSL stand for?",
+      "options": [
+        "Secure Sockets Layer",
+        "System Security Layer",
+        "Server Socket Link",
+        "Secure System Link"
+      ],
+      "correct_answer": "Secure Sockets Layer",
+      "explanation": "The correct answer is 'Secure Sockets Layer'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which traffic is commonly protected by reverse proxies?",
+      "options": [
+        "Web traffic",
+        "Printer traffic",
+        "USB traffic",
+        "Bluetooth traffic"
+      ],
+      "correct_answer": "Web traffic",
+      "explanation": "The correct answer is 'Web traffic'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is caching?",
+      "options": [
+        "Storing responses for faster access",
+        "Blocking traffic",
+        "Encrypting files",
+        "Creating backups"
+      ],
+      "correct_answer": "Storing responses for faster access",
+      "explanation": "The correct answer is 'Storing responses for faster access'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is SSL termination?",
+      "options": [
+        "Decrypting HTTPS traffic at the proxy",
+        "Blocking HTTPS",
+        "Creating certificates",
+        "Routing packets"
+      ],
+      "correct_answer": "Decrypting HTTPS traffic at the proxy",
+      "explanation": "The correct answer is 'Decrypting HTTPS traffic at the proxy'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the difference between a forward proxy and reverse proxy?",
+      "options": [
+        "Forward proxy represents clients; reverse proxy represents servers",
+        "They are identical",
+        "Reverse proxy represents clients",
+        "Forward proxy represents servers"
+      ],
+      "correct_answer": "Forward proxy represents clients; reverse proxy represents servers",
+      "explanation": "The correct answer is 'Forward proxy represents clients; reverse proxy represents servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why is Nginx commonly used as a reverse proxy?",
+      "options": [
+        "High performance and scalability",
+        "Built-in antivirus",
+        "Database management",
+        "Email services"
+      ],
+      "correct_answer": "High performance and scalability",
+      "explanation": "The correct answer is 'High performance and scalability'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "How does a reverse proxy improve security?",
+      "options": [
+        "Hides internal server details",
+        "Disables encryption",
+        "Blocks all traffic",
+        "Removes authentication"
+      ],
+      "correct_answer": "Hides internal server details",
+      "explanation": "The correct answer is 'Hides internal server details'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is load distribution in reverse proxying?",
+      "options": [
+        "Distributing requests across multiple servers",
+        "Compressing files",
+        "Encrypting packets",
+        "Managing DNS"
+      ],
+      "correct_answer": "Distributing requests across multiple servers",
+      "explanation": "The correct answer is 'Distributing requests across multiple servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which feature helps reduce backend server workload?",
+      "options": [
+        "Caching",
+        "Logging",
+        "Routing",
+        "Scanning"
+      ],
+      "correct_answer": "Caching",
+      "explanation": "The correct answer is 'Caching'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is a backend server?",
+      "options": [
+        "Server providing the actual application/service",
+        "Firewall",
+        "Router",
+        "Proxy"
+      ],
+      "correct_answer": "Server providing the actual application/service",
+      "explanation": "The correct answer is 'Server providing the actual application/service'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "How can reverse proxies help with DDoS mitigation?",
+      "options": [
+        "Filter and absorb traffic before backend servers",
+        "Increase bandwidth only",
+        "Disable servers",
+        "Block DNS"
+      ],
+      "correct_answer": "Filter and absorb traffic before backend servers",
+      "explanation": "The correct answer is 'Filter and absorb traffic before backend servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is URL rewriting?",
+      "options": [
+        "Modifying requested URLs before forwarding",
+        "Deleting URLs",
+        "Blocking URLs",
+        "Encrypting URLs"
+      ],
+      "correct_answer": "Modifying requested URLs before forwarding",
+      "explanation": "The correct answer is 'Modifying requested URLs before forwarding'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why are reverse proxies used in web applications?",
+      "options": [
+        "Improve security, performance, and availability",
+        "Replace databases",
+        "Manage printers",
+        "Store backups"
+      ],
+      "correct_answer": "Improve security, performance, and availability",
+      "explanation": "The correct answer is 'Improve security, performance, and availability'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which Nginx feature supports SSL certificates?",
+      "options": [
+        "HTTPS Configuration",
+        "ARP",
+        "DHCP",
+        "FTP"
+      ],
+      "correct_answer": "HTTPS Configuration",
+      "explanation": "The correct answer is 'HTTPS Configuration'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is SSL termination beneficial?",
+      "options": [
+        "Reduces encryption workload on backend servers",
+        "Blocks HTTPS",
+        "Removes security",
+        "Disables certificates"
+      ],
+      "correct_answer": "Reduces encryption workload on backend servers",
+      "explanation": "The correct answer is 'Reduces encryption workload on backend servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "How does a reverse proxy support defense in depth?",
+      "options": [
+        "Adds an additional security layer before backend servers",
+        "Eliminates firewalls",
+        "Replaces IDS",
+        "Disables logging"
+      ],
+      "correct_answer": "Adds an additional security layer before backend servers",
+      "explanation": "The correct answer is 'Adds an additional security layer before backend servers'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which attack type can reverse proxies help mitigate?",
+      "options": [
+        "Application-layer attacks",
+        "Power failures",
+        "Disk corruption",
+        "Printer issues"
+      ],
+      "correct_answer": "Application-layer attacks",
+      "explanation": "The correct answer is 'Application-layer attacks'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is a common risk of misconfigured reverse proxies?",
+      "options": [
+        "Information leakage",
+        "More storage",
+        "Faster internet",
+        "Improved security"
+      ],
+      "correct_answer": "Information leakage",
+      "explanation": "The correct answer is 'Information leakage'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why are reverse proxies often combined with Web Application Firewalls (WAFs)?",
+      "options": [
+        "Enhanced application security",
+        "Better graphics",
+        "More RAM",
+        "Reduced storage"
+      ],
+      "correct_answer": "Enhanced application security",
+      "explanation": "The correct answer is 'Enhanced application security'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How can Squid improve performance?",
+      "options": [
+        "Caching frequently requested content",
+        "Encrypting disks",
+        "Managing databases",
+        "Updating software"
+      ],
+      "correct_answer": "Caching frequently requested content",
+      "explanation": "The correct answer is 'Caching frequently requested content'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which feature enables Nginx to forward requests based on URL patterns?",
+      "options": [
+        "Regex-based routing",
+        "ARP filtering",
+        "DHCP relay",
+        "SNMP traps"
+      ],
+      "correct_answer": "Regex-based routing",
+      "explanation": "The correct answer is 'Regex-based routing'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is monitoring reverse proxy logs important?",
+      "options": [
+        "Detect attacks and troubleshoot issues",
+        "Increase bandwidth",
+        "Reduce memory usage",
+        "Improve graphics"
+      ],
+      "correct_answer": "Detect attacks and troubleshoot issues",
+      "explanation": "The correct answer is 'Detect attacks and troubleshoot issues'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What benefit does a reverse proxy provide when backend servers change?",
+      "options": [
+        "Clients continue using the same public endpoint",
+        "Traffic stops",
+        "DNS fails",
+        "Encryption breaks"
+      ],
+      "correct_answer": "Clients continue using the same public endpoint",
+      "explanation": "The correct answer is 'Clients continue using the same public endpoint'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes a reverse proxy?",
+      "options": [
+        "An intermediary that receives client requests and forwards them to backend servers while enhancing security and performance",
+        "A VPN protocol",
+        "A packet capture tool",
+        "A firewall rule"
+      ],
+      "correct_answer": "An intermediary that receives client requests and forwards them to backend servers while enhancing security and performance",
+      "explanation": "The correct answer is 'An intermediary that receives client requests and forwards them to backend servers while enhancing security and performance'. This answer is correct because it aligns with the core concept of Reverse Proxy (Nginx & Squid). Understanding this concept is important for cybersecurity exams, practical implementations, and interview preparation."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        }
+        .fade-in {
+            animation: fadeIn 0.3s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .option-btn {
+            transition: all 0.3s ease;
+        }
+        .option-btn:hover:not(:disabled) {
+            transform: translateX(4px);
+        }
+        .option-btn:disabled {
+            cursor: not-allowed;
+            opacity: 0.8;
+        }
+        .option-btn.correct {
+            background-color: #10b981;
+            color: white;
+            border-color: #10b981;
+        }
+        .option-btn.wrong {
+            background-color: #ef4444;
+            color: white;
+            border-color: #ef4444;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
+    <div class="max-w-3xl mx-auto p-4 md:p-6">
+        <!-- Header -->
+        <div class="bg-white rounded-lg shadow-lg p-8 mb-6">
+            <h1 class="text-4xl font-bold text-gray-800 mb-2">Interactive Quiz</h1>
+            <p class="text-gray-600">Upload your JSON quiz file to get started</p>
+        </div>
+
+        <!-- File Upload Section -->
+        <div id="uploadSection" class="bg-white rounded-lg shadow-lg p-8 mb-6">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4">Load Quiz</h2>
+            <div class="mb-4">
+                <label class="block text-gray-700 font-semibold mb-2">Upload JSON File</label>
+                <input 
+                    type="file" 
+                    id="jsonFileInput" 
+                    accept=".json" 
+                    class="block w-full text-sm text-gray-500
+                        file:mr-4 file:py-2 file:px-4
+                        file:rounded-md file:border-0
+                        file:text-sm file:font-semibold
+                        file:bg-blue-50 file:text-blue-700
+                        hover:file:bg-blue-100 cursor-pointer"
+                >
+                <p class="text-sm text-gray-500 mt-2">Select a JSON file with quiz questions in the correct format</p>
+            </div>
+            <button 
+                id="loadBtn" 
+                class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-4 rounded-lg transition duration-200"
+            >
+                Load Quiz
+            </button>
+        </div>
+
+        <!-- Error Message -->
+        <div id="errorMessage" class="hidden bg-red-100 border border-red-400 text-red-700 px-4 py-4 rounded-lg mb-6 fade-in">
+            <span id="errorText"></span>
+        </div>
+
+        <!-- Quiz Content Section -->
+        <div id="quizContainer" class="hidden">
+            <!-- Topic Info -->
+            <div class="bg-white rounded-lg shadow-lg p-8 mb-6 fade-in">
+                <h2 id="topicTitle" class="text-3xl font-bold text-gray-800 mb-2"></h2>
+                <p id="topicInfo" class="text-gray-600"></p>
+            </div>
+
+            <!-- Questions Container -->
+            <div id="questionsContainer" class="space-y-6">
+                <!-- Questions will be dynamically inserted here -->
+            </div>
+
+            <!-- Reset Button -->
+            <div class="mt-8">
+                <button 
+                    id="resetBtn" 
+                    class="w-full bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-4 rounded-lg transition duration-200"
+                >
+                    Load Different Quiz
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let quizData = null;
+
+        // File input change event
+        document.getElementById('jsonFileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(event) {
+                    try {
+                        quizData = JSON.parse(event.target.result);
+                        document.getElementById('loadBtn').click();
+                    } catch (error) {
+                        showError('Invalid JSON file format. Please check your file.');
+                    }
+                };
+                reader.readAsText(file);
+            }
+        });
+
+        // Load button click event
+        document.getElementById('loadBtn').addEventListener('click', function() {
+            hideError();
+            
+            if (!quizData) {
+                showError('Please select a JSON file first.');
+                return;
+            }
+
+            if (!quizData.topic || !quizData.questions || !Array.isArray(quizData.questions)) {
+                showError('Invalid JSON format. Make sure your file contains "topic" and "questions" fields.');
+                return;
+            }
+
+            if (quizData.questions.length === 0) {
+                showError('No questions found in the JSON file.');
+                return;
+            }
+
+            displayQuiz();
+        });
+
+        // Reset button click event
+        document.getElementById('resetBtn').addEventListener('click', function() {
+            document.getElementById('uploadSection').classList.remove('hidden');
+            document.getElementById('quizContainer').classList.add('hidden');
+            document.getElementById('jsonFileInput').value = '';
+            quizData = null;
+            hideError();
+        });
+
+        function displayQuiz() {
+            // Update header
+            document.getElementById('topicTitle').textContent = quizData.topic;
+            document.getElementById('topicInfo').textContent = `Total Questions: ${quizData.total_questions || quizData.questions.length}`;
+
+            // Clear and populate questions
+            const container = document.getElementById('questionsContainer');
+            container.innerHTML = '';
+
+            quizData.questions.forEach((question, index) => {
+                const questionEl = createQuestionElement(question, index + 1);
+                container.appendChild(questionEl);
+            });
+
+            // Hide upload section and show quiz
+            document.getElementById('uploadSection').classList.add('hidden');
+            document.getElementById('quizContainer').classList.remove('hidden');
+        }
+
+        function createQuestionElement(question, questionNumber) {
+            const questionDiv = document.createElement('div');
+            questionDiv.className = 'bg-white rounded-lg shadow-lg p-8 fade-in';
+
+            // Question text with difficulty badge
+            const questionText = document.createElement('div');
+            questionText.className = 'mb-6';
+            let difficultyHTML = '';
+            if (question.difficulty) {
+                const difficultyColors = {
+                    easy: 'bg-green-100 text-green-800',
+                    medium: 'bg-yellow-100 text-yellow-800',
+                    hard: 'bg-red-100 text-red-800'
+                };
+                const colorClass = difficultyColors[question.difficulty.toLowerCase()] || 'bg-gray-100 text-gray-800';
+                difficultyHTML = `<span class="inline-block mt-2 px-3 py-1 ${colorClass} text-xs font-semibold rounded-full">
+                    ${question.difficulty.charAt(0).toUpperCase() + question.difficulty.slice(1)}
+                </span>`;
+            }
+            questionText.innerHTML = `
+                <div class="flex items-start gap-4">
+                    <span class="inline-block bg-blue-600 text-white font-bold w-8 h-8 rounded-full text-center pt-1 flex-shrink-0">
+                        ${questionNumber}
+                    </span>
+                    <div class="flex-1">
+                        <h3 class="text-xl font-bold text-gray-800">${question.question}</h3>
+                        ${difficultyHTML}
+                    </div>
+                </div>
+            `;
+            questionDiv.appendChild(questionText);
+
+            // Options
+            const optionsDiv = document.createElement('div');
+            optionsDiv.className = 'space-y-3 mb-4';
+
+            question.options.forEach((option, idx) => {
+                const button = document.createElement('button');
+                button.className = 'option-btn w-full text-left p-4 rounded-lg border-2 border-gray-300 hover:border-blue-400 hover:bg-blue-50 transition focus:outline-none focus:ring-2 focus:ring-blue-500 font-medium';
+                button.textContent = option;
+                button.dataset.questionId = question.id;
+                button.dataset.option = option;
+
+                button.addEventListener('click', function() {
+                    handleOptionSelect(question, option, button);
+                });
+
+                optionsDiv.appendChild(button);
+            });
+
+            questionDiv.appendChild(optionsDiv);
+
+            // Feedback container
+            const feedbackDiv = document.createElement('div');
+            feedbackDiv.id = `feedback-${question.id}`;
+            feedbackDiv.className = 'hidden mt-4 p-4 rounded-lg fade-in';
+            questionDiv.appendChild(feedbackDiv);
+
+            return questionDiv;
+        }
+
+        function handleOptionSelect(question, selectedOption, buttonElement) {
+            const feedbackDiv = document.getElementById(`feedback-${question.id}`);
+            const isCorrect = selectedOption === question.correct_answer;
+
+            // Disable all options for this question
+            document.querySelectorAll(`button[data-question-id="${question.id}"]`).forEach(btn => {
+                btn.disabled = true;
+            });
+
+            if (isCorrect) {
+                // Correct answer
+                buttonElement.classList.add('correct');
+                feedbackDiv.className = 'mt-4 p-4 rounded-lg bg-green-100 border-l-4 border-green-600 text-green-800 fade-in';
+                feedbackDiv.innerHTML = `
+                    <div class="font-bold text-lg mb-2">✓ Correct!</div>
+                    <p>${question.explanation}</p>
+                `;
+            } else {
+                // Wrong answer
+                buttonElement.classList.add('wrong');
+                feedbackDiv.className = 'mt-4 p-4 rounded-lg bg-red-100 border-l-4 border-red-600 text-red-800 fade-in';
+                feedbackDiv.innerHTML = `
+                    <div class="font-bold text-lg mb-3">✗ Incorrect</div>
+                    <p class="mb-3"><strong>Your Answer:</strong> ${selectedOption}</p>
+                    <p class="mb-3"><strong>Correct Answer:</strong> <span class="text-green-700 font-semibold">${question.correct_answer}</span></p>
+                    <p><strong>Explanation:</strong> ${question.explanation}</p>
+                `;
+
+                // Highlight correct answer in green
+                document.querySelectorAll(`button[data-question-id="${question.id}"]`).forEach(btn => {
+                    if (btn.dataset.option === question.correct_answer) {
+                        btn.classList.add('correct');
+                    }
+                });
+            }
+
+            feedbackDiv.classList.remove('hidden');
+        }
+
+        function showError(message) {
+            const errorDiv = document.getElementById('errorMessage');
+            document.getElementById('errorText').textContent = message;
+            errorDiv.classList.remove('hidden');
+        }
+
+        function hideError() {
+            document.getElementById('errorMessage').classList.add('hidden');
+        }
+    </script>
+</body>
+</html>

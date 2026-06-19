@@ -1,0 +1,396 @@
+{
+  "topic": "LDAP and Active Directory",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does LDAP stand for?",
+      "options": [
+        "Lightweight Directory Access Protocol",
+        "Local Directory Access Process",
+        "Light Directory Authentication Protocol",
+        "Linked Directory Access Platform"
+      ],
+      "correct_answer": "Lightweight Directory Access Protocol",
+      "explanation": "The correct answer is 'Lightweight Directory Access Protocol' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is LDAP primarily used for?",
+      "options": [
+        "Directory services and authentication",
+        "Video streaming",
+        "DNS replacement",
+        "File compression"
+      ],
+      "correct_answer": "Directory services and authentication",
+      "explanation": "The correct answer is 'Directory services and authentication' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is Active Directory (AD)?",
+      "options": [
+        "Microsoft's directory service",
+        "A firewall",
+        "A router",
+        "A hashing algorithm"
+      ],
+      "correct_answer": "Microsoft's directory service",
+      "explanation": "The correct answer is 'Microsoft's directory service' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which company developed Active Directory?",
+      "options": [
+        "Microsoft",
+        "Google",
+        "IBM",
+        "Oracle"
+      ],
+      "correct_answer": "Microsoft",
+      "explanation": "The correct answer is 'Microsoft' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "LDAP helps store information about?",
+      "options": [
+        "Users, groups, and resources",
+        "Only passwords",
+        "Only files",
+        "Only certificates"
+      ],
+      "correct_answer": "Users, groups, and resources",
+      "explanation": "The correct answer is 'Users, groups, and resources' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Active Directory is commonly used in?",
+      "options": [
+        "Windows environments",
+        "Printers only",
+        "Databases only",
+        "Routers only"
+      ],
+      "correct_answer": "Windows environments",
+      "explanation": "The correct answer is 'Windows environments' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is a directory service?",
+      "options": [
+        "A centralized repository for identity and resource information",
+        "A file compressor",
+        "A firewall",
+        "A routing service"
+      ],
+      "correct_answer": "A centralized repository for identity and resource information",
+      "explanation": "The correct answer is 'A centralized repository for identity and resource information' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "LDAP supports which security function?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is a user account in Active Directory?",
+      "options": [
+        "An identity object representing a user",
+        "A certificate",
+        "A DNS record",
+        "A router"
+      ],
+      "correct_answer": "An identity object representing a user",
+      "explanation": "The correct answer is 'An identity object representing a user' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Active Directory can centrally manage?",
+      "options": [
+        "Users and computers",
+        "Only printers",
+        "Only files",
+        "Only websites"
+      ],
+      "correct_answer": "Users and computers",
+      "explanation": "The correct answer is 'Users and computers' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a domain in Active Directory?",
+      "options": [
+        "A logical grouping of users, computers, and resources",
+        "A DNS server",
+        "A certificate",
+        "A firewall"
+      ],
+      "correct_answer": "A logical grouping of users, computers, and resources",
+      "explanation": "The correct answer is 'A logical grouping of users, computers, and resources' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Domain Controller (DC)?",
+      "options": [
+        "A server that manages authentication and directory services",
+        "A router",
+        "A switch",
+        "A proxy"
+      ],
+      "correct_answer": "A server that manages authentication and directory services",
+      "explanation": "The correct answer is 'A server that manages authentication and directory services' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which authentication protocol is commonly used by Active Directory?",
+      "options": [
+        "Kerberos",
+        "FTP",
+        "ARP",
+        "SMTP"
+      ],
+      "correct_answer": "Kerberos",
+      "explanation": "The correct answer is 'Kerberos' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is an Organizational Unit (OU)?",
+      "options": [
+        "A container used to organize objects in Active Directory",
+        "A certificate",
+        "A DNS zone",
+        "A firewall rule"
+      ],
+      "correct_answer": "A container used to organize objects in Active Directory",
+      "explanation": "The correct answer is 'A container used to organize objects in Active Directory' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are groups used in Active Directory?",
+      "options": [
+        "To simplify permission management",
+        "To compress data",
+        "To create certificates",
+        "To route traffic"
+      ],
+      "correct_answer": "To simplify permission management",
+      "explanation": "The correct answer is 'To simplify permission management' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is Group Policy?",
+      "options": [
+        "A mechanism to centrally manage settings and security policies",
+        "A hashing algorithm",
+        "A DNS service",
+        "A routing protocol"
+      ],
+      "correct_answer": "A mechanism to centrally manage settings and security policies",
+      "explanation": "The correct answer is 'A mechanism to centrally manage settings and security policies' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "LDAP queries are used to?",
+      "options": [
+        "Search and retrieve directory information",
+        "Encrypt files",
+        "Generate hashes",
+        "Issue certificates"
+      ],
+      "correct_answer": "Search and retrieve directory information",
+      "explanation": "The correct answer is 'Search and retrieve directory information' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is Single Sign-On in Active Directory?",
+      "options": [
+        "Accessing multiple services after one authentication",
+        "Using multiple passwords",
+        "Replacing authentication",
+        "Using only certificates"
+      ],
+      "correct_answer": "Accessing multiple services after one authentication",
+      "explanation": "The correct answer is 'Accessing multiple services after one authentication' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is centralized identity management important?",
+      "options": [
+        "It simplifies administration and security",
+        "It increases bandwidth",
+        "It replaces encryption",
+        "It compresses files"
+      ],
+      "correct_answer": "It simplifies administration and security",
+      "explanation": "The correct answer is 'It simplifies administration and security' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is a forest in Active Directory?",
+      "options": [
+        "A collection of one or more domains",
+        "A firewall cluster",
+        "A DNS cache",
+        "A certificate store"
+      ],
+      "correct_answer": "A collection of one or more domains",
+      "explanation": "The correct answer is 'A collection of one or more domains' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does Active Directory support enterprise security?",
+      "options": [
+        "By centralizing authentication, authorization, and policy management",
+        "By replacing encryption",
+        "By eliminating passwords",
+        "By removing firewalls"
+      ],
+      "correct_answer": "By centralizing authentication, authorization, and policy management",
+      "explanation": "The correct answer is 'By centralizing authentication, authorization, and policy management' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the relationship between LDAP and Active Directory?",
+      "options": [
+        "Active Directory uses LDAP as a directory access protocol",
+        "LDAP replaces Active Directory",
+        "They are unrelated",
+        "LDAP is a firewall"
+      ],
+      "correct_answer": "Active Directory uses LDAP as a directory access protocol",
+      "explanation": "The correct answer is 'Active Directory uses LDAP as a directory access protocol' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why is Kerberos preferred in Active Directory environments?",
+      "options": [
+        "It provides secure ticket-based authentication",
+        "It compresses data",
+        "It creates certificates",
+        "It manages DNS"
+      ],
+      "correct_answer": "It provides secure ticket-based authentication",
+      "explanation": "The correct answer is 'It provides secure ticket-based authentication' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What security risk can arise from excessive permissions in Active Directory?",
+      "options": [
+        "Privilege escalation and unauthorized access",
+        "DNS failure",
+        "Certificate expiration",
+        "Hash collisions"
+      ],
+      "correct_answer": "Privilege escalation and unauthorized access",
+      "explanation": "The correct answer is 'Privilege escalation and unauthorized access' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "How do Organizational Units improve administration?",
+      "options": [
+        "They allow delegation and structured management",
+        "They encrypt data",
+        "They replace groups",
+        "They manage DNS"
+      ],
+      "correct_answer": "They allow delegation and structured management",
+      "explanation": "The correct answer is 'They allow delegation and structured management' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why are Group Policies important for compliance?",
+      "options": [
+        "They enforce consistent security settings",
+        "They increase bandwidth",
+        "They replace authentication",
+        "They compress files"
+      ],
+      "correct_answer": "They enforce consistent security settings",
+      "explanation": "The correct answer is 'They enforce consistent security settings' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What attack often targets Active Directory credentials?",
+      "options": [
+        "Pass-the-Hash attack",
+        "DDoS attack",
+        "ARP spoofing",
+        "Replay attack"
+      ],
+      "correct_answer": "Pass-the-Hash attack",
+      "explanation": "The correct answer is 'Pass-the-Hash attack' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "How does Active Directory support Zero Trust initiatives?",
+      "options": [
+        "By providing identity-centric authentication and access controls",
+        "By removing identities",
+        "By eliminating MFA",
+        "By replacing authorization"
+      ],
+      "correct_answer": "By providing identity-centric authentication and access controls",
+      "explanation": "The correct answer is 'By providing identity-centric authentication and access controls' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the benefit of LDAP-based centralized directories?",
+      "options": [
+        "Consistent identity information across systems",
+        "Higher network speed",
+        "Smaller files",
+        "Reduced encryption"
+      ],
+      "correct_answer": "Consistent identity information across systems",
+      "explanation": "The correct answer is 'Consistent identity information across systems' because it best explains LDAP and Active Directory concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes LDAP and Active Directory today?",
+      "options": [
+        "Core enterprise technologies for centralized identity, authentication, and directory management",
+        "Hashing standards",
+        "PKI algorithms",
+        "Routing protocols"
+      ],
+      "correct_answer": "Core enterprise technologies for centralized identity, authentication, and directory management",
+      "explanation": "The correct answer is 'Core enterprise technologies for centralized identity, authentication, and directory management' because it best explains LDAP and Active Directory concepts."
+    }
+  ]
+}

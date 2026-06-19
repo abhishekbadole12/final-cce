@@ -1,0 +1,396 @@
+{
+  "topic": "OpenID Connect (OIDC) and OAuth 2.0",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is OAuth primarily used for?",
+      "options": [
+        "Authorization",
+        "Authentication",
+        "Encryption",
+        "Hashing"
+      ],
+      "correct_answer": "Authorization",
+      "explanation": "The correct answer is 'Authorization' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is OpenID Connect (OIDC) primarily used for?",
+      "options": [
+        "Authentication",
+        "Authorization",
+        "Compression",
+        "Routing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "OAuth allows users to?",
+      "options": [
+        "Grant limited access to resources without sharing passwords",
+        "Encrypt files",
+        "Generate certificates",
+        "Create hashes"
+      ],
+      "correct_answer": "Grant limited access to resources without sharing passwords",
+      "explanation": "The correct answer is 'Grant limited access to resources without sharing passwords' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "OpenID Connect is built on top of?",
+      "options": [
+        "OAuth 2.0",
+        "TLS",
+        "LDAP",
+        "SAML"
+      ],
+      "correct_answer": "OAuth 2.0",
+      "explanation": "The correct answer is 'OAuth 2.0' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which company popularized OAuth-style delegated access?",
+      "options": [
+        "Twitter",
+        "Oracle",
+        "IBM",
+        "Cisco"
+      ],
+      "correct_answer": "Twitter",
+      "explanation": "The correct answer is 'Twitter' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is a Resource Owner in OAuth?",
+      "options": [
+        "The user who owns the data",
+        "The authorization server",
+        "The application",
+        "The database"
+      ],
+      "correct_answer": "The user who owns the data",
+      "explanation": "The correct answer is 'The user who owns the data' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is an Access Token?",
+      "options": [
+        "A credential used to access protected resources",
+        "A password",
+        "A certificate",
+        "A hash value"
+      ],
+      "correct_answer": "A credential used to access protected resources",
+      "explanation": "The correct answer is 'A credential used to access protected resources' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "OAuth helps avoid sharing?",
+      "options": [
+        "User passwords with third-party apps",
+        "Certificates",
+        "DNS records",
+        "IP addresses"
+      ],
+      "correct_answer": "User passwords with third-party apps",
+      "explanation": "The correct answer is 'User passwords with third-party apps' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What does OIDC stand for?",
+      "options": [
+        "OpenID Connect",
+        "Open Identity Certificate",
+        "Open Internet Directory Connector",
+        "Online Identity Control"
+      ],
+      "correct_answer": "OpenID Connect",
+      "explanation": "The correct answer is 'OpenID Connect' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "OAuth is commonly used by?",
+      "options": [
+        "Web and mobile applications",
+        "Routers",
+        "Firewalls",
+        "Switches"
+      ],
+      "correct_answer": "Web and mobile applications",
+      "explanation": "The correct answer is 'Web and mobile applications' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which OAuth component issues access tokens?",
+      "options": [
+        "Authorization Server",
+        "Resource Server",
+        "Client",
+        "User"
+      ],
+      "correct_answer": "Authorization Server",
+      "explanation": "The correct answer is 'Authorization Server' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Resource Server?",
+      "options": [
+        "The server hosting protected resources",
+        "The login page",
+        "A browser",
+        "A firewall"
+      ],
+      "correct_answer": "The server hosting protected resources",
+      "explanation": "The correct answer is 'The server hosting protected resources' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is an OAuth Client?",
+      "options": [
+        "An application requesting access to resources",
+        "A certificate authority",
+        "A router",
+        "A DNS server"
+      ],
+      "correct_answer": "An application requesting access to resources",
+      "explanation": "The correct answer is 'An application requesting access to resources' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What does an authorization code represent?",
+      "options": [
+        "A temporary code exchanged for an access token",
+        "A password",
+        "A certificate",
+        "A hash"
+      ],
+      "correct_answer": "A temporary code exchanged for an access token",
+      "explanation": "The correct answer is 'A temporary code exchanged for an access token' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is the purpose of a refresh token?",
+      "options": [
+        "Obtain new access tokens without re-authentication",
+        "Encrypt data",
+        "Generate hashes",
+        "Create certificates"
+      ],
+      "correct_answer": "Obtain new access tokens without re-authentication",
+      "explanation": "The correct answer is 'Obtain new access tokens without re-authentication' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which OAuth flow is commonly recommended for web applications?",
+      "options": [
+        "Authorization Code Flow",
+        "Implicit Flow",
+        "Password Flow",
+        "Device Flow"
+      ],
+      "correct_answer": "Authorization Code Flow",
+      "explanation": "The correct answer is 'Authorization Code Flow' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What additional token does OpenID Connect introduce?",
+      "options": [
+        "ID Token",
+        "Session Token",
+        "Root Token",
+        "Server Token"
+      ],
+      "correct_answer": "ID Token",
+      "explanation": "The correct answer is 'ID Token' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is contained in an ID Token?",
+      "options": [
+        "Information about the authenticated user",
+        "DNS records",
+        "Certificates",
+        "Passwords"
+      ],
+      "correct_answer": "Information about the authenticated user",
+      "explanation": "The correct answer is 'Information about the authenticated user' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is OAuth not considered an authentication protocol?",
+      "options": [
+        "It focuses on authorization rather than proving identity",
+        "It encrypts data",
+        "It replaces passwords",
+        "It creates certificates"
+      ],
+      "correct_answer": "It focuses on authorization rather than proving identity",
+      "explanation": "The correct answer is 'It focuses on authorization rather than proving identity' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why is OpenID Connect used with OAuth?",
+      "options": [
+        "To add authentication capabilities",
+        "To replace access tokens",
+        "To generate hashes",
+        "To manage DNS"
+      ],
+      "correct_answer": "To add authentication capabilities",
+      "explanation": "The correct answer is 'To add authentication capabilities' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is delegated authorization?",
+      "options": [
+        "Allowing an application to access resources on behalf of a user",
+        "Sharing passwords",
+        "Granting root access",
+        "Replacing authentication"
+      ],
+      "correct_answer": "Allowing an application to access resources on behalf of a user",
+      "explanation": "The correct answer is 'Allowing an application to access resources on behalf of a user' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is OAuth considered more secure than sharing passwords with third-party apps?",
+      "options": [
+        "Applications receive tokens instead of user credentials",
+        "Passwords are encrypted",
+        "Certificates are removed",
+        "Tokens replace users"
+      ],
+      "correct_answer": "Applications receive tokens instead of user credentials",
+      "explanation": "The correct answer is 'Applications receive tokens instead of user credentials' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What security risk can occur if access tokens are stolen?",
+      "options": [
+        "Attackers may access protected resources",
+        "DNS fails",
+        "Certificates expire",
+        "Hashes collide"
+      ],
+      "correct_answer": "Attackers may access protected resources",
+      "explanation": "The correct answer is 'Attackers may access protected resources' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why are access tokens usually short-lived?",
+      "options": [
+        "To reduce risk if compromised",
+        "To increase storage",
+        "To improve routing",
+        "To create certificates"
+      ],
+      "correct_answer": "To reduce risk if compromised",
+      "explanation": "The correct answer is 'To reduce risk if compromised' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the purpose of scopes in OAuth?",
+      "options": [
+        "Limit permissions granted to applications",
+        "Generate passwords",
+        "Create certificates",
+        "Encrypt tokens"
+      ],
+      "correct_answer": "Limit permissions granted to applications",
+      "explanation": "The correct answer is 'Limit permissions granted to applications' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does OpenID Connect support Single Sign-On?",
+      "options": [
+        "It provides standardized user authentication and identity information",
+        "It replaces OAuth",
+        "It removes tokens",
+        "It encrypts DNS"
+      ],
+      "correct_answer": "It provides standardized user authentication and identity information",
+      "explanation": "The correct answer is 'It provides standardized user authentication and identity information' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which attack can target poorly implemented OAuth applications?",
+      "options": [
+        "Token theft",
+        "Disk fragmentation",
+        "ARP routing",
+        "Compression failure"
+      ],
+      "correct_answer": "Token theft",
+      "explanation": "The correct answer is 'Token theft' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why are refresh tokens often protected more carefully than access tokens?",
+      "options": [
+        "They can be used to obtain new access tokens",
+        "They are public",
+        "They replace passwords",
+        "They generate hashes"
+      ],
+      "correct_answer": "They can be used to obtain new access tokens",
+      "explanation": "The correct answer is 'They can be used to obtain new access tokens' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the relationship between OAuth and OpenID Connect?",
+      "options": [
+        "OAuth provides authorization; OpenID Connect adds authentication",
+        "They are identical",
+        "OIDC replaces OAuth",
+        "OAuth replaces PKI"
+      ],
+      "correct_answer": "OAuth provides authorization; OpenID Connect adds authentication",
+      "explanation": "The correct answer is 'OAuth provides authorization; OpenID Connect adds authentication' because it best explains OAuth and OpenID Connect concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes OAuth and OpenID Connect today?",
+      "options": [
+        "Widely used standards for delegated authorization and federated authentication",
+        "Encryption algorithms",
+        "Hashing standards",
+        "Network routing protocols"
+      ],
+      "correct_answer": "Widely used standards for delegated authorization and federated authentication",
+      "explanation": "The correct answer is 'Widely used standards for delegated authorization and federated authentication' because it best explains OAuth and OpenID Connect concepts."
+    }
+  ]
+}

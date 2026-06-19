@@ -1,0 +1,396 @@
+{
+  "topic": "File Encryption and Encrypted Folders",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is file encryption?",
+      "options": [
+        "Protecting files by converting them into unreadable form",
+        "Compressing files",
+        "Deleting files",
+        "Backing up files"
+      ],
+      "correct_answer": "Protecting files by converting them into unreadable form",
+      "explanation": "The correct answer is 'Protecting files by converting them into unreadable form' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of file encryption?",
+      "options": [
+        "Prevent unauthorized access",
+        "Increase storage",
+        "Speed up processing",
+        "Reduce RAM usage"
+      ],
+      "correct_answer": "Prevent unauthorized access",
+      "explanation": "The correct answer is 'Prevent unauthorized access' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which Windows feature provides file-level encryption?",
+      "options": [
+        "EFS",
+        "NTFS",
+        "FAT32",
+        "BitLocker To Go"
+      ],
+      "correct_answer": "EFS",
+      "explanation": "The correct answer is 'EFS' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "EFS stands for?",
+      "options": [
+        "Encrypting File System",
+        "Encrypted Folder Service",
+        "Electronic File Security",
+        "Encryption File Storage"
+      ],
+      "correct_answer": "Encrypting File System",
+      "explanation": "The correct answer is 'Encrypting File System' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which command-line utility is used to manage EFS?",
+      "options": [
+        "cipher",
+        "ipconfig",
+        "ping",
+        "netstat"
+      ],
+      "correct_answer": "cipher",
+      "explanation": "The correct answer is 'cipher' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Encrypted files are stored as?",
+      "options": [
+        "Ciphertext",
+        "Plaintext",
+        "Logs",
+        "Archives"
+      ],
+      "correct_answer": "Ciphertext",
+      "explanation": "The correct answer is 'Ciphertext' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Who can normally access an EFS-encrypted file?",
+      "options": [
+        "Authorized user with encryption certificate",
+        "Anyone on the computer",
+        "Guest users",
+        "Network users"
+      ],
+      "correct_answer": "Authorized user with encryption certificate",
+      "explanation": "The correct answer is 'Authorized user with encryption certificate' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What happens when a file is decrypted?",
+      "options": [
+        "Ciphertext becomes plaintext",
+        "File is deleted",
+        "File is compressed",
+        "Certificate is revoked"
+      ],
+      "correct_answer": "Ciphertext becomes plaintext",
+      "explanation": "The correct answer is 'Ciphertext becomes plaintext' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Encryption of a folder usually affects?",
+      "options": [
+        "Files created inside it",
+        "Only the folder name",
+        "Only subfolders",
+        "Nothing"
+      ],
+      "correct_answer": "Files created inside it",
+      "explanation": "The correct answer is 'Files created inside it' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which security goal is most directly supported by file encryption?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Performance",
+        "Redundancy"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What does the cipher /e command do?",
+      "options": [
+        "Encrypts files or folders",
+        "Deletes files",
+        "Exports certificates",
+        "Creates users"
+      ],
+      "correct_answer": "Encrypts files or folders",
+      "explanation": "The correct answer is 'Encrypts files or folders' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What does the cipher /d command do?",
+      "options": [
+        "Decrypts files or folders",
+        "Deletes files",
+        "Displays DNS",
+        "Downloads files"
+      ],
+      "correct_answer": "Decrypts files or folders",
+      "explanation": "The correct answer is 'Decrypts files or folders' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which key type is commonly used by EFS to protect file encryption keys?",
+      "options": [
+        "Public-key cryptography",
+        "One-time pad",
+        "Caesar cipher",
+        "Substitution cipher"
+      ],
+      "correct_answer": "Public-key cryptography",
+      "explanation": "The correct answer is 'Public-key cryptography' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is a Data Recovery Agent (DRA)?",
+      "options": [
+        "An account that can recover encrypted files",
+        "A backup server",
+        "A malware scanner",
+        "A firewall rule"
+      ],
+      "correct_answer": "An account that can recover encrypted files",
+      "explanation": "The correct answer is 'An account that can recover encrypted files' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why should EFS certificates be backed up?",
+      "options": [
+        "To prevent permanent loss of encrypted data",
+        "To improve performance",
+        "To compress files",
+        "To create hashes"
+      ],
+      "correct_answer": "To prevent permanent loss of encrypted data",
+      "explanation": "The correct answer is 'To prevent permanent loss of encrypted data' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What happens if an EFS private key is lost?",
+      "options": [
+        "Encrypted files may become inaccessible",
+        "Files become public",
+        "System reboots",
+        "Data is compressed"
+      ],
+      "correct_answer": "Encrypted files may become inaccessible",
+      "explanation": "The correct answer is 'Encrypted files may become inaccessible' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which Windows edition feature commonly uses EFS?",
+      "options": [
+        "NTFS-based file encryption",
+        "Firewall filtering",
+        "DHCP services",
+        "Remote desktop"
+      ],
+      "correct_answer": "NTFS-based file encryption",
+      "explanation": "The correct answer is 'NTFS-based file encryption' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Folder encryption helps organizations by?",
+      "options": [
+        "Protecting sensitive data at rest",
+        "Increasing internet speed",
+        "Reducing bandwidth",
+        "Creating backups"
+      ],
+      "correct_answer": "Protecting sensitive data at rest",
+      "explanation": "The correct answer is 'Protecting sensitive data at rest' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What does cipher /c primarily do?",
+      "options": [
+        "Displays encryption information",
+        "Creates certificates",
+        "Compresses files",
+        "Changes passwords"
+      ],
+      "correct_answer": "Displays encryption information",
+      "explanation": "The correct answer is 'Displays encryption information' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which is a benefit of file-level encryption over full-disk encryption?",
+      "options": [
+        "Selective protection of sensitive files",
+        "Faster internet",
+        "Lower RAM usage",
+        "Automatic backups"
+      ],
+      "correct_answer": "Selective protection of sensitive files",
+      "explanation": "The correct answer is 'Selective protection of sensitive files' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "EFS primarily protects against which threat?",
+      "options": [
+        "Unauthorized access to stored files",
+        "Network congestion",
+        "DDoS attacks",
+        "DNS spoofing"
+      ],
+      "correct_answer": "Unauthorized access to stored files",
+      "explanation": "The correct answer is 'Unauthorized access to stored files' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "A user copies an EFS-encrypted file to a FAT32 drive. What may occur?",
+      "options": [
+        "Encryption attributes may be lost",
+        "The file becomes hashed",
+        "The certificate is revoked",
+        "The file is deleted"
+      ],
+      "correct_answer": "Encryption attributes may be lost",
+      "explanation": "The correct answer is 'Encryption attributes may be lost' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which component is critical for decrypting an EFS file?",
+      "options": [
+        "User's private key",
+        "Public key only",
+        "Folder permissions only",
+        "File name"
+      ],
+      "correct_answer": "User's private key",
+      "explanation": "The correct answer is 'User's private key' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why is certificate backup a best practice in EFS deployments?",
+      "options": [
+        "Key loss can make data unrecoverable",
+        "It improves encryption speed",
+        "It creates hashes",
+        "It disables malware"
+      ],
+      "correct_answer": "Key loss can make data unrecoverable",
+      "explanation": "The correct answer is 'Key loss can make data unrecoverable' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What security principle is violated if encrypted files are readable without the private key?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Redundancy",
+        "Scalability"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does EFS typically protect the File Encryption Key (FEK)?",
+      "options": [
+        "By encrypting it with the user's public key",
+        "By hashing it",
+        "By storing it in plaintext",
+        "By emailing it"
+      ],
+      "correct_answer": "By encrypting it with the user's public key",
+      "explanation": "The correct answer is 'By encrypting it with the user's public key' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which attack is reduced by encrypting sensitive files on a stolen laptop?",
+      "options": [
+        "Offline data theft",
+        "DDoS",
+        "ARP poisoning",
+        "DNS tunneling"
+      ],
+      "correct_answer": "Offline data theft",
+      "explanation": "The correct answer is 'Offline data theft' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is the relationship between EFS and PKI?",
+      "options": [
+        "EFS relies on certificates and key pairs",
+        "They are unrelated",
+        "EFS replaces PKI",
+        "PKI requires no certificates"
+      ],
+      "correct_answer": "EFS relies on certificates and key pairs",
+      "explanation": "The correct answer is 'EFS relies on certificates and key pairs' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why might organizations deploy recovery agents for EFS?",
+      "options": [
+        "To ensure business access to encrypted data",
+        "To speed up networking",
+        "To manage DNS",
+        "To compress data"
+      ],
+      "correct_answer": "To ensure business access to encrypted data",
+      "explanation": "The correct answer is 'To ensure business access to encrypted data' because it best fits file encryption and EFS concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes encrypted folders?",
+      "options": [
+        "New files created inside typically inherit encryption",
+        "They only hide files",
+        "They compress files automatically",
+        "They revoke certificates"
+      ],
+      "correct_answer": "New files created inside typically inherit encryption",
+      "explanation": "The correct answer is 'New files created inside typically inherit encryption' because it best fits file encryption and EFS concepts."
+    }
+  ]
+}

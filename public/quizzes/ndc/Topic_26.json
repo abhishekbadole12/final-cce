@@ -1,0 +1,396 @@
+{
+  "topic": "DoS and DDoS Attacks",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does DoS stand for?",
+      "options": [
+        "Denial of Service",
+        "Data over Service",
+        "Distributed Security",
+        "Digital Service"
+      ],
+      "correct_answer": "Denial of Service",
+      "explanation": "The correct answer is 'Denial of Service'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What does DDoS stand for?",
+      "options": [
+        "Distributed Denial of Service",
+        "Digital Denial of Service",
+        "Distributed Data Service",
+        "Dynamic Denial of Service"
+      ],
+      "correct_answer": "Distributed Denial of Service",
+      "explanation": "The correct answer is 'Distributed Denial of Service'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the goal of a DoS attack?",
+      "options": [
+        "Make a service unavailable",
+        "Steal passwords",
+        "Encrypt files",
+        "Monitor traffic"
+      ],
+      "correct_answer": "Make a service unavailable",
+      "explanation": "The correct answer is 'Make a service unavailable'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "How many attacking systems are typically involved in a DoS attack?",
+      "options": [
+        "One",
+        "Hundreds",
+        "Thousands",
+        "Millions"
+      ],
+      "correct_answer": "One",
+      "explanation": "The correct answer is 'One'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "How many attacking systems are typically involved in a DDoS attack?",
+      "options": [
+        "Multiple systems",
+        "One system",
+        "No systems",
+        "One router"
+      ],
+      "correct_answer": "Multiple systems",
+      "explanation": "The correct answer is 'Multiple systems'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is a botnet?",
+      "options": [
+        "A network of compromised devices",
+        "A firewall",
+        "A VPN",
+        "A router"
+      ],
+      "correct_answer": "A network of compromised devices",
+      "explanation": "The correct answer is 'A network of compromised devices'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which attack floods a target with TCP SYN packets?",
+      "options": [
+        "SYN Flood",
+        "ICMP Flood",
+        "DNS Attack",
+        "ARP Attack"
+      ],
+      "correct_answer": "SYN Flood",
+      "explanation": "The correct answer is 'SYN Flood'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which attack floods a target with ICMP Echo Requests?",
+      "options": [
+        "ICMP Flood",
+        "SYN Flood",
+        "DNS Spoofing",
+        "ARP Poisoning"
+      ],
+      "correct_answer": "ICMP Flood",
+      "explanation": "The correct answer is 'ICMP Flood'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which attack floods a target with UDP packets?",
+      "options": [
+        "UDP Flood",
+        "SYN Flood",
+        "HTTPS Attack",
+        "SQL Injection"
+      ],
+      "correct_answer": "UDP Flood",
+      "explanation": "The correct answer is 'UDP Flood'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is the primary effect of a DDoS attack?",
+      "options": [
+        "Service disruption",
+        "Data encryption",
+        "Privilege escalation",
+        "Log deletion"
+      ],
+      "correct_answer": "Service disruption",
+      "explanation": "The correct answer is 'Service disruption'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a reflection attack?",
+      "options": [
+        "Attack using third-party servers to send traffic to a victim",
+        "Attack using VPNs",
+        "Attack using DNS caching",
+        "Attack using ARP"
+      ],
+      "correct_answer": "Attack using third-party servers to send traffic to a victim",
+      "explanation": "The correct answer is 'Attack using third-party servers to send traffic to a victim'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is amplification in DDoS attacks?",
+      "options": [
+        "Generating larger responses than requests",
+        "Encrypting traffic",
+        "Compressing packets",
+        "Reducing traffic"
+      ],
+      "correct_answer": "Generating larger responses than requests",
+      "explanation": "The correct answer is 'Generating larger responses than requests'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which protocol is commonly abused for amplification attacks?",
+      "options": [
+        "DNS",
+        "SSH",
+        "RDP",
+        "SMTP"
+      ],
+      "correct_answer": "DNS",
+      "explanation": "The correct answer is 'DNS'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is a SYN Flood targeting?",
+      "options": [
+        "TCP connection establishment",
+        "DNS resolution",
+        "Routing tables",
+        "VPN tunnels"
+      ],
+      "correct_answer": "TCP connection establishment",
+      "explanation": "The correct answer is 'TCP connection establishment'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is rate limiting?",
+      "options": [
+        "Restricting request frequency",
+        "Encrypting traffic",
+        "Blocking DNS",
+        "Compressing packets"
+      ],
+      "correct_answer": "Restricting request frequency",
+      "explanation": "The correct answer is 'Restricting request frequency'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why are botnets effective in DDoS attacks?",
+      "options": [
+        "They generate traffic from many sources",
+        "They encrypt traffic",
+        "They improve routing",
+        "They reduce logs"
+      ],
+      "correct_answer": "They generate traffic from many sources",
+      "explanation": "The correct answer is 'They generate traffic from many sources'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is an application-layer DDoS attack?",
+      "options": [
+        "Targets web applications and services",
+        "Targets cables",
+        "Targets printers",
+        "Targets storage"
+      ],
+      "correct_answer": "Targets web applications and services",
+      "explanation": "The correct answer is 'Targets web applications and services'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which HTTP-based attack targets web servers?",
+      "options": [
+        "HTTP Flood",
+        "ICMP Flood",
+        "ARP Flood",
+        "NTP Flood"
+      ],
+      "correct_answer": "HTTP Flood",
+      "explanation": "The correct answer is 'HTTP Flood'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is one sign of a DDoS attack?",
+      "options": [
+        "Sudden surge in traffic",
+        "Disk defragmentation",
+        "Printer activity",
+        "Monitor brightness"
+      ],
+      "correct_answer": "Sudden surge in traffic",
+      "explanation": "The correct answer is 'Sudden surge in traffic'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why is traffic monitoring important during attacks?",
+      "options": [
+        "Identify abnormal patterns",
+        "Increase storage",
+        "Improve graphics",
+        "Manage DNS"
+      ],
+      "correct_answer": "Identify abnormal patterns",
+      "explanation": "The correct answer is 'Identify abnormal patterns'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why are DDoS attacks harder to stop than DoS attacks?",
+      "options": [
+        "Traffic originates from many systems",
+        "Traffic is encrypted",
+        "They use only DNS",
+        "They require no network"
+      ],
+      "correct_answer": "Traffic originates from many systems",
+      "explanation": "The correct answer is 'Traffic originates from many systems'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "How can CDNs help mitigate DDoS attacks?",
+      "options": [
+        "Distribute and absorb traffic",
+        "Increase storage",
+        "Manage printers",
+        "Encrypt disks"
+      ],
+      "correct_answer": "Distribute and absorb traffic",
+      "explanation": "The correct answer is 'Distribute and absorb traffic'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What role do firewalls play in DDoS mitigation?",
+      "options": [
+        "Filter malicious traffic",
+        "Create backups",
+        "Manage users",
+        "Provide VPN access"
+      ],
+      "correct_answer": "Filter malicious traffic",
+      "explanation": "The correct answer is 'Filter malicious traffic'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How can IPS systems assist during DDoS attacks?",
+      "options": [
+        "Detect and block attack patterns",
+        "Increase bandwidth",
+        "Compress traffic",
+        "Disable logging"
+      ],
+      "correct_answer": "Detect and block attack patterns",
+      "explanation": "The correct answer is 'Detect and block attack patterns'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is a major risk of application-layer DDoS attacks?",
+      "options": [
+        "Legitimate-looking traffic can overwhelm services",
+        "They affect only routers",
+        "They improve performance",
+        "They reduce bandwidth"
+      ],
+      "correct_answer": "Legitimate-looking traffic can overwhelm services",
+      "explanation": "The correct answer is 'Legitimate-looking traffic can overwhelm services'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is incident response important during a DDoS attack?",
+      "options": [
+        "Restore service and coordinate mitigation",
+        "Increase storage",
+        "Manage DNS",
+        "Improve graphics"
+      ],
+      "correct_answer": "Restore service and coordinate mitigation",
+      "explanation": "The correct answer is 'Restore service and coordinate mitigation'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How does cloud-based DDoS protection help?",
+      "options": [
+        "Uses large-scale infrastructure to absorb attacks",
+        "Reduces encryption",
+        "Improves routing",
+        "Creates VPNs"
+      ],
+      "correct_answer": "Uses large-scale infrastructure to absorb attacks",
+      "explanation": "The correct answer is 'Uses large-scale infrastructure to absorb attacks'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is one challenge in distinguishing attack traffic from legitimate traffic?",
+      "options": [
+        "Attack traffic may mimic normal user behavior",
+        "Attack traffic is always obvious",
+        "Attack traffic has no IP addresses",
+        "Legitimate traffic never changes"
+      ],
+      "correct_answer": "Attack traffic may mimic normal user behavior",
+      "explanation": "The correct answer is 'Attack traffic may mimic normal user behavior'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "How does defense in depth help against DDoS attacks?",
+      "options": [
+        "Multiple controls reduce attack impact",
+        "Eliminates all attacks",
+        "Disables monitoring",
+        "Removes firewalls"
+      ],
+      "correct_answer": "Multiple controls reduce attack impact",
+      "explanation": "The correct answer is 'Multiple controls reduce attack impact'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes a DDoS attack?",
+      "options": [
+        "A coordinated attack using many systems to overwhelm a target and disrupt services",
+        "A single-user login attempt",
+        "A VPN configuration",
+        "A firewall policy"
+      ],
+      "correct_answer": "A coordinated attack using many systems to overwhelm a target and disrupt services",
+      "explanation": "The correct answer is 'A coordinated attack using many systems to overwhelm a target and disrupt services'. This concept belongs to DoS and DDoS Attacks and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    }
+  ]
+}

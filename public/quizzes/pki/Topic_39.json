@@ -1,0 +1,396 @@
+{
+  "topic": "Information Technology Act 2000",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the Information Technology Act, 2000 commonly known as?",
+      "options": [
+        "IT Act 2000",
+        "Cyber Act 1999",
+        "Digital India Act",
+        "Internet Security Act"
+      ],
+      "correct_answer": "IT Act 2000",
+      "explanation": "The correct answer is 'IT Act 2000' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "In which country was the IT Act 2000 enacted?",
+      "options": [
+        "India",
+        "USA",
+        "UK",
+        "Australia"
+      ],
+      "correct_answer": "India",
+      "explanation": "The correct answer is 'India' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of the IT Act 2000?",
+      "options": [
+        "Provide legal recognition to electronic transactions",
+        "Manage DNS",
+        "Regulate routing",
+        "Control databases"
+      ],
+      "correct_answer": "Provide legal recognition to electronic transactions",
+      "explanation": "The correct answer is 'Provide legal recognition to electronic transactions' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "The IT Act 2000 gives legal recognition to?",
+      "options": [
+        "Electronic records",
+        "Paper records only",
+        "Verbal contracts only",
+        "Passwords"
+      ],
+      "correct_answer": "Electronic records",
+      "explanation": "The correct answer is 'Electronic records' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "The IT Act 2000 recognizes which security mechanism?",
+      "options": [
+        "Digital Signatures",
+        "ARP",
+        "FTP",
+        "DNS"
+      ],
+      "correct_answer": "Digital Signatures",
+      "explanation": "The correct answer is 'Digital Signatures' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which Act supports e-commerce in India?",
+      "options": [
+        "IT Act 2000",
+        "Companies Act",
+        "Patent Act",
+        "Trade Act"
+      ],
+      "correct_answer": "IT Act 2000",
+      "explanation": "The correct answer is 'IT Act 2000' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Digital signatures under the IT Act are used for?",
+      "options": [
+        "Authentication and integrity",
+        "Compression",
+        "Routing",
+        "Caching"
+      ],
+      "correct_answer": "Authentication and integrity",
+      "explanation": "The correct answer is 'Authentication and integrity' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which authority regulates digital signature infrastructure in India?",
+      "options": [
+        "Controller of Certifying Authorities (CCA)",
+        "RBI",
+        "UIDAI",
+        "SEBI"
+      ],
+      "correct_answer": "Controller of Certifying Authorities (CCA)",
+      "explanation": "The correct answer is 'Controller of Certifying Authorities (CCA)' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "The IT Act promotes?",
+      "options": [
+        "Electronic governance (e-Governance)",
+        "Network routing",
+        "Disk encryption only",
+        "Video streaming"
+      ],
+      "correct_answer": "Electronic governance (e-Governance)",
+      "explanation": "The correct answer is 'Electronic governance (e-Governance)' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Electronic records are considered?",
+      "options": [
+        "Legally valid under the Act",
+        "Invalid",
+        "Temporary only",
+        "Unrecognized"
+      ],
+      "correct_answer": "Legally valid under the Act",
+      "explanation": "The correct answer is 'Legally valid under the Act' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Who licenses Certifying Authorities in India?",
+      "options": [
+        "Controller of Certifying Authorities (CCA)",
+        "UIDAI",
+        "NIST",
+        "RBI"
+      ],
+      "correct_answer": "Controller of Certifying Authorities (CCA)",
+      "explanation": "The correct answer is 'Controller of Certifying Authorities (CCA)' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a Certifying Authority (CA) under the IT Act?",
+      "options": [
+        "An entity authorized to issue Digital Signature Certificates",
+        "A firewall",
+        "A DNS server",
+        "A router"
+      ],
+      "correct_answer": "An entity authorized to issue Digital Signature Certificates",
+      "explanation": "The correct answer is 'An entity authorized to issue Digital Signature Certificates' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which chapter of the IT Act deals with Digital Signatures?",
+      "options": [
+        "Electronic Records and Digital Signatures",
+        "Cyber Terrorism",
+        "Intermediaries",
+        "Penalties"
+      ],
+      "correct_answer": "Electronic Records and Digital Signatures",
+      "explanation": "The correct answer is 'Electronic Records and Digital Signatures' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why are Digital Signature Certificates important?",
+      "options": [
+        "They establish trust and identity verification",
+        "They compress files",
+        "They manage DNS",
+        "They increase bandwidth"
+      ],
+      "correct_answer": "They establish trust and identity verification",
+      "explanation": "The correct answer is 'They establish trust and identity verification' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is cybercrime in the context of the IT Act?",
+      "options": [
+        "Illegal activities involving computers and networks",
+        "Database backups",
+        "Network optimization",
+        "File compression"
+      ],
+      "correct_answer": "Illegal activities involving computers and networks",
+      "explanation": "The correct answer is 'Illegal activities involving computers and networks' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "The IT Act includes provisions against?",
+      "options": [
+        "Unauthorized access and hacking",
+        "Video editing",
+        "File archiving",
+        "Load balancing"
+      ],
+      "correct_answer": "Unauthorized access and hacking",
+      "explanation": "The correct answer is 'Unauthorized access and hacking' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which concept introduced later complements digital signatures in India?",
+      "options": [
+        "e-Sign",
+        "ARP",
+        "FTP",
+        "SMTP"
+      ],
+      "correct_answer": "e-Sign",
+      "explanation": "The correct answer is 'e-Sign' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is e-Governance?",
+      "options": [
+        "Use of electronic systems for government services",
+        "Network routing",
+        "Printer management",
+        "Disk formatting"
+      ],
+      "correct_answer": "Use of electronic systems for government services",
+      "explanation": "The correct answer is 'Use of electronic systems for government services' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "The IT Act enables filing of documents electronically with?",
+      "options": [
+        "Government agencies",
+        "Routers",
+        "Switches",
+        "Printers"
+      ],
+      "correct_answer": "Government agencies",
+      "explanation": "The correct answer is 'Government agencies' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why is legal recognition of electronic records important?",
+      "options": [
+        "It supports digital transactions and communication",
+        "It increases storage",
+        "It replaces encryption",
+        "It manages DNS"
+      ],
+      "correct_answer": "It supports digital transactions and communication",
+      "explanation": "The correct answer is 'It supports digital transactions and communication' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is the IT Act significant for PKI in India?",
+      "options": [
+        "It provides the legal framework for digital signatures and certificates",
+        "It replaces PKI",
+        "It removes authentication",
+        "It manages routing"
+      ],
+      "correct_answer": "It provides the legal framework for digital signatures and certificates",
+      "explanation": "The correct answer is 'It provides the legal framework for digital signatures and certificates' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What role does the CCA play in trust establishment?",
+      "options": [
+        "It oversees Certifying Authorities and digital signature infrastructure",
+        "It encrypts all transactions",
+        "It manages DNS",
+        "It issues Aadhaar cards"
+      ],
+      "correct_answer": "It oversees Certifying Authorities and digital signature infrastructure",
+      "explanation": "The correct answer is 'It oversees Certifying Authorities and digital signature infrastructure' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does the IT Act support non-repudiation?",
+      "options": [
+        "By legally recognizing digital signatures",
+        "By replacing certificates",
+        "By removing authentication",
+        "By compressing records"
+      ],
+      "correct_answer": "By legally recognizing digital signatures",
+      "explanation": "The correct answer is 'By legally recognizing digital signatures' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which offense is specifically addressed by the IT Act?",
+      "options": [
+        "Unauthorized access to computer systems",
+        "File compression",
+        "Network cabling",
+        "Printer maintenance"
+      ],
+      "correct_answer": "Unauthorized access to computer systems",
+      "explanation": "The correct answer is 'Unauthorized access to computer systems' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why are Digital Signature Certificates legally important?",
+      "options": [
+        "They can be used as evidence of identity and intent",
+        "They increase bandwidth",
+        "They replace encryption",
+        "They manage routing"
+      ],
+      "correct_answer": "They can be used as evidence of identity and intent",
+      "explanation": "The correct answer is 'They can be used as evidence of identity and intent' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does the IT Act facilitate e-commerce?",
+      "options": [
+        "By recognizing electronic contracts and records",
+        "By eliminating authentication",
+        "By replacing PKI",
+        "By managing networks"
+      ],
+      "correct_answer": "By recognizing electronic contracts and records",
+      "explanation": "The correct answer is 'By recognizing electronic contracts and records' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is the relationship between e-Sign and the IT Act?",
+      "options": [
+        "e-Sign derives legal validity through the framework established by the IT Act",
+        "e-Sign replaces the Act",
+        "They are unrelated",
+        "The IT Act invalidates e-Sign"
+      ],
+      "correct_answer": "e-Sign derives legal validity through the framework established by the IT Act",
+      "explanation": "The correct answer is 'e-Sign derives legal validity through the framework established by the IT Act' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is digital evidence important under the IT Act?",
+      "options": [
+        "Electronic records may be used in legal and business processes",
+        "It compresses data",
+        "It creates certificates",
+        "It increases speed"
+      ],
+      "correct_answer": "Electronic records may be used in legal and business processes",
+      "explanation": "The correct answer is 'Electronic records may be used in legal and business processes' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "How does the IT Act contribute to cybersecurity?",
+      "options": [
+        "By defining offenses and legal remedies related to cyber activities",
+        "By replacing firewalls",
+        "By eliminating attacks",
+        "By creating encryption standards"
+      ],
+      "correct_answer": "By defining offenses and legal remedies related to cyber activities",
+      "explanation": "The correct answer is 'By defining offenses and legal remedies related to cyber activities' because it best explains the Information Technology Act 2000 and its role in digital security."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes the IT Act 2000?",
+      "options": [
+        "India's primary legal framework governing electronic records, digital signatures, and cyber-related activities",
+        "A hashing algorithm",
+        "A PKI standard",
+        "A routing protocol"
+      ],
+      "correct_answer": "India's primary legal framework governing electronic records, digital signatures, and cyber-related activities",
+      "explanation": "The correct answer is 'India's primary legal framework governing electronic records, digital signatures, and cyber-related activities' because it best explains the Information Technology Act 2000 and its role in digital security."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "topic": "TLS (Transport Layer Security)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does TLS stand for?",
+      "options": [
+        "Transport Layer Security",
+        "Transmission Layer Security",
+        "Trusted Layer Security",
+        "Transport Link Security"
+      ],
+      "correct_answer": "Transport Layer Security",
+      "explanation": "The correct answer is 'Transport Layer Security' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of TLS?",
+      "options": [
+        "Secure communication over a network",
+        "Compress files",
+        "Manage DNS",
+        "Route packets"
+      ],
+      "correct_answer": "Secure communication over a network",
+      "explanation": "The correct answer is 'Secure communication over a network' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "TLS is the successor to which protocol?",
+      "options": [
+        "SSL",
+        "FTP",
+        "ARP",
+        "SMTP"
+      ],
+      "correct_answer": "SSL",
+      "explanation": "The correct answer is 'SSL' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "TLS helps provide which three core security services?",
+      "options": [
+        "Confidentiality, Integrity, and Authentication",
+        "Compression, Routing, and Storage",
+        "Availability, Routing, and Caching",
+        "Hashing, Compression, and DNS"
+      ],
+      "correct_answer": "Confidentiality, Integrity, and Authentication",
+      "explanation": "The correct answer is 'Confidentiality, Integrity, and Authentication' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which protocol commonly uses TLS?",
+      "options": [
+        "HTTPS",
+        "ARP",
+        "ICMP",
+        "DHCP"
+      ],
+      "correct_answer": "HTTPS",
+      "explanation": "The correct answer is 'HTTPS' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "TLS protects data while it is?",
+      "options": [
+        "In transit",
+        "At rest only",
+        "In backups only",
+        "On removable media"
+      ],
+      "correct_answer": "In transit",
+      "explanation": "The correct answer is 'In transit' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What icon often indicates a TLS-secured website?",
+      "options": [
+        "Padlock icon",
+        "Printer icon",
+        "Folder icon",
+        "Refresh icon"
+      ],
+      "correct_answer": "Padlock icon",
+      "explanation": "The correct answer is 'Padlock icon' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which document is used to establish trust in TLS?",
+      "options": [
+        "Digital Certificate",
+        "Password File",
+        "DNS Record",
+        "Firewall Rule"
+      ],
+      "correct_answer": "Digital Certificate",
+      "explanation": "The correct answer is 'Digital Certificate' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "TLS uses certificates issued by a?",
+      "options": [
+        "Certificate Authority (CA)",
+        "Router",
+        "Firewall",
+        "Switch"
+      ],
+      "correct_answer": "Certificate Authority (CA)",
+      "explanation": "The correct answer is 'Certificate Authority (CA)' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "TLS is widely used for securing?",
+      "options": [
+        "Web traffic",
+        "Disk formatting",
+        "Video rendering",
+        "Printer setup"
+      ],
+      "correct_answer": "Web traffic",
+      "explanation": "The correct answer is 'Web traffic' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is a TLS handshake?",
+      "options": [
+        "The process of establishing a secure connection",
+        "A password reset",
+        "A certificate revocation",
+        "A DNS update"
+      ],
+      "correct_answer": "The process of establishing a secure connection",
+      "explanation": "The correct answer is 'The process of establishing a secure connection' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What happens during the TLS handshake?",
+      "options": [
+        "Security parameters and keys are negotiated",
+        "Files are compressed",
+        "Passwords are stored",
+        "Routes are exchanged"
+      ],
+      "correct_answer": "Security parameters and keys are negotiated",
+      "explanation": "The correct answer is 'Security parameters and keys are negotiated' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which cryptography is typically used during key exchange in TLS?",
+      "options": [
+        "Asymmetric cryptography",
+        "Steganography",
+        "Compression",
+        "Encoding"
+      ],
+      "correct_answer": "Asymmetric cryptography",
+      "explanation": "The correct answer is 'Asymmetric cryptography' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which cryptography is commonly used for bulk data encryption after the handshake?",
+      "options": [
+        "Symmetric cryptography",
+        "Asymmetric cryptography only",
+        "Steganography",
+        "Hashing only"
+      ],
+      "correct_answer": "Symmetric cryptography",
+      "explanation": "The correct answer is 'Symmetric cryptography' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why are certificates important in TLS?",
+      "options": [
+        "They authenticate identities",
+        "They compress traffic",
+        "They manage DNS",
+        "They increase bandwidth"
+      ],
+      "correct_answer": "They authenticate identities",
+      "explanation": "The correct answer is 'They authenticate identities' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is server authentication in TLS?",
+      "options": [
+        "Verifying the identity of the server",
+        "Verifying storage capacity",
+        "Verifying file permissions",
+        "Verifying bandwidth"
+      ],
+      "correct_answer": "Verifying the identity of the server",
+      "explanation": "The correct answer is 'Verifying the identity of the server' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is client authentication in TLS?",
+      "options": [
+        "The server verifies the client's identity",
+        "The client verifies DNS",
+        "The client creates certificates",
+        "The server compresses data"
+      ],
+      "correct_answer": "The server verifies the client's identity",
+      "explanation": "The correct answer is 'The server verifies the client's identity' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which TLS version is currently considered highly secure and widely recommended?",
+      "options": [
+        "TLS 1.3",
+        "SSL 3.0",
+        "TLS 1.0",
+        "SSL 2.0"
+      ],
+      "correct_answer": "TLS 1.3",
+      "explanation": "The correct answer is 'TLS 1.3' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why were older TLS versions deprecated?",
+      "options": [
+        "They contain known security weaknesses",
+        "They lack certificates",
+        "They cannot encrypt data",
+        "They do not support websites"
+      ],
+      "correct_answer": "They contain known security weaknesses",
+      "explanation": "The correct answer is 'They contain known security weaknesses' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is forward secrecy in TLS?",
+      "options": [
+        "Compromise of a long-term key does not expose past sessions",
+        "All traffic is public",
+        "Certificates never expire",
+        "Passwords are eliminated"
+      ],
+      "correct_answer": "Compromise of a long-term key does not expose past sessions",
+      "explanation": "The correct answer is 'Compromise of a long-term key does not expose past sessions' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why does TLS use both asymmetric and symmetric cryptography?",
+      "options": [
+        "Asymmetric cryptography establishes secure keys, while symmetric cryptography efficiently protects data",
+        "Both are used only for redundancy",
+        "Symmetric cryptography creates certificates",
+        "Asymmetric cryptography compresses traffic"
+      ],
+      "correct_answer": "Asymmetric cryptography establishes secure keys, while symmetric cryptography efficiently protects data",
+      "explanation": "The correct answer is 'Asymmetric cryptography establishes secure keys, while symmetric cryptography efficiently protects data' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What attack can occur if certificate validation is not performed correctly?",
+      "options": [
+        "Man-in-the-Middle (MITM) attack",
+        "DDoS attack",
+        "Replay attack",
+        "Brute-force attack"
+      ],
+      "correct_answer": "Man-in-the-Middle (MITM) attack",
+      "explanation": "The correct answer is 'Man-in-the-Middle (MITM) attack' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does TLS help maintain data integrity?",
+      "options": [
+        "By detecting unauthorized modification of transmitted data",
+        "By compressing data",
+        "By generating passwords",
+        "By replacing certificates"
+      ],
+      "correct_answer": "By detecting unauthorized modification of transmitted data",
+      "explanation": "The correct answer is 'By detecting unauthorized modification of transmitted data' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is the trust chain in TLS?",
+      "options": [
+        "A path of certificates leading to a trusted Root CA",
+        "A routing hierarchy",
+        "A DNS hierarchy",
+        "A firewall policy"
+      ],
+      "correct_answer": "A path of certificates leading to a trusted Root CA",
+      "explanation": "The correct answer is 'A path of certificates leading to a trusted Root CA' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is TLS 1.3 considered more secure than earlier versions?",
+      "options": [
+        "It removes insecure cryptographic options and improves handshake security",
+        "It uses larger websites",
+        "It replaces certificates",
+        "It disables encryption"
+      ],
+      "correct_answer": "It removes insecure cryptographic options and improves handshake security",
+      "explanation": "The correct answer is 'It removes insecure cryptographic options and improves handshake security' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What security benefit does forward secrecy provide?",
+      "options": [
+        "Past encrypted sessions remain protected even if long-term keys are compromised",
+        "Certificates never expire",
+        "Passwords cannot be stolen",
+        "Networks cannot be attacked"
+      ],
+      "correct_answer": "Past encrypted sessions remain protected even if long-term keys are compromised",
+      "explanation": "The correct answer is 'Past encrypted sessions remain protected even if long-term keys are compromised' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which protocol secures email transmission using TLS?",
+      "options": [
+        "SMTP with STARTTLS",
+        "ARP",
+        "FTP",
+        "ICMP"
+      ],
+      "correct_answer": "SMTP with STARTTLS",
+      "explanation": "The correct answer is 'SMTP with STARTTLS' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is certificate validation essential in TLS?",
+      "options": [
+        "To ensure communication is with the intended trusted party",
+        "To compress traffic",
+        "To manage DNS",
+        "To increase speed"
+      ],
+      "correct_answer": "To ensure communication is with the intended trusted party",
+      "explanation": "The correct answer is 'To ensure communication is with the intended trusted party' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which attack specifically targets encrypted traffic by impersonating a trusted endpoint?",
+      "options": [
+        "Man-in-the-Middle attack",
+        "Replay attack",
+        "DDoS attack",
+        "Dictionary attack"
+      ],
+      "correct_answer": "Man-in-the-Middle attack",
+      "explanation": "The correct answer is 'Man-in-the-Middle attack' because it best explains TLS concepts and secure communication."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes TLS today?",
+      "options": [
+        "The standard protocol for securing data in transit across modern networks and applications",
+        "A hashing algorithm",
+        "A PKI trust model",
+        "A routing protocol"
+      ],
+      "correct_answer": "The standard protocol for securing data in transit across modern networks and applications",
+      "explanation": "The correct answer is 'The standard protocol for securing data in transit across modern networks and applications' because it best explains TLS concepts and secure communication."
+    }
+  ]
+}

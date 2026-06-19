@@ -1,0 +1,396 @@
+{
+  "topic": "Zero Trust Architecture",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Zero Trust Architecture (ZTA)?",
+      "options": [
+        "A security model that assumes no user or device is trusted by default",
+        "A firewall technology",
+        "A password manager",
+        "A routing protocol"
+      ],
+      "correct_answer": "A security model that assumes no user or device is trusted by default",
+      "explanation": "The correct answer is 'A security model that assumes no user or device is trusted by default' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the core principle of Zero Trust?",
+      "options": [
+        "Never trust, always verify",
+        "Trust all internal users",
+        "Encrypt everything only",
+        "Use strong passwords only"
+      ],
+      "correct_answer": "Never trust, always verify",
+      "explanation": "The correct answer is 'Never trust, always verify' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Does Zero Trust automatically trust users inside a network?",
+      "options": [
+        "No",
+        "Yes",
+        "Only administrators",
+        "Only servers"
+      ],
+      "correct_answer": "No",
+      "explanation": "The correct answer is 'No' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is continuously verified in Zero Trust?",
+      "options": [
+        "Identity and access requests",
+        "Hard disk size",
+        "Internet speed",
+        "DNS records"
+      ],
+      "correct_answer": "Identity and access requests",
+      "explanation": "The correct answer is 'Identity and access requests' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which security concept is central to Zero Trust?",
+      "options": [
+        "Least Privilege",
+        "Open Access",
+        "Anonymous Access",
+        "Shared Accounts"
+      ],
+      "correct_answer": "Least Privilege",
+      "explanation": "The correct answer is 'Least Privilege' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Zero Trust focuses on protecting?",
+      "options": [
+        "Resources and data",
+        "Routers only",
+        "Printers only",
+        "DNS servers only"
+      ],
+      "correct_answer": "Resources and data",
+      "explanation": "The correct answer is 'Resources and data' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which factor is important in Zero Trust decisions?",
+      "options": [
+        "User identity",
+        "Monitor size",
+        "Storage capacity",
+        "CPU model"
+      ],
+      "correct_answer": "User identity",
+      "explanation": "The correct answer is 'User identity' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Zero Trust often uses which authentication method?",
+      "options": [
+        "Multi-Factor Authentication (MFA)",
+        "No authentication",
+        "Guest login",
+        "Shared passwords"
+      ],
+      "correct_answer": "Multi-Factor Authentication (MFA)",
+      "explanation": "The correct answer is 'Multi-Factor Authentication (MFA)' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What type of access is typically granted in Zero Trust?",
+      "options": [
+        "Minimum required access",
+        "Unlimited access",
+        "Anonymous access",
+        "Root access"
+      ],
+      "correct_answer": "Minimum required access",
+      "explanation": "The correct answer is 'Minimum required access' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Zero Trust is commonly associated with?",
+      "options": [
+        "Modern cybersecurity strategies",
+        "Video streaming",
+        "Disk management",
+        "Network cabling"
+      ],
+      "correct_answer": "Modern cybersecurity strategies",
+      "explanation": "The correct answer is 'Modern cybersecurity strategies' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why is Zero Trust important in cloud environments?",
+      "options": [
+        "Users and resources are distributed beyond traditional perimeters",
+        "Clouds do not use passwords",
+        "Encryption is unnecessary",
+        "Networks disappear"
+      ],
+      "correct_answer": "Users and resources are distributed beyond traditional perimeters",
+      "explanation": "The correct answer is 'Users and resources are distributed beyond traditional perimeters' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is micro-segmentation in Zero Trust?",
+      "options": [
+        "Dividing networks into smaller secure zones",
+        "Compressing network traffic",
+        "Encrypting passwords",
+        "Replacing firewalls"
+      ],
+      "correct_answer": "Dividing networks into smaller secure zones",
+      "explanation": "The correct answer is 'Dividing networks into smaller secure zones' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why is MFA commonly used in Zero Trust?",
+      "options": [
+        "To strengthen identity verification",
+        "To replace authorization",
+        "To remove passwords",
+        "To increase bandwidth"
+      ],
+      "correct_answer": "To strengthen identity verification",
+      "explanation": "The correct answer is 'To strengthen identity verification' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What does continuous verification mean?",
+      "options": [
+        "Access decisions are repeatedly evaluated",
+        "Passwords never expire",
+        "Networks are always online",
+        "Certificates are removed"
+      ],
+      "correct_answer": "Access decisions are repeatedly evaluated",
+      "explanation": "The correct answer is 'Access decisions are repeatedly evaluated' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which device characteristic may be evaluated in Zero Trust?",
+      "options": [
+        "Security posture",
+        "Screen size",
+        "Battery level only",
+        "Speaker volume"
+      ],
+      "correct_answer": "Security posture",
+      "explanation": "The correct answer is 'Security posture' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is device posture?",
+      "options": [
+        "The security condition of a device",
+        "Its physical position",
+        "Its IP address only",
+        "Its hostname only"
+      ],
+      "correct_answer": "The security condition of a device",
+      "explanation": "The correct answer is 'The security condition of a device' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Why is least privilege important in Zero Trust?",
+      "options": [
+        "It limits the impact of compromised accounts",
+        "It improves bandwidth",
+        "It replaces MFA",
+        "It creates certificates"
+      ],
+      "correct_answer": "It limits the impact of compromised accounts",
+      "explanation": "The correct answer is 'It limits the impact of compromised accounts' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which technology commonly supports Zero Trust access?",
+      "options": [
+        "Identity and Access Management (IAM)",
+        "Disk Defragmentation",
+        "ARP",
+        "FTP"
+      ],
+      "correct_answer": "Identity and Access Management (IAM)",
+      "explanation": "The correct answer is 'Identity and Access Management (IAM)' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is a major goal of Zero Trust?",
+      "options": [
+        "Reduce attack surface",
+        "Increase file size",
+        "Reduce encryption",
+        "Increase routing complexity"
+      ],
+      "correct_answer": "Reduce attack surface",
+      "explanation": "The correct answer is 'Reduce attack surface' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What type of network boundary does Zero Trust emphasize?",
+      "options": [
+        "Identity-based boundaries",
+        "Physical boundaries only",
+        "No boundaries",
+        "Cable boundaries"
+      ],
+      "correct_answer": "Identity-based boundaries",
+      "explanation": "The correct answer is 'Identity-based boundaries' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "How does Zero Trust differ from traditional perimeter security?",
+      "options": [
+        "Trust is not granted based solely on network location",
+        "It removes authentication",
+        "It replaces encryption",
+        "It eliminates firewalls"
+      ],
+      "correct_answer": "Trust is not granted based solely on network location",
+      "explanation": "The correct answer is 'Trust is not granted based solely on network location' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is continuous monitoring important in Zero Trust?",
+      "options": [
+        "User and device risk can change over time",
+        "Passwords must be recreated",
+        "Networks need compression",
+        "Certificates expire quickly"
+      ],
+      "correct_answer": "User and device risk can change over time",
+      "explanation": "The correct answer is 'User and device risk can change over time' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How does Zero Trust help mitigate lateral movement attacks?",
+      "options": [
+        "By restricting access and segmenting resources",
+        "By removing authentication",
+        "By increasing trust",
+        "By sharing credentials"
+      ],
+      "correct_answer": "By restricting access and segmenting resources",
+      "explanation": "The correct answer is 'By restricting access and segmenting resources' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is the role of contextual information in Zero Trust decisions?",
+      "options": [
+        "It helps evaluate risk before granting access",
+        "It replaces authentication",
+        "It encrypts data",
+        "It generates keys"
+      ],
+      "correct_answer": "It helps evaluate risk before granting access",
+      "explanation": "The correct answer is 'It helps evaluate risk before granting access' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Which attack type is specifically reduced through micro-segmentation?",
+      "options": [
+        "Lateral movement",
+        "DDoS",
+        "ARP spoofing",
+        "Packet fragmentation"
+      ],
+      "correct_answer": "Lateral movement",
+      "explanation": "The correct answer is 'Lateral movement' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why is identity considered the new perimeter in Zero Trust?",
+      "options": [
+        "Access decisions are based on verified identity rather than network location",
+        "Passwords replace networks",
+        "Firewalls disappear",
+        "Encryption becomes optional"
+      ],
+      "correct_answer": "Access decisions are based on verified identity rather than network location",
+      "explanation": "The correct answer is 'Access decisions are based on verified identity rather than network location' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "How does Zero Trust support compliance requirements?",
+      "options": [
+        "By enforcing strong access controls and auditing",
+        "By replacing logs",
+        "By disabling encryption",
+        "By removing identities"
+      ],
+      "correct_answer": "By enforcing strong access controls and auditing",
+      "explanation": "The correct answer is 'By enforcing strong access controls and auditing' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What risk remains even in a Zero Trust environment?",
+      "options": [
+        "Compromised credentials and insider threats still require monitoring",
+        "All risks disappear",
+        "Encryption fails",
+        "Networks become public"
+      ],
+      "correct_answer": "Compromised credentials and insider threats still require monitoring",
+      "explanation": "The correct answer is 'Compromised credentials and insider threats still require monitoring' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which framework is commonly aligned with Zero Trust principles?",
+      "options": [
+        "Identity-centric security",
+        "Anonymous access",
+        "Shared credential systems",
+        "Open networks"
+      ],
+      "correct_answer": "Identity-centric security",
+      "explanation": "The correct answer is 'Identity-centric security' because it best explains Zero Trust Architecture concepts and practices."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes Zero Trust Architecture today?",
+      "options": [
+        "A cybersecurity model that continuously verifies users, devices, and access requests based on risk and least privilege",
+        "A hashing algorithm",
+        "A certificate authority",
+        "A routing protocol"
+      ],
+      "correct_answer": "A cybersecurity model that continuously verifies users, devices, and access requests based on risk and least privilege",
+      "explanation": "The correct answer is 'A cybersecurity model that continuously verifies users, devices, and access requests based on risk and least privilege' because it best explains Zero Trust Architecture concepts and practices."
+    }
+  ]
+}

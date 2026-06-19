@@ -1,0 +1,396 @@
+{
+  "topic": "Certificate Revocation (CRL & OCSP)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is certificate revocation?",
+      "options": [
+        "Invalidating a certificate before its expiration date",
+        "Renewing a certificate",
+        "Creating a certificate",
+        "Encrypting a certificate"
+      ],
+      "correct_answer": "Invalidating a certificate before its expiration date",
+      "explanation": "The correct answer is 'Invalidating a certificate before its expiration date' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Why might a certificate be revoked?",
+      "options": [
+        "Private key compromise",
+        "Certificate renewal",
+        "Improved performance",
+        "Larger key size"
+      ],
+      "correct_answer": "Private key compromise",
+      "explanation": "The correct answer is 'Private key compromise' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which PKI component typically revokes certificates?",
+      "options": [
+        "Certificate Authority (CA)",
+        "Firewall",
+        "DNS Server",
+        "Router"
+      ],
+      "correct_answer": "Certificate Authority (CA)",
+      "explanation": "The correct answer is 'Certificate Authority (CA)' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What does CRL stand for?",
+      "options": [
+        "Certificate Revocation List",
+        "Certificate Registration List",
+        "Certified Revocation Log",
+        "Certificate Recovery List"
+      ],
+      "correct_answer": "Certificate Revocation List",
+      "explanation": "The correct answer is 'Certificate Revocation List' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is a CRL?",
+      "options": [
+        "A list of revoked certificates",
+        "A list of valid certificates",
+        "A list of users",
+        "A list of keys"
+      ],
+      "correct_answer": "A list of revoked certificates",
+      "explanation": "The correct answer is 'A list of revoked certificates' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does OCSP stand for?",
+      "options": [
+        "Online Certificate Status Protocol",
+        "Open Certificate Security Protocol",
+        "Online Certification Service Process",
+        "Operational Certificate Status Program"
+      ],
+      "correct_answer": "Online Certificate Status Protocol",
+      "explanation": "The correct answer is 'Online Certificate Status Protocol' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the purpose of OCSP?",
+      "options": [
+        "Check certificate status in real time",
+        "Generate certificates",
+        "Encrypt traffic",
+        "Store private keys"
+      ],
+      "correct_answer": "Check certificate status in real time",
+      "explanation": "The correct answer is 'Check certificate status in real time' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which certificate status indicates a certificate should not be trusted?",
+      "options": [
+        "Revoked",
+        "Valid",
+        "Issued",
+        "Pending"
+      ],
+      "correct_answer": "Revoked",
+      "explanation": "The correct answer is 'Revoked' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Revocation primarily supports which security goal?",
+      "options": [
+        "Trust",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Trust",
+      "explanation": "The correct answer is 'Trust' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which mechanism is generally more real-time?",
+      "options": [
+        "OCSP",
+        "CRL",
+        "DNS",
+        "ARP"
+      ],
+      "correct_answer": "OCSP",
+      "explanation": "The correct answer is 'OCSP' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What information is typically stored in a CRL?",
+      "options": [
+        "Serial numbers of revoked certificates",
+        "Private keys",
+        "Passwords",
+        "DNS records"
+      ],
+      "correct_answer": "Serial numbers of revoked certificates",
+      "explanation": "The correct answer is 'Serial numbers of revoked certificates' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why are CRLs periodically updated?",
+      "options": [
+        "To include newly revoked certificates",
+        "To create new certificates",
+        "To change key sizes",
+        "To update browsers"
+      ],
+      "correct_answer": "To include newly revoked certificates",
+      "explanation": "The correct answer is 'To include newly revoked certificates' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is a limitation of CRLs?",
+      "options": [
+        "They may become large and outdated between updates",
+        "They require no storage",
+        "They are always real-time",
+        "They replace certificates"
+      ],
+      "correct_answer": "They may become large and outdated between updates",
+      "explanation": "The correct answer is 'They may become large and outdated between updates' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "How does OCSP improve upon CRLs?",
+      "options": [
+        "Provides near real-time certificate status checking",
+        "Creates certificates faster",
+        "Encrypts certificates",
+        "Generates hashes"
+      ],
+      "correct_answer": "Provides near real-time certificate status checking",
+      "explanation": "The correct answer is 'Provides near real-time certificate status checking' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is an OCSP responder?",
+      "options": [
+        "A server that provides certificate status information",
+        "A Root CA",
+        "A DNS server",
+        "A firewall"
+      ],
+      "correct_answer": "A server that provides certificate status information",
+      "explanation": "The correct answer is 'A server that provides certificate status information' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What does an OCSP response of 'good' indicate?",
+      "options": [
+        "The certificate is not known to be revoked",
+        "The certificate is expired",
+        "The certificate is self-signed",
+        "The certificate is encrypted"
+      ],
+      "correct_answer": "The certificate is not known to be revoked",
+      "explanation": "The correct answer is 'The certificate is not known to be revoked' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What does an OCSP response of 'revoked' indicate?",
+      "options": [
+        "The certificate should not be trusted",
+        "The certificate is valid",
+        "The certificate is renewed",
+        "The certificate is stronger"
+      ],
+      "correct_answer": "The certificate should not be trusted",
+      "explanation": "The correct answer is 'The certificate should not be trusted' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which event commonly triggers certificate revocation?",
+      "options": [
+        "Private key compromise",
+        "Certificate installation",
+        "Hash generation",
+        "DNS update"
+      ],
+      "correct_answer": "Private key compromise",
+      "explanation": "The correct answer is 'Private key compromise' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Why is certificate revocation important in TLS?",
+      "options": [
+        "It prevents trust in compromised certificates",
+        "It speeds up encryption",
+        "It replaces certificates",
+        "It manages routing"
+      ],
+      "correct_answer": "It prevents trust in compromised certificates",
+      "explanation": "The correct answer is 'It prevents trust in compromised certificates' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is OCSP stapling?",
+      "options": [
+        "A technique where the server provides a recent OCSP response",
+        "Certificate renewal",
+        "Certificate chaining",
+        "Key escrow"
+      ],
+      "correct_answer": "A technique where the server provides a recent OCSP response",
+      "explanation": "The correct answer is 'A technique where the server provides a recent OCSP response' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What risk exists if certificate revocation checks are ignored?",
+      "options": [
+        "Compromised certificates may still be trusted",
+        "Encryption becomes faster",
+        "Certificates expire later",
+        "Keys become stronger"
+      ],
+      "correct_answer": "Compromised certificates may still be trusted",
+      "explanation": "The correct answer is 'Compromised certificates may still be trusted' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is OCSP often preferred over CRLs for large-scale deployments?",
+      "options": [
+        "It reduces bandwidth and provides fresher status information",
+        "It replaces PKI",
+        "It creates certificates",
+        "It stores private keys"
+      ],
+      "correct_answer": "It reduces bandwidth and provides fresher status information",
+      "explanation": "The correct answer is 'It reduces bandwidth and provides fresher status information' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is a major privacy concern with OCSP?",
+      "options": [
+        "The responder can learn which sites a user visits",
+        "It reveals private keys",
+        "It breaks TLS",
+        "It stores passwords"
+      ],
+      "correct_answer": "The responder can learn which sites a user visits",
+      "explanation": "The correct answer is 'The responder can learn which sites a user visits' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How does OCSP stapling help address privacy concerns?",
+      "options": [
+        "The browser no longer needs to directly contact the OCSP responder",
+        "It hides certificates",
+        "It replaces TLS",
+        "It encrypts OCSP"
+      ],
+      "correct_answer": "The browser no longer needs to directly contact the OCSP responder",
+      "explanation": "The correct answer is 'The browser no longer needs to directly contact the OCSP responder' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What happens if a CA fails to revoke a compromised certificate?",
+      "options": [
+        "Attackers may continue to impersonate the certificate owner",
+        "AES becomes insecure",
+        "DNS fails",
+        "Hashes collide"
+      ],
+      "correct_answer": "Attackers may continue to impersonate the certificate owner",
+      "explanation": "The correct answer is 'Attackers may continue to impersonate the certificate owner' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Why are revocation mechanisms essential to PKI trust?",
+      "options": [
+        "They allow trust decisions to adapt after certificate issuance",
+        "They replace encryption",
+        "They generate keys",
+        "They compress certificates"
+      ],
+      "correct_answer": "They allow trust decisions to adapt after certificate issuance",
+      "explanation": "The correct answer is 'They allow trust decisions to adapt after certificate issuance' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is the relationship between certificate expiration and revocation?",
+      "options": [
+        "Expiration is automatic; revocation is an early invalidation",
+        "They are identical",
+        "Revocation renews certificates",
+        "Expiration creates CRLs"
+      ],
+      "correct_answer": "Expiration is automatic; revocation is an early invalidation",
+      "explanation": "The correct answer is 'Expiration is automatic; revocation is an early invalidation' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What attack can be mitigated by effective certificate revocation?",
+      "options": [
+        "Impersonation using compromised certificates",
+        "DDoS",
+        "Replay attacks",
+        "Packet fragmentation"
+      ],
+      "correct_answer": "Impersonation using compromised certificates",
+      "explanation": "The correct answer is 'Impersonation using compromised certificates' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why is timely revocation critical after private key compromise?",
+      "options": [
+        "To quickly remove trust in the affected certificate",
+        "To improve performance",
+        "To create a new Root CA",
+        "To increase key size"
+      ],
+      "correct_answer": "To quickly remove trust in the affected certificate",
+      "explanation": "The correct answer is 'To quickly remove trust in the affected certificate' because it best explains certificate revocation, CRL, and OCSP concepts."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes CRL and OCSP today?",
+      "options": [
+        "Core PKI mechanisms for determining certificate validity and trust status",
+        "Encryption algorithms",
+        "Hashing standards",
+        "Network routing protocols"
+      ],
+      "correct_answer": "Core PKI mechanisms for determining certificate validity and trust status",
+      "explanation": "The correct answer is 'Core PKI mechanisms for determining certificate validity and trust status' because it best explains certificate revocation, CRL, and OCSP concepts."
+    }
+  ]
+}

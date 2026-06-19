@@ -1,0 +1,396 @@
+{
+  "topic": "PKCS (Public Key Cryptography Standards)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does PKCS stand for?",
+      "options": [
+        "Public Key Cryptography Standards",
+        "Private Key Cryptography Standards",
+        "Public Key Certificate System",
+        "Protected Key Communication Standards"
+      ],
+      "correct_answer": "Public Key Cryptography Standards",
+      "explanation": "The correct answer is 'Public Key Cryptography Standards' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who developed the PKCS standards?",
+      "options": [
+        "RSA Laboratories",
+        "NIST",
+        "Microsoft",
+        "IETF"
+      ],
+      "correct_answer": "RSA Laboratories",
+      "explanation": "The correct answer is 'RSA Laboratories' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the main purpose of PKCS?",
+      "options": [
+        "Standardize public-key cryptography implementations",
+        "Encrypt all internet traffic",
+        "Replace certificates",
+        "Manage DNS"
+      ],
+      "correct_answer": "Standardize public-key cryptography implementations",
+      "explanation": "The correct answer is 'Standardize public-key cryptography implementations' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which PKCS standard defines RSA cryptography?",
+      "options": [
+        "PKCS #1",
+        "PKCS #7",
+        "PKCS #10",
+        "PKCS #12"
+      ],
+      "correct_answer": "PKCS #1",
+      "explanation": "The correct answer is 'PKCS #1' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which PKCS standard defines Certificate Signing Requests (CSR)?",
+      "options": [
+        "PKCS #10",
+        "PKCS #1",
+        "PKCS #7",
+        "PKCS #12"
+      ],
+      "correct_answer": "PKCS #10",
+      "explanation": "The correct answer is 'PKCS #10' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which PKCS standard is commonly used to store certificates and private keys?",
+      "options": [
+        "PKCS #12",
+        "PKCS #1",
+        "PKCS #5",
+        "PKCS #10"
+      ],
+      "correct_answer": "PKCS #12",
+      "explanation": "The correct answer is 'PKCS #12' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What file extension is commonly associated with PKCS #12?",
+      "options": [
+        ".p12 or .pfx",
+        ".csr",
+        ".crt",
+        ".pem"
+      ],
+      "correct_answer": ".p12 or .pfx",
+      "explanation": "The correct answer is '.p12 or .pfx' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "PKCS standards are widely used in?",
+      "options": [
+        "PKI systems",
+        "Video streaming",
+        "Disk formatting",
+        "Routing protocols"
+      ],
+      "correct_answer": "PKI systems",
+      "explanation": "The correct answer is 'PKI systems' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which PKCS standard is related to password-based cryptography?",
+      "options": [
+        "PKCS #5",
+        "PKCS #1",
+        "PKCS #8",
+        "PKCS #10"
+      ],
+      "correct_answer": "PKCS #5",
+      "explanation": "The correct answer is 'PKCS #5' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "PKCS supports interoperability between?",
+      "options": [
+        "Different cryptographic applications",
+        "Different hard drives",
+        "Different routers",
+        "Different operating systems only"
+      ],
+      "correct_answer": "Different cryptographic applications",
+      "explanation": "The correct answer is 'Different cryptographic applications' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the purpose of PKCS #7?",
+      "options": [
+        "Cryptographic message syntax and signed data formats",
+        "Password storage",
+        "Key generation",
+        "Certificate revocation"
+      ],
+      "correct_answer": "Cryptographic message syntax and signed data formats",
+      "explanation": "The correct answer is 'Cryptographic message syntax and signed data formats' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which PKCS standard defines private-key information syntax?",
+      "options": [
+        "PKCS #8",
+        "PKCS #1",
+        "PKCS #5",
+        "PKCS #12"
+      ],
+      "correct_answer": "PKCS #8",
+      "explanation": "The correct answer is 'PKCS #8' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why is PKCS #12 important?",
+      "options": [
+        "It securely packages certificates and private keys",
+        "It generates hashes",
+        "It creates DNS records",
+        "It revokes certificates"
+      ],
+      "correct_answer": "It securely packages certificates and private keys",
+      "explanation": "The correct answer is 'It securely packages certificates and private keys' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is commonly contained within a PKCS #12 file?",
+      "options": [
+        "Certificates and private keys",
+        "Only hashes",
+        "Only passwords",
+        "Only public keys"
+      ],
+      "correct_answer": "Certificates and private keys",
+      "explanation": "The correct answer is 'Certificates and private keys' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which PKCS standard is most relevant when creating a CSR?",
+      "options": [
+        "PKCS #10",
+        "PKCS #7",
+        "PKCS #5",
+        "PKCS #12"
+      ],
+      "correct_answer": "PKCS #10",
+      "explanation": "The correct answer is 'PKCS #10' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Why are PKCS standards important in PKI?",
+      "options": [
+        "They provide common formats and interoperability",
+        "They replace certificates",
+        "They create Root CAs",
+        "They manage DNS"
+      ],
+      "correct_answer": "They provide common formats and interoperability",
+      "explanation": "The correct answer is 'They provide common formats and interoperability' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is PKCS #1 primarily associated with?",
+      "options": [
+        "RSA encryption and signatures",
+        "AES encryption",
+        "Hashing",
+        "Certificate revocation"
+      ],
+      "correct_answer": "RSA encryption and signatures",
+      "explanation": "The correct answer is 'RSA encryption and signatures' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which technology frequently uses PKCS #7/CMS?",
+      "options": [
+        "Digital signatures and secure email",
+        "Routing protocols",
+        "Disk encryption only",
+        "DNS services"
+      ],
+      "correct_answer": "Digital signatures and secure email",
+      "explanation": "The correct answer is 'Digital signatures and secure email' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is CMS?",
+      "options": [
+        "Cryptographic Message Syntax",
+        "Certificate Management Service",
+        "Central Messaging System",
+        "Cryptographic Mapping Service"
+      ],
+      "correct_answer": "Cryptographic Message Syntax",
+      "explanation": "The correct answer is 'Cryptographic Message Syntax' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why might administrators export certificates as .pfx files?",
+      "options": [
+        "To transfer certificates along with private keys",
+        "To create CRLs",
+        "To generate hashes",
+        "To compress files"
+      ],
+      "correct_answer": "To transfer certificates along with private keys",
+      "explanation": "The correct answer is 'To transfer certificates along with private keys' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the relationship between PKCS #7 and CMS?",
+      "options": [
+        "CMS evolved from PKCS #7",
+        "They are unrelated",
+        "PKCS #7 replaced CMS",
+        "CMS replaced PKI"
+      ],
+      "correct_answer": "CMS evolved from PKCS #7",
+      "explanation": "The correct answer is 'CMS evolved from PKCS #7' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is PKCS #8 important for secure key management?",
+      "options": [
+        "It standardizes private key storage formats",
+        "It replaces encryption",
+        "It generates certificates",
+        "It performs revocation"
+      ],
+      "correct_answer": "It standardizes private key storage formats",
+      "explanation": "The correct answer is 'It standardizes private key storage formats' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What security risk exists if a PKCS #12 file is improperly protected?",
+      "options": [
+        "Private keys may be exposed",
+        "Certificates expire faster",
+        "DNS fails",
+        "Hashes collide"
+      ],
+      "correct_answer": "Private keys may be exposed",
+      "explanation": "The correct answer is 'Private keys may be exposed' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "How do PKCS standards contribute to interoperability?",
+      "options": [
+        "They define common formats and procedures across platforms",
+        "They replace cryptography",
+        "They eliminate certificates",
+        "They manage networks"
+      ],
+      "correct_answer": "They define common formats and procedures across platforms",
+      "explanation": "The correct answer is 'They define common formats and procedures across platforms' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why is PKCS #5 often associated with password-based encryption?",
+      "options": [
+        "It defines mechanisms for deriving cryptographic keys from passwords",
+        "It replaces hashing",
+        "It creates certificates",
+        "It manages OCSP"
+      ],
+      "correct_answer": "It defines mechanisms for deriving cryptographic keys from passwords",
+      "explanation": "The correct answer is 'It defines mechanisms for deriving cryptographic keys from passwords' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which PKCS standard is most directly involved in transporting private keys?",
+      "options": [
+        "PKCS #8",
+        "PKCS #7",
+        "PKCS #10",
+        "PKCS #1"
+      ],
+      "correct_answer": "PKCS #8",
+      "explanation": "The correct answer is 'PKCS #8' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why are PKCS standards critical in enterprise PKI deployments?",
+      "options": [
+        "They enable consistent handling of keys, certificates, and requests",
+        "They replace trust models",
+        "They remove authentication",
+        "They eliminate CAs"
+      ],
+      "correct_answer": "They enable consistent handling of keys, certificates, and requests",
+      "explanation": "The correct answer is 'They enable consistent handling of keys, certificates, and requests' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What attack risk increases when exported PKCS #12 files are weakly password-protected?",
+      "options": [
+        "Credential and key theft",
+        "DDoS",
+        "ARP spoofing",
+        "Replay attacks"
+      ],
+      "correct_answer": "Credential and key theft",
+      "explanation": "The correct answer is 'Credential and key theft' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which PKCS standard is most commonly encountered when generating a CSR for a website certificate?",
+      "options": [
+        "PKCS #10",
+        "PKCS #12",
+        "PKCS #5",
+        "PKCS #8"
+      ],
+      "correct_answer": "PKCS #10",
+      "explanation": "The correct answer is 'PKCS #10' because it best explains PKCS standards and their usage in PKI."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes PKCS standards?",
+      "options": [
+        "A collection of standards that define formats and mechanisms for public-key cryptography and PKI",
+        "A single encryption algorithm",
+        "A hashing standard",
+        "A network protocol suite"
+      ],
+      "correct_answer": "A collection of standards that define formats and mechanisms for public-key cryptography and PKI",
+      "explanation": "The correct answer is 'A collection of standards that define formats and mechanisms for public-key cryptography and PKI' because it best explains PKCS standards and their usage in PKI."
+    }
+  ]
+}

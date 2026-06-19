@@ -1,0 +1,396 @@
+{
+  "topic": "Certificate Authority (CA)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does CA stand for in PKI?",
+      "options": [
+        "Certificate Authority",
+        "Certification Access",
+        "Certificate Access",
+        "Certified Authentication"
+      ],
+      "correct_answer": "Certificate Authority",
+      "explanation": "The correct answer is 'Certificate Authority' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary role of a CA?",
+      "options": [
+        "Issue digital certificates",
+        "Encrypt all network traffic",
+        "Store passwords",
+        "Manage routers"
+      ],
+      "correct_answer": "Issue digital certificates",
+      "explanation": "The correct answer is 'Issue digital certificates' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "A CA helps establish?",
+      "options": [
+        "Trust",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Trust",
+      "explanation": "The correct answer is 'Trust' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What does a CA verify before issuing a certificate?",
+      "options": [
+        "Identity of the applicant",
+        "Internet speed",
+        "Storage capacity",
+        "Network bandwidth"
+      ],
+      "correct_answer": "Identity of the applicant",
+      "explanation": "The correct answer is 'Identity of the applicant' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which key does a CA use to sign certificates?",
+      "options": [
+        "Its private key",
+        "Its public key",
+        "A session key",
+        "A shared key"
+      ],
+      "correct_answer": "Its private key",
+      "explanation": "The correct answer is 'Its private key' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Who verifies a CA-signed certificate?",
+      "options": [
+        "Anyone with the CA's public key",
+        "Only the CA",
+        "Only the certificate owner",
+        "Only browsers"
+      ],
+      "correct_answer": "Anyone with the CA's public key",
+      "explanation": "The correct answer is 'Anyone with the CA's public key' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which type of CA sits at the top of a PKI hierarchy?",
+      "options": [
+        "Root CA",
+        "Intermediate CA",
+        "Subordinate CA",
+        "Registration Authority"
+      ],
+      "correct_answer": "Root CA",
+      "explanation": "The correct answer is 'Root CA' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is a subordinate CA?",
+      "options": [
+        "A CA certified by another CA",
+        "A browser",
+        "A firewall",
+        "A DNS server"
+      ],
+      "correct_answer": "A CA certified by another CA",
+      "explanation": "The correct answer is 'A CA certified by another CA' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which security service is most associated with a CA?",
+      "options": [
+        "Authentication",
+        "Compression",
+        "Caching",
+        "Load balancing"
+      ],
+      "correct_answer": "Authentication",
+      "explanation": "The correct answer is 'Authentication' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "CA-issued certificates are commonly used in?",
+      "options": [
+        "HTTPS websites",
+        "Video editing",
+        "Disk partitioning",
+        "Network routing"
+      ],
+      "correct_answer": "HTTPS websites",
+      "explanation": "The correct answer is 'HTTPS websites' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why are Root CAs highly protected?",
+      "options": [
+        "Compromise could undermine trust in many certificates",
+        "They store passwords",
+        "They encrypt all internet traffic",
+        "They replace firewalls"
+      ],
+      "correct_answer": "Compromise could undermine trust in many certificates",
+      "explanation": "The correct answer is 'Compromise could undermine trust in many certificates' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is the role of an Intermediate CA?",
+      "options": [
+        "Issue certificates on behalf of the Root CA",
+        "Replace the Root CA",
+        "Store private keys for users",
+        "Create hashes"
+      ],
+      "correct_answer": "Issue certificates on behalf of the Root CA",
+      "explanation": "The correct answer is 'Issue certificates on behalf of the Root CA' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why are Intermediate CAs used instead of issuing all certificates directly from the Root CA?",
+      "options": [
+        "To reduce exposure of the Root CA",
+        "To increase bandwidth",
+        "To reduce storage",
+        "To replace certificates"
+      ],
+      "correct_answer": "To reduce exposure of the Root CA",
+      "explanation": "The correct answer is 'To reduce exposure of the Root CA' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is certificate signing?",
+      "options": [
+        "Digitally signing a certificate to establish trust",
+        "Encrypting a file",
+        "Hashing passwords",
+        "Generating DNS records"
+      ],
+      "correct_answer": "Digitally signing a certificate to establish trust",
+      "explanation": "The correct answer is 'Digitally signing a certificate to establish trust' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which PKI component may assist a CA by validating identities?",
+      "options": [
+        "Registration Authority (RA)",
+        "Router",
+        "Switch",
+        "Proxy"
+      ],
+      "correct_answer": "Registration Authority (RA)",
+      "explanation": "The correct answer is 'Registration Authority (RA)' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What happens if a CA cannot verify an applicant's identity?",
+      "options": [
+        "The certificate should not be issued",
+        "The certificate becomes self-signed",
+        "The browser trusts it anyway",
+        "The certificate is encrypted"
+      ],
+      "correct_answer": "The certificate should not be issued",
+      "explanation": "The correct answer is 'The certificate should not be issued' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is a public CA?",
+      "options": [
+        "A CA trusted by major operating systems and browsers",
+        "A free CA only",
+        "A CA without certificates",
+        "A CA used only internally"
+      ],
+      "correct_answer": "A CA trusted by major operating systems and browsers",
+      "explanation": "The correct answer is 'A CA trusted by major operating systems and browsers' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a private CA commonly used for?",
+      "options": [
+        "Internal organizational PKI",
+        "Public websites only",
+        "DNS management",
+        "Video streaming"
+      ],
+      "correct_answer": "Internal organizational PKI",
+      "explanation": "The correct answer is 'Internal organizational PKI' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What information does a CA typically include in a certificate?",
+      "options": [
+        "Subject identity and public key",
+        "Private key",
+        "Passwords",
+        "Database backups"
+      ],
+      "correct_answer": "Subject identity and public key",
+      "explanation": "The correct answer is 'Subject identity and public key' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why is CA trust important in TLS?",
+      "options": [
+        "It allows clients to verify server identities",
+        "It increases bandwidth",
+        "It replaces encryption",
+        "It manages DNS"
+      ],
+      "correct_answer": "It allows clients to verify server identities",
+      "explanation": "The correct answer is 'It allows clients to verify server identities' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the greatest risk if a CA's private key is compromised?",
+      "options": [
+        "Fraudulent certificates can be issued and trusted",
+        "AES becomes insecure",
+        "DNS fails globally",
+        "Hashes collide"
+      ],
+      "correct_answer": "Fraudulent certificates can be issued and trusted",
+      "explanation": "The correct answer is 'Fraudulent certificates can be issued and trusted' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why are Root CA private keys often stored offline?",
+      "options": [
+        "To minimize attack exposure",
+        "To speed up certificate issuance",
+        "To reduce storage",
+        "To simplify management"
+      ],
+      "correct_answer": "To minimize attack exposure",
+      "explanation": "The correct answer is 'To minimize attack exposure' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How do browsers determine whether to trust a CA?",
+      "options": [
+        "The CA's root certificate exists in the trust store",
+        "The website is popular",
+        "The certificate uses SHA",
+        "The server uses TLS"
+      ],
+      "correct_answer": "The CA's root certificate exists in the trust store",
+      "explanation": "The correct answer is 'The CA's root certificate exists in the trust store' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is cross-certification between CAs?",
+      "options": [
+        "Mutual trust established through certificate exchange",
+        "Certificate revocation",
+        "Password sharing",
+        "Key destruction"
+      ],
+      "correct_answer": "Mutual trust established through certificate exchange",
+      "explanation": "The correct answer is 'Mutual trust established through certificate exchange' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What role does a CA play in digital signatures?",
+      "options": [
+        "It binds public keys to verified identities",
+        "It creates private keys for users",
+        "It signs all documents",
+        "It replaces hashing"
+      ],
+      "correct_answer": "It binds public keys to verified identities",
+      "explanation": "The correct answer is 'It binds public keys to verified identities' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is certificate revocation from a CA perspective?",
+      "options": [
+        "Invalidating a certificate before its expiration",
+        "Renewing a certificate",
+        "Changing a public key",
+        "Generating a hash"
+      ],
+      "correct_answer": "Invalidating a certificate before its expiration",
+      "explanation": "The correct answer is 'Invalidating a certificate before its expiration' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why are certificate policies important for a CA?",
+      "options": [
+        "They define issuance and validation requirements",
+        "They encrypt certificates",
+        "They replace PKI",
+        "They manage DNS"
+      ],
+      "correct_answer": "They define issuance and validation requirements",
+      "explanation": "The correct answer is 'They define issuance and validation requirements' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What attack often exploits misplaced trust in certificates?",
+      "options": [
+        "Man-in-the-Middle using fraudulent certificates",
+        "DDoS",
+        "ARP spoofing",
+        "Dictionary attack"
+      ],
+      "correct_answer": "Man-in-the-Middle using fraudulent certificates",
+      "explanation": "The correct answer is 'Man-in-the-Middle using fraudulent certificates' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why is auditing important for Certificate Authorities?",
+      "options": [
+        "To ensure integrity and trustworthiness of operations",
+        "To improve compression",
+        "To increase bandwidth",
+        "To replace revocation"
+      ],
+      "correct_answer": "To ensure integrity and trustworthiness of operations",
+      "explanation": "The correct answer is 'To ensure integrity and trustworthiness of operations' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "What best describes a Certificate Authority today?",
+      "options": [
+        "A trusted entity that validates identities and issues digital certificates within PKI",
+        "A symmetric encryption algorithm",
+        "A hashing standard",
+        "A network protocol"
+      ],
+      "correct_answer": "A trusted entity that validates identities and issues digital certificates within PKI",
+      "explanation": "The correct answer is 'A trusted entity that validates identities and issues digital certificates within PKI' because it best explains Certificate Authority (CA) concepts and PKI operations."
+    }
+  ]
+}

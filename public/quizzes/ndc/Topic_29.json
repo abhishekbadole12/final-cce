@@ -1,0 +1,396 @@
+{
+  "topic": "Nagios Monitoring",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Nagios primarily used for?",
+      "options": [
+        "Network and system monitoring",
+        "Video editing",
+        "Database design",
+        "Gaming"
+      ],
+      "correct_answer": "Network and system monitoring",
+      "explanation": "The correct answer is 'Network and system monitoring'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Nagios can monitor?",
+      "options": [
+        "Servers",
+        "Applications",
+        "Network devices",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the main purpose of monitoring?",
+      "options": [
+        "Detect issues early",
+        "Increase RAM",
+        "Compile code",
+        "Encrypt files"
+      ],
+      "correct_answer": "Detect issues early",
+      "explanation": "The correct answer is 'Detect issues early'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Nagios generates notifications when?",
+      "options": [
+        "A problem is detected",
+        "A file is deleted",
+        "A user logs in",
+        "A website is created"
+      ],
+      "correct_answer": "A problem is detected",
+      "explanation": "The correct answer is 'A problem is detected'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Nagios is an example of a?",
+      "options": [
+        "Monitoring tool",
+        "Firewall",
+        "VPN",
+        "IDS"
+      ],
+      "correct_answer": "Monitoring tool",
+      "explanation": "The correct answer is 'Monitoring tool'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which operating system supports Nagios?",
+      "options": [
+        "Linux",
+        "Windows",
+        "macOS",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does Nagios monitor on a server?",
+      "options": [
+        "CPU",
+        "Memory",
+        "Disk",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "The correct answer is 'All of these'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is a host in Nagios?",
+      "options": [
+        "Monitored device",
+        "Firewall rule",
+        "Log file",
+        "User account"
+      ],
+      "correct_answer": "Monitored device",
+      "explanation": "The correct answer is 'Monitored device'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is a service in Nagios?",
+      "options": [
+        "Specific monitored resource",
+        "VPN tunnel",
+        "Database table",
+        "Switch port"
+      ],
+      "correct_answer": "Specific monitored resource",
+      "explanation": "The correct answer is 'Specific monitored resource'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Nagios helps improve?",
+      "options": [
+        "System availability",
+        "Video quality",
+        "Coding speed",
+        "File size"
+      ],
+      "correct_answer": "System availability",
+      "explanation": "The correct answer is 'System availability'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is NRPE in Nagios?",
+      "options": [
+        "Remote plugin execution agent",
+        "Firewall module",
+        "Database engine",
+        "VPN protocol"
+      ],
+      "correct_answer": "Remote plugin execution agent",
+      "explanation": "The correct answer is 'Remote plugin execution agent'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What are Nagios plugins used for?",
+      "options": [
+        "Perform checks",
+        "Store logs",
+        "Encrypt traffic",
+        "Manage users"
+      ],
+      "correct_answer": "Perform checks",
+      "explanation": "The correct answer is 'Perform checks'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which protocol is commonly used for Nagios web access?",
+      "options": [
+        "HTTP/HTTPS",
+        "FTP",
+        "SMTP",
+        "ARP"
+      ],
+      "correct_answer": "HTTP/HTTPS",
+      "explanation": "The correct answer is 'HTTP/HTTPS'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is active monitoring?",
+      "options": [
+        "Nagios initiates checks",
+        "Device sends updates",
+        "Manual inspection",
+        "Log deletion"
+      ],
+      "correct_answer": "Nagios initiates checks",
+      "explanation": "The correct answer is 'Nagios initiates checks'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is passive monitoring?",
+      "options": [
+        "External source submits results",
+        "Nagios initiates checks",
+        "Packet capture",
+        "Threat hunting"
+      ],
+      "correct_answer": "External source submits results",
+      "explanation": "The correct answer is 'External source submits results'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is a Nagios alert?",
+      "options": [
+        "Notification about an issue",
+        "Backup file",
+        "Firewall rule",
+        "VPN profile"
+      ],
+      "correct_answer": "Notification about an issue",
+      "explanation": "The correct answer is 'Notification about an issue'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which state indicates everything is working normally?",
+      "options": [
+        "OK",
+        "Warning",
+        "Critical",
+        "Unknown"
+      ],
+      "correct_answer": "OK",
+      "explanation": "The correct answer is 'OK'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What does a Warning state indicate?",
+      "options": [
+        "Potential issue",
+        "Normal operation",
+        "System failure",
+        "Device shutdown"
+      ],
+      "correct_answer": "Potential issue",
+      "explanation": "The correct answer is 'Potential issue'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What does a Critical state indicate?",
+      "options": [
+        "Serious problem",
+        "Minor issue",
+        "Normal state",
+        "Log rotation"
+      ],
+      "correct_answer": "Serious problem",
+      "explanation": "The correct answer is 'Serious problem'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Why are thresholds used in Nagios?",
+      "options": [
+        "Trigger alerts based on limits",
+        "Encrypt data",
+        "Route traffic",
+        "Manage DNS"
+      ],
+      "correct_answer": "Trigger alerts based on limits",
+      "explanation": "The correct answer is 'Trigger alerts based on limits'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is Nagios important in security operations?",
+      "options": [
+        "Detect infrastructure issues affecting security",
+        "Video analysis",
+        "Code optimization",
+        "Database normalization"
+      ],
+      "correct_answer": "Detect infrastructure issues affecting security",
+      "explanation": "The correct answer is 'Detect infrastructure issues affecting security'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the benefit of email notifications in Nagios?",
+      "options": [
+        "Rapid incident awareness",
+        "Faster CPU",
+        "More storage",
+        "Better graphics"
+      ],
+      "correct_answer": "Rapid incident awareness",
+      "explanation": "The correct answer is 'Rapid incident awareness'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "How can Nagios support incident response?",
+      "options": [
+        "Provide real-time alerts",
+        "Encrypt logs",
+        "Block attacks automatically",
+        "Create VPNs"
+      ],
+      "correct_answer": "Provide real-time alerts",
+      "explanation": "The correct answer is 'Provide real-time alerts'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is a common use case for Nagios in SOC environments?",
+      "options": [
+        "Infrastructure monitoring",
+        "Packet crafting",
+        "Malware creation",
+        "Code compilation"
+      ],
+      "correct_answer": "Infrastructure monitoring",
+      "explanation": "The correct answer is 'Infrastructure monitoring'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What may happen if monitoring is not configured properly?",
+      "options": [
+        "Missed outages",
+        "Faster systems",
+        "More RAM",
+        "Reduced logs"
+      ],
+      "correct_answer": "Missed outages",
+      "explanation": "The correct answer is 'Missed outages'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How can Nagios monitor Windows systems?",
+      "options": [
+        "Using agents like NSClient++",
+        "Using DHCP",
+        "Using NAT",
+        "Using ARP"
+      ],
+      "correct_answer": "Using agents like NSClient++",
+      "explanation": "The correct answer is 'Using agents like NSClient++'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Which metric can indicate a disk space issue?",
+      "options": [
+        "Disk utilization percentage",
+        "MAC address",
+        "TTL value",
+        "Subnet mask"
+      ],
+      "correct_answer": "Disk utilization percentage",
+      "explanation": "The correct answer is 'Disk utilization percentage'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "What is event escalation in Nagios?",
+      "options": [
+        "Increasing notification severity",
+        "Deleting alerts",
+        "Encrypting notifications",
+        "Disabling monitoring"
+      ],
+      "correct_answer": "Increasing notification severity",
+      "explanation": "The correct answer is 'Increasing notification severity'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why integrate Nagios with SIEM solutions?",
+      "options": [
+        "Correlate infrastructure and security events",
+        "Improve graphics",
+        "Increase bandwidth",
+        "Reduce logging"
+      ],
+      "correct_answer": "Correlate infrastructure and security events",
+      "explanation": "The correct answer is 'Correlate infrastructure and security events'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which best describes Nagios' role in defense-in-depth?",
+      "options": [
+        "Provides visibility and monitoring",
+        "Acts as VPN",
+        "Acts as firewall",
+        "Acts as IDS only"
+      ],
+      "correct_answer": "Provides visibility and monitoring",
+      "explanation": "The correct answer is 'Provides visibility and monitoring'. This concept belongs to Nagios Monitoring and is important for cybersecurity operations, security monitoring, incident response, and certification exam preparation. Review the underlying concept to understand why this option is the most appropriate choice."
+    }
+  ]
+}

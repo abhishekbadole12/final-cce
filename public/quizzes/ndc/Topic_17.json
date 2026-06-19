@@ -1,0 +1,396 @@
+{
+  "topic": "IPSec VPN",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does IPSec stand for?",
+      "options": [
+        "Internet Protocol Security",
+        "Internet Packet Security",
+        "IP Secure Connection",
+        "Internal Protocol Security"
+      ],
+      "correct_answer": "Internet Protocol Security",
+      "explanation": "The correct answer is 'Internet Protocol Security'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "At which OSI layer does IPSec primarily operate?",
+      "options": [
+        "Network Layer",
+        "Application Layer",
+        "Transport Layer",
+        "Session Layer"
+      ],
+      "correct_answer": "Network Layer",
+      "explanation": "The correct answer is 'Network Layer'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of IPSec?",
+      "options": [
+        "Secure IP communications",
+        "Increase bandwidth",
+        "Manage DNS",
+        "Compress files"
+      ],
+      "correct_answer": "Secure IP communications",
+      "explanation": "The correct answer is 'Secure IP communications'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which IPSec protocol provides authentication and integrity?",
+      "options": [
+        "AH",
+        "ESP",
+        "IKE",
+        "SSL"
+      ],
+      "correct_answer": "AH",
+      "explanation": "The correct answer is 'AH'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Which IPSec protocol provides encryption?",
+      "options": [
+        "ESP",
+        "AH",
+        "ARP",
+        "SNMP"
+      ],
+      "correct_answer": "ESP",
+      "explanation": "The correct answer is 'ESP'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does AH stand for?",
+      "options": [
+        "Authentication Header",
+        "Access Header",
+        "Authorization Header",
+        "Advanced Header"
+      ],
+      "correct_answer": "Authentication Header",
+      "explanation": "The correct answer is 'Authentication Header'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What does ESP stand for?",
+      "options": [
+        "Encapsulating Security Payload",
+        "Encrypted Security Packet",
+        "Enhanced Secure Protocol",
+        "Encapsulation Service Payload"
+      ],
+      "correct_answer": "Encapsulating Security Payload",
+      "explanation": "The correct answer is 'Encapsulating Security Payload'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which IPSec component is responsible for key exchange?",
+      "options": [
+        "IKE",
+        "ESP",
+        "AH",
+        "GRE"
+      ],
+      "correct_answer": "IKE",
+      "explanation": "The correct answer is 'IKE'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the main use of IPSec?",
+      "options": [
+        "VPNs",
+        "Web Hosting",
+        "Email Routing",
+        "DNS Resolution"
+      ],
+      "correct_answer": "VPNs",
+      "explanation": "The correct answer is 'VPNs'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Which VPN type commonly uses IPSec?",
+      "options": [
+        "Site-to-Site VPN",
+        "FTP VPN",
+        "Printer VPN",
+        "DNS VPN"
+      ],
+      "correct_answer": "Site-to-Site VPN",
+      "explanation": "The correct answer is 'Site-to-Site VPN'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is Tunnel Mode in IPSec?",
+      "options": [
+        "Encrypts the entire original IP packet",
+        "Encrypts only payload",
+        "Disables encryption",
+        "Uses SSL"
+      ],
+      "correct_answer": "Encrypts the entire original IP packet",
+      "explanation": "The correct answer is 'Encrypts the entire original IP packet'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is Transport Mode in IPSec?",
+      "options": [
+        "Encrypts only packet payload",
+        "Encrypts entire packet",
+        "No encryption",
+        "Only authentication"
+      ],
+      "correct_answer": "Encrypts only packet payload",
+      "explanation": "The correct answer is 'Encrypts only packet payload'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which IPSec mode is commonly used for site-to-site VPNs?",
+      "options": [
+        "Tunnel Mode",
+        "Transport Mode",
+        "Hybrid Mode",
+        "Proxy Mode"
+      ],
+      "correct_answer": "Tunnel Mode",
+      "explanation": "The correct answer is 'Tunnel Mode'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which IPSec mode is often used for host-to-host communication?",
+      "options": [
+        "Transport Mode",
+        "Tunnel Mode",
+        "NAT Mode",
+        "Bridge Mode"
+      ],
+      "correct_answer": "Transport Mode",
+      "explanation": "The correct answer is 'Transport Mode'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is IKE?",
+      "options": [
+        "Internet Key Exchange",
+        "Internal Key Encryption",
+        "Internet Kernel Exchange",
+        "IP Key Extension"
+      ],
+      "correct_answer": "Internet Key Exchange",
+      "explanation": "The correct answer is 'Internet Key Exchange'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the purpose of IKE Phase 1?",
+      "options": [
+        "Establish a secure management channel",
+        "Transfer data",
+        "Route packets",
+        "Perform NAT"
+      ],
+      "correct_answer": "Establish a secure management channel",
+      "explanation": "The correct answer is 'Establish a secure management channel'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the purpose of IKE Phase 2?",
+      "options": [
+        "Negotiate IPSec security parameters",
+        "Resolve DNS",
+        "Create VLANs",
+        "Encrypt disks"
+      ],
+      "correct_answer": "Negotiate IPSec security parameters",
+      "explanation": "The correct answer is 'Negotiate IPSec security parameters'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is a Security Association (SA)?",
+      "options": [
+        "Agreement defining security settings between peers",
+        "Firewall rule",
+        "Routing table",
+        "Certificate"
+      ],
+      "correct_answer": "Agreement defining security settings between peers",
+      "explanation": "The correct answer is 'Agreement defining security settings between peers'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Which security service does ESP provide?",
+      "options": [
+        "Confidentiality",
+        "Load Balancing",
+        "QoS",
+        "Caching"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which security service does AH provide?",
+      "options": [
+        "Integrity and Authentication",
+        "Compression",
+        "Routing",
+        "DNS Resolution"
+      ],
+      "correct_answer": "Integrity and Authentication",
+      "explanation": "The correct answer is 'Integrity and Authentication'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is ESP generally preferred over AH?",
+      "options": [
+        "Provides encryption and authentication",
+        "Consumes less bandwidth only",
+        "No key management needed",
+        "Works without configuration"
+      ],
+      "correct_answer": "Provides encryption and authentication",
+      "explanation": "The correct answer is 'Provides encryption and authentication'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What challenge can IPSec face with NAT devices?",
+      "options": [
+        "NAT Traversal Issues",
+        "Bandwidth Increase",
+        "Storage Failure",
+        "DNS Poisoning"
+      ],
+      "correct_answer": "NAT Traversal Issues",
+      "explanation": "The correct answer is 'NAT Traversal Issues'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is NAT-T?",
+      "options": [
+        "NAT Traversal for IPSec",
+        "Network Access Tunnel",
+        "NAT Transport Protocol",
+        "Network Authentication Tool"
+      ],
+      "correct_answer": "NAT Traversal for IPSec",
+      "explanation": "The correct answer is 'NAT Traversal for IPSec'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which encryption algorithm is commonly used with IPSec?",
+      "options": [
+        "AES",
+        "ARP",
+        "SMTP",
+        "ICMP"
+      ],
+      "correct_answer": "AES",
+      "explanation": "The correct answer is 'AES'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why are Security Associations important?",
+      "options": [
+        "Define how communication is secured",
+        "Increase bandwidth",
+        "Reduce logging",
+        "Manage printers"
+      ],
+      "correct_answer": "Define how communication is secured",
+      "explanation": "The correct answer is 'Define how communication is secured'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "How does IPSec support IPv6?",
+      "options": [
+        "Provides secure communication for IPv6 traffic",
+        "Disables IPv6",
+        "Converts IPv6 to IPv4",
+        "Blocks IPv6"
+      ],
+      "correct_answer": "Provides secure communication for IPv6 traffic",
+      "explanation": "The correct answer is 'Provides secure communication for IPv6 traffic'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What risk exists if IPSec keys are compromised?",
+      "options": [
+        "Encrypted traffic may be exposed",
+        "Bandwidth increases",
+        "DNS fails",
+        "Logs stop working"
+      ],
+      "correct_answer": "Encrypted traffic may be exposed",
+      "explanation": "The correct answer is 'Encrypted traffic may be exposed'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Why is IKE important in IPSec deployments?",
+      "options": [
+        "Automates secure key exchange",
+        "Improves graphics",
+        "Compresses packets",
+        "Manages storage"
+      ],
+      "correct_answer": "Automates secure key exchange",
+      "explanation": "The correct answer is 'Automates secure key exchange'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Which IPSec mode provides greater privacy between networks?",
+      "options": [
+        "Tunnel Mode",
+        "Transport Mode",
+        "Proxy Mode",
+        "Bridge Mode"
+      ],
+      "correct_answer": "Tunnel Mode",
+      "explanation": "The correct answer is 'Tunnel Mode'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes IPSec?",
+      "options": [
+        "A suite of protocols providing authentication, integrity, and encryption for IP communications",
+        "A web application firewall",
+        "A packet analyzer",
+        "A load balancer"
+      ],
+      "correct_answer": "A suite of protocols providing authentication, integrity, and encryption for IP communications",
+      "explanation": "The correct answer is 'A suite of protocols providing authentication, integrity, and encryption for IP communications'. This answer is correct because it represents a key concept in IPSec VPN. Understanding this concept helps in cybersecurity exams, practical implementations, troubleshooting, and security operations."
+    }
+  ]
+}

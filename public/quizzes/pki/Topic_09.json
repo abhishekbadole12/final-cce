@@ -1,0 +1,396 @@
+{
+  "topic": "RC5",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is RC5?",
+      "options": [
+        "A symmetric block cipher",
+        "An asymmetric algorithm",
+        "A hash function",
+        "A digital signature algorithm"
+      ],
+      "correct_answer": "A symmetric block cipher",
+      "explanation": "The correct answer is 'A symmetric block cipher' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who designed RC5?",
+      "options": [
+        "Ron Rivest",
+        "Whitfield Diffie",
+        "Martin Hellman",
+        "Adi Shamir"
+      ],
+      "correct_answer": "Ron Rivest",
+      "explanation": "The correct answer is 'Ron Rivest' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "RC5 was introduced in?",
+      "options": [
+        "1994",
+        "1977",
+        "2001",
+        "1985"
+      ],
+      "correct_answer": "1994",
+      "explanation": "The correct answer is '1994' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "RC5 belongs to which family of cryptography?",
+      "options": [
+        "Symmetric cryptography",
+        "Asymmetric cryptography",
+        "Hashing",
+        "PKI"
+      ],
+      "correct_answer": "Symmetric cryptography",
+      "explanation": "The correct answer is 'Symmetric cryptography' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is a key feature of RC5?",
+      "options": [
+        "Variable parameters",
+        "Fixed key size only",
+        "Public-key encryption",
+        "Certificate management"
+      ],
+      "correct_answer": "Variable parameters",
+      "explanation": "The correct answer is 'Variable parameters' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "RC5 encrypts data in?",
+      "options": [
+        "Blocks",
+        "Streams",
+        "Packets",
+        "Frames"
+      ],
+      "correct_answer": "Blocks",
+      "explanation": "The correct answer is 'Blocks' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which operation is heavily used in RC5?",
+      "options": [
+        "Data-dependent rotations",
+        "Hash chaining",
+        "Certificate signing",
+        "Base64 encoding"
+      ],
+      "correct_answer": "Data-dependent rotations",
+      "explanation": "The correct answer is 'Data-dependent rotations' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "RC5 primarily provides?",
+      "options": [
+        "Confidentiality",
+        "Availability",
+        "Compression",
+        "Redundancy"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "The correct answer is 'Confidentiality' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "RC5 supports variable key lengths?",
+      "options": [
+        "Yes",
+        "No",
+        "Only 56-bit",
+        "Only 128-bit"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "The correct answer is 'Yes' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "RC5 uses a secret?",
+      "options": [
+        "Shared key",
+        "Public key",
+        "Certificate",
+        "Hash value"
+      ],
+      "correct_answer": "Shared key",
+      "explanation": "The correct answer is 'Shared key' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which parameter of RC5 can be varied?",
+      "options": [
+        "Number of rounds",
+        "IP address",
+        "Certificate size",
+        "Hash output"
+      ],
+      "correct_answer": "Number of rounds",
+      "explanation": "The correct answer is 'Number of rounds' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "A common RC5 configuration is written as RC5-w/r/b. What does 'r' represent?",
+      "options": [
+        "Number of rounds",
+        "Block size",
+        "Key length",
+        "Padding mode"
+      ],
+      "correct_answer": "Number of rounds",
+      "explanation": "The correct answer is 'Number of rounds' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What does 'w' represent in RC5-w/r/b?",
+      "options": [
+        "Word size",
+        "Web size",
+        "Window size",
+        "Write mode"
+      ],
+      "correct_answer": "Word size",
+      "explanation": "The correct answer is 'Word size' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What does 'b' represent in RC5-w/r/b?",
+      "options": [
+        "Key length in bytes",
+        "Block size",
+        "Byte order",
+        "Buffer size"
+      ],
+      "correct_answer": "Key length in bytes",
+      "explanation": "The correct answer is 'Key length in bytes' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why was RC5 considered flexible?",
+      "options": [
+        "It allows configurable parameters",
+        "It requires no keys",
+        "It is asymmetric",
+        "It uses certificates"
+      ],
+      "correct_answer": "It allows configurable parameters",
+      "explanation": "The correct answer is 'It allows configurable parameters' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "RC5 commonly uses which arithmetic operation?",
+      "options": [
+        "Modulo addition",
+        "Matrix multiplication",
+        "Hashing",
+        "Compression"
+      ],
+      "correct_answer": "Modulo addition",
+      "explanation": "The correct answer is 'Modulo addition' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which pair of operations is fundamental to RC5?",
+      "options": [
+        "XOR and rotations",
+        "Hashing and signing",
+        "Compression and encoding",
+        "DNS and DHCP"
+      ],
+      "correct_answer": "XOR and rotations",
+      "explanation": "The correct answer is 'XOR and rotations' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Compared to DES, RC5 was designed to be?",
+      "options": [
+        "Simple and adaptable",
+        "Certificate-based",
+        "Public-key",
+        "Hash-oriented"
+      ],
+      "correct_answer": "Simple and adaptable",
+      "explanation": "The correct answer is 'Simple and adaptable' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Increasing the number of rounds in RC5 generally?",
+      "options": [
+        "Increases security",
+        "Decreases security",
+        "Removes encryption",
+        "Eliminates keys"
+      ],
+      "correct_answer": "Increases security",
+      "explanation": "The correct answer is 'Increases security' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "RC5 is most accurately described as?",
+      "options": [
+        "A parameterized block cipher",
+        "A stream cipher",
+        "A hash algorithm",
+        "A PKI protocol"
+      ],
+      "correct_answer": "A parameterized block cipher",
+      "explanation": "The correct answer is 'A parameterized block cipher' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What makes RC5's rotations unique compared to many earlier ciphers?",
+      "options": [
+        "Rotation amounts depend on data values",
+        "Rotations are fixed",
+        "No rotations are used",
+        "They use certificates"
+      ],
+      "correct_answer": "Rotation amounts depend on data values",
+      "explanation": "The correct answer is 'Rotation amounts depend on data values' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why did RC5 attract cryptographic research interest?",
+      "options": [
+        "Its simplicity and configurable design",
+        "It replaced AES",
+        "It introduced PKI",
+        "It removed keys"
+      ],
+      "correct_answer": "Its simplicity and configurable design",
+      "explanation": "The correct answer is 'Its simplicity and configurable design' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which factor most directly affects RC5 resistance to brute-force attacks?",
+      "options": [
+        "Key length",
+        "File size",
+        "Ciphertext size",
+        "Certificate chain"
+      ],
+      "correct_answer": "Key length",
+      "explanation": "The correct answer is 'Key length' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What is a trade-off when increasing RC5 rounds?",
+      "options": [
+        "Higher security but more computation",
+        "Lower security and faster attacks",
+        "No effect",
+        "Smaller keyspace"
+      ],
+      "correct_answer": "Higher security but more computation",
+      "explanation": "The correct answer is 'Higher security but more computation' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "RC5 security primarily depends on?",
+      "options": [
+        "Parameter choices and key management",
+        "Certificate authorities",
+        "DNS records",
+        "Compression ratios"
+      ],
+      "correct_answer": "Parameter choices and key management",
+      "explanation": "The correct answer is 'Parameter choices and key management' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "Which attack class often targets implementation weaknesses rather than RC5 design?",
+      "options": [
+        "Side-channel attacks",
+        "ARP spoofing",
+        "Phishing",
+        "Smishing"
+      ],
+      "correct_answer": "Side-channel attacks",
+      "explanation": "The correct answer is 'Side-channel attacks' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "Why is RC5 less commonly deployed today than AES?",
+      "options": [
+        "AES became the industry standard",
+        "RC5 cannot encrypt files",
+        "RC5 is asymmetric",
+        "RC5 uses no keys"
+      ],
+      "correct_answer": "AES became the industry standard",
+      "explanation": "The correct answer is 'AES became the industry standard' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "A weak RC5 configuration with too few rounds may be vulnerable to?",
+      "options": [
+        "Cryptanalytic attacks",
+        "Certificate revocation",
+        "DNS poisoning",
+        "Load balancing issues"
+      ],
+      "correct_answer": "Cryptanalytic attacks",
+      "explanation": "The correct answer is 'Cryptanalytic attacks' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "What is the main benefit of RC5's parameterization?",
+      "options": [
+        "Flexibility across different environments",
+        "Automatic key exchange",
+        "Built-in authentication",
+        "Certificate generation"
+      ],
+      "correct_answer": "Flexibility across different environments",
+      "explanation": "The correct answer is 'Flexibility across different environments' because it best reflects RC5 concepts and characteristics."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes RC5 today?",
+      "options": [
+        "Historically important symmetric cipher with configurable parameters",
+        "Current PKI standard",
+        "Modern hash standard",
+        "Replacement for RSA"
+      ],
+      "correct_answer": "Historically important symmetric cipher with configurable parameters",
+      "explanation": "The correct answer is 'Historically important symmetric cipher with configurable parameters' because it best reflects RC5 concepts and characteristics."
+    }
+  ]
+}

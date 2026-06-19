@@ -1,0 +1,396 @@
+{
+  "topic": "Screened Host Firewall",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is a Screened Host Firewall architecture?",
+      "options": [
+        "A firewall architecture using a screening router and bastion host",
+        "A VPN architecture",
+        "A wireless network",
+        "A load balancing setup"
+      ],
+      "correct_answer": "A firewall architecture using a screening router and bastion host",
+      "explanation": "The correct answer is 'A firewall architecture using a screening router and bastion host'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a screened host?",
+      "options": [
+        "Protect internal systems from external access",
+        "Increase bandwidth",
+        "Store backups",
+        "Manage printers"
+      ],
+      "correct_answer": "Protect internal systems from external access",
+      "explanation": "The correct answer is 'Protect internal systems from external access'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which device filters traffic before it reaches the bastion host?",
+      "options": [
+        "Screening Router",
+        "Switch",
+        "Hub",
+        "Repeater"
+      ],
+      "correct_answer": "Screening Router",
+      "explanation": "The correct answer is 'Screening Router'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is a bastion host?",
+      "options": [
+        "A hardened system exposed to external networks",
+        "A firewall rule",
+        "A VPN tunnel",
+        "A switch"
+      ],
+      "correct_answer": "A hardened system exposed to external networks",
+      "explanation": "The correct answer is 'A hardened system exposed to external networks'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Where is the bastion host typically located?",
+      "options": [
+        "Between the internet and internal network",
+        "Inside a database",
+        "Inside a switch",
+        "Outside the network"
+      ],
+      "correct_answer": "Between the internet and internal network",
+      "explanation": "The correct answer is 'Between the internet and internal network'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What type of services are commonly hosted on a bastion host?",
+      "options": [
+        "Public-facing services",
+        "Payroll systems",
+        "HR databases",
+        "Backup archives"
+      ],
+      "correct_answer": "Public-facing services",
+      "explanation": "The correct answer is 'Public-facing services'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which security principle does a screened host support?",
+      "options": [
+        "Defense in Depth",
+        "Open Access",
+        "Single Point of Failure",
+        "No Authentication"
+      ],
+      "correct_answer": "Defense in Depth",
+      "explanation": "The correct answer is 'Defense in Depth'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What traffic does the screening router control?",
+      "options": [
+        "Traffic entering and leaving the network",
+        "Printer traffic only",
+        "USB traffic",
+        "Storage traffic"
+      ],
+      "correct_answer": "Traffic entering and leaving the network",
+      "explanation": "The correct answer is 'Traffic entering and leaving the network'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "The screening router primarily performs?",
+      "options": [
+        "Packet Filtering",
+        "Database Queries",
+        "Load Balancing",
+        "File Compression"
+      ],
+      "correct_answer": "Packet Filtering",
+      "explanation": "The correct answer is 'Packet Filtering'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Why is a bastion host hardened?",
+      "options": [
+        "To reduce vulnerabilities",
+        "To increase RAM",
+        "To improve graphics",
+        "To increase storage"
+      ],
+      "correct_answer": "To reduce vulnerabilities",
+      "explanation": "The correct answer is 'To reduce vulnerabilities'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which firewall type is commonly used in a screened host architecture?",
+      "options": [
+        "Packet Filtering Firewall",
+        "Proxy only",
+        "Cloud-only firewall",
+        "Application server"
+      ],
+      "correct_answer": "Packet Filtering Firewall",
+      "explanation": "The correct answer is 'Packet Filtering Firewall'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is the role of the internal network in a screened host design?",
+      "options": [
+        "Remain isolated from direct internet access",
+        "Serve public websites",
+        "Host public DNS",
+        "Accept all traffic"
+      ],
+      "correct_answer": "Remain isolated from direct internet access",
+      "explanation": "The correct answer is 'Remain isolated from direct internet access'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which component receives internet traffic first?",
+      "options": [
+        "Screening Router",
+        "Bastion Host",
+        "Database Server",
+        "Internal LAN"
+      ],
+      "correct_answer": "Screening Router",
+      "explanation": "The correct answer is 'Screening Router'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the advantage of using a bastion host?",
+      "options": [
+        "Provides an additional security layer",
+        "Eliminates need for firewalls",
+        "Increases internet speed",
+        "Reduces storage"
+      ],
+      "correct_answer": "Provides an additional security layer",
+      "explanation": "The correct answer is 'Provides an additional security layer'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "How does a screened host differ from a basic firewall setup?",
+      "options": [
+        "Uses a dedicated bastion host",
+        "Uses no firewall",
+        "Requires VPN only",
+        "Uses only switches"
+      ],
+      "correct_answer": "Uses a dedicated bastion host",
+      "explanation": "The correct answer is 'Uses a dedicated bastion host'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which service may safely reside on a bastion host?",
+      "options": [
+        "Web Server",
+        "Payroll Database",
+        "Active Directory",
+        "Core ERP Database"
+      ],
+      "correct_answer": "Web Server",
+      "explanation": "The correct answer is 'Web Server'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the primary goal of network segmentation in screened host architecture?",
+      "options": [
+        "Limit attack exposure",
+        "Increase CPU speed",
+        "Increase bandwidth",
+        "Reduce logging"
+      ],
+      "correct_answer": "Limit attack exposure",
+      "explanation": "The correct answer is 'Limit attack exposure'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Which threat is reduced by using a screened host?",
+      "options": [
+        "Direct access to internal systems",
+        "Power failure",
+        "Disk fragmentation",
+        "Printer errors"
+      ],
+      "correct_answer": "Direct access to internal systems",
+      "explanation": "The correct answer is 'Direct access to internal systems'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What happens if a packet does not match screening router rules?",
+      "options": [
+        "It is dropped or denied",
+        "It is encrypted",
+        "It is duplicated",
+        "It is cached"
+      ],
+      "correct_answer": "It is dropped or denied",
+      "explanation": "The correct answer is 'It is dropped or denied'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which organization can benefit from screened host architecture?",
+      "options": [
+        "Organizations hosting internet-facing services",
+        "Only cloud providers",
+        "Only universities",
+        "Only ISPs"
+      ],
+      "correct_answer": "Organizations hosting internet-facing services",
+      "explanation": "The correct answer is 'Organizations hosting internet-facing services'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the major limitation of screened host architecture?",
+      "options": [
+        "Single layer between bastion host and internal network",
+        "Unlimited security",
+        "No maintenance required",
+        "Cannot filter traffic"
+      ],
+      "correct_answer": "Single layer between bastion host and internal network",
+      "explanation": "The correct answer is 'Single layer between bastion host and internal network'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "How does a screened subnet improve upon a screened host?",
+      "options": [
+        "Adds an extra protected network layer (DMZ)",
+        "Removes firewall",
+        "Disables packet filtering",
+        "Uses fewer controls"
+      ],
+      "correct_answer": "Adds an extra protected network layer (DMZ)",
+      "explanation": "The correct answer is 'Adds an extra protected network layer (DMZ)'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "If the bastion host is compromised, what risk remains?",
+      "options": [
+        "Potential path toward internal network",
+        "Immediate total compromise always",
+        "Loss of internet",
+        "Loss of DNS"
+      ],
+      "correct_answer": "Potential path toward internal network",
+      "explanation": "The correct answer is 'Potential path toward internal network'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which control should complement a screened host architecture?",
+      "options": [
+        "IDS/IPS",
+        "Only printers",
+        "File compression",
+        "DHCP relay"
+      ],
+      "correct_answer": "IDS/IPS",
+      "explanation": "The correct answer is 'IDS/IPS'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "Why should firewall rules between bastion host and LAN be restrictive?",
+      "options": [
+        "Reduce lateral movement",
+        "Increase speed",
+        "Improve graphics",
+        "Reduce encryption"
+      ],
+      "correct_answer": "Reduce lateral movement",
+      "explanation": "The correct answer is 'Reduce lateral movement'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "question": "What is a common real-world use of a screened host?",
+      "options": [
+        "Hosting public web applications",
+        "Storing backups only",
+        "Managing printers",
+        "Providing local storage"
+      ],
+      "correct_answer": "Hosting public web applications",
+      "explanation": "The correct answer is 'Hosting public web applications'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "question": "What is the role of logging in screened host architecture?",
+      "options": [
+        "Monitor and detect suspicious activity",
+        "Increase storage",
+        "Improve routing",
+        "Balance traffic"
+      ],
+      "correct_answer": "Monitor and detect suspicious activity",
+      "explanation": "The correct answer is 'Monitor and detect suspicious activity'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "Which security concept is demonstrated by screening routers and bastion hosts working together?",
+      "options": [
+        "Layered Security",
+        "Single Point of Failure",
+        "Open Trust",
+        "Anonymous Access"
+      ],
+      "correct_answer": "Layered Security",
+      "explanation": "The correct answer is 'Layered Security'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "question": "Why are unnecessary services removed from bastion hosts?",
+      "options": [
+        "Reduce attack surface",
+        "Increase bandwidth",
+        "Improve graphics",
+        "Enhance storage"
+      ],
+      "correct_answer": "Reduce attack surface",
+      "explanation": "The correct answer is 'Reduce attack surface'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "question": "Which statement best describes a screened host firewall architecture?",
+      "options": [
+        "A screening router protects a hardened bastion host before traffic reaches the internal network",
+        "A VPN tunnel replaces firewalls",
+        "A switch protects the internet",
+        "A load balancer filters traffic"
+      ],
+      "correct_answer": "A screening router protects a hardened bastion host before traffic reaches the internal network",
+      "explanation": "The correct answer is 'A screening router protects a hardened bastion host before traffic reaches the internal network'. This concept belongs to Screened Host Firewall. Understanding why this answer is correct helps build strong fundamentals for exams, interviews, and practical cybersecurity implementations."
+    }
+  ]
+}
