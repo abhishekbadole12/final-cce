@@ -1,0 +1,331 @@
+{
+  "topic": "Metadata and Timestamps",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is metadata in digital forensics?",
+      "options": [
+        "Data about data",
+        "Encrypted data",
+        "Deleted data",
+        "Compressed data"
+      ],
+      "correct_answer": "Data about data",
+      "explanation": "Metadata provides information about a file such as timestamps, owner, and attributes."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which timestamp records when a file was originally created?",
+      "options": [
+        "Created",
+        "Modified",
+        "Accessed",
+        "Deleted"
+      ],
+      "correct_answer": "Created",
+      "explanation": "The Created timestamp indicates when the file first came into existence."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which timestamp changes when file content is edited?",
+      "options": [
+        "Modified",
+        "Created",
+        "Accessed",
+        "Owner"
+      ],
+      "correct_answer": "Modified",
+      "explanation": "The Modified timestamp updates when file contents are changed."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which timestamp is updated when a file is opened?",
+      "options": [
+        "Accessed",
+        "Modified",
+        "Created",
+        "Deleted"
+      ],
+      "correct_answer": "Accessed",
+      "explanation": "The Accessed timestamp records when the file was last viewed or opened."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What does MAC time stand for?",
+      "options": [
+        "Modified, Accessed, Created",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Modified, Accessed, Created",
+      "explanation": "Modified, Accessed, Created"
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Which timestamp is most useful for identifying document edits?",
+      "options": [
+        "Modified",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Modified",
+      "explanation": "Modified"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "Metadata can help determine:",
+      "options": [
+        "User activity",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "User activity",
+      "explanation": "User activity"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "Which tool commonly displays file metadata?",
+      "options": [
+        "FTK Imager",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "FTK Imager",
+      "explanation": "FTK Imager"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is timestamp analysis used for?",
+      "options": [
+        "Timeline reconstruction",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Timeline reconstruction",
+      "explanation": "Timeline reconstruction"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Can metadata exist without file content?",
+      "options": [
+        "Yes",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which metadata attribute identifies file ownership?",
+      "options": [
+        "Owner",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Owner",
+      "explanation": "Owner"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Metadata may reveal:",
+      "options": [
+        "Author information",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Author information",
+      "explanation": "Author information"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which timestamp may change when a file is copied?",
+      "options": [
+        "Created",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Created",
+      "explanation": "Created"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is timestomping?",
+      "options": [
+        "Manipulating timestamps",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Manipulating timestamps",
+      "explanation": "Manipulating timestamps"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Why do attackers alter timestamps?",
+      "options": [
+        "Hide evidence",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Hide evidence",
+      "explanation": "Hide evidence"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Which forensic technique detects timestamp anomalies?",
+      "options": [
+        "Timeline analysis",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Timeline analysis",
+      "explanation": "Timeline analysis"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is a common sign of timestamp manipulation?",
+      "options": [
+        "Chronological inconsistency",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Chronological inconsistency",
+      "explanation": "Chronological inconsistency"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Can timestamps differ across time zones?",
+      "options": [
+        "Yes",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What format is commonly used internally for timestamps?",
+      "options": [
+        "Epoch time",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Epoch time",
+      "explanation": "Epoch time"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What challenge arises when analyzing timestamps from multiple systems?",
+      "options": [
+        "Time synchronization",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Time synchronization",
+      "explanation": "Time synchronization"
+    },
+    {
+      "id": 21,
+      "difficulty": "medium",
+      "question": "Why is UTC important in forensics?",
+      "options": [
+        "Consistent time reference",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Consistent time reference",
+      "explanation": "Consistent time reference"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is clock skew?",
+      "options": [
+        "Difference between system clocks",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Difference between system clocks",
+      "explanation": "Difference between system clocks"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "Which timestamp is least reliable on some file systems?",
+      "options": [
+        "Accessed",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "Accessed",
+      "explanation": "Accessed"
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What forensic artifact helps validate timestamps?",
+      "options": [
+        "System logs",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "System logs",
+      "explanation": "System logs"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Metadata is often stored in:",
+      "options": [
+        "File system structures",
+        "Incorrect Option 1",
+        "Incorrect Option 2",
+        "Incorrect Option 3"
+      ],
+      "correct_answer": "File system structures",
+      "explanation": "File system structures"
+    }
+  ]
+}

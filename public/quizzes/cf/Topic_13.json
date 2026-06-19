@@ -1,0 +1,331 @@
+{
+  "topic": "Hexadecimal and Hex Editors",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is hexadecimal?",
+      "options": [
+        "Base-16 number system",
+        "Base-10 number system",
+        "Base-8 number system",
+        "Base-2 number system"
+      ],
+      "correct_answer": "Base-16 number system",
+      "explanation": "Hexadecimal uses 16 symbols: 0-9 and A-F."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which hexadecimal digit represents decimal 15?",
+      "options": [
+        "F",
+        "E",
+        "A",
+        "10"
+      ],
+      "correct_answer": "F",
+      "explanation": "In hexadecimal, F equals decimal 15."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Why is hexadecimal commonly used in forensics?",
+      "options": [
+        "Compact representation of binary data",
+        "Encrypts evidence",
+        "Compresses files",
+        "Improves network speed"
+      ],
+      "correct_answer": "Compact representation of binary data",
+      "explanation": "Hexadecimal makes binary data easier to read and analyze."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is a hex editor?",
+      "options": [
+        "Tool for viewing raw file data",
+        "Image editor",
+        "Compiler",
+        "Antivirus"
+      ],
+      "correct_answer": "Tool for viewing raw file data",
+      "explanation": "Hex editors display data at the byte level."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the hexadecimal equivalent of decimal 10?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "A",
+      "explanation": "Decimal 10 is represented as A in hexadecimal."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "How many bits are represented by one hexadecimal digit?",
+      "options": [
+        "4",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "4",
+      "explanation": "4"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the hexadecimal value after 9?",
+      "options": [
+        "A",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "A",
+      "explanation": "A"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is a file signature?",
+      "options": [
+        "Unique byte pattern identifying file type",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Unique byte pattern identifying file type",
+      "explanation": "Unique byte pattern identifying file type"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What are file signatures also called?",
+      "options": [
+        "Magic numbers",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Magic numbers",
+      "explanation": "Magic numbers"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Why do investigators examine file headers?",
+      "options": [
+        "Verify actual file type",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Verify actual file type",
+      "explanation": "Verify actual file type"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which file type commonly begins with FF D8 FF?",
+      "options": [
+        "JPEG",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "JPEG",
+      "explanation": "JPEG"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which file type commonly begins with 89 50 4E 47?",
+      "options": [
+        "PNG",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "PNG",
+      "explanation": "PNG"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which file type commonly begins with 25 50 44 46?",
+      "options": [
+        "PDF",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "PDF",
+      "explanation": "PDF"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Can a file extension be misleading?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What helps identify a renamed executable file?",
+      "options": [
+        "File signature",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "File signature",
+      "explanation": "File signature"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Why are hex editors useful in forensics?",
+      "options": [
+        "Analyze raw evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Analyze raw evidence",
+      "explanation": "Analyze raw evidence"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What can hidden data in a file reveal?",
+      "options": [
+        "Potential evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Potential evidence",
+      "explanation": "Potential evidence"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is byte-level analysis?",
+      "options": [
+        "Examining raw file contents",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Examining raw file contents",
+      "explanation": "Examining raw file contents"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Why compare file extension with signature?",
+      "options": [
+        "Detect masquerading files",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Detect masquerading files",
+      "explanation": "Detect masquerading files"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is endianess?",
+      "options": [
+        "Byte storage order",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Byte storage order",
+      "explanation": "Byte storage order"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why inspect file headers manually?",
+      "options": [
+        "Validate file identity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Validate file identity",
+      "explanation": "Validate file identity"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which forensic task often relies on hex analysis?",
+      "options": [
+        "File carving",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "File carving",
+      "explanation": "File carving"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is file carving?",
+      "options": [
+        "Recovering files from raw data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Recovering files from raw data",
+      "explanation": "Recovering files from raw data"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "What does 0x indicate?",
+      "options": [
+        "Hexadecimal notation",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Hexadecimal notation",
+      "explanation": "Hexadecimal notation"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Why is hexadecimal preferred over binary for analysis?",
+      "options": [
+        "More readable",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "More readable",
+      "explanation": "More readable"
+    }
+  ]
+}

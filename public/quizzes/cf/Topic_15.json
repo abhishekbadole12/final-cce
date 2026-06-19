@@ -1,0 +1,331 @@
+{
+  "topic": "Evidence Handling and Investigation",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary goal of evidence handling?",
+      "options": [
+        "Preserve evidence integrity",
+        "Increase storage",
+        "Encrypt evidence",
+        "Compress evidence"
+      ],
+      "correct_answer": "Preserve evidence integrity",
+      "explanation": "Evidence must remain unchanged and trustworthy throughout the investigation."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What document tracks the movement of evidence?",
+      "options": [
+        "Chain of Custody",
+        "Incident Report",
+        "Audit Log",
+        "Case Summary"
+      ],
+      "correct_answer": "Chain of Custody",
+      "explanation": "Chain of Custody records who handled evidence and when."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Who is usually the first responder at a digital crime scene?",
+      "options": [
+        "Investigator or responder",
+        "Judge",
+        "Lawyer",
+        "Customer"
+      ],
+      "correct_answer": "Investigator or responder",
+      "explanation": "The first responder secures and documents the scene."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Why should evidence be documented?",
+      "options": [
+        "Maintain accountability",
+        "Reduce file size",
+        "Improve speed",
+        "Encrypt data"
+      ],
+      "correct_answer": "Maintain accountability",
+      "explanation": "Documentation ensures all actions are recorded."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is evidence contamination?",
+      "options": [
+        "Unintended modification of evidence",
+        "Encryption of evidence",
+        "Compression of evidence",
+        "Recovery of evidence"
+      ],
+      "correct_answer": "Unintended modification of evidence",
+      "explanation": "Contamination can make evidence unreliable."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What should be done before analyzing evidence?",
+      "options": [
+        "Create a forensic copy",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Create a forensic copy",
+      "explanation": "Create a forensic copy"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Why are original devices usually not analyzed directly?",
+      "options": [
+        "To prevent modification",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "To prevent modification",
+      "explanation": "To prevent modification"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is evidence acquisition?",
+      "options": [
+        "Collecting digital evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Collecting digital evidence",
+      "explanation": "Collecting digital evidence"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is forensic duplication?",
+      "options": [
+        "Creating an exact copy of evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Creating an exact copy of evidence",
+      "explanation": "Creating an exact copy of evidence"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Why are photographs taken at a crime scene?",
+      "options": [
+        "Document evidence condition",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Document evidence condition",
+      "explanation": "Document evidence condition"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is an evidence checkout log used for?",
+      "options": [
+        "Track evidence access",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Track evidence access",
+      "explanation": "Track evidence access"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which principle requires evidence to remain unchanged?",
+      "options": [
+        "Integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Integrity"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the purpose of evidence packaging?",
+      "options": [
+        "Protect evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Protect evidence",
+      "explanation": "Protect evidence"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why are timestamps important during investigations?",
+      "options": [
+        "Timeline reconstruction",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Timeline reconstruction",
+      "explanation": "Timeline reconstruction"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What should be recorded when evidence changes hands?",
+      "options": [
+        "Transfer details",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Transfer details",
+      "explanation": "Transfer details"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the risk of poor evidence handling?",
+      "options": [
+        "Evidence inadmissibility",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence inadmissibility",
+      "explanation": "Evidence inadmissibility"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Why is chain of custody critical in court?",
+      "options": [
+        "Proves evidence integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Proves evidence integrity",
+      "explanation": "Proves evidence integrity"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What should investigators do if evidence appears altered?",
+      "options": [
+        "Document and report",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Document and report",
+      "explanation": "Document and report"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the purpose of forensic authentication?",
+      "options": [
+        "Verify evidence authenticity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Verify evidence authenticity",
+      "explanation": "Verify evidence authenticity"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Why is evidence preservation the first priority?",
+      "options": [
+        "Prevent loss of information",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Prevent loss of information",
+      "explanation": "Prevent loss of information"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Which action may invalidate evidence?",
+      "options": [
+        "Unauthorized modification",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Unauthorized modification",
+      "explanation": "Unauthorized modification"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the purpose of evidence sealing?",
+      "options": [
+        "Detect tampering",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Detect tampering",
+      "explanation": "Detect tampering"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What role does documentation play in investigations?",
+      "options": [
+        "Supports findings",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Supports findings",
+      "explanation": "Supports findings"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "Why should investigators follow standard procedures?",
+      "options": [
+        "Ensure consistency",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Ensure consistency",
+      "explanation": "Ensure consistency"
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the most important characteristic of digital evidence?",
+      "options": [
+        "Integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Integrity"
+    }
+  ]
+}

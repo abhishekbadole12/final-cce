@@ -1,0 +1,331 @@
+{
+  "topic": "Forensic Imaging",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is forensic imaging?",
+      "options": [
+        "Creating an exact copy of digital evidence",
+        "Taking screenshots",
+        "Encrypting evidence",
+        "Compressing files"
+      ],
+      "correct_answer": "Creating an exact copy of digital evidence",
+      "explanation": "Forensic imaging creates a complete copy of evidence while preserving integrity."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Why is forensic imaging performed?",
+      "options": [
+        "To preserve original evidence",
+        "To improve performance",
+        "To reduce storage",
+        "To encrypt files"
+      ],
+      "correct_answer": "To preserve original evidence",
+      "explanation": "Investigators work on copies instead of originals."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which imaging method captures every sector of a disk?",
+      "options": [
+        "Physical imaging",
+        "Logical imaging",
+        "File copy",
+        "Backup imaging"
+      ],
+      "correct_answer": "Physical imaging",
+      "explanation": "Physical imaging creates a bit-by-bit copy of storage media."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is logical imaging?",
+      "options": [
+        "Copying selected files and folders",
+        "Copying every sector",
+        "Taking screenshots",
+        "Capturing RAM"
+      ],
+      "correct_answer": "Copying selected files and folders",
+      "explanation": "Logical imaging acquires only accessible files."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the primary difference between logical and physical imaging?",
+      "options": [
+        "Physical captures all sectors",
+        "Logical is faster than physical",
+        "Logical captures RAM",
+        "No difference"
+      ],
+      "correct_answer": "Physical captures all sectors",
+      "explanation": "Physical imaging includes deleted and hidden data."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does RAW image format represent?",
+      "options": [
+        "Bit-by-bit disk image",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Bit-by-bit disk image",
+      "explanation": "Bit-by-bit disk image"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which format is associated with EnCase?",
+      "options": [
+        "E01",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "E01",
+      "explanation": "E01"
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which imaging format is open-source?",
+      "options": [
+        "AFF",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "AFF",
+      "explanation": "AFF"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is live imaging?",
+      "options": [
+        "Imaging a running system",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Imaging a running system",
+      "explanation": "Imaging a running system"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is dead imaging?",
+      "options": [
+        "Imaging a powered-off system",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Imaging a powered-off system",
+      "explanation": "Imaging a powered-off system"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why calculate a source hash before imaging?",
+      "options": [
+        "Verify original integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Verify original integrity",
+      "explanation": "Verify original integrity"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Why calculate a destination hash after imaging?",
+      "options": [
+        "Verify image integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Verify image integrity",
+      "explanation": "Verify image integrity"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What does matching source and destination hashes indicate?",
+      "options": [
+        "Successful acquisition",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Successful acquisition",
+      "explanation": "Successful acquisition"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which type of imaging captures deleted files?",
+      "options": [
+        "Physical imaging",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Physical imaging",
+      "explanation": "Physical imaging"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why should investigators avoid working on original evidence?",
+      "options": [
+        "Prevent modification",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Prevent modification",
+      "explanation": "Prevent modification"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is a forensic image verification process?",
+      "options": [
+        "Hash comparison",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Hash comparison",
+      "explanation": "Hash comparison"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Which imaging method is preferred for full forensic investigations?",
+      "options": [
+        "Physical imaging",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Physical imaging",
+      "explanation": "Physical imaging"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What risk exists during live imaging?",
+      "options": [
+        "Evidence changes during acquisition",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence changes during acquisition",
+      "explanation": "Evidence changes during acquisition"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What can be captured only through live acquisition?",
+      "options": [
+        "Volatile memory",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Volatile memory",
+      "explanation": "Volatile memory"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Why is RAM considered volatile?",
+      "options": [
+        "Data is lost when power is removed",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Data is lost when power is removed",
+      "explanation": "Data is lost when power is removed"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What forensic value does physical imaging provide?",
+      "options": [
+        "Recovery of deleted data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Recovery of deleted data",
+      "explanation": "Recovery of deleted data"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What happens if image verification fails?",
+      "options": [
+        "Integrity is questionable",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Integrity is questionable",
+      "explanation": "Integrity is questionable"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why are imaging logs important?",
+      "options": [
+        "Document acquisition process",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Document acquisition process",
+      "explanation": "Document acquisition process"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "Which tool is commonly used for forensic imaging?",
+      "options": [
+        "FTK Imager",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "FTK Imager",
+      "explanation": "FTK Imager"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "What is evidence acquisition?",
+      "options": [
+        "Collecting digital evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Collecting digital evidence",
+      "explanation": "Collecting digital evidence"
+    }
+  ]
+}

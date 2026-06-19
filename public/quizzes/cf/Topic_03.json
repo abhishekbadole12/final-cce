@@ -1,0 +1,331 @@
+{
+  "topic": "FAT32 vs NTFS",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does FAT stand for?",
+      "options": [
+        "File Allocation Table",
+        "File Access Tree",
+        "Fast Allocation Table",
+        "File Allocation Tracker"
+      ],
+      "correct_answer": "File Allocation Table",
+      "explanation": "FAT stands for File Allocation Table."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What does NTFS stand for?",
+      "options": [
+        "New Technology File System",
+        "Network Transfer File System",
+        "Native Technology File System",
+        "New Transfer File Service"
+      ],
+      "correct_answer": "New Technology File System",
+      "explanation": "NTFS is the standard Windows file system."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which file system is older?",
+      "options": [
+        "FAT32",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "FAT32",
+      "explanation": "FAT32"
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which file system is the default for modern Windows?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What database does NTFS use to track files?",
+      "options": [
+        "Master File Table (MFT)",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Master File Table (MFT)",
+      "explanation": "Master File Table (MFT)"
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Which file system supports file permissions?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "Which file system has a maximum file size limit of 4GB?",
+      "options": [
+        "FAT32",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "FAT32",
+      "explanation": "FAT32"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "Which file system is more suitable for USB drives?",
+      "options": [
+        "FAT32",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "FAT32",
+      "explanation": "FAT32"
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "Where are metadata records stored in NTFS?",
+      "options": [
+        "MFT",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "MFT",
+      "explanation": "MFT"
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "Which file system provides journaling?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "Why is NTFS preferred in forensics?",
+      "options": [
+        "Stores richer metadata",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Stores richer metadata",
+      "explanation": "Stores richer metadata"
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What happens to an MFT entry after file deletion?",
+      "options": [
+        "Marked as deleted",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Marked as deleted",
+      "explanation": "Marked as deleted"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which file system is compatible with more operating systems?",
+      "options": [
+        "FAT32",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "FAT32",
+      "explanation": "FAT32"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is a resident file in NTFS?",
+      "options": [
+        "File data stored within MFT entry",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "File data stored within MFT entry",
+      "explanation": "File data stored within MFT entry"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is a non-resident file in NTFS?",
+      "options": [
+        "Data stored outside MFT",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Data stored outside MFT",
+      "explanation": "Data stored outside MFT"
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which file system supports compression?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which file system supports encryption (EFS)?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What forensic artifact is central to NTFS analysis?",
+      "options": [
+        "MFT",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "MFT",
+      "explanation": "MFT"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "How are deleted FAT32 files identified?",
+      "options": [
+        "First character replaced",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "First character replaced",
+      "explanation": "First character replaced"
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which file system has better fault tolerance?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is NTFS journaling used for?",
+      "options": [
+        "Recovery and consistency",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Recovery and consistency",
+      "explanation": "Recovery and consistency"
+    },
+    {
+      "id": 22,
+      "difficulty": "medium",
+      "question": "Which file system supports access control lists?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which structure stores cluster allocation in FAT32?",
+      "options": [
+        "File Allocation Table",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "File Allocation Table",
+      "explanation": "File Allocation Table"
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why can deleted files often be recovered?",
+      "options": [
+        "Data remains until overwritten",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Data remains until overwritten",
+      "explanation": "Data remains until overwritten"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Which file system generally performs better with large disks?",
+      "options": [
+        "NTFS",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "NTFS",
+      "explanation": "NTFS"
+    }
+  ]
+}

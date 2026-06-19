@@ -1,0 +1,331 @@
+{
+  "topic": "Cyber Forensics Process and Procedures",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "Which phase of cyber forensics focuses on protecting evidence from alteration?",
+      "options": [
+        "Preservation",
+        "Interpretation",
+        "Reporting",
+        "Recovery"
+      ],
+      "correct_answer": "Preservation",
+      "explanation": "Preservation ensures evidence remains unchanged and admissible."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the purpose of identification in cyber forensics?",
+      "options": [
+        "Locate potential evidence",
+        "Delete malware",
+        "Recover passwords",
+        "Encrypt evidence"
+      ],
+      "correct_answer": "Locate potential evidence",
+      "explanation": "Identification determines which systems and artifacts may contain evidence."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which phase involves collecting evidence from digital sources?",
+      "options": [
+        "Extraction",
+        "Preservation",
+        "Interpretation",
+        "Preparation"
+      ],
+      "correct_answer": "Extraction",
+      "explanation": "Extraction is the process of acquiring relevant digital evidence."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Why is documentation important during an investigation?",
+      "options": [
+        "Creates an audit trail",
+        "Encrypts evidence",
+        "Improves performance",
+        "Compresses data"
+      ],
+      "correct_answer": "Creates an audit trail",
+      "explanation": "Documentation records every action taken during the investigation."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is interpretation in cyber forensics?",
+      "options": [
+        "Analyzing evidence and drawing conclusions",
+        "Deleting evidence",
+        "Imaging disks",
+        "Capturing packets"
+      ],
+      "correct_answer": "Analyzing evidence and drawing conclusions",
+      "explanation": "Interpretation converts collected evidence into meaningful findings."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is the primary goal of cyber forensics?",
+      "options": [
+        "Discover and present digital evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Discover and present digital evidence",
+      "explanation": "Discover and present digital evidence"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which activity should occur before an incident happens?",
+      "options": [
+        "Preparation",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Preparation",
+      "explanation": "Preparation"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is forensic readiness?",
+      "options": [
+        "Preparation for future investigations",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Preparation for future investigations",
+      "explanation": "Preparation for future investigations"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the purpose of an incident response plan?",
+      "options": [
+        "Guide incident handling",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Guide incident handling",
+      "explanation": "Guide incident handling"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which process ensures evidence remains legally defensible?",
+      "options": [
+        "Chain of custody",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Chain of custody",
+      "explanation": "Chain of custody"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the first action after identifying an incident?",
+      "options": [
+        "Preserve evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Preserve evidence",
+      "explanation": "Preserve evidence"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which phase creates a timeline of events?",
+      "options": [
+        "Analysis",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Analysis",
+      "explanation": "Analysis"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the output of a forensic investigation?",
+      "options": [
+        "Investigation report",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Investigation report",
+      "explanation": "Investigation report"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why are standard procedures important?",
+      "options": [
+        "Ensure consistency",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Ensure consistency",
+      "explanation": "Ensure consistency"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is a digital artifact?",
+      "options": [
+        "Evidence generated by system activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence generated by system activity",
+      "explanation": "Evidence generated by system activity"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Why is evidence integrity critical?",
+      "options": [
+        "Maintains admissibility",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Maintains admissibility",
+      "explanation": "Maintains admissibility"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is evidence authentication?",
+      "options": [
+        "Verifying evidence is genuine",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Verifying evidence is genuine",
+      "explanation": "Verifying evidence is genuine"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the role of forensic analysis?",
+      "options": [
+        "Transform evidence into findings",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Transform evidence into findings",
+      "explanation": "Transform evidence into findings"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Why should investigators avoid assumptions?",
+      "options": [
+        "Maintain objectivity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Maintain objectivity",
+      "explanation": "Maintain objectivity"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the purpose of evidence correlation?",
+      "options": [
+        "Link related artifacts",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Link related artifacts",
+      "explanation": "Link related artifacts"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is repeatability important in investigations?",
+      "options": [
+        "Results can be verified",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Results can be verified",
+      "explanation": "Results can be verified"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is a forensic methodology?",
+      "options": [
+        "Structured investigation process",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Structured investigation process",
+      "explanation": "Structured investigation process"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which activity may compromise evidence?",
+      "options": [
+        "Unauthorized access",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "Unauthorized access"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "What is incident detection?",
+      "options": [
+        "Recognizing suspicious activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Recognizing suspicious activity",
+      "explanation": "Recognizing suspicious activity"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Which phase often produces conclusions and recommendations?",
+      "options": [
+        "Reporting",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Reporting",
+      "explanation": "Reporting"
+    }
+  ]
+}

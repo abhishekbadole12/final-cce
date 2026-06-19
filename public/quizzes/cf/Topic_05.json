@@ -1,0 +1,331 @@
+{
+  "topic": "Hashing and Integrity Verification",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of hashing in digital forensics?",
+      "options": [
+        "Verify data integrity",
+        "Encrypt data",
+        "Compress data",
+        "Recover deleted files"
+      ],
+      "correct_answer": "Verify data integrity",
+      "explanation": "Hashing is used to verify that evidence has not been altered."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which of the following is a hash algorithm?",
+      "options": [
+        "MD5",
+        "AES",
+        "RSA",
+        "DES"
+      ],
+      "correct_answer": "MD5",
+      "explanation": "MD5 is a hashing algorithm, while AES, RSA, and DES are cryptographic algorithms."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "A hash value is also known as:",
+      "options": [
+        "Digital fingerprint",
+        "Encryption key",
+        "Certificate",
+        "Token"
+      ],
+      "correct_answer": "Digital fingerprint",
+      "explanation": "A hash uniquely represents data content."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What happens if even one bit changes in a file?",
+      "options": [
+        "Hash changes significantly",
+        "Hash remains same",
+        "File gets deleted",
+        "Nothing happens"
+      ],
+      "correct_answer": "Hash changes significantly",
+      "explanation": "Hash algorithms exhibit the avalanche effect."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Which hash algorithm produces a 128-bit hash value?",
+      "options": [
+        "MD5",
+        "SHA-256",
+        "SHA-512",
+        "SHA-1"
+      ],
+      "correct_answer": "MD5",
+      "explanation": "MD5 generates a 128-bit digest."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the purpose of comparing source and destination hashes after imaging?",
+      "options": [
+        "Verify integrity",
+        "Increase speed",
+        "Compress image",
+        "Encrypt evidence"
+      ],
+      "correct_answer": "Verify integrity",
+      "explanation": "Matching hashes confirm an exact copy."
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "What is a hash collision?",
+      "options": [
+        "Two different inputs producing the same hash",
+        "Hash corruption",
+        "Hash encryption",
+        "Hash deletion"
+      ],
+      "correct_answer": "Two different inputs producing the same hash",
+      "explanation": "A collision occurs when different data results in identical hash values."
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "Why is MD5 considered weak today?",
+      "options": [
+        "Collision vulnerabilities",
+        "Slow speed",
+        "Large output",
+        "Hardware dependency"
+      ],
+      "correct_answer": "Collision vulnerabilities",
+      "explanation": "Researchers have demonstrated practical MD5 collisions."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Which algorithm produces a 160-bit digest?",
+      "options": [
+        "SHA-1",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "SHA-1",
+      "explanation": "SHA-1"
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Hashing is primarily used for what forensic objective?",
+      "options": [
+        "Integrity verification",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Integrity verification",
+      "explanation": "Integrity verification"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is destination hash?",
+      "options": [
+        "Hash calculated on copied evidence",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Hash calculated on copied evidence",
+      "explanation": "Hash calculated on copied evidence"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What should happen before evidence imaging?",
+      "options": [
+        "Calculate source hash",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Calculate source hash",
+      "explanation": "Calculate source hash"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which property ensures same input gives same hash?",
+      "options": [
+        "Determinism",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Determinism",
+      "explanation": "Determinism"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Can hashing recover deleted files?",
+      "options": [
+        "No",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "No",
+      "explanation": "No"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What does SHA stand for?",
+      "options": [
+        "Secure Hash Algorithm",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Secure Hash Algorithm",
+      "explanation": "Secure Hash Algorithm"
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which is stronger: MD5 or SHA-256?",
+      "options": [
+        "SHA-256",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "SHA-256",
+      "explanation": "SHA-256"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the avalanche effect?",
+      "options": [
+        "Small change causes major hash difference",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Small change causes major hash difference",
+      "explanation": "Small change causes major hash difference"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Why are hashes admissible in court?",
+      "options": [
+        "They verify evidence integrity",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "They verify evidence integrity",
+      "explanation": "They verify evidence integrity"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What happens if source and destination hashes differ?",
+      "options": [
+        "Evidence copy may be invalid",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Evidence copy may be invalid",
+      "explanation": "Evidence copy may be invalid"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Which attack exploits hash collisions?",
+      "options": [
+        "Collision attack",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Collision attack",
+      "explanation": "Collision attack"
+    },
+    {
+      "id": 21,
+      "difficulty": "medium",
+      "question": "What type of output does hashing generate?",
+      "options": [
+        "Fixed-length output",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Fixed-length output",
+      "explanation": "Fixed-length output"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is bit rot?",
+      "options": [
+        "Gradual corruption of stored data",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Gradual corruption of stored data",
+      "explanation": "Gradual corruption of stored data"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "Can two identical files have different hashes?",
+      "options": [
+        "No",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "No",
+      "explanation": "No"
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "What does forensic verification require after imaging?",
+      "options": [
+        "Hash comparison",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Hash comparison",
+      "explanation": "Hash comparison"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Which hash algorithm is commonly used today?",
+      "options": [
+        "SHA-256",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "SHA-256",
+      "explanation": "SHA-256"
+    }
+  ]
+}

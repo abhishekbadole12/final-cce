@@ -1,0 +1,331 @@
+{
+  "topic": "Live System Forensics",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Live System Forensics?",
+      "options": [
+        "Collecting evidence from a running system",
+        "Analyzing powered-off systems",
+        "Recovering deleted files",
+        "Network design"
+      ],
+      "correct_answer": "Collecting evidence from a running system",
+      "explanation": "Live forensics acquires volatile and non-volatile data while the system is running."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Why is live forensics performed?",
+      "options": [
+        "To collect volatile evidence",
+        "To format drives",
+        "To encrypt files",
+        "To compress data"
+      ],
+      "correct_answer": "To collect volatile evidence",
+      "explanation": "Volatile evidence may be lost when a system is powered off."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which type of memory is considered volatile?",
+      "options": [
+        "RAM",
+        "Hard Disk",
+        "SSD",
+        "USB Drive"
+      ],
+      "correct_answer": "RAM",
+      "explanation": "RAM contents disappear when power is removed."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is one major risk of live acquisition?",
+      "options": [
+        "Evidence may change during collection",
+        "Data becomes encrypted",
+        "Hashes disappear",
+        "Disk sectors are removed"
+      ],
+      "correct_answer": "Evidence may change during collection",
+      "explanation": "A running system continues generating activity."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Which artifact can only be obtained from a running system?",
+      "options": [
+        "RAM contents",
+        "Deleted files",
+        "File signatures",
+        "Slack space"
+      ],
+      "correct_answer": "RAM contents",
+      "explanation": "Memory contents are lost after shutdown."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does volatile data mean?",
+      "options": [
+        "Data lost after power-off",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Data lost after power-off",
+      "explanation": "Data lost after power-off"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which evidence source may contain running processes?",
+      "options": [
+        "RAM",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "RAM",
+      "explanation": "RAM"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "Why is RAM important in investigations?",
+      "options": [
+        "Contains active system information",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Contains active system information",
+      "explanation": "Contains active system information"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What can memory analysis reveal?",
+      "options": [
+        "Running malware",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Running malware",
+      "explanation": "Running malware"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which command displays running processes on Linux?",
+      "options": [
+        "ps",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "ps",
+      "explanation": "ps"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which Windows artifact shows active processes?",
+      "options": [
+        "Task Manager",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Task Manager",
+      "explanation": "Task Manager"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a memory dump?",
+      "options": [
+        "Snapshot of RAM",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Snapshot of RAM",
+      "explanation": "Snapshot of RAM"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Why collect network connections during live analysis?",
+      "options": [
+        "Identify active communications",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Identify active communications",
+      "explanation": "Identify active communications"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What can active sessions reveal?",
+      "options": [
+        "Logged-in users",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Logged-in users",
+      "explanation": "Logged-in users"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which evidence should generally be collected first?",
+      "options": [
+        "Volatile evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Volatile evidence",
+      "explanation": "Volatile evidence"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Why is order of volatility important?",
+      "options": [
+        "Most volatile data disappears first",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Most volatile data disappears first",
+      "explanation": "Most volatile data disappears first"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What can memory forensics reveal that disk analysis cannot?",
+      "options": [
+        "Encryption keys in memory",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Encryption keys in memory",
+      "explanation": "Encryption keys in memory"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Why should investigators minimize interaction with a live system?",
+      "options": [
+        "Avoid altering evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Avoid altering evidence",
+      "explanation": "Avoid altering evidence"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is one challenge of live acquisition?",
+      "options": [
+        "System state changes continuously",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "System state changes continuously",
+      "explanation": "System state changes continuously"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What forensic value do active network connections provide?",
+      "options": [
+        "Identify ongoing communications",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Identify ongoing communications",
+      "explanation": "Identify ongoing communications"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why might malware only exist in memory?",
+      "options": [
+        "Fileless execution",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Fileless execution",
+      "explanation": "Fileless execution"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is fileless malware?",
+      "options": [
+        "Malware operating primarily in memory",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Malware operating primarily in memory",
+      "explanation": "Malware operating primarily in memory"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Why are live response tools carefully selected?",
+      "options": [
+        "Reduce evidence contamination",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Reduce evidence contamination",
+      "explanation": "Reduce evidence contamination"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "What type of evidence may disappear after reboot?",
+      "options": [
+        "Volatile evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Volatile evidence",
+      "explanation": "Volatile evidence"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Which forensic discipline focuses on RAM analysis?",
+      "options": [
+        "Memory forensics",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Memory forensics",
+      "explanation": "Memory forensics"
+    }
+  ]
+}

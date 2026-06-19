@@ -1,0 +1,331 @@
+{
+  "topic": "Incident Response",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary objective of an incident response plan?",
+      "options": [
+        "Increase storage",
+        "Manage and respond to security incidents",
+        "Develop software",
+        "Encrypt files"
+      ],
+      "correct_answer": "Manage and respond to security incidents",
+      "explanation": "Incident response plans provide a structured approach to handling security incidents."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which phase comes first in the incident response lifecycle?",
+      "options": [
+        "Preparation",
+        "Containment",
+        "Recovery",
+        "Eradication"
+      ],
+      "correct_answer": "Preparation",
+      "explanation": "Preparation ensures resources, policies, and procedures are in place."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Who is responsible for handling cybersecurity incidents?",
+      "options": [
+        "Incident Response Team",
+        "Marketing Team",
+        "Customers",
+        "Vendors"
+      ],
+      "correct_answer": "Incident Response Team",
+      "explanation": "The Incident Response Team manages and investigates incidents."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is an incident?",
+      "options": [
+        "A violation of security policy",
+        "Normal activity",
+        "Backup operation",
+        "Software installation"
+      ],
+      "correct_answer": "A violation of security policy",
+      "explanation": "An incident is an event that threatens confidentiality, integrity, or availability."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the purpose of the containment phase?",
+      "options": [
+        "Limit damage",
+        "Recover systems",
+        "Write reports",
+        "Delete evidence"
+      ],
+      "correct_answer": "Limit damage",
+      "explanation": "Containment prevents an incident from spreading further."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Which phase involves removing the root cause of an incident?",
+      "options": [
+        "Eradication",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Eradication",
+      "explanation": "Eradication"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "Which phase restores systems to normal operation?",
+      "options": [
+        "Recovery",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Recovery",
+      "explanation": "Recovery"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What should be collected during an incident investigation?",
+      "options": [
+        "Evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence",
+      "explanation": "Evidence"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "Why is documentation important during incident response?",
+      "options": [
+        "Maintains investigation records",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Maintains investigation records",
+      "explanation": "Maintains investigation records"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is an indicator of compromise (IOC)?",
+      "options": [
+        "Evidence of malicious activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence of malicious activity",
+      "explanation": "Evidence of malicious activity"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which document defines roles and responsibilities during incidents?",
+      "options": [
+        "Incident response plan",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Incident response plan",
+      "explanation": "Incident response plan"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What should be done before modifying affected systems?",
+      "options": [
+        "Collect evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Collect evidence",
+      "explanation": "Collect evidence"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the purpose of incident detection?",
+      "options": [
+        "Identify security events",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Identify security events",
+      "explanation": "Identify security events"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What should be preserved during an investigation?",
+      "options": [
+        "Digital evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Digital evidence",
+      "explanation": "Digital evidence"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Which phase analyzes response effectiveness after an incident?",
+      "options": [
+        "Lessons learned",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Lessons learned",
+      "explanation": "Lessons learned"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Why is evidence preservation important?",
+      "options": [
+        "Maintain admissibility",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Maintain admissibility",
+      "explanation": "Maintain admissibility"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is a false positive in incident detection?",
+      "options": [
+        "Benign activity identified as malicious",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Benign activity identified as malicious",
+      "explanation": "Benign activity identified as malicious"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Why should timestamps be recorded during response?",
+      "options": [
+        "Timeline reconstruction",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Timeline reconstruction",
+      "explanation": "Timeline reconstruction"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the main goal of forensic readiness?",
+      "options": [
+        "Prepare for investigations",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Prepare for investigations",
+      "explanation": "Prepare for investigations"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Why should responders avoid altering evidence?",
+      "options": [
+        "Prevent contamination",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Prevent contamination",
+      "explanation": "Prevent contamination"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is evidence contamination?",
+      "options": [
+        "Unintended modification of evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Unintended modification of evidence",
+      "explanation": "Unintended modification of evidence"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the role of chain of custody during incident response?",
+      "options": [
+        "Track evidence handling",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Track evidence handling",
+      "explanation": "Track evidence handling"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "Which phase often involves patching vulnerabilities?",
+      "options": [
+        "Eradication",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Eradication",
+      "explanation": "Eradication"
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why is rapid incident identification important?",
+      "options": [
+        "Reduce impact",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Reduce impact",
+      "explanation": "Reduce impact"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "What is the purpose of monitoring after recovery?",
+      "options": [
+        "Detect recurrence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Detect recurrence",
+      "explanation": "Detect recurrence"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "topic": "Chain of Custody",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is Chain of Custody?",
+      "options": [
+        "A legal document tracking evidence",
+        "A firewall rule",
+        "A backup method",
+        "An encryption key"
+      ],
+      "correct_answer": "A legal document tracking evidence",
+      "explanation": "Chain of Custody records evidence handling."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Why is Chain of Custody important?",
+      "options": [
+        "Improves internet speed",
+        "Maintains evidence integrity",
+        "Creates backups",
+        "Detects malware"
+      ],
+      "correct_answer": "Maintains evidence integrity",
+      "explanation": "It proves evidence was not tampered with."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Who should sign evidence transfers?",
+      "options": [
+        "Anyone",
+        "Authorized personnel",
+        "Customers",
+        "Auditors only"
+      ],
+      "correct_answer": "Authorized personnel",
+      "explanation": "All transfers must be documented."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What information is typically recorded?",
+      "options": [
+        "Evidence ID",
+        "Handler details",
+        "Date/time",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "explanation": "Complete tracking information is required."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "If Chain of Custody is broken, evidence may be:",
+      "options": [
+        "More secure",
+        "Rejected in court",
+        "Encrypted",
+        "Recovered"
+      ],
+      "correct_answer": "Rejected in court",
+      "explanation": "Courts may question its reliability."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Evidence tags are used to:",
+      "options": [
+        "Delete evidence",
+        "Identify evidence uniquely",
+        "Compress files",
+        "Hash data"
+      ],
+      "correct_answer": "Identify evidence uniquely",
+      "explanation": "Each item should have a unique identifier."
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "What is the primary legal purpose of Chain of Custody?",
+      "options": [
+        "Evidence admissibility",
+        "System performance",
+        "Storage optimization",
+        "User management"
+      ],
+      "correct_answer": "Evidence admissibility",
+      "explanation": "It helps establish trustworthiness of evidence."
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "Which action can compromise Chain of Custody?",
+      "options": [
+        "Proper logging",
+        "Unauthorized access",
+        "Evidence sealing",
+        "Documentation"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "Unrecorded access raises concerns."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is Chain of Custody?",
+      "options": [
+        "A legal document tracking evidence",
+        "A firewall rule",
+        "A backup method",
+        "An encryption key"
+      ],
+      "correct_answer": "A legal document tracking evidence",
+      "explanation": "Chain of Custody records evidence handling."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Why is Chain of Custody important?",
+      "options": [
+        "Improves internet speed",
+        "Maintains evidence integrity",
+        "Creates backups",
+        "Detects malware"
+      ],
+      "correct_answer": "Maintains evidence integrity",
+      "explanation": "It proves evidence was not tampered with."
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "Who should sign evidence transfers?",
+      "options": [
+        "Anyone",
+        "Authorized personnel",
+        "Customers",
+        "Auditors only"
+      ],
+      "correct_answer": "Authorized personnel",
+      "explanation": "All transfers must be documented."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What information is typically recorded?",
+      "options": [
+        "Evidence ID",
+        "Handler details",
+        "Date/time",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "explanation": "Complete tracking information is required."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "If Chain of Custody is broken, evidence may be:",
+      "options": [
+        "More secure",
+        "Rejected in court",
+        "Encrypted",
+        "Recovered"
+      ],
+      "correct_answer": "Rejected in court",
+      "explanation": "Courts may question its reliability."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Evidence tags are used to:",
+      "options": [
+        "Delete evidence",
+        "Identify evidence uniquely",
+        "Compress files",
+        "Hash data"
+      ],
+      "correct_answer": "Identify evidence uniquely",
+      "explanation": "Each item should have a unique identifier."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the primary legal purpose of Chain of Custody?",
+      "options": [
+        "Evidence admissibility",
+        "System performance",
+        "Storage optimization",
+        "User management"
+      ],
+      "correct_answer": "Evidence admissibility",
+      "explanation": "It helps establish trustworthiness of evidence."
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Which action can compromise Chain of Custody?",
+      "options": [
+        "Proper logging",
+        "Unauthorized access",
+        "Evidence sealing",
+        "Documentation"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "Unrecorded access raises concerns."
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "question": "What is Chain of Custody?",
+      "options": [
+        "A legal document tracking evidence",
+        "A firewall rule",
+        "A backup method",
+        "An encryption key"
+      ],
+      "correct_answer": "A legal document tracking evidence",
+      "explanation": "Chain of Custody records evidence handling."
+    },
+    {
+      "id": 18,
+      "difficulty": "easy",
+      "question": "Why is Chain of Custody important?",
+      "options": [
+        "Improves internet speed",
+        "Maintains evidence integrity",
+        "Creates backups",
+        "Detects malware"
+      ],
+      "correct_answer": "Maintains evidence integrity",
+      "explanation": "It proves evidence was not tampered with."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "Who should sign evidence transfers?",
+      "options": [
+        "Anyone",
+        "Authorized personnel",
+        "Customers",
+        "Auditors only"
+      ],
+      "correct_answer": "Authorized personnel",
+      "explanation": "All transfers must be documented."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What information is typically recorded?",
+      "options": [
+        "Evidence ID",
+        "Handler details",
+        "Date/time",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "explanation": "Complete tracking information is required."
+    },
+    {
+      "id": 21,
+      "difficulty": "medium",
+      "question": "If Chain of Custody is broken, evidence may be:",
+      "options": [
+        "More secure",
+        "Rejected in court",
+        "Encrypted",
+        "Recovered"
+      ],
+      "correct_answer": "Rejected in court",
+      "explanation": "Courts may question its reliability."
+    },
+    {
+      "id": 22,
+      "difficulty": "medium",
+      "question": "Evidence tags are used to:",
+      "options": [
+        "Delete evidence",
+        "Identify evidence uniquely",
+        "Compress files",
+        "Hash data"
+      ],
+      "correct_answer": "Identify evidence uniquely",
+      "explanation": "Each item should have a unique identifier."
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What is the primary legal purpose of Chain of Custody?",
+      "options": [
+        "Evidence admissibility",
+        "System performance",
+        "Storage optimization",
+        "User management"
+      ],
+      "correct_answer": "Evidence admissibility",
+      "explanation": "It helps establish trustworthiness of evidence."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which action can compromise Chain of Custody?",
+      "options": [
+        "Proper logging",
+        "Unauthorized access",
+        "Evidence sealing",
+        "Documentation"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "Unrecorded access raises concerns."
+    },
+    {
+      "id": 25,
+      "difficulty": "easy",
+      "question": "What is Chain of Custody?",
+      "options": [
+        "A legal document tracking evidence",
+        "A firewall rule",
+        "A backup method",
+        "An encryption key"
+      ],
+      "correct_answer": "A legal document tracking evidence",
+      "explanation": "Chain of Custody records evidence handling."
+    }
+  ]
+}

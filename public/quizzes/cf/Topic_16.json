@@ -1,0 +1,331 @@
+{
+  "topic": "Forensic Tools (FTK, FTK Imager, Sysinternals, OSF)",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What does FTK stand for?",
+      "options": [
+        "Forensic Toolkit",
+        "File Tracking Kit",
+        "Forensic Tracking Kernel",
+        "File Toolkit"
+      ],
+      "correct_answer": "Forensic Toolkit",
+      "explanation": "FTK is a widely used digital forensics suite."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is FTK Imager primarily used for?",
+      "options": [
+        "Evidence acquisition and imaging",
+        "Packet capture",
+        "Firewall management",
+        "Source code analysis"
+      ],
+      "correct_answer": "Evidence acquisition and imaging",
+      "explanation": "FTK Imager is used to create forensic images and preview evidence."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which tool suite is developed by Microsoft for system analysis?",
+      "options": [
+        "Sysinternals",
+        "Wireshark",
+        "Autopsy",
+        "EnCase"
+      ],
+      "correct_answer": "Sysinternals",
+      "explanation": "Sysinternals provides advanced Windows troubleshooting and forensic tools."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which Sysinternals tool displays running processes?",
+      "options": [
+        "Process Explorer",
+        "Autoruns",
+        "TCPView",
+        "DiskMon"
+      ],
+      "correct_answer": "Process Explorer",
+      "explanation": "Process Explorer provides detailed information about running processes."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the purpose of Autoruns?",
+      "options": [
+        "View startup programs",
+        "Capture packets",
+        "Hash files",
+        "Image disks"
+      ],
+      "correct_answer": "View startup programs",
+      "explanation": "Autoruns shows programs that start automatically."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which tool can display network connections on Windows?",
+      "options": [
+        "TCPView",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "TCPView",
+      "explanation": "TCPView"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which tool is commonly used to create forensic disk images?",
+      "options": [
+        "FTK Imager",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "FTK Imager",
+      "explanation": "FTK Imager"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is OSF primarily used for?",
+      "options": [
+        "Forensic analysis",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Forensic analysis",
+      "explanation": "Forensic analysis"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "Which tool helps identify persistence mechanisms?",
+      "options": [
+        "Autoruns",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Autoruns",
+      "explanation": "Autoruns"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which Sysinternals tool monitors file and registry activity?",
+      "options": [
+        "Process Monitor",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Process Monitor",
+      "explanation": "Process Monitor"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is Process Monitor commonly used for?",
+      "options": [
+        "System activity analysis",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "System activity analysis",
+      "explanation": "System activity analysis"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which tool helps investigate open files and handles?",
+      "options": [
+        "Process Explorer",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Process Explorer",
+      "explanation": "Process Explorer"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Can FTK Imager mount forensic images?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What forensic artifact can FTK Imager preview?",
+      "options": [
+        "File system contents",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "File system contents",
+      "explanation": "File system contents"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which tool helps identify suspicious processes?",
+      "options": [
+        "Process Explorer",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Process Explorer",
+      "explanation": "Process Explorer"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Why is FTK Imager preferred for acquisition?",
+      "options": [
+        "Preserves evidence integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Preserves evidence integrity",
+      "explanation": "Preserves evidence integrity"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Which tool can reveal hidden startup entries?",
+      "options": [
+        "Autoruns",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Autoruns",
+      "explanation": "Autoruns"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the forensic value of Process Monitor logs?",
+      "options": [
+        "Activity reconstruction",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Activity reconstruction",
+      "explanation": "Activity reconstruction"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Why are forensic tools preferred over native OS tools?",
+      "options": [
+        "Preserve evidence and provide detailed analysis",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Preserve evidence and provide detailed analysis",
+      "explanation": "Preserve evidence and provide detailed analysis"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Which tool can help identify malware persistence?",
+      "options": [
+        "Autoruns",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Autoruns",
+      "explanation": "Autoruns"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why should tool output be documented?",
+      "options": [
+        "Support investigation findings",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Support investigation findings",
+      "explanation": "Support investigation findings"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the primary benefit of forensic suites?",
+      "options": [
+        "Integrated analysis capabilities",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Integrated analysis capabilities",
+      "explanation": "Integrated analysis capabilities"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Which Sysinternals tool assists in malware investigations?",
+      "options": [
+        "Process Explorer",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Process Explorer",
+      "explanation": "Process Explorer"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "What should be verified after imaging with FTK Imager?",
+      "options": [
+        "Hash values",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Hash values",
+      "explanation": "Hash values"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Which forensic tool category includes FTK Imager?",
+      "options": [
+        "Acquisition tools",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Acquisition tools",
+      "explanation": "Acquisition tools"
+    }
+  ]
+}

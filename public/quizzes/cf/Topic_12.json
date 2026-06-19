@@ -1,0 +1,331 @@
+{
+  "topic": "Linux Forensics",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "Which command displays running processes in Linux?",
+      "options": [
+        "ps",
+        "ls",
+        "pwd",
+        "grep"
+      ],
+      "correct_answer": "ps",
+      "explanation": "The ps command displays currently running processes."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which command provides a real-time view of system processes?",
+      "options": [
+        "top",
+        "cat",
+        "chmod",
+        "mkdir"
+      ],
+      "correct_answer": "top",
+      "explanation": "top displays dynamic information about running processes."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which directory contains system log files in Linux?",
+      "options": [
+        "/var/log",
+        "/etc",
+        "/home",
+        "/boot"
+      ],
+      "correct_answer": "/var/log",
+      "explanation": "Most Linux logs are stored under /var/log."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which file commonly records user command history?",
+      "options": [
+        ".bash_history",
+        "passwd",
+        "fstab",
+        "shadow"
+      ],
+      "correct_answer": ".bash_history",
+      "explanation": "The .bash_history file stores previously executed shell commands."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the purpose of the /proc filesystem?",
+      "options": [
+        "Provides process and kernel information",
+        "Stores user files",
+        "Stores logs",
+        "Stores backups"
+      ],
+      "correct_answer": "Provides process and kernel information",
+      "explanation": "/proc is a virtual filesystem containing runtime system information."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which log file commonly stores authentication events?",
+      "options": [
+        "auth.log",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "auth.log",
+      "explanation": "auth.log"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which log file records general system events?",
+      "options": [
+        "syslog",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "syslog",
+      "explanation": "syslog"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What information does a PID represent?",
+      "options": [
+        "Process ID",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Process ID",
+      "explanation": "Process ID"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is PPID?",
+      "options": [
+        "Parent Process ID",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Parent Process ID",
+      "explanation": "Parent Process ID"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which command can display process hierarchy?",
+      "options": [
+        "pstree",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "pstree",
+      "explanation": "pstree"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Why is bash history useful in forensics?",
+      "options": [
+        "Shows user commands",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Shows user commands",
+      "explanation": "Shows user commands"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What does a zombie process represent?",
+      "options": [
+        "Terminated process awaiting cleanup",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Terminated process awaiting cleanup",
+      "explanation": "Terminated process awaiting cleanup"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which directory contains process-specific information?",
+      "options": [
+        "/proc",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "/proc",
+      "explanation": "/proc"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What forensic evidence can logs provide?",
+      "options": [
+        "User and system activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "User and system activity",
+      "explanation": "User and system activity"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Why is log analysis important?",
+      "options": [
+        "Reconstruct events",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Reconstruct events",
+      "explanation": "Reconstruct events"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What can auth.log reveal?",
+      "options": [
+        "Login attempts",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Login attempts",
+      "explanation": "Login attempts"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What can syslog reveal?",
+      "options": [
+        "System activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "System activity",
+      "explanation": "System activity"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Which artifact helps identify privilege escalation?",
+      "options": [
+        "Authentication logs",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Authentication logs",
+      "explanation": "Authentication logs"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Why should timestamps in logs be analyzed carefully?",
+      "options": [
+        "Timeline reconstruction",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Timeline reconstruction",
+      "explanation": "Timeline reconstruction"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What can deleted log entries indicate?",
+      "options": [
+        "Potential anti-forensics",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Potential anti-forensics",
+      "explanation": "Potential anti-forensics"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Which process often has PID 1 on Linux?",
+      "options": [
+        "init/systemd",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "init/systemd",
+      "explanation": "init/systemd"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is volatile process information important?",
+      "options": [
+        "May disappear after shutdown",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "May disappear after shutdown",
+      "explanation": "May disappear after shutdown"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "Which command can search log files?",
+      "options": [
+        "grep",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "grep",
+      "explanation": "grep"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "Which file contains account information?",
+      "options": [
+        "/etc/passwd",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "/etc/passwd",
+      "explanation": "/etc/passwd"
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What forensic value does /proc provide?",
+      "options": [
+        "Live process details",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Live process details",
+      "explanation": "Live process details"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "topic": "File Deletion, Slack Space and Unallocated Space",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What typically happens when a file is deleted from a file system?",
+      "options": [
+        "Data is immediately erased",
+        "File reference is removed",
+        "Disk is formatted",
+        "RAM is cleared"
+      ],
+      "correct_answer": "File reference is removed",
+      "explanation": "Most file systems remove the reference while the actual data remains until overwritten."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Where is data usually moved after deletion?",
+      "options": [
+        "Unallocated space",
+        "CPU cache",
+        "Registry",
+        "BIOS"
+      ],
+      "correct_answer": "Unallocated space",
+      "explanation": "Deleted file data often resides in unallocated space until overwritten."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is unallocated space?",
+      "options": [
+        "Unused disk space not assigned to files",
+        "RAM memory",
+        "Network storage",
+        "Cloud backup"
+      ],
+      "correct_answer": "Unused disk space not assigned to files",
+      "explanation": "Unallocated space may contain remnants of deleted files."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is slack space?",
+      "options": [
+        "Unused bytes in an allocated cluster",
+        "Free RAM",
+        "Encrypted partition",
+        "System cache"
+      ],
+      "correct_answer": "Unused bytes in an allocated cluster",
+      "explanation": "Slack space exists when a file does not completely fill its allocated cluster."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Why is unallocated space important in forensics?",
+      "options": [
+        "It may contain deleted evidence",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "It may contain deleted evidence",
+      "explanation": "It may contain deleted evidence"
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Can deleted files be recovered?",
+      "options": [
+        "Yes, if not overwritten",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Yes, if not overwritten",
+      "explanation": "Yes, if not overwritten"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "What determines whether a deleted file can be recovered?",
+      "options": [
+        "Whether data has been overwritten",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Whether data has been overwritten",
+      "explanation": "Whether data has been overwritten"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "Which area commonly contains remnants of previous files?",
+      "options": [
+        "Slack space",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Slack space",
+      "explanation": "Slack space"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is file carving?",
+      "options": [
+        "Recovering files using signatures",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Recovering files using signatures",
+      "explanation": "Recovering files using signatures"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Why does deleted data remain on disk?",
+      "options": [
+        "Only references are removed",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Only references are removed",
+      "explanation": "Only references are removed"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What forensic technique recovers files without metadata?",
+      "options": [
+        "File carving",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "File carving",
+      "explanation": "File carving"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which file system structure is updated during deletion?",
+      "options": [
+        "File allocation records",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "File allocation records",
+      "explanation": "File allocation records"
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "Why is slack space valuable to investigators?",
+      "options": [
+        "It may contain remnants of previous data",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "It may contain remnants of previous data",
+      "explanation": "It may contain remnants of previous data"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What can overwrite deleted data?",
+      "options": [
+        "New file writes",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "New file writes",
+      "explanation": "New file writes"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Which artifact can reveal previously stored information?",
+      "options": [
+        "Slack space",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Slack space",
+      "explanation": "Slack space"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is cluster slack?",
+      "options": [
+        "Unused bytes between file end and cluster end",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Unused bytes between file end and cluster end",
+      "explanation": "Unused bytes between file end and cluster end"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Can unallocated space contain malware remnants?",
+      "options": [
+        "Yes",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Why is forensic imaging preferred before recovery?",
+      "options": [
+        "To preserve evidence",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "To preserve evidence",
+      "explanation": "To preserve evidence"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is data remanence?",
+      "options": [
+        "Residual data remaining after deletion",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Residual data remaining after deletion",
+      "explanation": "Residual data remaining after deletion"
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "Which forensic tool can analyze unallocated space?",
+      "options": [
+        "FTK Imager",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "FTK Imager",
+      "explanation": "FTK Imager"
+    },
+    {
+      "id": 21,
+      "difficulty": "medium",
+      "question": "What is a file signature used for during recovery?",
+      "options": [
+        "Identifying file types",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Identifying file types",
+      "explanation": "Identifying file types"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why is secure deletion different from normal deletion?",
+      "options": [
+        "It overwrites data",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "It overwrites data",
+      "explanation": "It overwrites data"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "What is one risk of using a live system during recovery?",
+      "options": [
+        "Evidence alteration",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Evidence alteration",
+      "explanation": "Evidence alteration"
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Why do investigators analyze disk sectors directly?",
+      "options": [
+        "To locate hidden or deleted data",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "To locate hidden or deleted data",
+      "explanation": "To locate hidden or deleted data"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "What happens when deleted data is overwritten?",
+      "options": [
+        "Recovery becomes difficult",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": "Recovery becomes difficult",
+      "explanation": "Recovery becomes difficult"
+    }
+  ]
+}

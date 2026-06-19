@@ -1,0 +1,331 @@
+{
+  "topic": "Write Blockers",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a write blocker?",
+      "options": [
+        "Prevent modification of evidence",
+        "Encrypt evidence",
+        "Compress evidence",
+        "Recover deleted files"
+      ],
+      "correct_answer": "Prevent modification of evidence",
+      "explanation": "A write blocker prevents any changes from being made to the original evidence."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Why are write blockers used during forensic acquisition?",
+      "options": [
+        "To preserve evidence integrity",
+        "To speed up imaging",
+        "To reduce storage space",
+        "To detect malware"
+      ],
+      "correct_answer": "To preserve evidence integrity",
+      "explanation": "They ensure evidence remains unchanged during analysis."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "A write blocker allows investigators to:",
+      "options": [
+        "Read evidence without modifying it",
+        "Delete files safely",
+        "Format drives",
+        "Install software on evidence"
+      ],
+      "correct_answer": "Read evidence without modifying it",
+      "explanation": "Write blockers provide read-only access."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "Which type of write blocker is a physical device?",
+      "options": [
+        "Hardware write blocker",
+        "Software write blocker",
+        "Virtual write blocker",
+        "Cloud write blocker"
+      ],
+      "correct_answer": "Hardware write blocker",
+      "explanation": "Hardware write blockers are dedicated devices placed between evidence and workstation."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is a software write blocker?",
+      "options": [
+        "Software that prevents write operations",
+        "A disk partition",
+        "A backup utility",
+        "An antivirus application"
+      ],
+      "correct_answer": "Software that prevents write operations",
+      "explanation": "Software write blockers restrict write access through the operating system."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which forensic principle supports the use of write blockers?",
+      "options": [
+        "Evidence integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence integrity",
+      "explanation": "Evidence integrity"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Can a write blocker prevent accidental file deletion?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "When should a write blocker be used?",
+      "options": [
+        "Before evidence acquisition",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Before evidence acquisition",
+      "explanation": "Before evidence acquisition"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What can happen if evidence is connected without write protection?",
+      "options": [
+        "Metadata may change",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Metadata may change",
+      "explanation": "Metadata may change"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which type of write blocker is generally preferred in court?",
+      "options": [
+        "Hardware write blocker",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Hardware write blocker",
+      "explanation": "Hardware write blocker"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What operation should remain possible through a write blocker?",
+      "options": [
+        "Read access",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Read access",
+      "explanation": "Read access"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Can write blockers be used with hard drives?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Can write blockers be used with USB storage devices?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is evidence contamination?",
+      "options": [
+        "Unintended modification of evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Unintended modification of evidence",
+      "explanation": "Unintended modification of evidence"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Why are hardware write blockers considered more reliable?",
+      "options": [
+        "Independent of operating system",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Independent of operating system",
+      "explanation": "Independent of operating system"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What risk exists if imaging is performed without a write blocker?",
+      "options": [
+        "Evidence alteration",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence alteration",
+      "explanation": "Evidence alteration"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Which forensic process depends heavily on write blockers?",
+      "options": [
+        "Evidence acquisition",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence acquisition",
+      "explanation": "Evidence acquisition"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "How can a write blocker help maintain chain of custody?",
+      "options": [
+        "Preserves evidence state",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Preserves evidence state",
+      "explanation": "Preserves evidence state"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What may change on a disk simply by mounting it?",
+      "options": [
+        "Timestamps and metadata",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Timestamps and metadata",
+      "explanation": "Timestamps and metadata"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Why is evidence admissibility affected by write protection?",
+      "options": [
+        "Integrity must be preserved",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Integrity must be preserved",
+      "explanation": "Integrity must be preserved"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What should be verified before acquisition begins?",
+      "options": [
+        "Write blocker functionality",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Write blocker functionality",
+      "explanation": "Write blocker functionality"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is the purpose of testing a write blocker?",
+      "options": [
+        "Ensure write operations are blocked",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Ensure write operations are blocked",
+      "explanation": "Ensure write operations are blocked"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "Which device is placed between evidence drive and forensic workstation?",
+      "options": [
+        "Hardware write blocker",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Hardware write blocker",
+      "explanation": "Hardware write blocker"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "Can software write blockers fail due to OS behavior?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "What is the strongest justification for using write blockers?",
+      "options": [
+        "Prevent evidence modification",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Prevent evidence modification",
+      "explanation": "Prevent evidence modification"
+    }
+  ]
+}

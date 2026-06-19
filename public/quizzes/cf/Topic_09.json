@@ -1,0 +1,331 @@
+{
+  "topic": "Windows Registry Forensics",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the Windows Registry?",
+      "options": [
+        "A hierarchical database storing system settings",
+        "A file system",
+        "A network protocol",
+        "An antivirus tool"
+      ],
+      "correct_answer": "A hierarchical database storing system settings",
+      "explanation": "The Windows Registry stores configuration settings for Windows and applications."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which registry hive stores local user account information?",
+      "options": [
+        "SAM",
+        "SYSTEM",
+        "SOFTWARE",
+        "SECURITY"
+      ],
+      "correct_answer": "SAM",
+      "explanation": "SAM contains local user account and authentication information."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Which hive stores hardware and boot configuration information?",
+      "options": [
+        "SYSTEM",
+        "SAM",
+        "NTUSER.DAT",
+        "SECURITY"
+      ],
+      "correct_answer": "SYSTEM",
+      "explanation": "The SYSTEM hive contains startup and hardware configuration data."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which file stores user-specific registry settings?",
+      "options": [
+        "NTUSER.DAT",
+        "SAM",
+        "SYSTEM",
+        "SOFTWARE"
+      ],
+      "correct_answer": "NTUSER.DAT",
+      "explanation": "NTUSER.DAT contains per-user registry settings."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Which registry hive stores installed software information?",
+      "options": [
+        "SOFTWARE",
+        "SYSTEM",
+        "SAM",
+        "SECURITY"
+      ],
+      "correct_answer": "SOFTWARE",
+      "explanation": "The SOFTWARE hive contains application configuration data."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Which hive contains local security policy settings?",
+      "options": [
+        "SECURITY",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "SECURITY",
+      "explanation": "SECURITY"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "What forensic artifact can reveal recently opened files?",
+      "options": [
+        "Registry entries",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Registry entries",
+      "explanation": "Registry entries"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "Which hive helps identify installed applications?",
+      "options": [
+        "SOFTWARE",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "SOFTWARE",
+      "explanation": "SOFTWARE"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What file stores a user's registry profile?",
+      "options": [
+        "NTUSER.DAT",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "NTUSER.DAT",
+      "explanation": "NTUSER.DAT"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which registry key is commonly used for persistence?",
+      "options": [
+        "Run key",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Run key",
+      "explanation": "Run key"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What information can SAM reveal?",
+      "options": [
+        "User accounts",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "User accounts",
+      "explanation": "User accounts"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Which hive is loaded during system startup?",
+      "options": [
+        "SYSTEM",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "SYSTEM",
+      "explanation": "SYSTEM"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What can registry timestamps help establish?",
+      "options": [
+        "Activity timeline",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Activity timeline",
+      "explanation": "Activity timeline"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which registry area stores USB device history?",
+      "options": [
+        "USBSTOR",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "USBSTOR",
+      "explanation": "USBSTOR"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is a registry hive?",
+      "options": [
+        "Logical grouping of registry data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Logical grouping of registry data",
+      "explanation": "Logical grouping of registry data"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Why is registry analysis important in forensics?",
+      "options": [
+        "Reconstruct user activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Reconstruct user activity",
+      "explanation": "Reconstruct user activity"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Which artifact can reveal auto-starting programs?",
+      "options": [
+        "Run keys",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Run keys",
+      "explanation": "Run keys"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is registry persistence?",
+      "options": [
+        "Maintaining execution after reboot",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Maintaining execution after reboot",
+      "explanation": "Maintaining execution after reboot"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Which registry artifact helps identify connected USB devices?",
+      "options": [
+        "USBSTOR key",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "USBSTOR key",
+      "explanation": "USBSTOR key"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What can LastWrite timestamps indicate?",
+      "options": [
+        "Registry modification time",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Registry modification time",
+      "explanation": "Registry modification time"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why should registry hives be preserved during acquisition?",
+      "options": [
+        "Contain valuable evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Contain valuable evidence",
+      "explanation": "Contain valuable evidence"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Which hive is most useful for user-specific activity analysis?",
+      "options": [
+        "NTUSER.DAT",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "NTUSER.DAT",
+      "explanation": "NTUSER.DAT"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What forensic value does the SOFTWARE hive provide?",
+      "options": [
+        "Installed application history",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Installed application history",
+      "explanation": "Installed application history"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "What is a registry key?",
+      "options": [
+        "Container for registry values",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Container for registry values",
+      "explanation": "Container for registry values"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "What is a registry value?",
+      "options": [
+        "Individual configuration entry",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Individual configuration entry",
+      "explanation": "Individual configuration entry"
+    }
+  ]
+}

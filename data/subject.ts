@@ -82,7 +82,6 @@ export const SUBJECTS = {
         ]
     },
 
-
     ca: {
         name: 'Compliance Audit',
         topics: [
@@ -152,6 +151,31 @@ export const SUBJECTS = {
             { id: '53', name: 'Compliance Audit of Anti-Corruption Regulations', file: 'Topic_53_Compliance_Audit_of_Anti_Corruption_Regulations_MCQs_With_Explanations.json' }
         ]
 
+    },
+
+    cf: {
+        name: 'Cyber Forensics',
+        topics: [
+            { id: '01', name: 'Computer Forensics' },
+            { id: '02', name: 'Chain of Custody' },
+            { id: '03', name: 'FAT32 vs NTFS' },
+            { id: '04', name: 'Metadata & Timestamps' },
+            { id: '05', name: 'Hashing & Integrity Verification' },
+            { id: '06', name: 'File Deletion, Slack Space & Unallocated Space' },
+            { id: '07', name: 'Incident Response' },
+            { id: '08', name: 'Network Forensics' },
+            { id: '09', name: 'Windows Registry Forensics' },
+            { id: '10', name: 'Forensic Imaging' },
+            { id: '11', name: 'Write Blockers' },
+            { id: '12', name: 'Linux Forensics' },
+            { id: '13', name: 'Hexadecimal & Hex Editors' },
+            { id: '14', name: 'Encoding & Encryption' },
+            { id: '15', name: 'Evidence Handling & Investigation' },
+            { id: '16', name: 'Forensic Tools (FTK, FTK Imager, Sysinternals, OSF)' },
+            { id: '17', name: 'Live System Forensics' },
+            { id: '18', name: 'Mobile Forensics' },
+            { id: '19', name: 'Cyber Forensics Process & Procedures' }
+        ]
     }
 } as const;
 

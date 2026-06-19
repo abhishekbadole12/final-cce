@@ -1,0 +1,331 @@
+{
+  "topic": "Network Forensics",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is network forensics primarily concerned with?",
+      "options": [
+        "Analyzing network traffic",
+        "Designing networks",
+        "Managing databases",
+        "Writing malware"
+      ],
+      "correct_answer": "Analyzing network traffic",
+      "explanation": "Network forensics focuses on capturing and analyzing network communications."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which tool is most commonly used for packet analysis?",
+      "options": [
+        "Wireshark",
+        "Photoshop",
+        "FTK Imager",
+        "Excel"
+      ],
+      "correct_answer": "Wireshark",
+      "explanation": "Wireshark is the industry-standard packet analysis tool."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is a packet?",
+      "options": [
+        "A unit of network data",
+        "A file system record",
+        "A registry key",
+        "A hash value"
+      ],
+      "correct_answer": "A unit of network data",
+      "explanation": "Network communication is transmitted in packets."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "Which protocol translates domain names into IP addresses?",
+      "options": [
+        "DNS",
+        "HTTP",
+        "FTP",
+        "SMTP"
+      ],
+      "correct_answer": "DNS",
+      "explanation": "DNS resolves domain names to IP addresses."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the purpose of promiscuous mode?",
+      "options": [
+        "Capture all visible packets",
+        "Encrypt traffic",
+        "Block malware",
+        "Improve bandwidth"
+      ],
+      "correct_answer": "Capture all visible packets",
+      "explanation": "Promiscuous mode allows a NIC to capture all traffic it can see."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does PCAP stand for?",
+      "options": [
+        "Packet Capture",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Packet Capture",
+      "explanation": "Packet Capture"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which protocol is used for web traffic?",
+      "options": [
+        "HTTP",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "HTTP",
+      "explanation": "HTTP"
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which protocol is commonly used for secure web traffic?",
+      "options": [
+        "HTTPS",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "HTTPS",
+      "explanation": "HTTPS"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the difference between packet capture and packet analysis?",
+      "options": [
+        "Capture collects packets; analysis examines them",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Capture collects packets; analysis examines them",
+      "explanation": "Capture collects packets; analysis examines them"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What does an IP address identify?",
+      "options": [
+        "A network host",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "A network host",
+      "explanation": "A network host"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which protocol is used for error reporting and diagnostics?",
+      "options": [
+        "ICMP",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "ICMP",
+      "explanation": "ICMP"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is a packet payload?",
+      "options": [
+        "Actual transmitted data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Actual transmitted data",
+      "explanation": "Actual transmitted data"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which filter displays only DNS packets in Wireshark?",
+      "options": [
+        "dns",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "dns",
+      "explanation": "dns"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Which filter displays HTTP traffic?",
+      "options": [
+        "http",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "http",
+      "explanation": "http"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is a frame?",
+      "options": [
+        "Data link layer unit",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Data link layer unit",
+      "explanation": "Data link layer unit"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is live capture?",
+      "options": [
+        "Capturing traffic in real time",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Capturing traffic in real time",
+      "explanation": "Capturing traffic in real time"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is PCAP analysis?",
+      "options": [
+        "Examining previously captured packets",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Examining previously captured packets",
+      "explanation": "Examining previously captured packets"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Why are timestamps important in packet analysis?",
+      "options": [
+        "Timeline reconstruction",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Timeline reconstruction",
+      "explanation": "Timeline reconstruction"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is a TCP three-way handshake?",
+      "options": [
+        "Connection establishment process",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Connection establishment process",
+      "explanation": "Connection establishment process"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Which field identifies source and destination communication endpoints?",
+      "options": [
+        "Port number",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Port number",
+      "explanation": "Port number"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why do investigators inspect packet headers?",
+      "options": [
+        "Extract metadata",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Extract metadata",
+      "explanation": "Extract metadata"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What can packet payloads reveal?",
+      "options": [
+        "User activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "User activity",
+      "explanation": "User activity"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "Which filter displays traffic on port 80?",
+      "options": [
+        "tcp.port == 80",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "tcp.port == 80",
+      "explanation": "tcp.port == 80"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "Which protocol is connection-oriented?",
+      "options": [
+        "TCP",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "TCP",
+      "explanation": "TCP"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "Which protocol is connectionless?",
+      "options": [
+        "UDP",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "UDP",
+      "explanation": "UDP"
+    }
+  ]
+}

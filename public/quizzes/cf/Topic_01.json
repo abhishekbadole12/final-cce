@@ -1,0 +1,331 @@
+{
+  "topic": "Computer Forensics",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is computer forensics primarily concerned with?",
+      "options": [
+        "Network design",
+        "Digital evidence",
+        "Programming",
+        "Database tuning"
+      ],
+      "correct_answer": "Digital evidence",
+      "explanation": "Computer forensics focuses on collecting and analyzing digital evidence."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which phase comes first in a forensic investigation?",
+      "options": [
+        "Analysis",
+        "Preservation",
+        "Reporting",
+        "Presentation"
+      ],
+      "correct_answer": "Preservation",
+      "explanation": "Evidence must be preserved before examination."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Computer forensics is often used to investigate:",
+      "options": [
+        "Cybercrimes",
+        "Weather",
+        "Agriculture",
+        "Architecture"
+      ],
+      "correct_answer": "Cybercrimes",
+      "explanation": "It helps investigate cyber incidents and crimes."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "Which principle ensures evidence remains unchanged?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Redundancy",
+        "Compression"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Evidence integrity is essential for admissibility."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the purpose of documentation in forensics?",
+      "options": [
+        "Delete evidence",
+        "Track investigation activities",
+        "Encrypt files",
+        "Format disks"
+      ],
+      "correct_answer": "Track investigation activities",
+      "explanation": "Documentation records every action performed."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "Which step involves presenting findings in court?",
+      "options": [
+        "Collection",
+        "Analysis",
+        "Presentation",
+        "Preservation"
+      ],
+      "correct_answer": "Presentation",
+      "explanation": "Findings are formally presented during the final stage."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is computer forensics primarily concerned with?",
+      "options": [
+        "Network design",
+        "Digital evidence",
+        "Programming",
+        "Database tuning"
+      ],
+      "correct_answer": "Digital evidence",
+      "explanation": "Computer forensics focuses on collecting and analyzing digital evidence."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "Which phase comes first in a forensic investigation?",
+      "options": [
+        "Analysis",
+        "Preservation",
+        "Reporting",
+        "Presentation"
+      ],
+      "correct_answer": "Preservation",
+      "explanation": "Evidence must be preserved before examination."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Computer forensics is often used to investigate:",
+      "options": [
+        "Cybercrimes",
+        "Weather",
+        "Agriculture",
+        "Architecture"
+      ],
+      "correct_answer": "Cybercrimes",
+      "explanation": "It helps investigate cyber incidents and crimes."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which principle ensures evidence remains unchanged?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Redundancy",
+        "Compression"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Evidence integrity is essential for admissibility."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the purpose of documentation in forensics?",
+      "options": [
+        "Delete evidence",
+        "Track investigation activities",
+        "Encrypt files",
+        "Format disks"
+      ],
+      "correct_answer": "Track investigation activities",
+      "explanation": "Documentation records every action performed."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "Which step involves presenting findings in court?",
+      "options": [
+        "Collection",
+        "Analysis",
+        "Presentation",
+        "Preservation"
+      ],
+      "correct_answer": "Presentation",
+      "explanation": "Findings are formally presented during the final stage."
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is computer forensics primarily concerned with?",
+      "options": [
+        "Network design",
+        "Digital evidence",
+        "Programming",
+        "Database tuning"
+      ],
+      "correct_answer": "Digital evidence",
+      "explanation": "Computer forensics focuses on collecting and analyzing digital evidence."
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "Which phase comes first in a forensic investigation?",
+      "options": [
+        "Analysis",
+        "Preservation",
+        "Reporting",
+        "Presentation"
+      ],
+      "correct_answer": "Preservation",
+      "explanation": "Evidence must be preserved before examination."
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "Computer forensics is often used to investigate:",
+      "options": [
+        "Cybercrimes",
+        "Weather",
+        "Agriculture",
+        "Architecture"
+      ],
+      "correct_answer": "Cybercrimes",
+      "explanation": "It helps investigate cyber incidents and crimes."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "Which principle ensures evidence remains unchanged?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Redundancy",
+        "Compression"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Evidence integrity is essential for admissibility."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the purpose of documentation in forensics?",
+      "options": [
+        "Delete evidence",
+        "Track investigation activities",
+        "Encrypt files",
+        "Format disks"
+      ],
+      "correct_answer": "Track investigation activities",
+      "explanation": "Documentation records every action performed."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Which step involves presenting findings in court?",
+      "options": [
+        "Collection",
+        "Analysis",
+        "Presentation",
+        "Preservation"
+      ],
+      "correct_answer": "Presentation",
+      "explanation": "Findings are formally presented during the final stage."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is computer forensics primarily concerned with?",
+      "options": [
+        "Network design",
+        "Digital evidence",
+        "Programming",
+        "Database tuning"
+      ],
+      "correct_answer": "Digital evidence",
+      "explanation": "Computer forensics focuses on collecting and analyzing digital evidence."
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "Which phase comes first in a forensic investigation?",
+      "options": [
+        "Analysis",
+        "Preservation",
+        "Reporting",
+        "Presentation"
+      ],
+      "correct_answer": "Preservation",
+      "explanation": "Evidence must be preserved before examination."
+    },
+    {
+      "id": 21,
+      "difficulty": "easy",
+      "question": "Computer forensics is often used to investigate:",
+      "options": [
+        "Cybercrimes",
+        "Weather",
+        "Agriculture",
+        "Architecture"
+      ],
+      "correct_answer": "Cybercrimes",
+      "explanation": "It helps investigate cyber incidents and crimes."
+    },
+    {
+      "id": 22,
+      "difficulty": "medium",
+      "question": "Which principle ensures evidence remains unchanged?",
+      "options": [
+        "Availability",
+        "Integrity",
+        "Redundancy",
+        "Compression"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Evidence integrity is essential for admissibility."
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "What is the purpose of documentation in forensics?",
+      "options": [
+        "Delete evidence",
+        "Track investigation activities",
+        "Encrypt files",
+        "Format disks"
+      ],
+      "correct_answer": "Track investigation activities",
+      "explanation": "Documentation records every action performed."
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "question": "Which step involves presenting findings in court?",
+      "options": [
+        "Collection",
+        "Analysis",
+        "Presentation",
+        "Preservation"
+      ],
+      "correct_answer": "Presentation",
+      "explanation": "Findings are formally presented during the final stage."
+    },
+    {
+      "id": 25,
+      "difficulty": "easy",
+      "question": "What is computer forensics primarily concerned with?",
+      "options": [
+        "Network design",
+        "Digital evidence",
+        "Programming",
+        "Database tuning"
+      ],
+      "correct_answer": "Digital evidence",
+      "explanation": "Computer forensics focuses on collecting and analyzing digital evidence."
+    }
+  ]
+}

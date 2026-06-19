@@ -1,0 +1,331 @@
+{
+  "topic": "Encoding and Encryption",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is encoding primarily used for?",
+      "options": [
+        "Data representation",
+        "Data destruction",
+        "Authentication",
+        "Disk formatting"
+      ],
+      "correct_answer": "Data representation",
+      "explanation": "Encoding converts data into a different format for compatibility and transmission."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is encryption primarily used for?",
+      "options": [
+        "Confidentiality",
+        "Compression",
+        "Data recovery",
+        "File indexing"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "Encryption protects data from unauthorized access."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Is Base64 an encoding or encryption technique?",
+      "options": [
+        "Encoding",
+        "Encryption",
+        "Hashing",
+        "Compression"
+      ],
+      "correct_answer": "Encoding",
+      "explanation": "Base64 is an encoding scheme and provides no security."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Can encoded data be easily decoded without a key?",
+      "options": [
+        "Yes",
+        "No",
+        "Only by administrators",
+        "Only on Linux"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Encoding is reversible without secret keys."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is required to decrypt encrypted data?",
+      "options": [
+        "A key",
+        "A compiler",
+        "A hash",
+        "A backup"
+      ],
+      "correct_answer": "A key",
+      "explanation": "Decryption requires the appropriate cryptographic key."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which technique provides confidentiality?",
+      "options": [
+        "Encryption",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Encryption",
+      "explanation": "Encryption"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which technique is commonly used for email attachments and web data transfer?",
+      "options": [
+        "Base64 encoding",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Base64 encoding",
+      "explanation": "Base64 encoding"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "Does encoding provide security against attackers?",
+      "options": [
+        "No",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "No",
+      "explanation": "No"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "Which of the following is an encryption algorithm?",
+      "options": [
+        "AES",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "AES",
+      "explanation": "AES"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which process converts plaintext into ciphertext?",
+      "options": [
+        "Encryption",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Encryption",
+      "explanation": "Encryption"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which process converts ciphertext back to plaintext?",
+      "options": [
+        "Decryption",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Decryption",
+      "explanation": "Decryption"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is plaintext?",
+      "options": [
+        "Original readable data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Original readable data",
+      "explanation": "Original readable data"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is ciphertext?",
+      "options": [
+        "Encrypted unreadable data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Encrypted unreadable data",
+      "explanation": "Encrypted unreadable data"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Can encryption be reversible?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Which cryptographic algorithm is commonly used for symmetric encryption?",
+      "options": [
+        "AES",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "AES",
+      "explanation": "AES"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the primary forensic concern when encountering encrypted files?",
+      "options": [
+        "Evidence accessibility",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence accessibility",
+      "explanation": "Evidence accessibility"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Why is encoded data not considered secure?",
+      "options": [
+        "No secret key is required",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "No secret key is required",
+      "explanation": "No secret key is required"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Which encryption type uses the same key for encryption and decryption?",
+      "options": [
+        "Symmetric encryption",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Symmetric encryption",
+      "explanation": "Symmetric encryption"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Which encryption type uses public and private keys?",
+      "options": [
+        "Asymmetric encryption",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Asymmetric encryption",
+      "explanation": "Asymmetric encryption"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the role of a public key?",
+      "options": [
+        "Encrypt or verify data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Encrypt or verify data",
+      "explanation": "Encrypt or verify data"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "What is the role of a private key?",
+      "options": [
+        "Decrypt or sign data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Decrypt or sign data",
+      "explanation": "Decrypt or sign data"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "Why might attackers use encryption?",
+      "options": [
+        "Hide malicious data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Hide malicious data",
+      "explanation": "Hide malicious data"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "Can Base64-encoded malware still be malicious?",
+      "options": [
+        "Yes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Yes",
+      "explanation": "Yes"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "Which is easier to reverse: encoding or encryption?",
+      "options": [
+        "Encoding",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Encoding",
+      "explanation": "Encoding"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "What is a common indicator that data is Base64 encoded?",
+      "options": [
+        "Characters A-Z, a-z, 0-9, +, /",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Characters A-Z, a-z, 0-9, +, /",
+      "explanation": "Characters A-Z, a-z, 0-9, +, /"
+    }
+  ]
+}

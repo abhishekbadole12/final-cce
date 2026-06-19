@@ -1,0 +1,331 @@
+{
+  "topic": "Mobile Forensics",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is mobile forensics?",
+      "options": [
+        "Acquisition and analysis of mobile device evidence",
+        "Repairing smartphones",
+        "Developing mobile apps",
+        "Encrypting mobile data"
+      ],
+      "correct_answer": "Acquisition and analysis of mobile device evidence",
+      "explanation": "Mobile forensics focuses on collecting and analyzing evidence from mobile devices."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which devices are commonly examined in mobile forensics?",
+      "options": [
+        "Smartphones and tablets",
+        "Routers",
+        "Printers",
+        "Switches"
+      ],
+      "correct_answer": "Smartphones and tablets",
+      "explanation": "Mobile forensics primarily deals with smartphones and tablets."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Why is mobile forensics important?",
+      "options": [
+        "Mobile devices store valuable evidence",
+        "Improves battery life",
+        "Increases storage",
+        "Reduces network traffic"
+      ],
+      "correct_answer": "Mobile devices store valuable evidence",
+      "explanation": "Mobile devices contain messages, logs, location data, and application artifacts."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is a common challenge in mobile forensics?",
+      "options": [
+        "Device encryption",
+        "File compression",
+        "Printer configuration",
+        "DNS resolution"
+      ],
+      "correct_answer": "Device encryption",
+      "explanation": "Encryption can make data acquisition more difficult."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Which type of evidence can be recovered from a smartphone?",
+      "options": [
+        "Messages",
+        "Call logs",
+        "Location data",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "explanation": "Mobile devices store multiple types of user activity evidence."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What does SIM stand for?",
+      "options": [
+        "Subscriber Identity Module",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Subscriber Identity Module",
+      "explanation": "Subscriber Identity Module"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which component stores subscriber information?",
+      "options": [
+        "SIM card",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "SIM card",
+      "explanation": "SIM card"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is logical acquisition?",
+      "options": [
+        "Collecting accessible device data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Collecting accessible device data",
+      "explanation": "Collecting accessible device data"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is physical acquisition?",
+      "options": [
+        "Bit-by-bit copy of device storage",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Bit-by-bit copy of device storage",
+      "explanation": "Bit-by-bit copy of device storage"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Which mobile artifact reveals communication history?",
+      "options": [
+        "Call logs",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Call logs",
+      "explanation": "Call logs"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "Which artifact can reveal user movements?",
+      "options": [
+        "Location data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Location data",
+      "explanation": "Location data"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What can SMS records provide?",
+      "options": [
+        "Communication evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Communication evidence",
+      "explanation": "Communication evidence"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Which mobile evidence source contains contacts?",
+      "options": [
+        "Address book database",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Address book database",
+      "explanation": "Address book database"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Why is airplane mode often enabled during seizure?",
+      "options": [
+        "Prevent remote changes",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Prevent remote changes",
+      "explanation": "Prevent remote changes"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What can application data reveal?",
+      "options": [
+        "User activity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "User activity",
+      "explanation": "User activity"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Why is chain of custody important in mobile forensics?",
+      "options": [
+        "Maintain evidence integrity",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Maintain evidence integrity",
+      "explanation": "Maintain evidence integrity"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What challenge does biometric locking create?",
+      "options": [
+        "Access restrictions",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Access restrictions",
+      "explanation": "Access restrictions"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "Why should devices be isolated from networks?",
+      "options": [
+        "Prevent evidence modification",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Prevent evidence modification",
+      "explanation": "Prevent evidence modification"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is a forensic extraction?",
+      "options": [
+        "Acquisition of device data",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Acquisition of device data",
+      "explanation": "Acquisition of device data"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Which artifact may show recently installed apps?",
+      "options": [
+        "Application database",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Application database",
+      "explanation": "Application database"
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "question": "Why is timestamp analysis important in mobile investigations?",
+      "options": [
+        "Timeline reconstruction",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Timeline reconstruction",
+      "explanation": "Timeline reconstruction"
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "What is one risk of powering on a seized phone?",
+      "options": [
+        "Evidence alteration",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Evidence alteration",
+      "explanation": "Evidence alteration"
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "question": "What forensic value do chat applications provide?",
+      "options": [
+        "Communication evidence",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Communication evidence",
+      "explanation": "Communication evidence"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "Which mobile operating systems are most commonly investigated?",
+      "options": [
+        "Android and iOS",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Android and iOS",
+      "explanation": "Android and iOS"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "What type of data can GPS records provide?",
+      "options": [
+        "Location history",
+        "Distractor A",
+        "Distractor B",
+        "Distractor C"
+      ],
+      "correct_answer": "Location history",
+      "explanation": "Location history"
+    }
+  ]
+}
