@@ -1,0 +1,266 @@
+{
+  "topic": "SOX Compliance and Security Controls",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the primary goal of SOX compliance?",
+      "options": [
+        "Ensure reliable financial reporting",
+        "Increase sales",
+        "Improve marketing",
+        "Reduce staffing"
+      ],
+      "correct_answer": "Ensure reliable financial reporting",
+      "explanation": "SOX focuses on accurate financial reporting and internal controls."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which SOX section is most associated with internal controls?",
+      "options": [
+        "Section 404",
+        "Section 302",
+        "Section 201",
+        "Section 806"
+      ],
+      "correct_answer": "Section 404",
+      "explanation": "Section 404 requires assessment of internal control effectiveness."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "What are IT General Controls (ITGCs)?",
+      "options": [
+        "Controls supporting IT systems and processes",
+        "Financial statements",
+        "Audit reports",
+        "Tax records"
+      ],
+      "correct_answer": "Controls supporting IT systems and processes",
+      "explanation": "ITGCs help ensure reliability of IT systems used in financial reporting."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which security control restricts system access to authorized users?",
+      "options": [
+        "Access Control",
+        "Backup Control",
+        "Logging",
+        "Change Management"
+      ],
+      "correct_answer": "Access Control",
+      "explanation": "Access controls prevent unauthorized access."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Why is user access review important?",
+      "options": [
+        "To verify appropriate permissions",
+        "To increase storage",
+        "To reduce audits",
+        "To improve marketing"
+      ],
+      "correct_answer": "To verify appropriate permissions",
+      "explanation": "Regular reviews ensure users have only necessary access."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Segregation of Duties (SoD) helps prevent:",
+      "options": [
+        "Fraud and errors",
+        "Network outages",
+        "Hardware failures",
+        "Marketing issues"
+      ],
+      "correct_answer": "Fraud and errors",
+      "explanation": "Separating responsibilities reduces risk of misuse."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Change management controls are used to:",
+      "options": [
+        "Manage system modifications securely",
+        "Manage employee attendance",
+        "Control finances",
+        "Approve payroll"
+      ],
+      "correct_answer": "Manage system modifications securely",
+      "explanation": "Changes should be authorized, tested, and documented."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Audit logs provide:",
+      "options": [
+        "Evidence of system activity",
+        "Marketing metrics",
+        "Payroll records",
+        "Product reviews"
+      ],
+      "correct_answer": "Evidence of system activity",
+      "explanation": "Logs help monitor and investigate activities."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Backup controls support:",
+      "options": [
+        "Data availability and recovery",
+        "Revenue growth",
+        "Access permissions",
+        "Employee training"
+      ],
+      "correct_answer": "Data availability and recovery",
+      "explanation": "Backups protect against data loss."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Least privilege means users receive:",
+      "options": [
+        "Only the access needed for their job",
+        "Full administrator access",
+        "Temporary access only",
+        "No access"
+      ],
+      "correct_answer": "Only the access needed for their job",
+      "explanation": "Least privilege reduces risk exposure."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Password policies help strengthen:",
+      "options": [
+        "Authentication controls",
+        "Physical security",
+        "Financial reporting",
+        "Vendor management"
+      ],
+      "correct_answer": "Authentication controls",
+      "explanation": "Strong passwords improve access security."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which control helps detect unauthorized activities?",
+      "options": [
+        "Monitoring and logging",
+        "Backups",
+        "Encryption only",
+        "Documentation"
+      ],
+      "correct_answer": "Monitoring and logging",
+      "explanation": "Monitoring identifies suspicious behavior."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "SOX compliance requires organizations to:",
+      "options": [
+        "Document and test controls",
+        "Eliminate audits",
+        "Avoid monitoring",
+        "Reduce accountability"
+      ],
+      "correct_answer": "Document and test controls",
+      "explanation": "Evidence is required to demonstrate compliance."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "ITGCs are important for SOX because:",
+      "options": [
+        "Financial reporting systems depend on IT systems",
+        "They increase profits",
+        "They replace audits",
+        "They reduce regulations"
+      ],
+      "correct_answer": "Financial reporting systems depend on IT systems",
+      "explanation": "Reliable IT systems support accurate reporting."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A privileged account review helps ensure:",
+      "options": [
+        "Administrative access is appropriate",
+        "Network speed is optimized",
+        "Backups are completed",
+        "Policies are updated"
+      ],
+      "correct_answer": "Administrative access is appropriate",
+      "explanation": "Privileged accounts require special oversight."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "A control deficiency exists when:",
+      "options": [
+        "A control fails to prevent or detect issues",
+        "An audit is completed",
+        "A report is published",
+        "A password is changed"
+      ],
+      "correct_answer": "A control fails to prevent or detect issues",
+      "explanation": "Deficiencies may impact compliance and reporting."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Compensating controls are used when:",
+      "options": [
+        "Primary controls cannot be implemented",
+        "Audits are canceled",
+        "Backups fail",
+        "Policies are removed"
+      ],
+      "correct_answer": "Primary controls cannot be implemented",
+      "explanation": "Alternative controls help mitigate risk."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Continuous monitoring improves SOX compliance by:",
+      "options": [
+        "Identifying control failures early",
+        "Reducing documentation",
+        "Avoiding audits",
+        "Eliminating controls"
+      ],
+      "correct_answer": "Identifying control failures early",
+      "explanation": "Monitoring supports ongoing compliance."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "SOX security controls support:",
+      "options": [
+        "Integrity, availability, and accountability of financial systems",
+        "Marketing effectiveness",
+        "Sales performance",
+        "Recruitment"
+      ],
+      "correct_answer": "Integrity, availability, and accountability of financial systems",
+      "explanation": "Security controls protect financial reporting processes."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate objective of SOX compliance and security controls is:",
+      "options": [
+        "Ensure trustworthy financial reporting through effective controls",
+        "Increase revenue",
+        "Reduce staffing",
+        "Replace governance"
+      ],
+      "correct_answer": "Ensure trustworthy financial reporting through effective controls",
+      "explanation": "SOX combines governance, security, and internal controls."
+    }
+  ]
+}

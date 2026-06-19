@@ -1,0 +1,266 @@
+{
+  "topic": "Evaluation Process",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the evaluation process?",
+      "options": [
+        "A systematic method of assessing security",
+        "A software update process",
+        "A hiring process",
+        "A marketing process"
+      ],
+      "correct_answer": "A systematic method of assessing security",
+      "explanation": "The evaluation process follows structured steps to assess security."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "What is the first step in an evaluation process?",
+      "options": [
+        "Planning",
+        "Reporting",
+        "Closure",
+        "Remediation"
+      ],
+      "correct_answer": "Planning",
+      "explanation": "Evaluation begins by defining objectives, scope, and criteria."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Why is scope definition important?",
+      "options": [
+        "It defines evaluation boundaries",
+        "It reduces evidence",
+        "It replaces controls",
+        "It increases risk"
+      ],
+      "correct_answer": "It defines evaluation boundaries",
+      "explanation": "Scope identifies what will be assessed."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "What is collected during evaluation?",
+      "options": [
+        "Evidence",
+        "Profits",
+        "Advertisements",
+        "Invoices"
+      ],
+      "correct_answer": "Evidence",
+      "explanation": "Evidence supports evaluation findings."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Evaluation results are communicated through:",
+      "options": [
+        "Reports",
+        "Contracts",
+        "Policies",
+        "Advertisements"
+      ],
+      "correct_answer": "Reports",
+      "explanation": "Reports summarize findings and recommendations."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "The evaluation process helps organizations:",
+      "options": [
+        "Understand security effectiveness",
+        "Increase sales",
+        "Reduce staffing",
+        "Avoid compliance"
+      ],
+      "correct_answer": "Understand security effectiveness",
+      "explanation": "The process measures how well controls perform."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Evaluation criteria are used to:",
+      "options": [
+        "Measure compliance and effectiveness",
+        "Increase costs",
+        "Reduce audits",
+        "Replace policies"
+      ],
+      "correct_answer": "Measure compliance and effectiveness",
+      "explanation": "Criteria provide benchmarks for assessment."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Evidence gathering may involve:",
+      "options": [
+        "Interviews, testing, and document review",
+        "Marketing campaigns",
+        "Sales reports",
+        "Recruitment"
+      ],
+      "correct_answer": "Interviews, testing, and document review",
+      "explanation": "Multiple techniques are used to collect evidence."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Analysis in the evaluation process involves:",
+      "options": [
+        "Reviewing evidence and identifying gaps",
+        "Installing software",
+        "Managing vendors",
+        "Creating advertisements"
+      ],
+      "correct_answer": "Reviewing evidence and identifying gaps",
+      "explanation": "Analysis converts evidence into meaningful findings."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "An evaluation report should contain:",
+      "options": [
+        "Findings and recommendations",
+        "Employee salaries",
+        "Source code",
+        "Advertisements"
+      ],
+      "correct_answer": "Findings and recommendations",
+      "explanation": "Reports communicate results to stakeholders."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "The quality of evaluation results depends on:",
+      "options": [
+        "Quality of evidence",
+        "Office design",
+        "Internet speed",
+        "Printer model"
+      ],
+      "correct_answer": "Quality of evidence",
+      "explanation": "Reliable evidence leads to reliable conclusions."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "A structured evaluation process improves:",
+      "options": [
+        "Consistency",
+        "Risk exposure",
+        "Confusion",
+        "Costs only"
+      ],
+      "correct_answer": "Consistency",
+      "explanation": "Standardized processes improve repeatability."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Corrective actions are typically based on:",
+      "options": [
+        "Evaluation findings",
+        "Marketing reviews",
+        "Payroll audits",
+        "Vendor invoices"
+      ],
+      "correct_answer": "Evaluation findings",
+      "explanation": "Findings identify areas requiring improvement."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The purpose of evidence validation is to:",
+      "options": [
+        "Ensure accuracy and reliability",
+        "Reduce scope",
+        "Increase assumptions",
+        "Avoid testing"
+      ],
+      "correct_answer": "Ensure accuracy and reliability",
+      "explanation": "Validated evidence supports trustworthy conclusions."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A risk-based evaluation process focuses on:",
+      "options": [
+        "Areas with greatest risk",
+        "Random systems",
+        "Office supplies",
+        "Low-value assets"
+      ],
+      "correct_answer": "Areas with greatest risk",
+      "explanation": "Resources are allocated where risk is highest."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Evaluation planning should align with:",
+      "options": [
+        "Business and security objectives",
+        "Advertising goals",
+        "Building maintenance",
+        "Payroll processing"
+      ],
+      "correct_answer": "Business and security objectives",
+      "explanation": "Evaluations support organizational goals."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Independent review during evaluation improves:",
+      "options": [
+        "Objectivity and credibility",
+        "Audit costs",
+        "Office productivity",
+        "Network bandwidth"
+      ],
+      "correct_answer": "Objectivity and credibility",
+      "explanation": "Independent assessments are more trustworthy."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "The evaluation process supports continuous improvement by:",
+      "options": [
+        "Identifying weaknesses and corrective actions",
+        "Removing controls",
+        "Avoiding reviews",
+        "Reducing documentation"
+      ],
+      "correct_answer": "Identifying weaknesses and corrective actions",
+      "explanation": "Organizations use findings to strengthen security."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "A mature evaluation process includes:",
+      "options": [
+        "Planning, evidence collection, analysis, reporting, and follow-up",
+        "Only reporting",
+        "Only testing",
+        "Only interviews"
+      ],
+      "correct_answer": "Planning, evidence collection, analysis, reporting, and follow-up",
+      "explanation": "Multiple stages ensure comprehensive evaluation."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate objective of the evaluation process is to:",
+      "options": [
+        "Provide assurance regarding security effectiveness",
+        "Increase revenue",
+        "Reduce staffing",
+        "Replace governance"
+      ],
+      "correct_answer": "Provide assurance regarding security effectiveness",
+      "explanation": "Evaluation provides confidence in security controls and practices."
+    }
+  ]
+}

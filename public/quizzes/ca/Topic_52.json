@@ -1,0 +1,266 @@
+{
+  "topic": "Internal Audit Solution for a Global Bank",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the primary objective of an internal audit in a global bank?",
+      "options": [
+        "Evaluate controls and compliance",
+        "Increase profits",
+        "Manage payroll",
+        "Develop software"
+      ],
+      "correct_answer": "Evaluate controls and compliance",
+      "explanation": "Internal audits assess the effectiveness of controls, risk management, and compliance."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Internal audits help banks ensure:",
+      "options": [
+        "Regulatory compliance",
+        "Marketing success",
+        "Higher sales",
+        "Reduced staffing"
+      ],
+      "correct_answer": "Regulatory compliance",
+      "explanation": "Banks must comply with numerous financial and security regulations."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "A global bank's internal audit function typically reports to:",
+      "options": [
+        "Senior management and the audit committee",
+        "Customers",
+        "Vendors",
+        "Marketing team"
+      ],
+      "correct_answer": "Senior management and the audit committee",
+      "explanation": "Independence is maintained through reporting structures."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Internal auditors review:",
+      "options": [
+        "Processes, controls, and risks",
+        "Advertisements",
+        "Product pricing",
+        "Office furniture"
+      ],
+      "correct_answer": "Processes, controls, and risks",
+      "explanation": "Audit activities focus on governance, risk, and controls."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Risk-based auditing focuses on:",
+      "options": [
+        "High-risk areas",
+        "Random departments",
+        "Only IT systems",
+        "Only finance"
+      ],
+      "correct_answer": "High-risk areas",
+      "explanation": "Resources are directed toward significant risks."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Internal audits provide:",
+      "options": [
+        "Assurance and recommendations",
+        "Tax exemptions",
+        "Revenue growth",
+        "Legal representation"
+      ],
+      "correct_answer": "Assurance and recommendations",
+      "explanation": "Audit reports help management improve controls."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "An internal audit solution should include:",
+      "options": [
+        "Risk assessment, testing, reporting, and follow-up",
+        "Only reporting",
+        "Only testing",
+        "Only documentation"
+      ],
+      "correct_answer": "Risk assessment, testing, reporting, and follow-up",
+      "explanation": "A complete audit lifecycle is required."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "In a global bank, IT audits often evaluate:",
+      "options": [
+        "Access controls and cybersecurity",
+        "Marketing campaigns",
+        "Recruitment",
+        "Office maintenance"
+      ],
+      "correct_answer": "Access controls and cybersecurity",
+      "explanation": "Technology risks are critical in banking."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Audit findings are categorized to:",
+      "options": [
+        "Prioritize remediation efforts",
+        "Increase costs",
+        "Reduce controls",
+        "Avoid reporting"
+      ],
+      "correct_answer": "Prioritize remediation efforts",
+      "explanation": "Higher-risk findings receive more attention."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Internal audits help identify:",
+      "options": [
+        "Control weaknesses",
+        "Only fraud",
+        "Only compliance issues",
+        "Only technical issues"
+      ],
+      "correct_answer": "Control weaknesses",
+      "explanation": "Audits assess a broad range of risks and controls."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Continuous monitoring supports auditing by:",
+      "options": [
+        "Providing ongoing risk visibility",
+        "Reducing governance",
+        "Eliminating audits",
+        "Avoiding reviews"
+      ],
+      "correct_answer": "Providing ongoing risk visibility",
+      "explanation": "Monitoring helps identify issues earlier."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Follow-up audits verify:",
+      "options": [
+        "Corrective actions have been implemented",
+        "Revenue growth",
+        "Customer satisfaction",
+        "Network speed"
+      ],
+      "correct_answer": "Corrective actions have been implemented",
+      "explanation": "Follow-up ensures findings are addressed."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Effective audit reporting should be:",
+      "options": [
+        "Clear, objective, and actionable",
+        "Complex and lengthy",
+        "Verbal only",
+        "Confidential to auditors"
+      ],
+      "correct_answer": "Clear, objective, and actionable",
+      "explanation": "Management must understand the findings."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A global bank's audit program should align with:",
+      "options": [
+        "Risk management and regulatory requirements",
+        "Marketing goals",
+        "Sales targets",
+        "Vendor contracts"
+      ],
+      "correct_answer": "Risk management and regulatory requirements",
+      "explanation": "Audit plans are driven by risk and compliance obligations."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Data analytics can improve internal audits by:",
+      "options": [
+        "Identifying patterns and anomalies",
+        "Replacing auditors",
+        "Eliminating controls",
+        "Reducing governance"
+      ],
+      "correct_answer": "Identifying patterns and anomalies",
+      "explanation": "Analytics enhances audit effectiveness."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Independence is important because it:",
+      "options": [
+        "Improves objectivity and credibility",
+        "Increases profits",
+        "Reduces controls",
+        "Avoids audits"
+      ],
+      "correct_answer": "Improves objectivity and credibility",
+      "explanation": "Independent audits provide trusted assurance."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Internal audit supports governance by:",
+      "options": [
+        "Evaluating risk management and controls",
+        "Managing operations",
+        "Approving loans",
+        "Developing products"
+      ],
+      "correct_answer": "Evaluating risk management and controls",
+      "explanation": "Governance depends on effective oversight."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "A strong internal audit solution includes:",
+      "options": [
+        "Technology, people, processes, and governance",
+        "Only technology",
+        "Only policies",
+        "Only compliance"
+      ],
+      "correct_answer": "Technology, people, processes, and governance",
+      "explanation": "Multiple elements contribute to effectiveness."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Regulatory compliance audits in banks often cover:",
+      "options": [
+        "AML, KYC, cybersecurity, and financial controls",
+        "Advertising",
+        "Facilities management",
+        "Product design"
+      ],
+      "correct_answer": "AML, KYC, cybersecurity, and financial controls",
+      "explanation": "Banks face extensive regulatory obligations."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of an internal audit solution for a global bank is:",
+      "options": [
+        "Provide assurance that risks are managed and controls are effective",
+        "Increase profits",
+        "Replace management",
+        "Eliminate all risks"
+      ],
+      "correct_answer": "Provide assurance that risks are managed and controls are effective",
+      "explanation": "Internal audit strengthens governance, risk management, and compliance."
+    }
+  ]
+}

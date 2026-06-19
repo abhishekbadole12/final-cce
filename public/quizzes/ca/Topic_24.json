@@ -1,0 +1,266 @@
+{
+  "topic": "ISO/IEC 27001:2005 Domains",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "How many security domains were defined in ISO/IEC 27001:2005 Annex A?",
+      "options": [
+        "11",
+        "14",
+        "10",
+        "13"
+      ],
+      "correct_answer": "11",
+      "explanation": "ISO/IEC 27001:2005 contained 11 security control domains."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which domain deals with creating and maintaining security policies?",
+      "options": [
+        "Security Policy",
+        "Access Control",
+        "Compliance",
+        "Operations Security"
+      ],
+      "correct_answer": "Security Policy",
+      "explanation": "This domain establishes management direction for information security."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Which domain focuses on assigning security responsibilities?",
+      "options": [
+        "Organization of Information Security",
+        "Business Continuity",
+        "Compliance",
+        "Asset Management"
+      ],
+      "correct_answer": "Organization of Information Security",
+      "explanation": "This domain defines security roles and responsibilities."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which domain covers employee security before, during, and after employment?",
+      "options": [
+        "Human Resources Security",
+        "Access Control",
+        "Compliance",
+        "Physical Security"
+      ],
+      "correct_answer": "Human Resources Security",
+      "explanation": "It addresses personnel-related security controls."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which domain focuses on protecting hardware and facilities?",
+      "options": [
+        "Physical and Environmental Security",
+        "Asset Management",
+        "Compliance",
+        "Operations Security"
+      ],
+      "correct_answer": "Physical and Environmental Security",
+      "explanation": "It protects physical assets and environments."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which domain deals with controlling user access?",
+      "options": [
+        "Access Control",
+        "Security Policy",
+        "Compliance",
+        "Asset Management"
+      ],
+      "correct_answer": "Access Control",
+      "explanation": "Access Control ensures only authorized users gain access."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which domain covers inventory and protection of information assets?",
+      "options": [
+        "Asset Management",
+        "Compliance",
+        "Cryptography",
+        "Supplier Security"
+      ],
+      "correct_answer": "Asset Management",
+      "explanation": "Assets must be identified and protected appropriately."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which domain includes procedures for secure system operations?",
+      "options": [
+        "Communications and Operations Management",
+        "Human Resources Security",
+        "Compliance",
+        "Security Policy"
+      ],
+      "correct_answer": "Communications and Operations Management",
+      "explanation": "This domain manages operational security activities."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which domain focuses on secure development and maintenance of systems?",
+      "options": [
+        "Information Systems Acquisition, Development and Maintenance",
+        "Compliance",
+        "Business Continuity",
+        "Asset Management"
+      ],
+      "correct_answer": "Information Systems Acquisition, Development and Maintenance",
+      "explanation": "Security should be integrated throughout system lifecycles."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Which domain ensures security requirements are met during incidents?",
+      "options": [
+        "Information Security Incident Management",
+        "Access Control",
+        "Asset Management",
+        "Security Policy"
+      ],
+      "correct_answer": "Information Security Incident Management",
+      "explanation": "It addresses detection, reporting, and response to incidents."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Business Continuity Management aims to:",
+      "options": [
+        "Maintain operations during disruptions",
+        "Increase profits",
+        "Reduce staffing",
+        "Replace controls"
+      ],
+      "correct_answer": "Maintain operations during disruptions",
+      "explanation": "Organizations prepare for emergencies and disruptions."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which domain ensures adherence to legal and regulatory requirements?",
+      "options": [
+        "Compliance",
+        "Access Control",
+        "Asset Management",
+        "Operations Security"
+      ],
+      "correct_answer": "Compliance",
+      "explanation": "Compliance addresses laws, regulations, and contracts."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "The Access Control domain primarily supports:",
+      "options": [
+        "Confidentiality",
+        "Availability only",
+        "Profitability",
+        "Marketing"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "Access restrictions help protect sensitive information."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The 11 domains collectively support:",
+      "options": [
+        "An Information Security Management System",
+        "Financial management",
+        "Project management",
+        "Marketing management"
+      ],
+      "correct_answer": "An Information Security Management System",
+      "explanation": "The domains provide a structured set of security controls."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Human Resources Security reduces risk from:",
+      "options": [
+        "Employees and contractors",
+        "Hardware failures",
+        "Natural disasters",
+        "Network outages"
+      ],
+      "correct_answer": "Employees and contractors",
+      "explanation": "People-related risks are addressed through personnel controls."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Business Continuity Management contributes to:",
+      "options": [
+        "Availability",
+        "Confidentiality only",
+        "Integrity only",
+        "Authentication"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "It ensures services remain operational during disruptions."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Compliance controls help organizations avoid:",
+      "options": [
+        "Legal and regulatory violations",
+        "Network traffic",
+        "Marketing costs",
+        "Vendor management"
+      ],
+      "correct_answer": "Legal and regulatory violations",
+      "explanation": "Compliance reduces legal and regulatory risks."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Operations Management controls include:",
+      "options": [
+        "Change management and backups",
+        "Hiring employees",
+        "Payroll processing",
+        "Advertising"
+      ],
+      "correct_answer": "Change management and backups",
+      "explanation": "Operational procedures help maintain secure environments."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The 2005 domains were later reorganized because:",
+      "options": [
+        "Security practices evolved",
+        "The domains were ineffective",
+        "Compliance ended",
+        "Audits were removed"
+      ],
+      "correct_answer": "Security practices evolved",
+      "explanation": "Later versions updated and expanded control structures."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of the ISO/IEC 27001:2005 domains was to:",
+      "options": [
+        "Provide a comprehensive framework of security controls",
+        "Increase revenue",
+        "Reduce audits",
+        "Eliminate all risks"
+      ],
+      "correct_answer": "Provide a comprehensive framework of security controls",
+      "explanation": "The domains organized information security controls into key areas."
+    }
+  ]
+}

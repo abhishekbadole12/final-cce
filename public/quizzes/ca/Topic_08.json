@@ -1,0 +1,266 @@
+{
+  "topic": "Principles of Audits",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is a fundamental principle of auditing?",
+      "options": [
+        "Integrity",
+        "Advertising",
+        "Sales",
+        "Marketing"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Auditors must be honest and ethical in their work."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Objectivity means auditors should:",
+      "options": [
+        "Remain unbiased",
+        "Support management always",
+        "Ignore evidence",
+        "Avoid reporting"
+      ],
+      "correct_answer": "Remain unbiased",
+      "explanation": "Objectivity ensures fair and impartial assessments."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Confidentiality requires auditors to:",
+      "options": [
+        "Protect sensitive information",
+        "Share findings publicly",
+        "Ignore privacy",
+        "Delete evidence"
+      ],
+      "correct_answer": "Protect sensitive information",
+      "explanation": "Auditors often handle confidential information."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Audits should be based on:",
+      "options": [
+        "Evidence",
+        "Assumptions",
+        "Rumors",
+        "Opinions"
+      ],
+      "correct_answer": "Evidence",
+      "explanation": "Reliable evidence supports audit conclusions."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Professional behavior means:",
+      "options": [
+        "Following standards and ethics",
+        "Ignoring regulations",
+        "Avoiding documentation",
+        "Reducing controls"
+      ],
+      "correct_answer": "Following standards and ethics",
+      "explanation": "Auditors must act professionally."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Why is independence important?",
+      "options": [
+        "To ensure unbiased judgments",
+        "To increase profits",
+        "To reduce audits",
+        "To avoid reports"
+      ],
+      "correct_answer": "To ensure unbiased judgments",
+      "explanation": "Independence prevents undue influence."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Due professional care means:",
+      "options": [
+        "Applying diligence and competence",
+        "Working faster",
+        "Avoiding audits",
+        "Ignoring risks"
+      ],
+      "correct_answer": "Applying diligence and competence",
+      "explanation": "Auditors should perform work carefully and skillfully."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Evidence-based auditing improves:",
+      "options": [
+        "Reliability of findings",
+        "Marketing performance",
+        "Network speed",
+        "Payroll accuracy"
+      ],
+      "correct_answer": "Reliability of findings",
+      "explanation": "Conclusions must be supported by evidence."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Professional skepticism requires auditors to:",
+      "options": [
+        "Question and verify information",
+        "Trust everything",
+        "Avoid interviews",
+        "Ignore findings"
+      ],
+      "correct_answer": "Question and verify information",
+      "explanation": "Auditors critically assess evidence."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Fair presentation refers to:",
+      "options": [
+        "Reporting findings truthfully",
+        "Hiding weaknesses",
+        "Reducing findings",
+        "Ignoring evidence"
+      ],
+      "correct_answer": "Reporting findings truthfully",
+      "explanation": "Reports should accurately reflect results."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Which principle supports trust in audit results?",
+      "options": [
+        "Integrity",
+        "Office security",
+        "Advertising",
+        "Sales"
+      ],
+      "correct_answer": "Integrity",
+      "explanation": "Integrity is the foundation of trust."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Audit conclusions should be:",
+      "options": [
+        "Objective and evidence-based",
+        "Personal opinions",
+        "Vendor influenced",
+        "Management directed"
+      ],
+      "correct_answer": "Objective and evidence-based",
+      "explanation": "Conclusions must be impartial."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Auditors should disclose:",
+      "options": [
+        "Significant findings",
+        "Passwords",
+        "Customer secrets publicly",
+        "Source code"
+      ],
+      "correct_answer": "Significant findings",
+      "explanation": "Important issues should be reported appropriately."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The principle of independence primarily protects:",
+      "options": [
+        "Audit credibility",
+        "Audit budget",
+        "Audit schedule",
+        "Audit software"
+      ],
+      "correct_answer": "Audit credibility",
+      "explanation": "Independent auditors provide trusted assurance."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Conflict of interest can affect:",
+      "options": [
+        "Audit objectivity",
+        "Network performance",
+        "Compliance frameworks",
+        "Physical security"
+      ],
+      "correct_answer": "Audit objectivity",
+      "explanation": "Conflicts may bias judgments."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "A principle-based audit approach promotes:",
+      "options": [
+        "Consistency and reliability",
+        "Random decisions",
+        "Reduced evidence",
+        "Less accountability"
+      ],
+      "correct_answer": "Consistency and reliability",
+      "explanation": "Principles guide quality audit practices."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Auditor competence contributes to:",
+      "options": [
+        "Accurate assessments",
+        "Higher risks",
+        "Reduced evidence",
+        "Less reporting"
+      ],
+      "correct_answer": "Accurate assessments",
+      "explanation": "Knowledge and skills improve audit quality."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Why is confidentiality critical in audits?",
+      "options": [
+        "Protects sensitive organizational information",
+        "Improves marketing",
+        "Reduces compliance",
+        "Eliminates controls"
+      ],
+      "correct_answer": "Protects sensitive organizational information",
+      "explanation": "Auditors access sensitive data during engagements."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Audit principles collectively ensure:",
+      "options": [
+        "Trustworthy audit outcomes",
+        "Fewer controls",
+        "No regulations",
+        "Less governance"
+      ],
+      "correct_answer": "Trustworthy audit outcomes",
+      "explanation": "Principles establish quality and credibility."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of audit principles is to:",
+      "options": [
+        "Guide ethical and effective auditing",
+        "Increase audit costs",
+        "Reduce documentation",
+        "Replace standards"
+      ],
+      "correct_answer": "Guide ethical and effective auditing",
+      "explanation": "Principles form the foundation of professional auditing."
+    }
+  ]
+}

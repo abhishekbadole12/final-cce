@@ -1,0 +1,266 @@
+{
+  "topic": "Use of NIST Framework",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "Why do organizations use the NIST Cybersecurity Framework?",
+      "options": [
+        "To manage cybersecurity risk",
+        "To increase sales",
+        "To replace auditors",
+        "To manage payroll"
+      ],
+      "correct_answer": "To manage cybersecurity risk",
+      "explanation": "NIST provides a structured approach to identify and reduce cybersecurity risks."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "The NIST Framework helps organizations:",
+      "options": [
+        "Improve cybersecurity posture",
+        "Increase profits",
+        "Reduce staff",
+        "Avoid documentation"
+      ],
+      "correct_answer": "Improve cybersecurity posture",
+      "explanation": "Organizations use NIST to strengthen security practices."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "NIST can be applied to:",
+      "options": [
+        "Organizations of all sizes",
+        "Large companies only",
+        "Government only",
+        "Banks only"
+      ],
+      "correct_answer": "Organizations of all sizes",
+      "explanation": "The framework is flexible and scalable."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "One use of NIST is:",
+      "options": [
+        "Identifying security gaps",
+        "Managing office space",
+        "Payroll processing",
+        "Marketing"
+      ],
+      "correct_answer": "Identifying security gaps",
+      "explanation": "Organizations compare current and target states to find gaps."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "NIST supports:",
+      "options": [
+        "Risk management",
+        "Product design",
+        "Recruitment",
+        "Accounting"
+      ],
+      "correct_answer": "Risk management",
+      "explanation": "The framework is built around risk-based decision making."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Organizations use NIST to align security with:",
+      "options": [
+        "Business objectives",
+        "Office design",
+        "Vendor contracts",
+        "Sales targets"
+      ],
+      "correct_answer": "Business objectives",
+      "explanation": "Security activities should support business goals."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Gap analysis in NIST involves:",
+      "options": [
+        "Comparing current and target profiles",
+        "Comparing salaries",
+        "Comparing vendors",
+        "Comparing office locations"
+      ],
+      "correct_answer": "Comparing current and target profiles",
+      "explanation": "Gap analysis identifies areas needing improvement."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "NIST helps organizations prioritize:",
+      "options": [
+        "Cybersecurity investments",
+        "Office furniture",
+        "Advertising campaigns",
+        "Travel budgets"
+      ],
+      "correct_answer": "Cybersecurity investments",
+      "explanation": "Resources can be allocated based on risk."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which activity is supported by NIST Profiles?",
+      "options": [
+        "Business alignment",
+        "Payroll management",
+        "Marketing analysis",
+        "Vendor pricing"
+      ],
+      "correct_answer": "Business alignment",
+      "explanation": "Profiles map cybersecurity outcomes to business needs."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "NIST can be mapped to:",
+      "options": [
+        "Other standards and regulations",
+        "Office procedures only",
+        "Sales targets",
+        "Vendor agreements"
+      ],
+      "correct_answer": "Other standards and regulations",
+      "explanation": "NIST aligns with many compliance frameworks."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Organizations use NIST to assess:",
+      "options": [
+        "Cybersecurity maturity",
+        "Building size",
+        "Employee attendance",
+        "Internet speed"
+      ],
+      "correct_answer": "Cybersecurity maturity",
+      "explanation": "Implementation Tiers help evaluate maturity."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The framework encourages:",
+      "options": [
+        "Continuous improvement",
+        "One-time reviews",
+        "No documentation",
+        "Minimal controls"
+      ],
+      "correct_answer": "Continuous improvement",
+      "explanation": "Cybersecurity should evolve with changing risks."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "NIST helps management by providing:",
+      "options": [
+        "A common language for cybersecurity",
+        "Financial statements",
+        "Payroll reports",
+        "Marketing plans"
+      ],
+      "correct_answer": "A common language for cybersecurity",
+      "explanation": "The framework improves communication among stakeholders."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "NIST supports strategic decision-making by:",
+      "options": [
+        "Providing risk-based insights",
+        "Reducing evidence",
+        "Replacing governance",
+        "Avoiding audits"
+      ],
+      "correct_answer": "Providing risk-based insights",
+      "explanation": "Management can prioritize actions based on risk."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A Target Profile helps organizations:",
+      "options": [
+        "Define desired cybersecurity outcomes",
+        "Document incidents",
+        "Create invoices",
+        "Manage payroll"
+      ],
+      "correct_answer": "Define desired cybersecurity outcomes",
+      "explanation": "Target Profiles establish future-state goals."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The NIST Framework improves resilience by:",
+      "options": [
+        "Strengthening prevention, detection, response, and recovery",
+        "Eliminating all threats",
+        "Reducing controls",
+        "Avoiding compliance"
+      ],
+      "correct_answer": "Strengthening prevention, detection, response, and recovery",
+      "explanation": "The framework covers the full cybersecurity lifecycle."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Organizations often adopt NIST because it is:",
+      "options": [
+        "Flexible and adaptable",
+        "Mandatory worldwide",
+        "Limited to government",
+        "Only for large enterprises"
+      ],
+      "correct_answer": "Flexible and adaptable",
+      "explanation": "NIST can be tailored to different environments."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "NIST implementation helps demonstrate:",
+      "options": [
+        "Due diligence in cybersecurity",
+        "Product quality",
+        "Office efficiency",
+        "Marketing performance"
+      ],
+      "correct_answer": "Due diligence in cybersecurity",
+      "explanation": "Using recognized frameworks shows commitment to security."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "One major benefit of NIST adoption is:",
+      "options": [
+        "Improved risk visibility",
+        "Guaranteed compliance",
+        "No audit requirements",
+        "Elimination of incidents"
+      ],
+      "correct_answer": "Improved risk visibility",
+      "explanation": "Organizations gain a clearer understanding of cyber risks."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate use of the NIST Framework is to:",
+      "options": [
+        "Manage and reduce cybersecurity risk while supporting business goals",
+        "Increase revenue",
+        "Replace regulations",
+        "Eliminate all vulnerabilities"
+      ],
+      "correct_answer": "Manage and reduce cybersecurity risk while supporting business goals",
+      "explanation": "The framework helps organizations make informed security decisions."
+    }
+  ]
+}

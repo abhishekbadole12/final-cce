@@ -1,0 +1,266 @@
+{
+  "topic": "History of ISO/IEC 27001",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "ISO/IEC 27001 originated from which British standard?",
+      "options": [
+        "BS 7799",
+        "BS 5750",
+        "BS 8800",
+        "BS 15000"
+      ],
+      "correct_answer": "BS 7799",
+      "explanation": "ISO/IEC 27001 evolved from the British Standard BS 7799."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which organization initially developed BS 7799?",
+      "options": [
+        "British Standards Institution (BSI)",
+        "ISO",
+        "IEC",
+        "NIST"
+      ],
+      "correct_answer": "British Standards Institution (BSI)",
+      "explanation": "BSI created BS 7799 before it became an international standard."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "ISO/IEC 27001 is related to:",
+      "options": [
+        "Information Security Management",
+        "Quality Management",
+        "Environmental Management",
+        "Service Management"
+      ],
+      "correct_answer": "Information Security Management",
+      "explanation": "The standard focuses on managing information security risks."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "When was ISO/IEC 27001 first published?",
+      "options": [
+        "2005",
+        "1995",
+        "2013",
+        "2022"
+      ],
+      "correct_answer": "2005",
+      "explanation": "ISO/IEC 27001 was first published in 2005."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "ISO/IEC 27001 is a standard for:",
+      "options": [
+        "ISMS",
+        "QMS",
+        "EMS",
+        "ITSM"
+      ],
+      "correct_answer": "ISMS",
+      "explanation": "It specifies requirements for an Information Security Management System."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "The purpose of ISO/IEC 27001 is to:",
+      "options": [
+        "Protect information assets",
+        "Increase profits",
+        "Reduce taxes",
+        "Manage payroll"
+      ],
+      "correct_answer": "Protect information assets",
+      "explanation": "The standard helps organizations manage information security."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "BS 7799 Part 2 became:",
+      "options": [
+        "ISO/IEC 27001",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 22301"
+      ],
+      "correct_answer": "ISO/IEC 27001",
+      "explanation": "BS 7799 Part 2 formed the basis of ISO/IEC 27001."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which revision of ISO/IEC 27001 introduced major updates to Annex A?",
+      "options": [
+        "2022",
+        "2005",
+        "1999",
+        "2001"
+      ],
+      "correct_answer": "2022",
+      "explanation": "The 2022 revision reorganized and updated Annex A controls."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "The 2013 version of ISO/IEC 27001 aligned with:",
+      "options": [
+        "Annex SL high-level structure",
+        "COBIT",
+        "PCI DSS",
+        "HIPAA"
+      ],
+      "correct_answer": "Annex SL high-level structure",
+      "explanation": "This made integration with other ISO standards easier."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Why was ISO/IEC 27001 developed?",
+      "options": [
+        "To provide an international information security standard",
+        "To replace all laws",
+        "To eliminate audits",
+        "To manage finance"
+      ],
+      "correct_answer": "To provide an international information security standard",
+      "explanation": "Organizations needed a globally recognized framework."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "IEC in ISO/IEC stands for:",
+      "options": [
+        "International Electrotechnical Commission",
+        "International Evaluation Council",
+        "Internet Engineering Council",
+        "Information Exchange Committee"
+      ],
+      "correct_answer": "International Electrotechnical Commission",
+      "explanation": "IEC collaborates with ISO on international standards."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The evolution of ISO/IEC 27001 reflects:",
+      "options": [
+        "Changing security threats and business needs",
+        "Reduced technology use",
+        "Less regulation",
+        "Fewer security controls"
+      ],
+      "correct_answer": "Changing security threats and business needs",
+      "explanation": "The standard evolves to remain relevant."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "ISO/IEC 27001 certification became popular because it:",
+      "options": [
+        "Demonstrates commitment to information security",
+        "Guarantees security",
+        "Eliminates risks",
+        "Removes compliance requirements"
+      ],
+      "correct_answer": "Demonstrates commitment to information security",
+      "explanation": "Certification shows a structured approach to security."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The transition from BS 7799 to ISO/IEC 27001 provided:",
+      "options": [
+        "Global recognition and adoption",
+        "Less security",
+        "No certification",
+        "Reduced governance"
+      ],
+      "correct_answer": "Global recognition and adoption",
+      "explanation": "International standardization increased acceptance worldwide."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The 2013 revision emphasized:",
+      "options": [
+        "Risk-based management and integration",
+        "Financial auditing",
+        "Network design",
+        "Cloud hosting"
+      ],
+      "correct_answer": "Risk-based management and integration",
+      "explanation": "Risk management became more prominent."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The 2022 revision updated:",
+      "options": [
+        "Annex A controls and structure",
+        "PDCA cycle only",
+        "Certification rules only",
+        "ISMS scope requirements"
+      ],
+      "correct_answer": "Annex A controls and structure",
+      "explanation": "Controls were consolidated and modernized."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "A major benefit of ISO/IEC 27001's evolution is:",
+      "options": [
+        "Keeping security practices current",
+        "Reducing documentation",
+        "Avoiding audits",
+        "Eliminating threats"
+      ],
+      "correct_answer": "Keeping security practices current",
+      "explanation": "Updates address new technologies and risks."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Organizations follow ISO/IEC 27001 because it provides:",
+      "options": [
+        "A globally accepted ISMS framework",
+        "A legal exemption",
+        "Guaranteed compliance",
+        "Free security tools"
+      ],
+      "correct_answer": "A globally accepted ISMS framework",
+      "explanation": "It is recognized internationally."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The history of ISO/IEC 27001 demonstrates the importance of:",
+      "options": [
+        "Continual adaptation to security challenges",
+        "Avoiding standards",
+        "Reducing controls",
+        "Ignoring threats"
+      ],
+      "correct_answer": "Continual adaptation to security challenges",
+      "explanation": "Security standards evolve with the threat landscape."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate significance of ISO/IEC 27001 history is:",
+      "options": [
+        "The development of a globally trusted information security standard",
+        "The creation of auditing",
+        "The elimination of risks",
+        "The replacement of regulations"
+      ],
+      "correct_answer": "The development of a globally trusted information security standard",
+      "explanation": "Its evolution established a widely adopted security framework."
+    }
+  ]
+}

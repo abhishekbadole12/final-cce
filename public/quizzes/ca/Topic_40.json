@@ -1,0 +1,266 @@
+{
+  "topic": "CIS Critical Security Controls",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does CIS stand for?",
+      "options": [
+        "Center for Internet Security",
+        "Cyber Information Standards",
+        "Computer Information Systems",
+        "Cyber Infrastructure Security"
+      ],
+      "correct_answer": "Center for Internet Security",
+      "explanation": "CIS is a nonprofit organization that develops cybersecurity best practices."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "What are CIS Critical Security Controls?",
+      "options": [
+        "A prioritized set of cybersecurity best practices",
+        "Financial regulations",
+        "Audit reports",
+        "Software licenses"
+      ],
+      "correct_answer": "A prioritized set of cybersecurity best practices",
+      "explanation": "The CIS Controls help organizations improve cybersecurity."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "How many CIS Controls are in the latest version?",
+      "options": [
+        "18",
+        "20",
+        "12",
+        "14"
+      ],
+      "correct_answer": "18",
+      "explanation": "CIS Controls v8 contains 18 critical security controls."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "The first CIS Control focuses on:",
+      "options": [
+        "Inventory and Control of Enterprise Assets",
+        "Incident Response",
+        "Network Monitoring",
+        "Security Awareness"
+      ],
+      "correct_answer": "Inventory and Control of Enterprise Assets",
+      "explanation": "Organizations should know what assets they own and manage."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "CIS Controls are designed to:",
+      "options": [
+        "Reduce cybersecurity risk",
+        "Increase profits",
+        "Reduce staffing",
+        "Replace audits"
+      ],
+      "correct_answer": "Reduce cybersecurity risk",
+      "explanation": "The controls provide practical guidance for security improvement."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which organization publishes CIS Controls?",
+      "options": [
+        "Center for Internet Security",
+        "NIST",
+        "ISACA",
+        "ISO"
+      ],
+      "correct_answer": "Center for Internet Security",
+      "explanation": "CIS develops and maintains the controls."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "What are CIS Implementation Groups (IGs)?",
+      "options": [
+        "Categories that help organizations prioritize controls",
+        "Audit levels",
+        "Compliance levels",
+        "Risk scores"
+      ],
+      "correct_answer": "Categories that help organizations prioritize controls",
+      "explanation": "IG1, IG2, and IG3 represent different cybersecurity maturity needs."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "IG1 is primarily intended for:",
+      "options": [
+        "Small and resource-constrained organizations",
+        "Large enterprises only",
+        "Government agencies only",
+        "Auditors"
+      ],
+      "correct_answer": "Small and resource-constrained organizations",
+      "explanation": "IG1 provides essential cyber hygiene controls."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which CIS Control focuses on vulnerability management?",
+      "options": [
+        "Continuous Vulnerability Management",
+        "Security Awareness",
+        "Data Recovery",
+        "Audit Logging"
+      ],
+      "correct_answer": "Continuous Vulnerability Management",
+      "explanation": "Organizations should identify and remediate vulnerabilities."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Which CIS Control addresses access management?",
+      "options": [
+        "Access Control Management",
+        "Asset Management",
+        "Data Protection",
+        "Application Security"
+      ],
+      "correct_answer": "Access Control Management",
+      "explanation": "Access should be restricted to authorized users."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Security Awareness and Skills Training helps:",
+      "options": [
+        "Reduce human-related security risks",
+        "Increase revenue",
+        "Replace controls",
+        "Reduce audits"
+      ],
+      "correct_answer": "Reduce human-related security risks",
+      "explanation": "Users are often targeted by cyber attacks."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Audit Log Management supports:",
+      "options": [
+        "Monitoring and incident investigation",
+        "Payroll processing",
+        "Marketing analysis",
+        "Network installation"
+      ],
+      "correct_answer": "Monitoring and incident investigation",
+      "explanation": "Logs provide visibility into security events."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Data Recovery is important because it:",
+      "options": [
+        "Supports business continuity",
+        "Improves marketing",
+        "Reduces compliance",
+        "Increases profits"
+      ],
+      "correct_answer": "Supports business continuity",
+      "explanation": "Organizations need to recover from disruptions."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The CIS Controls are considered effective because they are:",
+      "options": [
+        "Prioritized and practical",
+        "Mandatory laws",
+        "Financial regulations",
+        "Vendor-specific"
+      ],
+      "correct_answer": "Prioritized and practical",
+      "explanation": "They focus on the most impactful security actions."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Organizations use CIS Controls to:",
+      "options": [
+        "Build and improve cybersecurity programs",
+        "Replace governance",
+        "Avoid audits",
+        "Increase sales"
+      ],
+      "correct_answer": "Build and improve cybersecurity programs",
+      "explanation": "The controls provide a roadmap for security improvement."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The CIS Controls complement frameworks such as:",
+      "options": [
+        "NIST and ISO 27001",
+        "Only PCI DSS",
+        "Only HIPAA",
+        "Only SOX"
+      ],
+      "correct_answer": "NIST and ISO 27001",
+      "explanation": "Many organizations map CIS Controls to other frameworks."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Implementation Groups help organizations:",
+      "options": [
+        "Apply controls according to risk and maturity",
+        "Reduce security",
+        "Avoid compliance",
+        "Replace audits"
+      ],
+      "correct_answer": "Apply controls according to risk and maturity",
+      "explanation": "Different organizations require different levels of protection."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "A key strength of CIS Controls is:",
+      "options": [
+        "Actionable guidance",
+        "Guaranteed compliance",
+        "Elimination of threats",
+        "No documentation"
+      ],
+      "correct_answer": "Actionable guidance",
+      "explanation": "The controls provide practical implementation advice."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The CIS Controls emphasize:",
+      "options": [
+        "Defense in depth",
+        "Open access",
+        "Minimal monitoring",
+        "No controls"
+      ],
+      "correct_answer": "Defense in depth",
+      "explanation": "Multiple layers of protection improve resilience."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of CIS Critical Security Controls is:",
+      "options": [
+        "Reduce cyber risk through prioritized security practices",
+        "Increase revenue",
+        "Replace regulations",
+        "Eliminate all threats"
+      ],
+      "correct_answer": "Reduce cyber risk through prioritized security practices",
+      "explanation": "The controls help organizations defend against common attacks."
+    }
+  ]
+}

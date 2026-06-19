@@ -1,0 +1,266 @@
+{
+  "topic": "COBIT Components",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What are COBIT components called in COBIT 2019?",
+      "options": [
+        "Governance System Components",
+        "Control Domains",
+        "IT Processes",
+        "Security Layers"
+      ],
+      "correct_answer": "Governance System Components",
+      "explanation": "COBIT 2019 defines components that support governance objectives."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "How many governance system components are defined in COBIT 2019?",
+      "options": [
+        "7",
+        "5",
+        "11",
+        "14"
+      ],
+      "correct_answer": "7",
+      "explanation": "COBIT 2019 includes seven governance system components."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Which component includes organizational rules and expectations?",
+      "options": [
+        "Principles, Policies and Procedures",
+        "Information",
+        "People and Skills",
+        "Culture"
+      ],
+      "correct_answer": "Principles, Policies and Procedures",
+      "explanation": "These guide decision-making and behavior."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which component focuses on organizational values and behavior?",
+      "options": [
+        "Culture, Ethics and Behavior",
+        "Services and Infrastructure",
+        "Processes",
+        "Information"
+      ],
+      "correct_answer": "Culture, Ethics and Behavior",
+      "explanation": "This component influences governance effectiveness."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which component includes hardware, software, and networks?",
+      "options": [
+        "Services, Infrastructure and Applications",
+        "Processes",
+        "People",
+        "Policies"
+      ],
+      "correct_answer": "Services, Infrastructure and Applications",
+      "explanation": "Technology resources support governance objectives."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which component focuses on employees and competencies?",
+      "options": [
+        "People, Skills and Competencies",
+        "Information",
+        "Processes",
+        "Policies"
+      ],
+      "correct_answer": "People, Skills and Competencies",
+      "explanation": "People are critical to governance success."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Processes in COBIT are used to:",
+      "options": [
+        "Achieve governance and management objectives",
+        "Increase sales",
+        "Reduce staffing",
+        "Replace audits"
+      ],
+      "correct_answer": "Achieve governance and management objectives",
+      "explanation": "Processes provide structured activities and outcomes."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Information as a COBIT component is important because:",
+      "options": [
+        "It supports decision-making",
+        "It replaces governance",
+        "It eliminates risks",
+        "It manages payroll"
+      ],
+      "correct_answer": "It supports decision-making",
+      "explanation": "Reliable information is essential for governance."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Organizational structures define:",
+      "options": [
+        "Decision-making responsibilities",
+        "Network design",
+        "Marketing plans",
+        "Financial reports"
+      ],
+      "correct_answer": "Decision-making responsibilities",
+      "explanation": "Structures establish authority and accountability."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Policies and procedures help ensure:",
+      "options": [
+        "Consistent governance practices",
+        "Higher profits",
+        "Reduced compliance",
+        "Elimination of risk"
+      ],
+      "correct_answer": "Consistent governance practices",
+      "explanation": "They standardize organizational activities."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Culture and ethics influence:",
+      "options": [
+        "Behavior and governance effectiveness",
+        "Network performance",
+        "Hardware reliability",
+        "Financial statements"
+      ],
+      "correct_answer": "Behavior and governance effectiveness",
+      "explanation": "Culture affects how controls are followed."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Governance components work together to:",
+      "options": [
+        "Support enterprise objectives",
+        "Manage advertising",
+        "Increase taxes",
+        "Reduce staffing"
+      ],
+      "correct_answer": "Support enterprise objectives",
+      "explanation": "Components collectively enable governance."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Which component ensures the organization has qualified personnel?",
+      "options": [
+        "People, Skills and Competencies",
+        "Processes",
+        "Information",
+        "Infrastructure"
+      ],
+      "correct_answer": "People, Skills and Competencies",
+      "explanation": "Competent personnel are required for effective governance."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "COBIT components are designed to:",
+      "options": [
+        "Create a holistic governance system",
+        "Replace frameworks",
+        "Eliminate audits",
+        "Manage payroll"
+      ],
+      "correct_answer": "Create a holistic governance system",
+      "explanation": "All components contribute to governance outcomes."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A weakness in organizational culture may affect:",
+      "options": [
+        "Control effectiveness",
+        "Network speed",
+        "Hardware costs",
+        "Building maintenance"
+      ],
+      "correct_answer": "Control effectiveness",
+      "explanation": "Poor culture can undermine governance and controls."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Information quality directly impacts:",
+      "options": [
+        "Decision-making and governance",
+        "Marketing performance",
+        "Office productivity",
+        "Recruitment"
+      ],
+      "correct_answer": "Decision-making and governance",
+      "explanation": "Accurate information is essential for effective oversight."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Governance system components should be:",
+      "options": [
+        "Integrated and aligned",
+        "Independent only",
+        "Optional",
+        "Technology-focused only"
+      ],
+      "correct_answer": "Integrated and aligned",
+      "explanation": "Components must work together effectively."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Processes, people, and technology collectively support:",
+      "options": [
+        "Enterprise governance objectives",
+        "Sales goals",
+        "Advertising campaigns",
+        "Payroll operations"
+      ],
+      "correct_answer": "Enterprise governance objectives",
+      "explanation": "Governance depends on multiple interconnected elements."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The COBIT component model emphasizes:",
+      "options": [
+        "Holistic governance",
+        "Financial reporting",
+        "Network security only",
+        "Compliance only"
+      ],
+      "correct_answer": "Holistic governance",
+      "explanation": "Governance requires coordination of all components."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of COBIT components is:",
+      "options": [
+        "Enable effective governance and management of enterprise IT",
+        "Increase revenue",
+        "Reduce audits",
+        "Replace standards"
+      ],
+      "correct_answer": "Enable effective governance and management of enterprise IT",
+      "explanation": "The components provide the building blocks of the COBIT framework."
+    }
+  ]
+}

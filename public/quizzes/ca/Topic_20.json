@@ -1,0 +1,266 @@
+{
+  "topic": "Key Steps to Ensure GDPR Compliance",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the first step toward GDPR compliance?",
+      "options": [
+        "Identify personal data being processed",
+        "Delete all data",
+        "Encrypt all systems",
+        "Conduct audits only"
+      ],
+      "correct_answer": "Identify personal data being processed",
+      "explanation": "Organizations must know what personal data they collect and process."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Why should organizations maintain data inventories?",
+      "options": [
+        "To understand personal data flows",
+        "To increase storage",
+        "To reduce security",
+        "To avoid documentation"
+      ],
+      "correct_answer": "To understand personal data flows",
+      "explanation": "Data inventories help identify and manage personal data."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "GDPR requires organizations to process data:",
+      "options": [
+        "Lawfully, fairly, and transparently",
+        "Secretly",
+        "Without consent",
+        "Without documentation"
+      ],
+      "correct_answer": "Lawfully, fairly, and transparently",
+      "explanation": "These are key GDPR principles."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "What should organizations obtain when relying on consent?",
+      "options": [
+        "Valid consent",
+        "Verbal assumptions",
+        "Employee approval",
+        "Management permission"
+      ],
+      "correct_answer": "Valid consent",
+      "explanation": "Consent must be informed, specific, and freely given."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Why is staff awareness important for GDPR compliance?",
+      "options": [
+        "Employees handle personal data",
+        "It increases profits",
+        "It replaces controls",
+        "It reduces audits"
+      ],
+      "correct_answer": "Employees handle personal data",
+      "explanation": "Training reduces privacy-related mistakes."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Organizations should implement:",
+      "options": [
+        "Appropriate security controls",
+        "No policies",
+        "No monitoring",
+        "No training"
+      ],
+      "correct_answer": "Appropriate security controls",
+      "explanation": "Security measures help protect personal data."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "A Data Protection Impact Assessment (DPIA) is performed when:",
+      "options": [
+        "Processing poses high privacy risk",
+        "Creating invoices",
+        "Hiring employees",
+        "Upgrading hardware"
+      ],
+      "correct_answer": "Processing poses high privacy risk",
+      "explanation": "DPIAs help identify and mitigate privacy risks."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which activity supports GDPR accountability?",
+      "options": [
+        "Maintaining compliance records",
+        "Reducing documentation",
+        "Avoiding audits",
+        "Ignoring incidents"
+      ],
+      "correct_answer": "Maintaining compliance records",
+      "explanation": "Organizations must demonstrate compliance."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Data minimization means:",
+      "options": [
+        "Collect only necessary data",
+        "Collect all available data",
+        "Store data forever",
+        "Share data freely"
+      ],
+      "correct_answer": "Collect only necessary data",
+      "explanation": "Only data needed for a purpose should be collected."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Organizations should establish procedures for:",
+      "options": [
+        "Data subject rights requests",
+        "Payroll processing",
+        "Marketing approvals",
+        "Office maintenance"
+      ],
+      "correct_answer": "Data subject rights requests",
+      "explanation": "GDPR grants individuals specific rights."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "A breach response plan is important because:",
+      "options": [
+        "GDPR requires breach handling procedures",
+        "It improves sales",
+        "It reduces storage",
+        "It replaces policies"
+      ],
+      "correct_answer": "GDPR requires breach handling procedures",
+      "explanation": "Organizations must respond appropriately to data breaches."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Regular audits help:",
+      "options": [
+        "Verify ongoing compliance",
+        "Eliminate controls",
+        "Avoid monitoring",
+        "Reduce accountability"
+      ],
+      "correct_answer": "Verify ongoing compliance",
+      "explanation": "Periodic reviews identify compliance gaps."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Data retention policies ensure:",
+      "options": [
+        "Data is not kept longer than necessary",
+        "All data is retained forever",
+        "No backups are taken",
+        "No records are deleted"
+      ],
+      "correct_answer": "Data is not kept longer than necessary",
+      "explanation": "Storage limitation is a GDPR principle."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Privacy by Design requires organizations to:",
+      "options": [
+        "Integrate privacy into systems and processes",
+        "Add privacy later",
+        "Ignore privacy risks",
+        "Rely only on legal teams"
+      ],
+      "correct_answer": "Integrate privacy into systems and processes",
+      "explanation": "Privacy should be considered from the beginning."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Vendor management supports GDPR compliance by:",
+      "options": [
+        "Ensuring third parties protect personal data",
+        "Reducing controls",
+        "Avoiding contracts",
+        "Increasing risk"
+      ],
+      "correct_answer": "Ensuring third parties protect personal data",
+      "explanation": "Organizations remain responsible for processor compliance."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Encryption and access controls help achieve:",
+      "options": [
+        "Data protection and security",
+        "Marketing goals",
+        "Audit reduction",
+        "Revenue growth"
+      ],
+      "correct_answer": "Data protection and security",
+      "explanation": "Technical controls reduce privacy risks."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Accountability under GDPR requires organizations to:",
+      "options": [
+        "Demonstrate compliance efforts",
+        "Avoid documentation",
+        "Transfer responsibility",
+        "Ignore evidence"
+      ],
+      "correct_answer": "Demonstrate compliance efforts",
+      "explanation": "Organizations must be able to prove compliance."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Continuous monitoring is important because:",
+      "options": [
+        "Privacy risks and requirements evolve",
+        "Compliance is one-time",
+        "Policies never change",
+        "Controls are permanent"
+      ],
+      "correct_answer": "Privacy risks and requirements evolve",
+      "explanation": "Ongoing oversight is necessary."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "An effective GDPR compliance program combines:",
+      "options": [
+        "People, processes, and technology",
+        "Only technology",
+        "Only policies",
+        "Only audits"
+      ],
+      "correct_answer": "People, processes, and technology",
+      "explanation": "Comprehensive compliance requires multiple elements."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of GDPR compliance is to:",
+      "options": [
+        "Protect personal data and individual privacy rights",
+        "Increase profits",
+        "Reduce regulation",
+        "Eliminate audits"
+      ],
+      "correct_answer": "Protect personal data and individual privacy rights",
+      "explanation": "GDPR focuses on safeguarding personal information."
+    }
+  ]
+}

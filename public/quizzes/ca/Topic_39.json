@@ -1,0 +1,266 @@
+{
+  "topic": "Different Levels of PCI",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "How many PCI DSS merchant levels are there?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4",
+      "explanation": "PCI DSS defines four merchant compliance levels based on transaction volume."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which merchant level has the highest transaction volume?",
+      "options": [
+        "Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4"
+      ],
+      "correct_answer": "Level 1",
+      "explanation": "Level 1 merchants process the largest number of transactions."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "PCI merchant levels are determined primarily by:",
+      "options": [
+        "Transaction volume",
+        "Company size",
+        "Revenue",
+        "Employee count"
+      ],
+      "correct_answer": "Transaction volume",
+      "explanation": "The number of annual card transactions determines the level."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Level 1 merchants typically process:",
+      "options": [
+        "More than 6 million transactions annually",
+        "Less than 20,000 transactions",
+        "1 million transactions",
+        "100,000 transactions"
+      ],
+      "correct_answer": "More than 6 million transactions annually",
+      "explanation": "Level 1 is the highest merchant category."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "What does SAQ stand for?",
+      "options": [
+        "Self-Assessment Questionnaire",
+        "Security Audit Questionnaire",
+        "System Assessment Quality",
+        "Standard Audit Query"
+      ],
+      "correct_answer": "Self-Assessment Questionnaire",
+      "explanation": "SAQ is used by eligible organizations to validate PCI compliance."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "What does ROC stand for?",
+      "options": [
+        "Report on Compliance",
+        "Record of Compliance",
+        "Review of Controls",
+        "Risk of Compliance"
+      ],
+      "correct_answer": "Report on Compliance",
+      "explanation": "ROC is a formal PCI DSS assessment report."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Who usually performs a Level 1 PCI DSS assessment?",
+      "options": [
+        "Qualified Security Assessor (QSA)",
+        "Internal Auditor",
+        "Network Administrator",
+        "Vendor"
+      ],
+      "correct_answer": "Qualified Security Assessor (QSA)",
+      "explanation": "Level 1 merchants often require an assessment by a QSA."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Level 4 merchants generally process:",
+      "options": [
+        "Fewer than 20,000 e-commerce transactions annually",
+        "More than 6 million transactions",
+        "1\u20136 million transactions",
+        "Exactly 1 million transactions"
+      ],
+      "correct_answer": "Fewer than 20,000 e-commerce transactions annually",
+      "explanation": "Level 4 is the lowest merchant category."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "The purpose of PCI merchant levels is to:",
+      "options": [
+        "Determine validation requirements",
+        "Assign taxes",
+        "Set prices",
+        "Manage payroll"
+      ],
+      "correct_answer": "Determine validation requirements",
+      "explanation": "Different levels have different compliance requirements."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "A Self-Assessment Questionnaire is used to:",
+      "options": [
+        "Validate PCI DSS compliance",
+        "Create security policies",
+        "Manage incidents",
+        "Perform penetration tests"
+      ],
+      "correct_answer": "Validate PCI DSS compliance",
+      "explanation": "SAQs help smaller merchants demonstrate compliance."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Service providers are organizations that:",
+      "options": [
+        "Store, process, or transmit card data on behalf of others",
+        "Issue payment cards",
+        "Perform audits only",
+        "Provide internet services"
+      ],
+      "correct_answer": "Store, process, or transmit card data on behalf of others",
+      "explanation": "Service providers support merchants and payment processing."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Level 1 service providers generally require:",
+      "options": [
+        "Annual assessment and ROC",
+        "No validation",
+        "Only SAQ",
+        "No audits"
+      ],
+      "correct_answer": "Annual assessment and ROC",
+      "explanation": "Large service providers undergo formal assessments."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Compliance validation helps organizations:",
+      "options": [
+        "Demonstrate adherence to PCI DSS",
+        "Avoid security controls",
+        "Reduce monitoring",
+        "Increase revenue"
+      ],
+      "correct_answer": "Demonstrate adherence to PCI DSS",
+      "explanation": "Validation provides evidence of compliance."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A QSA is responsible for:",
+      "options": [
+        "Conducting PCI DSS assessments",
+        "Issuing payment cards",
+        "Managing firewalls",
+        "Creating regulations"
+      ],
+      "correct_answer": "Conducting PCI DSS assessments",
+      "explanation": "Qualified Security Assessors perform official evaluations."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The difference between SAQ and ROC is:",
+      "options": [
+        "SAQ is self-assessment; ROC is assessor-generated",
+        "They are identical",
+        "ROC is self-assessment",
+        "SAQ is mandatory for Level 1"
+      ],
+      "correct_answer": "SAQ is self-assessment; ROC is assessor-generated",
+      "explanation": "The two validation methods serve different compliance levels."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Merchant levels influence:",
+      "options": [
+        "Assessment rigor and reporting requirements",
+        "Card pricing",
+        "Employee count",
+        "Business licensing"
+      ],
+      "correct_answer": "Assessment rigor and reporting requirements",
+      "explanation": "Higher levels require more formal validation."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Organizations must understand their PCI level to:",
+      "options": [
+        "Meet appropriate compliance requirements",
+        "Increase profits",
+        "Reduce staffing",
+        "Avoid audits"
+      ],
+      "correct_answer": "Meet appropriate compliance requirements",
+      "explanation": "Compliance obligations vary by level."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "PCI validation requirements are designed to:",
+      "options": [
+        "Match risk and transaction volume",
+        "Reduce security",
+        "Increase taxes",
+        "Replace audits"
+      ],
+      "correct_answer": "Match risk and transaction volume",
+      "explanation": "Larger organizations face greater compliance scrutiny."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Service provider levels differ from merchant levels because they:",
+      "options": [
+        "Support other organizations handling card data",
+        "Issue cards directly",
+        "Do not require compliance",
+        "Only perform audits"
+      ],
+      "correct_answer": "Support other organizations handling card data",
+      "explanation": "Service providers have distinct compliance categories."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of PCI levels is:",
+      "options": [
+        "Apply appropriate compliance requirements based on transaction volume and risk",
+        "Increase revenue",
+        "Eliminate fraud completely",
+        "Replace security controls"
+      ],
+      "correct_answer": "Apply appropriate compliance requirements based on transaction volume and risk",
+      "explanation": "PCI levels ensure organizations are assessed according to their exposure and risk."
+    }
+  ]
+}

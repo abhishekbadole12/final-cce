@@ -1,0 +1,266 @@
+{
+  "topic": "Evaluation Methodology",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is an evaluation methodology?",
+      "options": [
+        "A structured approach for conducting evaluations",
+        "A security tool",
+        "A firewall configuration",
+        "A backup strategy"
+      ],
+      "correct_answer": "A structured approach for conducting evaluations",
+      "explanation": "Methodology defines the process, techniques, and criteria used during evaluation."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Why is an evaluation methodology important?",
+      "options": [
+        "Ensures consistency",
+        "Increases costs",
+        "Reduces evidence",
+        "Avoids reporting"
+      ],
+      "correct_answer": "Ensures consistency",
+      "explanation": "A defined methodology produces reliable and repeatable results."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Evaluation methodology helps evaluators:",
+      "options": [
+        "Follow a standard process",
+        "Skip testing",
+        "Avoid documentation",
+        "Ignore risks"
+      ],
+      "correct_answer": "Follow a standard process",
+      "explanation": "Methodologies provide guidance for conducting evaluations."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which activity is included in an evaluation methodology?",
+      "options": [
+        "Evidence collection",
+        "Office maintenance",
+        "Marketing",
+        "Recruitment"
+      ],
+      "correct_answer": "Evidence collection",
+      "explanation": "Gathering and analyzing evidence is a core part of evaluations."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Methodologies are designed to:",
+      "options": [
+        "Improve reliability of results",
+        "Increase uncertainty",
+        "Reduce controls",
+        "Replace standards"
+      ],
+      "correct_answer": "Improve reliability of results",
+      "explanation": "Structured approaches lead to dependable conclusions."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Evaluation criteria are part of:",
+      "options": [
+        "Evaluation methodology",
+        "Payroll processing",
+        "Office design",
+        "Advertising"
+      ],
+      "correct_answer": "Evaluation methodology",
+      "explanation": "Criteria define what is being measured and assessed."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "A methodology typically includes:",
+      "options": [
+        "Planning, testing, analysis, and reporting",
+        "Only reporting",
+        "Only testing",
+        "Only interviews"
+      ],
+      "correct_answer": "Planning, testing, analysis, and reporting",
+      "explanation": "Comprehensive methodologies cover the entire evaluation lifecycle."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Using a standard methodology improves:",
+      "options": [
+        "Comparability of results",
+        "Office productivity",
+        "Network speed",
+        "Sales performance"
+      ],
+      "correct_answer": "Comparability of results",
+      "explanation": "Consistent methods make results easier to compare."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which factor is essential for an effective methodology?",
+      "options": [
+        "Clear objectives",
+        "Random testing",
+        "Minimal evidence",
+        "No documentation"
+      ],
+      "correct_answer": "Clear objectives",
+      "explanation": "Objectives guide the evaluation process."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Methodologies help reduce:",
+      "options": [
+        "Subjectivity",
+        "Evidence quality",
+        "Compliance",
+        "Security"
+      ],
+      "correct_answer": "Subjectivity",
+      "explanation": "Structured approaches minimize personal bias."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Evaluation methodologies often require:",
+      "options": [
+        "Documented procedures",
+        "Verbal instructions only",
+        "No standards",
+        "No evidence"
+      ],
+      "correct_answer": "Documented procedures",
+      "explanation": "Documentation ensures consistency and repeatability."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Testing methods should align with:",
+      "options": [
+        "Evaluation objectives",
+        "Office layout",
+        "Marketing plans",
+        "Payroll systems"
+      ],
+      "correct_answer": "Evaluation objectives",
+      "explanation": "Testing must support the goals of the evaluation."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "A methodology supports assurance by:",
+      "options": [
+        "Providing a repeatable process",
+        "Reducing testing",
+        "Ignoring controls",
+        "Avoiding analysis"
+      ],
+      "correct_answer": "Providing a repeatable process",
+      "explanation": "Repeatability increases confidence in results."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Risk-based methodologies prioritize:",
+      "options": [
+        "High-risk systems and controls",
+        "Random assets",
+        "Low-value assets",
+        "Office equipment"
+      ],
+      "correct_answer": "High-risk systems and controls",
+      "explanation": "Risk-based approaches focus resources where they matter most."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The effectiveness of an evaluation methodology depends on:",
+      "options": [
+        "Quality of procedures and evidence",
+        "Building size",
+        "Employee count",
+        "Internet speed"
+      ],
+      "correct_answer": "Quality of procedures and evidence",
+      "explanation": "Strong processes and evidence lead to reliable outcomes."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Independent application of methodology improves:",
+      "options": [
+        "Objectivity and credibility",
+        "Marketing efficiency",
+        "Revenue",
+        "Hiring"
+      ],
+      "correct_answer": "Objectivity and credibility",
+      "explanation": "Consistent application reduces bias."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "A mature evaluation methodology includes:",
+      "options": [
+        "Continuous improvement mechanisms",
+        "No documentation",
+        "Informal reviews only",
+        "No follow-up"
+      ],
+      "correct_answer": "Continuous improvement mechanisms",
+      "explanation": "Methodologies evolve based on lessons learned."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Methodologies help ensure compliance with:",
+      "options": [
+        "Standards and regulations",
+        "Office policies only",
+        "Marketing goals",
+        "Vendor agreements"
+      ],
+      "correct_answer": "Standards and regulations",
+      "explanation": "Many frameworks require structured evaluation approaches."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The main benefit of a formal methodology is:",
+      "options": [
+        "Reliable and defensible results",
+        "Faster internet",
+        "Reduced staffing",
+        "Lower office costs"
+      ],
+      "correct_answer": "Reliable and defensible results",
+      "explanation": "Formal methods strengthen confidence in findings."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of an evaluation methodology is:",
+      "options": [
+        "Produce consistent, accurate, and trustworthy evaluations",
+        "Increase profits",
+        "Replace auditors",
+        "Eliminate all risks"
+      ],
+      "correct_answer": "Produce consistent, accurate, and trustworthy evaluations",
+      "explanation": "Methodologies provide a foundation for dependable security assessments."
+    }
+  ]
+}

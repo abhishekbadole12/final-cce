@@ -1,0 +1,266 @@
+{
+  "topic": "Digital Personal Data Protection Act 2023",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does DPDP stand for?",
+      "options": [
+        "Digital Personal Data Protection",
+        "Data Privacy and Digital Protection",
+        "Digital Privacy Data Program",
+        "Data Processing and Protection Directive"
+      ],
+      "correct_answer": "Digital Personal Data Protection",
+      "explanation": "The DPDP Act 2023 is India's primary personal data protection law."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "The DPDP Act was enacted in:",
+      "options": [
+        "2023",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correct_answer": "2023",
+      "explanation": "The Digital Personal Data Protection Act was passed in 2023."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The primary objective of the DPDP Act is to:",
+      "options": [
+        "Protect personal data",
+        "Increase profits",
+        "Reduce audits",
+        "Regulate taxation"
+      ],
+      "correct_answer": "Protect personal data",
+      "explanation": "The Act safeguards personal data while enabling lawful processing."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Who is the individual to whom personal data relates?",
+      "options": [
+        "Data Principal",
+        "Data Fiduciary",
+        "Data Processor",
+        "Auditor"
+      ],
+      "correct_answer": "Data Principal",
+      "explanation": "The Act uses the term Data Principal for individuals."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "An organization deciding the purpose of data processing is called:",
+      "options": [
+        "Data Fiduciary",
+        "Data Principal",
+        "Data Processor",
+        "Data Auditor"
+      ],
+      "correct_answer": "Data Fiduciary",
+      "explanation": "A Data Fiduciary determines why and how personal data is processed."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Consent under DPDP must be:",
+      "options": [
+        "Free, informed, specific and unambiguous",
+        "Assumed",
+        "Verbal only",
+        "Optional"
+      ],
+      "correct_answer": "Free, informed, specific and unambiguous",
+      "explanation": "Valid consent is a core requirement under the Act."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "The DPDP Act applies to:",
+      "options": [
+        "Digital personal data processing",
+        "Only paper records",
+        "Only government data",
+        "Only banking data"
+      ],
+      "correct_answer": "Digital personal data processing",
+      "explanation": "The Act focuses on digital personal data."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Individuals have the right to:",
+      "options": [
+        "Access information about their personal data",
+        "Delete audit reports",
+        "Modify laws",
+        "Control company profits"
+      ],
+      "correct_answer": "Access information about their personal data",
+      "explanation": "The Act grants rights to Data Principals."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "A Data Fiduciary must ensure:",
+      "options": [
+        "Lawful and secure processing of personal data",
+        "Maximum data collection",
+        "Unlimited retention",
+        "No documentation"
+      ],
+      "correct_answer": "Lawful and secure processing of personal data",
+      "explanation": "Organizations are responsible for protecting personal data."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "The Act requires organizations to:",
+      "options": [
+        "Implement reasonable security safeguards",
+        "Eliminate all risks",
+        "Avoid monitoring",
+        "Reduce controls"
+      ],
+      "correct_answer": "Implement reasonable security safeguards",
+      "explanation": "Security measures are required to protect personal data."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "A personal data breach must be:",
+      "options": [
+        "Reported as required by the Act",
+        "Ignored",
+        "Hidden from authorities",
+        "Deleted immediately"
+      ],
+      "correct_answer": "Reported as required by the Act",
+      "explanation": "Organizations have breach notification obligations."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The DPDP Act promotes:",
+      "options": [
+        "Purpose-based data processing",
+        "Unlimited data sharing",
+        "Permanent data storage",
+        "Anonymous auditing"
+      ],
+      "correct_answer": "Purpose-based data processing",
+      "explanation": "Data should be processed only for legitimate purposes."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Consent can generally be withdrawn by:",
+      "options": [
+        "The Data Principal",
+        "The Data Fiduciary",
+        "The Government only",
+        "The Auditor"
+      ],
+      "correct_answer": "The Data Principal",
+      "explanation": "Individuals can withdraw consent subject to legal requirements."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A Significant Data Fiduciary may be required to:",
+      "options": [
+        "Meet additional compliance obligations",
+        "Avoid audits",
+        "Collect more data",
+        "Reduce security controls"
+      ],
+      "correct_answer": "Meet additional compliance obligations",
+      "explanation": "The Act imposes enhanced requirements on significant entities."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The DPDP Act balances:",
+      "options": [
+        "Privacy rights and lawful data processing",
+        "Revenue and taxation",
+        "Audits and governance",
+        "Marketing and sales"
+      ],
+      "correct_answer": "Privacy rights and lawful data processing",
+      "explanation": "The Act seeks to protect privacy while enabling legitimate use."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Reasonable security safeguards help organizations:",
+      "options": [
+        "Reduce the risk of personal data breaches",
+        "Eliminate compliance",
+        "Avoid governance",
+        "Increase profits"
+      ],
+      "correct_answer": "Reduce the risk of personal data breaches",
+      "explanation": "Security controls protect personal data."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "The Data Protection Board is associated with:",
+      "options": [
+        "Enforcement and grievance handling under the Act",
+        "Financial auditing",
+        "Network monitoring",
+        "Tax collection"
+      ],
+      "correct_answer": "Enforcement and grievance handling under the Act",
+      "explanation": "The Board plays a role in compliance and enforcement."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Non-compliance with DPDP may result in:",
+      "options": [
+        "Penalties and regulatory action",
+        "Tax benefits",
+        "Automatic certification",
+        "Reduced oversight"
+      ],
+      "correct_answer": "Penalties and regulatory action",
+      "explanation": "Violations can attract significant penalties."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Organizations should adopt privacy programs to:",
+      "options": [
+        "Support ongoing compliance with the Act",
+        "Replace security controls",
+        "Avoid documentation",
+        "Eliminate audits"
+      ],
+      "correct_answer": "Support ongoing compliance with the Act",
+      "explanation": "Privacy governance helps maintain compliance."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate objective of the DPDP Act 2023 is:",
+      "options": [
+        "Protect digital personal data and individual privacy rights in India",
+        "Increase revenue",
+        "Replace cybersecurity laws",
+        "Eliminate all cybercrime"
+      ],
+      "correct_answer": "Protect digital personal data and individual privacy rights in India",
+      "explanation": "The Act establishes a framework for responsible data processing."
+    }
+  ]
+}

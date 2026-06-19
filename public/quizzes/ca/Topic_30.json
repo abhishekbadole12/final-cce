@@ -1,0 +1,266 @@
+{
+  "topic": "COBIT Framework",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does COBIT stand for?",
+      "options": [
+        "Control Objectives for Information and Related Technologies",
+        "Corporate Objectives for Business Information Technology",
+        "Control Operations for Business IT",
+        "Compliance Objectives for Information Technology"
+      ],
+      "correct_answer": "Control Objectives for Information and Related Technologies",
+      "explanation": "COBIT is a framework for governance and management of enterprise IT."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Who developed COBIT?",
+      "options": [
+        "ISACA",
+        "ISO",
+        "NIST",
+        "AICPA"
+      ],
+      "correct_answer": "ISACA",
+      "explanation": "ISACA develops and maintains the COBIT framework."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The primary purpose of COBIT is to:",
+      "options": [
+        "Govern and manage enterprise IT",
+        "Develop software",
+        "Manage payroll",
+        "Conduct financial audits"
+      ],
+      "correct_answer": "Govern and manage enterprise IT",
+      "explanation": "COBIT helps align IT with business goals."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "COBIT focuses on:",
+      "options": [
+        "Governance and Management",
+        "Marketing",
+        "Sales",
+        "Human Resources"
+      ],
+      "correct_answer": "Governance and Management",
+      "explanation": "The framework separates governance from management activities."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "COBIT helps organizations achieve:",
+      "options": [
+        "Business objectives through effective IT governance",
+        "Higher taxes",
+        "Reduced staffing",
+        "Product marketing"
+      ],
+      "correct_answer": "Business objectives through effective IT governance",
+      "explanation": "COBIT aligns IT with business needs."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which organization widely uses COBIT?",
+      "options": [
+        "Enterprises managing IT governance",
+        "Schools only",
+        "Hospitals only",
+        "Retail stores only"
+      ],
+      "correct_answer": "Enterprises managing IT governance",
+      "explanation": "COBIT is used across many industries."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "A key principle of COBIT is:",
+      "options": [
+        "Meeting stakeholder needs",
+        "Increasing profits",
+        "Reducing audits",
+        "Avoiding compliance"
+      ],
+      "correct_answer": "Meeting stakeholder needs",
+      "explanation": "COBIT emphasizes delivering value to stakeholders."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "COBIT distinguishes between:",
+      "options": [
+        "Governance and Management",
+        "Policies and Procedures",
+        "Users and Systems",
+        "Risk and Compliance"
+      ],
+      "correct_answer": "Governance and Management",
+      "explanation": "Governance evaluates and directs; management executes."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "The Goals Cascade in COBIT helps:",
+      "options": [
+        "Translate business goals into IT goals",
+        "Manage payroll",
+        "Create marketing plans",
+        "Design networks"
+      ],
+      "correct_answer": "Translate business goals into IT goals",
+      "explanation": "Goals Cascade aligns enterprise objectives with IT."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Governance activities in COBIT include:",
+      "options": [
+        "Evaluate, Direct, and Monitor (EDM)",
+        "Plan, Build, Run",
+        "Audit only",
+        "Operate systems"
+      ],
+      "correct_answer": "Evaluate, Direct, and Monitor (EDM)",
+      "explanation": "EDM is the governance domain in COBIT."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Management activities in COBIT include:",
+      "options": [
+        "Planning and implementation",
+        "Only governance",
+        "Only auditing",
+        "Only compliance"
+      ],
+      "correct_answer": "Planning and implementation",
+      "explanation": "Management executes strategies and processes."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "COBIT supports:",
+      "options": [
+        "Risk management and compliance",
+        "Advertising",
+        "Recruitment",
+        "Sales forecasting"
+      ],
+      "correct_answer": "Risk management and compliance",
+      "explanation": "Organizations use COBIT to manage IT risks."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Which concept is central to COBIT?",
+      "options": [
+        "Value creation through IT",
+        "Financial auditing",
+        "Cloud computing",
+        "Network security only"
+      ],
+      "correct_answer": "Value creation through IT",
+      "explanation": "COBIT ensures IT contributes value to the business."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "COBIT integrates with:",
+      "options": [
+        "Other frameworks and standards",
+        "Only ISO",
+        "Only NIST",
+        "No frameworks"
+      ],
+      "correct_answer": "Other frameworks and standards",
+      "explanation": "COBIT complements ISO, ITIL, NIST, and others."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The governance objective of COBIT is to:",
+      "options": [
+        "Ensure stakeholder value from IT",
+        "Manage employees",
+        "Reduce documentation",
+        "Increase revenue"
+      ],
+      "correct_answer": "Ensure stakeholder value from IT",
+      "explanation": "Governance ensures IT delivers value while managing risks."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "COBIT helps organizations balance:",
+      "options": [
+        "Benefits, risks, and resources",
+        "Marketing and sales",
+        "Hardware and software",
+        "Employees and customers"
+      ],
+      "correct_answer": "Benefits, risks, and resources",
+      "explanation": "Effective governance requires balancing these factors."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "A major benefit of COBIT is:",
+      "options": [
+        "Alignment of IT with business strategy",
+        "Guaranteed compliance",
+        "No audits",
+        "Reduced security"
+      ],
+      "correct_answer": "Alignment of IT with business strategy",
+      "explanation": "COBIT ensures IT supports enterprise goals."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Performance measurement in COBIT supports:",
+      "options": [
+        "Continuous improvement",
+        "Avoiding audits",
+        "Reducing controls",
+        "Eliminating risk"
+      ],
+      "correct_answer": "Continuous improvement",
+      "explanation": "Metrics help evaluate effectiveness."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "COBIT is considered a governance framework because it:",
+      "options": [
+        "Provides structures and processes for directing IT",
+        "Develops applications",
+        "Creates regulations",
+        "Performs audits"
+      ],
+      "correct_answer": "Provides structures and processes for directing IT",
+      "explanation": "Governance frameworks guide decision-making and oversight."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of COBIT is:",
+      "options": [
+        "Optimize value from enterprise IT while managing risk",
+        "Increase profits only",
+        "Reduce staffing",
+        "Replace management"
+      ],
+      "correct_answer": "Optimize value from enterprise IT while managing risk",
+      "explanation": "COBIT ensures IT supports organizational objectives."
+    }
+  ]
+}

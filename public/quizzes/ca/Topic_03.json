@@ -1,0 +1,266 @@
+{
+  "topic": "Compliance Basics",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is compliance?",
+      "options": [
+        "Following applicable laws and regulations",
+        "Ignoring policies",
+        "Avoiding audits",
+        "Installing software"
+      ],
+      "correct_answer": "Following applicable laws and regulations",
+      "explanation": "Compliance means adhering to legal, regulatory, and organizational requirements."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Why is compliance important?",
+      "options": [
+        "To reduce legal risks",
+        "To increase electricity usage",
+        "To avoid documentation",
+        "To replace security"
+      ],
+      "correct_answer": "To reduce legal risks",
+      "explanation": "Compliance helps organizations avoid penalties and legal issues."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Compliance requirements can come from:",
+      "options": [
+        "Regulations",
+        "Laws",
+        "Standards",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "Organizations must comply with multiple sources of requirements."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "A compliance violation may result in:",
+      "options": [
+        "Penalties",
+        "Rewards",
+        "Promotions",
+        "Reduced oversight"
+      ],
+      "correct_answer": "Penalties",
+      "explanation": "Non-compliance can lead to fines and legal consequences."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Policies help organizations:",
+      "options": [
+        "Meet compliance requirements",
+        "Increase malware",
+        "Avoid governance",
+        "Remove controls"
+      ],
+      "correct_answer": "Meet compliance requirements",
+      "explanation": "Policies provide guidance for compliance activities."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Who is responsible for compliance?",
+      "options": [
+        "Only auditors",
+        "Only management",
+        "Everyone in the organization",
+        "Only HR"
+      ],
+      "correct_answer": "Everyone in the organization",
+      "explanation": "Compliance is a shared responsibility."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "A regulatory requirement is typically:",
+      "options": [
+        "Mandatory",
+        "Optional",
+        "Temporary",
+        "Informal"
+      ],
+      "correct_answer": "Mandatory",
+      "explanation": "Regulations generally impose mandatory obligations."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Compliance audits are performed to:",
+      "options": [
+        "Verify adherence to requirements",
+        "Increase sales",
+        "Upgrade hardware",
+        "Hire employees"
+      ],
+      "correct_answer": "Verify adherence to requirements",
+      "explanation": "Audits assess whether requirements are being met."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which document commonly defines security expectations?",
+      "options": [
+        "Security Policy",
+        "Invoice",
+        "Advertisement",
+        "Brochure"
+      ],
+      "correct_answer": "Security Policy",
+      "explanation": "Policies establish organizational security requirements."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Compliance programs should be:",
+      "options": [
+        "Continuous",
+        "One-time",
+        "Optional",
+        "Hidden"
+      ],
+      "correct_answer": "Continuous",
+      "explanation": "Compliance requires ongoing monitoring and improvement."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "What is a compliance framework?",
+      "options": [
+        "A structured set of requirements and controls",
+        "A firewall",
+        "A database",
+        "A software patch"
+      ],
+      "correct_answer": "A structured set of requirements and controls",
+      "explanation": "Frameworks help organizations manage compliance."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Risk assessments support compliance by:",
+      "options": [
+        "Identifying control gaps",
+        "Increasing threats",
+        "Removing audits",
+        "Eliminating policies"
+      ],
+      "correct_answer": "Identifying control gaps",
+      "explanation": "Assessments reveal weaknesses affecting compliance."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Documentation is important because it:",
+      "options": [
+        "Provides evidence of compliance",
+        "Replaces audits",
+        "Removes controls",
+        "Prevents training"
+      ],
+      "correct_answer": "Provides evidence of compliance",
+      "explanation": "Auditors rely on documented evidence."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Which activity best supports ongoing compliance?",
+      "options": [
+        "Continuous monitoring",
+        "Ignoring alerts",
+        "Annual reviews only",
+        "Reducing documentation"
+      ],
+      "correct_answer": "Continuous monitoring",
+      "explanation": "Continuous monitoring helps detect issues early."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Compliance and security are related because:",
+      "options": [
+        "Compliance often requires security controls",
+        "They are unrelated",
+        "Compliance replaces security",
+        "Security removes regulations"
+      ],
+      "correct_answer": "Compliance often requires security controls",
+      "explanation": "Many regulations mandate security measures."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "A compliance gap occurs when:",
+      "options": [
+        "Requirements are not fully met",
+        "Policies are followed",
+        "Audits succeed",
+        "Controls are effective"
+      ],
+      "correct_answer": "Requirements are not fully met",
+      "explanation": "Gaps indicate areas needing remediation."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Management's role in compliance includes:",
+      "options": [
+        "Providing oversight and resources",
+        "Ignoring regulations",
+        "Avoiding audits",
+        "Removing controls"
+      ],
+      "correct_answer": "Providing oversight and resources",
+      "explanation": "Leadership is accountable for compliance programs."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Compliance evidence should be:",
+      "options": [
+        "Accurate and auditable",
+        "Verbal only",
+        "Temporary",
+        "Confidential to auditors only"
+      ],
+      "correct_answer": "Accurate and auditable",
+      "explanation": "Evidence must support verification activities."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The primary purpose of compliance reporting is:",
+      "options": [
+        "Demonstrate adherence and status",
+        "Increase malware detection",
+        "Replace governance",
+        "Reduce transparency"
+      ],
+      "correct_answer": "Demonstrate adherence and status",
+      "explanation": "Reports communicate compliance performance."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "An effective compliance culture encourages:",
+      "options": [
+        "Ethical behavior and accountability",
+        "Policy violations",
+        "Minimal oversight",
+        "Avoidance of controls"
+      ],
+      "correct_answer": "Ethical behavior and accountability",
+      "explanation": "Culture is critical for sustainable compliance."
+    }
+  ]
+}

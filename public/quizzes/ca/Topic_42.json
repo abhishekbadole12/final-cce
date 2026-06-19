@@ -1,0 +1,266 @@
+{
+  "topic": "CIS Controls",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What are CIS Controls?",
+      "options": [
+        "Prioritized cybersecurity best practices",
+        "Financial controls",
+        "Audit reports",
+        "Legal regulations"
+      ],
+      "correct_answer": "Prioritized cybersecurity best practices",
+      "explanation": "CIS Controls help organizations defend against common cyber threats."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Who publishes CIS Controls?",
+      "options": [
+        "Center for Internet Security",
+        "NIST",
+        "ISO",
+        "PCI Council"
+      ],
+      "correct_answer": "Center for Internet Security",
+      "explanation": "CIS develops practical cybersecurity guidance."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The primary goal of CIS Controls is to:",
+      "options": [
+        "Reduce cyber risk",
+        "Increase revenue",
+        "Manage payroll",
+        "Improve marketing"
+      ],
+      "correct_answer": "Reduce cyber risk",
+      "explanation": "The controls focus on protecting systems and data."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "CIS Controls are designed to be:",
+      "options": [
+        "Practical and actionable",
+        "Legal requirements",
+        "Financial standards",
+        "Audit procedures"
+      ],
+      "correct_answer": "Practical and actionable",
+      "explanation": "Organizations can implement them to improve security."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "The first CIS Control focuses on:",
+      "options": [
+        "Inventory and Control of Enterprise Assets",
+        "Incident Response",
+        "Network Monitoring",
+        "Data Recovery"
+      ],
+      "correct_answer": "Inventory and Control of Enterprise Assets",
+      "explanation": "Organizations must know what assets they own."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Why is asset inventory important?",
+      "options": [
+        "You cannot secure what you do not know exists",
+        "It increases profits",
+        "It replaces audits",
+        "It reduces compliance"
+      ],
+      "correct_answer": "You cannot secure what you do not know exists",
+      "explanation": "Asset visibility is fundamental to security."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which CIS Control focuses on vulnerability management?",
+      "options": [
+        "Continuous Vulnerability Management",
+        "Email Security",
+        "Business Continuity",
+        "Risk Assessment"
+      ],
+      "correct_answer": "Continuous Vulnerability Management",
+      "explanation": "Organizations should identify and remediate vulnerabilities."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Secure configuration management helps:",
+      "options": [
+        "Reduce attack surface",
+        "Increase complexity",
+        "Eliminate monitoring",
+        "Reduce visibility"
+      ],
+      "correct_answer": "Reduce attack surface",
+      "explanation": "Proper configuration reduces exploitable weaknesses."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which CIS Control addresses user access management?",
+      "options": [
+        "Access Control Management",
+        "Asset Management",
+        "Audit Management",
+        "Patch Management"
+      ],
+      "correct_answer": "Access Control Management",
+      "explanation": "Access should be granted based on business need."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Security awareness training is included because:",
+      "options": [
+        "People are often targeted by attackers",
+        "It increases sales",
+        "It reduces controls",
+        "It replaces policies"
+      ],
+      "correct_answer": "People are often targeted by attackers",
+      "explanation": "Human error is a common cause of incidents."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Audit log management supports:",
+      "options": [
+        "Detection and investigation",
+        "Marketing analysis",
+        "Payroll processing",
+        "Facility management"
+      ],
+      "correct_answer": "Detection and investigation",
+      "explanation": "Logs help identify suspicious activity."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Data protection controls focus on:",
+      "options": [
+        "Safeguarding sensitive information",
+        "Increasing storage costs",
+        "Reducing encryption",
+        "Avoiding compliance"
+      ],
+      "correct_answer": "Safeguarding sensitive information",
+      "explanation": "Organizations must protect critical data."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Incident response controls help organizations:",
+      "options": [
+        "Respond effectively to security incidents",
+        "Avoid documentation",
+        "Reduce monitoring",
+        "Increase risks"
+      ],
+      "correct_answer": "Respond effectively to security incidents",
+      "explanation": "Preparation improves response effectiveness."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "CIS Controls are prioritized because:",
+      "options": [
+        "Organizations should focus on the most effective actions first",
+        "All controls are equal",
+        "Controls are optional",
+        "They replace risk management"
+      ],
+      "correct_answer": "Organizations should focus on the most effective actions first",
+      "explanation": "Prioritization improves resource allocation."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A major benefit of CIS Controls is:",
+      "options": [
+        "Defense against common attack techniques",
+        "Guaranteed compliance",
+        "Elimination of threats",
+        "No audits"
+      ],
+      "correct_answer": "Defense against common attack techniques",
+      "explanation": "The controls address frequently exploited weaknesses."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "CIS Controls can be mapped to:",
+      "options": [
+        "NIST, ISO 27001, and other frameworks",
+        "Payroll systems",
+        "Accounting standards",
+        "Marketing plans"
+      ],
+      "correct_answer": "NIST, ISO 27001, and other frameworks",
+      "explanation": "They complement broader security frameworks."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Continuous monitoring supports CIS Controls by:",
+      "options": [
+        "Providing ongoing visibility into security posture",
+        "Reducing oversight",
+        "Eliminating reviews",
+        "Avoiding audits"
+      ],
+      "correct_answer": "Providing ongoing visibility into security posture",
+      "explanation": "Monitoring helps identify issues quickly."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Organizations implement CIS Controls to:",
+      "options": [
+        "Improve overall cybersecurity maturity",
+        "Increase revenue",
+        "Reduce staffing",
+        "Replace governance"
+      ],
+      "correct_answer": "Improve overall cybersecurity maturity",
+      "explanation": "The controls strengthen security programs."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Effective implementation requires:",
+      "options": [
+        "Management support, resources, and continuous improvement",
+        "Only technology",
+        "Only policies",
+        "Only audits"
+      ],
+      "correct_answer": "Management support, resources, and continuous improvement",
+      "explanation": "Security programs require ongoing effort."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of CIS Controls is:",
+      "options": [
+        "Provide a prioritized roadmap for reducing cybersecurity risk",
+        "Increase profits",
+        "Replace regulations",
+        "Eliminate all vulnerabilities"
+      ],
+      "correct_answer": "Provide a prioritized roadmap for reducing cybersecurity risk",
+      "explanation": "The controls guide organizations toward stronger security."
+    }
+  ]
+}

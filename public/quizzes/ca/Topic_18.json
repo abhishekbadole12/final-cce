@@ -1,0 +1,266 @@
+{
+  "topic": "GDPR Overview",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does GDPR stand for?",
+      "options": [
+        "General Data Protection Regulation",
+        "Global Data Privacy Rules",
+        "General Digital Protection Rules",
+        "Global Data Processing Regulation"
+      ],
+      "correct_answer": "General Data Protection Regulation",
+      "explanation": "GDPR is the European Union regulation for data protection and privacy."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "GDPR was introduced by:",
+      "options": [
+        "European Union",
+        "United Nations",
+        "NIST",
+        "ISO"
+      ],
+      "correct_answer": "European Union",
+      "explanation": "GDPR is an EU regulation that became enforceable in 2018."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The primary goal of GDPR is to:",
+      "options": [
+        "Protect personal data",
+        "Increase profits",
+        "Reduce audits",
+        "Improve marketing"
+      ],
+      "correct_answer": "Protect personal data",
+      "explanation": "GDPR gives individuals more control over their personal information."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "GDPR applies to:",
+      "options": [
+        "Organizations processing EU residents' data",
+        "Only EU governments",
+        "Only banks",
+        "Only healthcare organizations"
+      ],
+      "correct_answer": "Organizations processing EU residents' data",
+      "explanation": "GDPR applies regardless of where the organization is located."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "A person whose data is processed is called a:",
+      "options": [
+        "Data Subject",
+        "Data Owner",
+        "Auditor",
+        "Controller"
+      ],
+      "correct_answer": "Data Subject",
+      "explanation": "GDPR uses the term Data Subject for individuals."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Personal data refers to:",
+      "options": [
+        "Information identifying an individual",
+        "Company revenue",
+        "Server logs only",
+        "Public advertisements"
+      ],
+      "correct_answer": "Information identifying an individual",
+      "explanation": "Personal data includes names, emails, IDs, and more."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which GDPR principle requires data to be collected for specific purposes?",
+      "options": [
+        "Purpose Limitation",
+        "Accuracy",
+        "Integrity",
+        "Storage Limitation"
+      ],
+      "correct_answer": "Purpose Limitation",
+      "explanation": "Data should only be collected for legitimate and specified purposes."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which GDPR principle requires personal data to be accurate and up to date?",
+      "options": [
+        "Accuracy",
+        "Transparency",
+        "Lawfulness",
+        "Confidentiality"
+      ],
+      "correct_answer": "Accuracy",
+      "explanation": "Organizations must keep personal data correct and current."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "What is consent under GDPR?",
+      "options": [
+        "Freely given and informed permission",
+        "Automatic approval",
+        "Verbal assumption",
+        "Employee agreement"
+      ],
+      "correct_answer": "Freely given and informed permission",
+      "explanation": "Consent must be specific, informed, and unambiguous."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Which role determines the purpose and means of data processing?",
+      "options": [
+        "Data Controller",
+        "Data Subject",
+        "Data Processor",
+        "Auditor"
+      ],
+      "correct_answer": "Data Controller",
+      "explanation": "The controller decides how and why personal data is processed."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "A Data Processor:",
+      "options": [
+        "Processes data on behalf of a controller",
+        "Owns the data",
+        "Audits compliance",
+        "Creates regulations"
+      ],
+      "correct_answer": "Processes data on behalf of a controller",
+      "explanation": "Processors act according to controller instructions."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "GDPR grants individuals the right to:",
+      "options": [
+        "Access their personal data",
+        "Delete audit reports",
+        "Control company profits",
+        "Modify regulations"
+      ],
+      "correct_answer": "Access their personal data",
+      "explanation": "The Right of Access is a core GDPR right."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "What is a data breach under GDPR?",
+      "options": [
+        "Unauthorized access, disclosure, or loss of personal data",
+        "System upgrade",
+        "Password reset",
+        "Backup operation"
+      ],
+      "correct_answer": "Unauthorized access, disclosure, or loss of personal data",
+      "explanation": "Breaches involving personal data must often be reported."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Which GDPR principle requires collecting only necessary data?",
+      "options": [
+        "Data Minimization",
+        "Accuracy",
+        "Fairness",
+        "Transparency"
+      ],
+      "correct_answer": "Data Minimization",
+      "explanation": "Organizations should only collect data required for the stated purpose."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The Right to be Forgotten refers to:",
+      "options": [
+        "Right to erasure of personal data",
+        "Right to encrypt data",
+        "Right to audit data",
+        "Right to share data"
+      ],
+      "correct_answer": "Right to erasure of personal data",
+      "explanation": "Individuals can request deletion of personal data in certain situations."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "GDPR requires organizations to implement:",
+      "options": [
+        "Appropriate technical and organizational measures",
+        "Only firewalls",
+        "Only policies",
+        "Only audits"
+      ],
+      "correct_answer": "Appropriate technical and organizational measures",
+      "explanation": "Security controls must protect personal data."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Failure to comply with GDPR can result in:",
+      "options": [
+        "Significant fines and penalties",
+        "Tax benefits",
+        "Reduced oversight",
+        "Automatic certification"
+      ],
+      "correct_answer": "Significant fines and penalties",
+      "explanation": "GDPR violations can lead to substantial financial penalties."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Privacy by Design means:",
+      "options": [
+        "Privacy considerations are built into systems from the beginning",
+        "Privacy is optional",
+        "Privacy is added after deployment",
+        "Only legal teams handle privacy"
+      ],
+      "correct_answer": "Privacy considerations are built into systems from the beginning",
+      "explanation": "GDPR encourages proactive privacy measures."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Accountability under GDPR means organizations must:",
+      "options": [
+        "Demonstrate compliance",
+        "Avoid audits",
+        "Reduce documentation",
+        "Transfer responsibility"
+      ],
+      "correct_answer": "Demonstrate compliance",
+      "explanation": "Organizations must show evidence of compliance efforts."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate objective of GDPR is to:",
+      "options": [
+        "Protect individual privacy and personal data rights",
+        "Increase organizational revenue",
+        "Reduce regulations",
+        "Replace security standards"
+      ],
+      "correct_answer": "Protect individual privacy and personal data rights",
+      "explanation": "GDPR strengthens privacy protections for individuals."
+    }
+  ]
+}

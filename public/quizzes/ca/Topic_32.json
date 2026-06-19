@@ -1,0 +1,266 @@
+{
+  "topic": "COBIT vs ITIL",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is COBIT primarily focused on?",
+      "options": [
+        "IT Governance and Management",
+        "IT Service Delivery",
+        "Software Development",
+        "Network Security"
+      ],
+      "correct_answer": "IT Governance and Management",
+      "explanation": "COBIT focuses on governance and management of enterprise IT."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "What is ITIL primarily focused on?",
+      "options": [
+        "IT Service Management",
+        "IT Governance",
+        "Financial Auditing",
+        "Compliance Auditing"
+      ],
+      "correct_answer": "IT Service Management",
+      "explanation": "ITIL provides best practices for delivering and managing IT services."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Who develops COBIT?",
+      "options": [
+        "ISACA",
+        "AXELOS",
+        "ISO",
+        "NIST"
+      ],
+      "correct_answer": "ISACA",
+      "explanation": "COBIT is developed and maintained by ISACA."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Who originally developed ITIL?",
+      "options": [
+        "UK Government",
+        "ISACA",
+        "ISO",
+        "AICPA"
+      ],
+      "correct_answer": "UK Government",
+      "explanation": "ITIL originated from the UK government's Central Computer and Telecommunications Agency."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "COBIT helps organizations align:",
+      "options": [
+        "IT with business objectives",
+        "Marketing with sales",
+        "Finance with HR",
+        "Security with payroll"
+      ],
+      "correct_answer": "IT with business objectives",
+      "explanation": "COBIT ensures IT supports business goals."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "ITIL helps organizations improve:",
+      "options": [
+        "IT service delivery",
+        "Financial reporting",
+        "Audit planning",
+        "Governance only"
+      ],
+      "correct_answer": "IT service delivery",
+      "explanation": "ITIL focuses on delivering value through services."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which framework emphasizes governance?",
+      "options": [
+        "COBIT",
+        "ITIL",
+        "DevOps",
+        "Agile"
+      ],
+      "correct_answer": "COBIT",
+      "explanation": "Governance is a core focus of COBIT."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which framework emphasizes service lifecycle management?",
+      "options": [
+        "ITIL",
+        "COBIT",
+        "SOX",
+        "HIPAA"
+      ],
+      "correct_answer": "ITIL",
+      "explanation": "ITIL provides guidance across the service lifecycle."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "COBIT's governance activities are represented by:",
+      "options": [
+        "EDM (Evaluate, Direct, Monitor)",
+        "PDCA",
+        "CSI",
+        "RACI"
+      ],
+      "correct_answer": "EDM (Evaluate, Direct, Monitor)",
+      "explanation": "EDM is the governance domain in COBIT."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "ITIL's objective is to:",
+      "options": [
+        "Deliver value through IT services",
+        "Govern enterprise IT",
+        "Manage audits",
+        "Ensure compliance"
+      ],
+      "correct_answer": "Deliver value through IT services",
+      "explanation": "ITIL focuses on service value creation."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Which framework is more useful for IT auditors?",
+      "options": [
+        "COBIT",
+        "ITIL",
+        "Scrum",
+        "Kanban"
+      ],
+      "correct_answer": "COBIT",
+      "explanation": "Auditors often use COBIT to assess governance and controls."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which framework is commonly used by IT operations teams?",
+      "options": [
+        "ITIL",
+        "COBIT",
+        "SOX",
+        "GDPR"
+      ],
+      "correct_answer": "ITIL",
+      "explanation": "ITIL supports service management and operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "COBIT and ITIL can be:",
+      "options": [
+        "Used together",
+        "Never used together",
+        "Replacements for each other",
+        "Legally required"
+      ],
+      "correct_answer": "Used together",
+      "explanation": "Many organizations use COBIT for governance and ITIL for service management."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The relationship between COBIT and ITIL is best described as:",
+      "options": [
+        "Complementary",
+        "Competitive",
+        "Identical",
+        "Unrelated"
+      ],
+      "correct_answer": "Complementary",
+      "explanation": "COBIT governs IT while ITIL manages services."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "COBIT answers the question:",
+      "options": [
+        "Are we doing the right things?",
+        "How do we deliver services?",
+        "How do we code applications?",
+        "How do we design networks?"
+      ],
+      "correct_answer": "Are we doing the right things?",
+      "explanation": "COBIT focuses on governance and strategic alignment."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "ITIL answers the question:",
+      "options": [
+        "How do we deliver IT services effectively?",
+        "How do we govern IT?",
+        "How do we audit controls?",
+        "How do we manage compliance?"
+      ],
+      "correct_answer": "How do we deliver IT services effectively?",
+      "explanation": "ITIL focuses on service management practices."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "COBIT supports risk management through:",
+      "options": [
+        "Governance structures and controls",
+        "Service desk operations",
+        "Incident resolution only",
+        "Knowledge management"
+      ],
+      "correct_answer": "Governance structures and controls",
+      "explanation": "COBIT provides mechanisms for oversight and risk management."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "ITIL contributes to organizational performance by:",
+      "options": [
+        "Improving service quality and efficiency",
+        "Replacing governance",
+        "Eliminating audits",
+        "Managing regulations"
+      ],
+      "correct_answer": "Improving service quality and efficiency",
+      "explanation": "ITIL improves service delivery outcomes."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "An enterprise seeking stronger governance would prioritize:",
+      "options": [
+        "COBIT",
+        "ITIL",
+        "DevOps",
+        "Scrum"
+      ],
+      "correct_answer": "COBIT",
+      "explanation": "Governance is COBIT's primary purpose."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate difference between COBIT and ITIL is:",
+      "options": [
+        "COBIT governs enterprise IT, while ITIL manages IT services",
+        "COBIT manages services, while ITIL governs IT",
+        "Both are identical",
+        "Both are auditing standards"
+      ],
+      "correct_answer": "COBIT governs enterprise IT, while ITIL manages IT services",
+      "explanation": "They address different but complementary aspects of IT management."
+    }
+  ]
+}

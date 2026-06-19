@@ -1,0 +1,266 @@
+{
+  "topic": "Audit Decision Factors",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is an audit decision factor?",
+      "options": [
+        "A criterion used to determine audit priorities",
+        "A firewall rule",
+        "A security tool",
+        "A backup policy"
+      ],
+      "correct_answer": "A criterion used to determine audit priorities",
+      "explanation": "Decision factors help determine what should be audited and when."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which factor commonly influences audit selection?",
+      "options": [
+        "Risk level",
+        "Office color",
+        "Parking space",
+        "Employee uniforms"
+      ],
+      "correct_answer": "Risk level",
+      "explanation": "High-risk areas are usually prioritized for audits."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Why are critical systems audited more frequently?",
+      "options": [
+        "They have greater business impact",
+        "They are cheaper",
+        "They require less security",
+        "They are easier to audit"
+      ],
+      "correct_answer": "They have greater business impact",
+      "explanation": "Critical systems can significantly affect operations if compromised."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Compliance requirements influence:",
+      "options": [
+        "Audit priorities",
+        "Office layout",
+        "Internet speed",
+        "Marketing plans"
+      ],
+      "correct_answer": "Audit priorities",
+      "explanation": "Regulatory obligations often drive audit schedules."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which factor relates to the importance of information?",
+      "options": [
+        "Asset value",
+        "Desk location",
+        "Employee age",
+        "Office size"
+      ],
+      "correct_answer": "Asset value",
+      "explanation": "Valuable assets require stronger oversight."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Previous audit findings help determine:",
+      "options": [
+        "Future audit focus",
+        "Payroll structure",
+        "Network design",
+        "Employee attendance"
+      ],
+      "correct_answer": "Future audit focus",
+      "explanation": "Past issues often require follow-up reviews."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Risk-based auditing prioritizes:",
+      "options": [
+        "High-risk areas",
+        "Random systems",
+        "Low-value assets",
+        "Only new systems"
+      ],
+      "correct_answer": "High-risk areas",
+      "explanation": "Resources are focused where risks are greatest."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "A history of security incidents may:",
+      "options": [
+        "Increase audit priority",
+        "Reduce controls",
+        "Eliminate audits",
+        "Decrease risk"
+      ],
+      "correct_answer": "Increase audit priority",
+      "explanation": "Frequent incidents indicate potential weaknesses."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Business impact analysis helps auditors understand:",
+      "options": [
+        "Potential consequences of failures",
+        "Employee benefits",
+        "Office maintenance",
+        "Vendor pricing"
+      ],
+      "correct_answer": "Potential consequences of failures",
+      "explanation": "Impact assessments guide audit decisions."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Which factor affects audit frequency?",
+      "options": [
+        "Regulatory requirements",
+        "Wall color",
+        "Printer model",
+        "Furniture type"
+      ],
+      "correct_answer": "Regulatory requirements",
+      "explanation": "Some regulations require periodic audits."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Management concerns may influence:",
+      "options": [
+        "Audit scope and focus",
+        "Network bandwidth",
+        "Hardware age only",
+        "Office cleaning"
+      ],
+      "correct_answer": "Audit scope and focus",
+      "explanation": "Management may request reviews of specific risk areas."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Changes in technology often trigger:",
+      "options": [
+        "Additional audits",
+        "Reduced monitoring",
+        "Policy removal",
+        "Compliance exemptions"
+      ],
+      "correct_answer": "Additional audits",
+      "explanation": "New systems introduce new risks."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Third-party risk assessments can affect:",
+      "options": [
+        "Vendor audit decisions",
+        "Payroll audits",
+        "Marketing reviews",
+        "Recruitment"
+      ],
+      "correct_answer": "Vendor audit decisions",
+      "explanation": "High-risk vendors often require audits."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The primary objective of audit decision factors is to:",
+      "options": [
+        "Allocate audit resources effectively",
+        "Reduce documentation",
+        "Avoid compliance",
+        "Eliminate governance"
+      ],
+      "correct_answer": "Allocate audit resources effectively",
+      "explanation": "Decision factors help prioritize limited audit resources."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Residual risk refers to:",
+      "options": [
+        "Risk remaining after controls are applied",
+        "Unidentified risk",
+        "Eliminated risk",
+        "Financial risk only"
+      ],
+      "correct_answer": "Risk remaining after controls are applied",
+      "explanation": "Residual risk helps determine audit needs."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "An organization with rapid digital transformation should:",
+      "options": [
+        "Increase audit attention on new technologies",
+        "Reduce security reviews",
+        "Ignore compliance",
+        "Avoid assessments"
+      ],
+      "correct_answer": "Increase audit attention on new technologies",
+      "explanation": "Technology changes introduce new risks."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Audit planning should align with:",
+      "options": [
+        "Business objectives and risk profile",
+        "Office design",
+        "Competitor branding",
+        "Employee preferences"
+      ],
+      "correct_answer": "Business objectives and risk profile",
+      "explanation": "Audits should support organizational goals."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "A control weakness identified previously should:",
+      "options": [
+        "Be considered in future audit planning",
+        "Be ignored",
+        "End all audits",
+        "Reduce audit scope"
+      ],
+      "correct_answer": "Be considered in future audit planning",
+      "explanation": "Follow-up audits verify remediation."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Which factor best justifies immediate audit attention?",
+      "options": [
+        "High likelihood and high impact risk",
+        "Low-value asset",
+        "Minor documentation issue",
+        "Office renovation"
+      ],
+      "correct_answer": "High likelihood and high impact risk",
+      "explanation": "High-risk areas require urgent review."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "Effective audit decision-making depends on:",
+      "options": [
+        "Risk, compliance, and business impact",
+        "Guesswork",
+        "Random selection",
+        "Employee seniority"
+      ],
+      "correct_answer": "Risk, compliance, and business impact",
+      "explanation": "These factors collectively determine audit priorities."
+    }
+  ]
+}

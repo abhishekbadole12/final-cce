@@ -1,0 +1,266 @@
+{
+  "topic": "ITAA 2008",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does ITAA 2008 stand for?",
+      "options": [
+        "Information Technology Amendment Act 2008",
+        "Internet Technology Administration Act",
+        "Information Transfer Act",
+        "Information Technology Access Act"
+      ],
+      "correct_answer": "Information Technology Amendment Act 2008",
+      "explanation": "ITAA 2008 amended the Information Technology Act, 2000 in India."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "ITAA 2008 amended which law?",
+      "options": [
+        "Information Technology Act 2000",
+        "Indian Penal Code",
+        "Companies Act",
+        "DPDP Act"
+      ],
+      "correct_answer": "Information Technology Act 2000",
+      "explanation": "The amendment strengthened cyber law provisions in India."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The primary purpose of ITAA 2008 was to:",
+      "options": [
+        "Address emerging cybercrime and electronic transactions",
+        "Increase taxes",
+        "Regulate banking only",
+        "Manage telecom services"
+      ],
+      "correct_answer": "Address emerging cybercrime and electronic transactions",
+      "explanation": "The amendment updated legal provisions for the digital age."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "ITAA 2008 recognizes:",
+      "options": [
+        "Electronic records and digital signatures",
+        "Paper records only",
+        "Verbal contracts",
+        "Physical signatures only"
+      ],
+      "correct_answer": "Electronic records and digital signatures",
+      "explanation": "The Act supports e-commerce and e-governance."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which section deals with identity theft?",
+      "options": [
+        "Section 66C",
+        "Section 43",
+        "Section 72",
+        "Section 79"
+      ],
+      "correct_answer": "Section 66C",
+      "explanation": "Section 66C penalizes identity theft."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Cyber terrorism is covered under:",
+      "options": [
+        "Section 66F",
+        "Section 66C",
+        "Section 72A",
+        "Section 79"
+      ],
+      "correct_answer": "Section 66F",
+      "explanation": "Section 66F specifically addresses cyber terrorism."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Section 66D relates to:",
+      "options": [
+        "Cheating by personation using computer resources",
+        "Identity theft",
+        "Cyber terrorism",
+        "Data retention"
+      ],
+      "correct_answer": "Cheating by personation using computer resources",
+      "explanation": "It covers online fraud and impersonation."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Section 72A deals with:",
+      "options": [
+        "Disclosure of information in breach of lawful contract",
+        "Identity theft",
+        "Cyber terrorism",
+        "Digital signatures"
+      ],
+      "correct_answer": "Disclosure of information in breach of lawful contract",
+      "explanation": "It protects confidential information."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which concept was strengthened through ITAA 2008?",
+      "options": [
+        "Data protection and privacy",
+        "Taxation",
+        "Marketing regulations",
+        "Import controls"
+      ],
+      "correct_answer": "Data protection and privacy",
+      "explanation": "The amendment introduced stronger privacy provisions."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Intermediaries such as ISPs receive protection under:",
+      "options": [
+        "Section 79",
+        "Section 66C",
+        "Section 72A",
+        "Section 43"
+      ],
+      "correct_answer": "Section 79",
+      "explanation": "Section 79 provides safe-harbor protection under certain conditions."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Section 43 deals with:",
+      "options": [
+        "Unauthorized access and damage to computer systems",
+        "Cyber terrorism",
+        "Identity theft",
+        "Privacy breaches"
+      ],
+      "correct_answer": "Unauthorized access and damage to computer systems",
+      "explanation": "It addresses unauthorized activities affecting computer resources."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "ITAA 2008 supports:",
+      "options": [
+        "E-governance and e-commerce",
+        "Only criminal investigations",
+        "Only banking services",
+        "Only telecom services"
+      ],
+      "correct_answer": "E-governance and e-commerce",
+      "explanation": "Electronic transactions are legally recognized."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "The amendment introduced stronger provisions against:",
+      "options": [
+        "Cybercrime",
+        "Environmental violations",
+        "Tax fraud",
+        "Trademark disputes"
+      ],
+      "correct_answer": "Cybercrime",
+      "explanation": "It expanded cyber offense coverage."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Safe-harbor provisions protect intermediaries when:",
+      "options": [
+        "They exercise due diligence and comply with legal requirements",
+        "They ignore complaints",
+        "They store illegal content",
+        "They avoid cooperation"
+      ],
+      "correct_answer": "They exercise due diligence and comply with legal requirements",
+      "explanation": "Protection is conditional on compliance."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Section 66F is significant because it addresses:",
+      "options": [
+        "Cyber terrorism",
+        "Data retention",
+        "Identity theft",
+        "Electronic signatures"
+      ],
+      "correct_answer": "Cyber terrorism",
+      "explanation": "Cyber terrorism is considered a serious offense."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "ITAA 2008 enhanced privacy protection through:",
+      "options": [
+        "Penalties for unauthorized disclosure of information",
+        "Tax regulations",
+        "Licensing requirements",
+        "Trade controls"
+      ],
+      "correct_answer": "Penalties for unauthorized disclosure of information",
+      "explanation": "Privacy-related violations attract penalties."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "The Act plays a key role in:",
+      "options": [
+        "India's cybersecurity legal framework",
+        "Financial auditing",
+        "Environmental compliance",
+        "Marketing governance"
+      ],
+      "correct_answer": "India's cybersecurity legal framework",
+      "explanation": "It is a foundational cyber law in India."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Organizations must comply with ITAA 2008 to:",
+      "options": [
+        "Reduce legal and cybersecurity risks",
+        "Increase profits",
+        "Avoid audits",
+        "Reduce staffing"
+      ],
+      "correct_answer": "Reduce legal and cybersecurity risks",
+      "explanation": "Compliance helps avoid penalties and incidents."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "ITAA 2008 complements modern privacy regulations by:",
+      "options": [
+        "Providing legal support for cybersecurity and electronic transactions",
+        "Replacing privacy laws",
+        "Eliminating compliance",
+        "Reducing governance"
+      ],
+      "correct_answer": "Providing legal support for cybersecurity and electronic transactions",
+      "explanation": "It works alongside newer laws."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of ITAA 2008 is:",
+      "options": [
+        "Provide a legal framework for electronic transactions and cybersecurity in India",
+        "Increase revenue",
+        "Replace regulations",
+        "Eliminate cybercrime"
+      ],
+      "correct_answer": "Provide a legal framework for electronic transactions and cybersecurity in India",
+      "explanation": "The Act governs digital activities and cyber offenses."
+    }
+  ]
+}

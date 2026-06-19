@@ -1,0 +1,266 @@
+{
+  "topic": "Evaluation Phases",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the first phase of an evaluation?",
+      "options": [
+        "Planning",
+        "Reporting",
+        "Follow-up",
+        "Remediation"
+      ],
+      "correct_answer": "Planning",
+      "explanation": "The evaluation begins by defining objectives, scope, and criteria."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which phase involves collecting information?",
+      "options": [
+        "Evidence Collection",
+        "Closure",
+        "Approval",
+        "Scheduling"
+      ],
+      "correct_answer": "Evidence Collection",
+      "explanation": "Evidence collection gathers data required for assessment."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Why is planning important?",
+      "options": [
+        "It defines objectives and scope",
+        "It replaces controls",
+        "It reduces evidence",
+        "It eliminates risks"
+      ],
+      "correct_answer": "It defines objectives and scope",
+      "explanation": "Proper planning ensures an effective evaluation."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Evaluation findings are documented during:",
+      "options": [
+        "Reporting",
+        "Planning",
+        "Testing",
+        "Scheduling"
+      ],
+      "correct_answer": "Reporting",
+      "explanation": "The reporting phase communicates results and recommendations."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "The final phase often includes:",
+      "options": [
+        "Follow-up",
+        "Planning",
+        "Testing",
+        "Approval"
+      ],
+      "correct_answer": "Follow-up",
+      "explanation": "Follow-up verifies corrective actions."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which phase identifies security weaknesses?",
+      "options": [
+        "Analysis",
+        "Closure",
+        "Scheduling",
+        "Procurement"
+      ],
+      "correct_answer": "Analysis",
+      "explanation": "Evidence is analyzed to identify gaps and issues."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "During evidence collection, evaluators may perform:",
+      "options": [
+        "Interviews and testing",
+        "Marketing campaigns",
+        "Sales reviews",
+        "Payroll processing"
+      ],
+      "correct_answer": "Interviews and testing",
+      "explanation": "Various techniques are used to gather evidence."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "The analysis phase focuses on:",
+      "options": [
+        "Evaluating collected evidence",
+        "Installing software",
+        "Managing vendors",
+        "Writing policies"
+      ],
+      "correct_answer": "Evaluating collected evidence",
+      "explanation": "Analysis determines compliance and effectiveness."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "A report should include:",
+      "options": [
+        "Findings and recommendations",
+        "Advertisements",
+        "Contracts",
+        "Invoices"
+      ],
+      "correct_answer": "Findings and recommendations",
+      "explanation": "Reports communicate evaluation results."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Corrective actions are usually developed after:",
+      "options": [
+        "Reporting findings",
+        "Planning",
+        "Scheduling",
+        "Procurement"
+      ],
+      "correct_answer": "Reporting findings",
+      "explanation": "Organizations respond to identified weaknesses."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Evaluation phases provide:",
+      "options": [
+        "A structured assessment approach",
+        "Random reviews",
+        "Reduced controls",
+        "No documentation"
+      ],
+      "correct_answer": "A structured assessment approach",
+      "explanation": "Phases ensure consistency and completeness."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The follow-up phase verifies:",
+      "options": [
+        "Remediation effectiveness",
+        "Budget approval",
+        "Hiring decisions",
+        "Vendor contracts"
+      ],
+      "correct_answer": "Remediation effectiveness",
+      "explanation": "Follow-up ensures issues are resolved."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Evidence should be:",
+      "options": [
+        "Relevant and reliable",
+        "Random",
+        "Verbal only",
+        "Unverified"
+      ],
+      "correct_answer": "Relevant and reliable",
+      "explanation": "Reliable evidence supports valid conclusions."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A risk-based approach affects:",
+      "options": [
+        "Evaluation priorities",
+        "Office design",
+        "Printer selection",
+        "Furniture placement"
+      ],
+      "correct_answer": "Evaluation priorities",
+      "explanation": "Higher-risk areas receive greater attention."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The planning phase should align with:",
+      "options": [
+        "Business and security objectives",
+        "Marketing goals",
+        "Building maintenance",
+        "Payroll"
+      ],
+      "correct_answer": "Business and security objectives",
+      "explanation": "Evaluations support organizational goals."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Analysis converts evidence into:",
+      "options": [
+        "Meaningful findings",
+        "Advertisements",
+        "Invoices",
+        "Policies"
+      ],
+      "correct_answer": "Meaningful findings",
+      "explanation": "Findings are derived from evidence review."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Independent review improves:",
+      "options": [
+        "Objectivity and credibility",
+        "Network speed",
+        "Revenue",
+        "Office productivity"
+      ],
+      "correct_answer": "Objectivity and credibility",
+      "explanation": "Independent evaluations are more trustworthy."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "The reporting phase contributes to:",
+      "options": [
+        "Management decision-making",
+        "Hardware installation",
+        "Product sales",
+        "Recruitment"
+      ],
+      "correct_answer": "Management decision-making",
+      "explanation": "Reports help management address issues."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Continuous improvement is supported through:",
+      "options": [
+        "Follow-up and remediation",
+        "Ignoring findings",
+        "Reducing audits",
+        "Removing controls"
+      ],
+      "correct_answer": "Follow-up and remediation",
+      "explanation": "Organizations improve based on evaluation results."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of evaluation phases is to:",
+      "options": [
+        "Provide assurance through a structured process",
+        "Increase costs",
+        "Reduce documentation",
+        "Replace governance"
+      ],
+      "correct_answer": "Provide assurance through a structured process",
+      "explanation": "Evaluation phases ensure reliable and consistent assessments."
+    }
+  ]
+}

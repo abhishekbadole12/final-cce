@@ -49,11 +49,11 @@ export const SUBJECTS = {
     ndc: {
         name: 'Network Defense & Countermeasures',
         topics: [
-            { id: '01', name: 'Introduction to Information Security', file: 'Topic_01_Introduction_to_Information_Security_MCQs_With_Explanations.json' },
-            { id: '02', name: 'CIA Triad', file: 'Topic_02_CIA_Triad_MCQs_With_Explanations.json' },
-            { id: '03', name: 'Vulnerability, Threat & Risk', file: 'Topic_03_Vulnerability_Threat_Risk_MCQs_With_Explanations.json' },
-            { id: '04', name: 'Risk Management & Countermeasures', file: 'Topic_04_Risk_Management_and_Countermeasures_MCQs_With_Explanations.json' },
-            { id: '05', name: 'Firewall', file: 'Topic_05_Firewall_MCQs_With_Explanations.json' },
+            { id: '01', name: 'Introduction to Information Security', },
+            { id: '02', name: 'CIA Triad', },
+            { id: '03', name: 'Vulnerability, Threat & Risk', },
+            { id: '04', name: 'Risk Management & Countermeasures', },
+            { id: '05', name: 'Firewall', },
             { id: '06', name: 'DMZ (Demilitarized Zone)', file: 'Topic_06_DMZ_Demilitarized_Zone_MCQs_With_Explanations.json' },
             { id: '07', name: 'Packet Filtering Firewall', file: 'Topic_07_Packet_Filtering_Firewall_MCQs_With_Explanations.json' },
             { id: '08', name: 'Screened Host Firewall', file: 'Topic_08_Screened_Host_Firewall_MCQs_With_Explanations.json' },
@@ -81,6 +81,78 @@ export const SUBJECTS = {
             { id: '30', name: 'Log Correlation', file: 'Topic_30_Log_Correlation_MCQs_With_Explanations.json' }
         ]
     },
+
+
+    ca: {
+        name: 'Compliance Audit',
+        topics: [
+            { id: '01', name: 'Introduction', file: 'Topic_01_Introduction_MCQs_With_Explanations.json' },
+            { id: '02', name: 'Cyber Security Challenges for Organizations', file: 'Topic_02_Cyber_Security_Challenges_for_Organizations_MCQs_With_Explanations.json' },
+            { id: '03', name: 'Compliance Basics', file: 'Topic_03_Compliance_Basics_MCQs_With_Explanations.json' },
+            { id: '04', name: 'Types of Security Audit', file: 'Topic_04_Types_of_Security_Audit_MCQs_With_Explanations.json' },
+            { id: '05', name: 'Audit Decision Factors', file: 'Topic_05_Audit_Decision_Factors_MCQs_With_Explanations.json' },
+            { id: '06', name: 'Security Audit Phases', file: 'Topic_06_Security_Audit_Phases_MCQs_With_Explanations.json' },
+            { id: '07', name: 'Requirements of Internal Audit Team', file: 'Topic_07_Requirements_of_Internal_Audit_Team_MCQs_With_Explanations.json' },
+            { id: '08', name: 'Principles of Audits', file: 'Topic_08_Principles_of_Audits_MCQs_With_Explanations.json' },
+            { id: '09', name: 'Auditor Personal Abilities', file: 'Topic_09_Auditor_Personal_Abilities_MCQs_With_Explanations.json' },
+
+            { id: '10', name: 'Security Evaluation', file: 'Topic_10_Security_Evaluation_MCQs_With_Explanations.json' },
+            { id: '11', name: 'Evaluation Process', file: 'Topic_11_Evaluation_Process_MCQs_With_Explanations.json' },
+            { id: '12', name: 'Evaluation Phases', file: 'Topic_12_Evaluation_Phases_MCQs_With_Explanations.json' },
+            { id: '13', name: 'Assurance - 7 Evaluation Levels', file: 'Topic_13_Assurance_7_Evaluation_Levels_MCQs_With_Explanations.json' },
+            { id: '14', name: 'Evaluation Methodology', file: 'Topic_14_Evaluation_Methodology_MCQs_With_Explanations.json' },
+
+            { id: '15', name: 'NIST Overview', file: 'Topic_15_NIST_Overview_MCQs_With_Explanations.json' },
+            { id: '16', name: 'Components of NIST Framework', file: 'Topic_16_Components_of_NIST_Framework_MCQs_With_Explanations.json' },
+            { id: '17', name: 'Use of NIST Framework', file: 'Topic_17_Use_of_NIST_Framework_MCQs_With_Explanations.json' },
+
+            { id: '18', name: 'GDPR Overview', file: 'Topic_18_GDPR_Overview_MCQs_With_Explanations.json' },
+            { id: '19', name: 'Types of Privacy Data Protected by GDPR', file: 'Topic_19_Types_of_Privacy_Data_Protected_by_GDPR_MCQs_With_Explanations.json' },
+            { id: '20', name: 'Key Steps to Ensure GDPR Compliance', file: 'Topic_20_Key_Steps_to_Ensure_GDPR_Compliance_MCQs_With_Explanations.json' },
+
+            { id: '21', name: 'ISO 2700x Standards', file: 'Topic_21_ISO_2700x_Standards_MCQs_With_Explanations.json' },
+            { id: '22', name: 'How ISO Standards Work', file: 'Topic_22_How_ISO_Standards_Work_MCQs_With_Explanations.json' },
+            { id: '23', name: 'History of ISO/IEC 27001', file: 'Topic_23_History_of_ISO_IEC_27001_MCQs_With_Explanations.json' },
+            { id: '24', name: 'ISO/IEC 27001:2005 Domains', file: 'Topic_24_ISO_IEC_27001_2005_Domains_MCQs_With_Explanations.json' },
+            { id: '25', name: 'Structure of ISO Standards', file: 'Topic_25_Structure_of_ISO_Standards_MCQs_With_Explanations.json' },
+
+            { id: '26', name: 'SOX Reports', file: 'Topic_26_SOX_Reports_MCQs_With_Explanations.json' },
+            { id: '27', name: 'SOC Reports', file: 'Topic_27_SOC_Reports_MCQs_With_Explanations.json' },
+            { id: '28', name: 'Auditor Process Overview', file: 'Topic_28_Auditor_Process_Overview_MCQs_With_Explanations.json' },
+            { id: '29', name: 'SOX Compliance and Security Controls', file: 'Topic_29_SOX_Compliance_and_Security_Controls_MCQs_With_Explanations.json' },
+
+            { id: '30', name: 'COBIT Framework', file: 'Topic_30_COBIT_Framework_MCQs_With_Explanations.json' },
+            { id: '31', name: 'COBIT Components', file: 'Topic_31_COBIT_Components_MCQs_With_Explanations.json' },
+            { id: '32', name: 'COBIT vs ITIL', file: 'Topic_32_COBIT_vs_ITIL_MCQs_With_Explanations.json' },
+
+            { id: '33', name: 'HIPAA', file: 'Topic_33_HIPAA_MCQs_With_Explanations.json' },
+            { id: '34', name: 'HIPAA Regulations', file: 'Topic_34_HIPAA_Regulations_MCQs_With_Explanations.json' },
+            { id: '35', name: 'HIPAA Titles', file: 'Topic_35_HIPAA_Titles_MCQs_With_Explanations.json' },
+            { id: '36', name: 'HIPAA Rules', file: 'Topic_36_HIPAA_Rules_MCQs_With_Explanations.json' },
+
+            { id: '37', name: 'PCI DSS', file: 'Topic_37_PCI_DSS_MCQs_With_Explanations.json' },
+            { id: '38', name: 'History of PCI DSS', file: 'Topic_38_History_of_PCI_DSS_MCQs_With_Explanations.json' },
+            { id: '39', name: 'Different Levels of PCI', file: 'Topic_39_Different_Levels_of_PCI_MCQs_With_Explanations.json' },
+
+            { id: '40', name: 'CIS Critical Security Controls', file: 'Topic_40_CIS_Critical_Security_Controls_MCQs_With_Explanations.json' },
+            { id: '41', name: 'CIS Compliance', file: 'Topic_41_CIS_Compliance_MCQs_With_Explanations.json' },
+            { id: '42', name: 'CIS Controls', file: 'Topic_42_CIS_Controls_MCQs_With_Explanations.json' },
+            { id: '43', name: 'CIS Benchmarks', file: 'Topic_43_CIS_Benchmarks_MCQs_With_Explanations.json' },
+
+            { id: '44', name: 'SSE-CMM Project', file: 'Topic_44_SSE_CMM_Project_MCQs_With_Explanations.json' },
+            { id: '45', name: 'History & Need of SSE-CMM', file: 'Topic_45_History_and_Need_of_SSE_CMM_MCQs_With_Explanations.json' },
+            { id: '46', name: 'SSE-CMM Overview', file: 'Topic_46_SSE_CMM_Overview_MCQs_With_Explanations.json' },
+            { id: '47', name: 'Using the SSE-CMM', file: 'Topic_47_Using_the_SSE_CMM_MCQs_With_Explanations.json' },
+            { id: '48', name: 'SSE-CMM Pilots', file: 'Topic_48_SSE_CMM_Pilots_MCQs_With_Explanations.json' },
+
+            { id: '49', name: 'ITAA 2008', file: 'Topic_49_ITAA_2008_MCQs_With_Explanations.json' },
+            { id: '50', name: 'Digital Personal Data Protection Act 2023', file: 'Topic_50_DPDP_Act_2023_MCQs_With_Explanations.json' },
+            { id: '51', name: 'Case Studies', file: 'Topic_51_Case_Studies_MCQs_With_Explanations.json' },
+            { id: '52', name: 'Internal Audit Solution for a Global Bank', file: 'Topic_52_Internal_Audit_Solution_for_a_Global_Bank_MCQs_With_Explanations.json' },
+            { id: '53', name: 'Compliance Audit of Anti-Corruption Regulations', file: 'Topic_53_Compliance_Audit_of_Anti_Corruption_Regulations_MCQs_With_Explanations.json' }
+        ]
+
+    }
 } as const;
 
 export type SubjectKey = keyof typeof SUBJECTS;

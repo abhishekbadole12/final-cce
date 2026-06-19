@@ -1,0 +1,266 @@
+{
+  "topic": "Types of Privacy Data Protected by GDPR",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What type of data is protected under GDPR?",
+      "options": [
+        "Personal data",
+        "Company revenue",
+        "Server hardware",
+        "Office documents"
+      ],
+      "correct_answer": "Personal data",
+      "explanation": "GDPR protects information relating to an identifiable individual."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which of the following is personal data?",
+      "options": [
+        "Email address",
+        "Company logo",
+        "Product brochure",
+        "Office address"
+      ],
+      "correct_answer": "Email address",
+      "explanation": "An email address can identify an individual."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "A person's full name is considered:",
+      "options": [
+        "Personal data",
+        "Public information only",
+        "Financial data only",
+        "Non-personal data"
+      ],
+      "correct_answer": "Personal data",
+      "explanation": "Names can directly identify individuals."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which category is considered sensitive personal data under GDPR?",
+      "options": [
+        "Health information",
+        "Product catalog",
+        "Website theme",
+        "Office location"
+      ],
+      "correct_answer": "Health information",
+      "explanation": "Health data is a special category requiring extra protection."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Phone numbers are classified as:",
+      "options": [
+        "Personal data",
+        "Anonymous data",
+        "System data",
+        "Public records"
+      ],
+      "correct_answer": "Personal data",
+      "explanation": "Phone numbers can identify or relate to an individual."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Biometric data includes:",
+      "options": [
+        "Fingerprints",
+        "Company IDs",
+        "Invoices",
+        "Advertisements"
+      ],
+      "correct_answer": "Fingerprints",
+      "explanation": "Biometric data uniquely identifies individuals."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which is an example of special category data?",
+      "options": [
+        "Religious beliefs",
+        "Company revenue",
+        "Product pricing",
+        "Website traffic"
+      ],
+      "correct_answer": "Religious beliefs",
+      "explanation": "GDPR provides extra protection for sensitive personal information."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Genetic data is protected because it:",
+      "options": [
+        "Can uniquely identify individuals",
+        "Improves marketing",
+        "Tracks products",
+        "Stores passwords"
+      ],
+      "correct_answer": "Can uniquely identify individuals",
+      "explanation": "Genetic data is highly sensitive personal information."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Location data is considered personal data when:",
+      "options": [
+        "It can identify an individual",
+        "It is publicly available",
+        "It belongs to a company",
+        "It is encrypted"
+      ],
+      "correct_answer": "It can identify an individual",
+      "explanation": "Location information can reveal identity and behavior."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Online identifiers include:",
+      "options": [
+        "IP addresses and cookies",
+        "Office numbers",
+        "Invoices",
+        "Product codes"
+      ],
+      "correct_answer": "IP addresses and cookies",
+      "explanation": "GDPR treats many online identifiers as personal data."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Which data category requires stronger protection?",
+      "options": [
+        "Special category data",
+        "Public information",
+        "Marketing content",
+        "Anonymous data"
+      ],
+      "correct_answer": "Special category data",
+      "explanation": "Sensitive categories require additional safeguards."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Financial account information is generally considered:",
+      "options": [
+        "Personal data",
+        "Public data",
+        "Anonymous data",
+        "System metadata"
+      ],
+      "correct_answer": "Personal data",
+      "explanation": "Financial information relates to identifiable individuals."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Anonymous data is:",
+      "options": [
+        "Data that cannot identify an individual",
+        "Encrypted personal data",
+        "Health records",
+        "Email addresses"
+      ],
+      "correct_answer": "Data that cannot identify an individual",
+      "explanation": "Truly anonymized data falls outside GDPR scope."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Which GDPR category includes racial or ethnic origin data?",
+      "options": [
+        "Special category data",
+        "Public data",
+        "Operational data",
+        "Business data"
+      ],
+      "correct_answer": "Special category data",
+      "explanation": "Racial and ethnic information receives enhanced protection."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Pseudonymized data is:",
+      "options": [
+        "Still considered personal data",
+        "Anonymous data",
+        "Public data",
+        "Unregulated data"
+      ],
+      "correct_answer": "Still considered personal data",
+      "explanation": "Individuals may still be re-identified."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Criminal conviction data is:",
+      "options": [
+        "Subject to specific GDPR protections",
+        "Public information",
+        "Business information",
+        "Anonymous information"
+      ],
+      "correct_answer": "Subject to specific GDPR protections",
+      "explanation": "Processing such data requires special safeguards."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Why does GDPR protect online identifiers?",
+      "options": [
+        "They can be linked to individuals",
+        "They improve performance",
+        "They are public by default",
+        "They replace names"
+      ],
+      "correct_answer": "They can be linked to individuals",
+      "explanation": "Identifiers can reveal user identity and behavior."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "The broad definition of personal data allows GDPR to:",
+      "options": [
+        "Protect individuals comprehensively",
+        "Reduce compliance",
+        "Avoid regulation",
+        "Protect only financial data"
+      ],
+      "correct_answer": "Protect individuals comprehensively",
+      "explanation": "GDPR covers many forms of identifiable information."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Organizations should classify personal data to:",
+      "options": [
+        "Apply appropriate protection measures",
+        "Increase storage costs",
+        "Avoid audits",
+        "Reduce documentation"
+      ],
+      "correct_answer": "Apply appropriate protection measures",
+      "explanation": "Classification helps determine required controls."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate reason GDPR protects different data types is to:",
+      "options": [
+        "Safeguard individual privacy rights",
+        "Increase revenue",
+        "Reduce regulations",
+        "Replace cybersecurity"
+      ],
+      "correct_answer": "Safeguard individual privacy rights",
+      "explanation": "Protecting personal data preserves privacy and trust."
+    }
+  ]
+}

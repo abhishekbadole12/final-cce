@@ -1,0 +1,266 @@
+{
+  "topic": "Auditor Process Overview",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the primary purpose of an auditor process?",
+      "options": [
+        "Evaluate controls and compliance",
+        "Increase profits",
+        "Develop software",
+        "Manage payroll"
+      ],
+      "correct_answer": "Evaluate controls and compliance",
+      "explanation": "Auditors assess whether controls are effective and requirements are met."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "What is usually the first step in an audit process?",
+      "options": [
+        "Planning",
+        "Reporting",
+        "Follow-up",
+        "Remediation"
+      ],
+      "correct_answer": "Planning",
+      "explanation": "Audits begin with defining scope, objectives, and resources."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Why is audit planning important?",
+      "options": [
+        "It defines audit scope and objectives",
+        "It eliminates risks",
+        "It replaces controls",
+        "It avoids reporting"
+      ],
+      "correct_answer": "It defines audit scope and objectives",
+      "explanation": "Planning ensures the audit is organized and effective."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "What do auditors collect during an audit?",
+      "options": [
+        "Evidence",
+        "Profits",
+        "Advertisements",
+        "Invoices"
+      ],
+      "correct_answer": "Evidence",
+      "explanation": "Evidence supports audit findings and conclusions."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Audit findings are communicated through:",
+      "options": [
+        "Audit reports",
+        "Policies",
+        "Contracts",
+        "Invoices"
+      ],
+      "correct_answer": "Audit reports",
+      "explanation": "Reports document observations and recommendations."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Auditors should remain:",
+      "options": [
+        "Independent and objective",
+        "Biased",
+        "Influenced by management",
+        "Careless"
+      ],
+      "correct_answer": "Independent and objective",
+      "explanation": "Objectivity is essential for credible audits."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "During fieldwork, auditors primarily:",
+      "options": [
+        "Gather and analyze evidence",
+        "Approve budgets",
+        "Create policies",
+        "Manage vendors"
+      ],
+      "correct_answer": "Gather and analyze evidence",
+      "explanation": "Fieldwork focuses on evidence collection and assessment."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which technique is commonly used to gather audit evidence?",
+      "options": [
+        "Interviews",
+        "Advertising",
+        "Recruitment",
+        "Sales analysis"
+      ],
+      "correct_answer": "Interviews",
+      "explanation": "Interviews help auditors understand processes and controls."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Sampling is used because:",
+      "options": [
+        "Reviewing every item may not be practical",
+        "It eliminates audits",
+        "It reduces controls",
+        "It avoids evidence"
+      ],
+      "correct_answer": "Reviewing every item may not be practical",
+      "explanation": "Sampling allows efficient testing."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "An audit finding usually includes:",
+      "options": [
+        "Observation, risk, and recommendation",
+        "Only observations",
+        "Only risks",
+        "Only recommendations"
+      ],
+      "correct_answer": "Observation, risk, and recommendation",
+      "explanation": "Findings explain issues and suggest improvements."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Audit evidence should be:",
+      "options": [
+        "Sufficient and reliable",
+        "Random",
+        "Verbal only",
+        "Unverified"
+      ],
+      "correct_answer": "Sufficient and reliable",
+      "explanation": "Quality evidence supports valid conclusions."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The exit meeting is conducted to:",
+      "options": [
+        "Discuss findings with management",
+        "Approve budgets",
+        "Hire employees",
+        "Create regulations"
+      ],
+      "correct_answer": "Discuss findings with management",
+      "explanation": "Management reviews and responds to findings."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Audit reports help management:",
+      "options": [
+        "Make informed decisions",
+        "Increase sales",
+        "Reduce staffing",
+        "Avoid compliance"
+      ],
+      "correct_answer": "Make informed decisions",
+      "explanation": "Reports provide insight into risks and controls."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Risk-based auditing focuses on:",
+      "options": [
+        "High-risk areas and processes",
+        "Random systems",
+        "Low-value assets",
+        "Office supplies"
+      ],
+      "correct_answer": "High-risk areas and processes",
+      "explanation": "Audit resources are prioritized based on risk."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Professional skepticism requires auditors to:",
+      "options": [
+        "Question and verify information",
+        "Trust everything",
+        "Ignore evidence",
+        "Avoid interviews"
+      ],
+      "correct_answer": "Question and verify information",
+      "explanation": "Auditors critically evaluate information."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Follow-up activities verify:",
+      "options": [
+        "Corrective actions have been implemented",
+        "Audit scope",
+        "Employee attendance",
+        "Office procedures"
+      ],
+      "correct_answer": "Corrective actions have been implemented",
+      "explanation": "Follow-up ensures issues are resolved."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "An auditor's opinion is based on:",
+      "options": [
+        "Evidence collected during the audit",
+        "Management requests",
+        "Assumptions",
+        "Personal preferences"
+      ],
+      "correct_answer": "Evidence collected during the audit",
+      "explanation": "Conclusions must be evidence-based."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "The effectiveness of an audit depends on:",
+      "options": [
+        "Planning, evidence quality, and reporting",
+        "Office size",
+        "Marketing budget",
+        "Employee count"
+      ],
+      "correct_answer": "Planning, evidence quality, and reporting",
+      "explanation": "Strong audit practices produce reliable results."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The audit process contributes to:",
+      "options": [
+        "Governance, risk management, and compliance",
+        "Advertising",
+        "Product development",
+        "Payroll"
+      ],
+      "correct_answer": "Governance, risk management, and compliance",
+      "explanation": "Audits improve oversight and accountability."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate objective of the auditor process is:",
+      "options": [
+        "Provide independent assurance and recommendations",
+        "Increase profits",
+        "Reduce regulations",
+        "Replace management"
+      ],
+      "correct_answer": "Provide independent assurance and recommendations",
+      "explanation": "Audits help organizations improve controls and compliance."
+    }
+  ]
+}

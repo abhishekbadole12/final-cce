@@ -1,0 +1,266 @@
+{
+  "topic": "Components of NIST Framework",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What are the three main components of the NIST Cybersecurity Framework?",
+      "options": [
+        "Core, Profiles, and Implementation Tiers",
+        "Policies, Procedures, and Audits",
+        "People, Process, Technology",
+        "Identify, Protect, Audit"
+      ],
+      "correct_answer": "Core, Profiles, and Implementation Tiers",
+      "explanation": "The NIST CSF consists of the Core, Profiles, and Implementation Tiers."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which NIST CSF component contains cybersecurity activities and outcomes?",
+      "options": [
+        "Core",
+        "Profile",
+        "Tier",
+        "Control Matrix"
+      ],
+      "correct_answer": "Core",
+      "explanation": "The Core provides a set of cybersecurity activities and references."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "What is a NIST Profile?",
+      "options": [
+        "Alignment of framework outcomes with business needs",
+        "A user account",
+        "A security policy",
+        "An audit report"
+      ],
+      "correct_answer": "Alignment of framework outcomes with business needs",
+      "explanation": "Profiles help organizations customize the framework."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Implementation Tiers describe:",
+      "options": [
+        "Cybersecurity maturity and risk management practices",
+        "Employee hierarchy",
+        "Network architecture",
+        "Audit schedules"
+      ],
+      "correct_answer": "Cybersecurity maturity and risk management practices",
+      "explanation": "Tiers indicate how organizations manage cybersecurity risk."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "How many Core Functions are in the NIST CSF?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "10"
+      ],
+      "correct_answer": "5",
+      "explanation": "The functions are Identify, Protect, Detect, Respond, and Recover."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which function focuses on understanding organizational risk?",
+      "options": [
+        "Identify",
+        "Protect",
+        "Detect",
+        "Recover"
+      ],
+      "correct_answer": "Identify",
+      "explanation": "The Identify function establishes context and risk understanding."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which NIST function includes access control and awareness training?",
+      "options": [
+        "Protect",
+        "Detect",
+        "Respond",
+        "Recover"
+      ],
+      "correct_answer": "Protect",
+      "explanation": "The Protect function safeguards assets and services."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which function focuses on discovering cybersecurity events?",
+      "options": [
+        "Detect",
+        "Identify",
+        "Respond",
+        "Recover"
+      ],
+      "correct_answer": "Detect",
+      "explanation": "Detect helps identify cybersecurity incidents promptly."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which function includes incident response activities?",
+      "options": [
+        "Respond",
+        "Protect",
+        "Identify",
+        "Recover"
+      ],
+      "correct_answer": "Respond",
+      "explanation": "The Respond function addresses detected incidents."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Which function focuses on restoring capabilities after an incident?",
+      "options": [
+        "Recover",
+        "Protect",
+        "Detect",
+        "Identify"
+      ],
+      "correct_answer": "Recover",
+      "explanation": "Recover supports resilience and restoration."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "A Current Profile represents:",
+      "options": [
+        "Existing cybersecurity posture",
+        "Future security goals",
+        "Audit findings",
+        "Compliance reports"
+      ],
+      "correct_answer": "Existing cybersecurity posture",
+      "explanation": "Current Profiles describe the organization's current state."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "A Target Profile represents:",
+      "options": [
+        "Desired cybersecurity outcomes",
+        "Current controls",
+        "Audit schedules",
+        "Incident reports"
+      ],
+      "correct_answer": "Desired cybersecurity outcomes",
+      "explanation": "Target Profiles define future objectives."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Implementation Tiers range from:",
+      "options": [
+        "Partial to Adaptive",
+        "Low to High",
+        "Basic to Advanced",
+        "Level 1 to 10"
+      ],
+      "correct_answer": "Partial to Adaptive",
+      "explanation": "NIST defines Tier 1 (Partial) through Tier 4 (Adaptive)."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Tier 1 is known as:",
+      "options": [
+        "Partial",
+        "Risk Informed",
+        "Repeatable",
+        "Adaptive"
+      ],
+      "correct_answer": "Partial",
+      "explanation": "Tier 1 indicates limited risk management practices."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Tier 4 is known as:",
+      "options": [
+        "Adaptive",
+        "Repeatable",
+        "Risk Informed",
+        "Partial"
+      ],
+      "correct_answer": "Adaptive",
+      "explanation": "Tier 4 organizations continuously improve cybersecurity practices."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The NIST Core is organized into:",
+      "options": [
+        "Functions, Categories, and Subcategories",
+        "Policies and Procedures",
+        "Audits and Reports",
+        "Assets and Risks"
+      ],
+      "correct_answer": "Functions, Categories, and Subcategories",
+      "explanation": "The Core provides detailed cybersecurity outcomes."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Profiles help organizations by:",
+      "options": [
+        "Aligning cybersecurity activities with business objectives",
+        "Reducing controls",
+        "Avoiding audits",
+        "Replacing compliance"
+      ],
+      "correct_answer": "Aligning cybersecurity activities with business objectives",
+      "explanation": "Profiles connect security activities to business needs."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Implementation Tiers primarily measure:",
+      "options": [
+        "Risk management sophistication",
+        "Revenue",
+        "Compliance costs",
+        "Employee count"
+      ],
+      "correct_answer": "Risk management sophistication",
+      "explanation": "Tiers describe the maturity of risk management practices."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The five Core Functions collectively support:",
+      "options": [
+        "Cybersecurity lifecycle management",
+        "Financial auditing",
+        "Vendor management",
+        "Marketing"
+      ],
+      "correct_answer": "Cybersecurity lifecycle management",
+      "explanation": "The functions cover prevention, detection, response, and recovery."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of NIST Framework components is to:",
+      "options": [
+        "Provide a structured approach to managing cybersecurity risk",
+        "Increase profits",
+        "Replace standards",
+        "Eliminate all threats"
+      ],
+      "correct_answer": "Provide a structured approach to managing cybersecurity risk",
+      "explanation": "The framework helps organizations identify, assess, and manage cyber risks."
+    }
+  ]
+}

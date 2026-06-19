@@ -1,0 +1,266 @@
+{
+  "topic": "SSE-CMM Overview",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is SSE-CMM?",
+      "options": [
+        "A security engineering maturity model",
+        "A firewall framework",
+        "A compliance law",
+        "A risk register"
+      ],
+      "correct_answer": "A security engineering maturity model",
+      "explanation": "SSE-CMM is a model used to assess and improve security engineering processes."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "The primary purpose of SSE-CMM is to:",
+      "options": [
+        "Improve security process capability",
+        "Increase profits",
+        "Reduce audits",
+        "Manage payroll"
+      ],
+      "correct_answer": "Improve security process capability",
+      "explanation": "The model helps organizations develop mature security engineering practices."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "SSE-CMM focuses on:",
+      "options": [
+        "Security engineering processes",
+        "Financial reporting",
+        "Marketing activities",
+        "HR management"
+      ],
+      "correct_answer": "Security engineering processes",
+      "explanation": "It evaluates and improves security-related processes."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "SSE-CMM uses the concept of:",
+      "options": [
+        "Maturity levels",
+        "Revenue levels",
+        "Audit levels",
+        "Risk categories"
+      ],
+      "correct_answer": "Maturity levels",
+      "explanation": "Organizations progress through levels of process maturity."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Who can use SSE-CMM?",
+      "options": [
+        "Any organization involved in security engineering",
+        "Only governments",
+        "Only banks",
+        "Only software companies"
+      ],
+      "correct_answer": "Any organization involved in security engineering",
+      "explanation": "The model is applicable across industries."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "SSE-CMM helps organizations:",
+      "options": [
+        "Assess current security capability",
+        "Eliminate all risks",
+        "Replace standards",
+        "Avoid audits"
+      ],
+      "correct_answer": "Assess current security capability",
+      "explanation": "Organizations identify strengths and improvement areas."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "A mature security process is typically:",
+      "options": [
+        "Defined and repeatable",
+        "Random and informal",
+        "Uncontrolled",
+        "Undocumented"
+      ],
+      "correct_answer": "Defined and repeatable",
+      "explanation": "Mature processes are consistent and managed."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "SSE-CMM evaluates:",
+      "options": [
+        "Process capability and effectiveness",
+        "Hardware performance",
+        "Internet speed",
+        "Sales performance"
+      ],
+      "correct_answer": "Process capability and effectiveness",
+      "explanation": "The focus is on how security activities are performed."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Capability maturity models are valuable because they:",
+      "options": [
+        "Provide a roadmap for improvement",
+        "Guarantee compliance",
+        "Eliminate incidents",
+        "Reduce documentation"
+      ],
+      "correct_answer": "Provide a roadmap for improvement",
+      "explanation": "Organizations can systematically improve processes."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "SSE-CMM supports:",
+      "options": [
+        "Continuous process improvement",
+        "One-time assessments",
+        "Marketing planning",
+        "Payroll management"
+      ],
+      "correct_answer": "Continuous process improvement",
+      "explanation": "Improvement is a core objective of the model."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Organizations use SSE-CMM to benchmark:",
+      "options": [
+        "Security engineering capability",
+        "Employee performance",
+        "Revenue growth",
+        "Product quality"
+      ],
+      "correct_answer": "Security engineering capability",
+      "explanation": "Benchmarking helps measure maturity and progress."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Security engineering includes:",
+      "options": [
+        "Designing and managing security processes",
+        "Only penetration testing",
+        "Only compliance audits",
+        "Only incident response"
+      ],
+      "correct_answer": "Designing and managing security processes",
+      "explanation": "Security engineering covers a broad set of activities."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Process capability refers to:",
+      "options": [
+        "The ability of a process to achieve intended outcomes",
+        "Hardware capacity",
+        "Network bandwidth",
+        "Financial performance"
+      ],
+      "correct_answer": "The ability of a process to achieve intended outcomes",
+      "explanation": "Capability reflects process effectiveness."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A key advantage of SSE-CMM is:",
+      "options": [
+        "Improved predictability of security outcomes",
+        "Guaranteed compliance",
+        "No need for audits",
+        "Elimination of threats"
+      ],
+      "correct_answer": "Improved predictability of security outcomes",
+      "explanation": "Mature processes produce more consistent results."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "SSE-CMM complements frameworks such as:",
+      "options": [
+        "ISO 27001 and NIST",
+        "Payroll standards",
+        "Accounting frameworks",
+        "Marketing standards"
+      ],
+      "correct_answer": "ISO 27001 and NIST",
+      "explanation": "It focuses on process maturity while other frameworks define controls."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Higher maturity levels indicate:",
+      "options": [
+        "Greater process control and optimization",
+        "More risks",
+        "Less documentation",
+        "Fewer controls"
+      ],
+      "correct_answer": "Greater process control and optimization",
+      "explanation": "Mature organizations continuously improve their processes."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Organizations benefit from SSE-CMM because it:",
+      "options": [
+        "Improves security governance and capability",
+        "Eliminates compliance requirements",
+        "Replaces risk management",
+        "Reduces visibility"
+      ],
+      "correct_answer": "Improves security governance and capability",
+      "explanation": "Process maturity strengthens security management."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "SSE-CMM assessments identify:",
+      "options": [
+        "Strengths, weaknesses, and improvement opportunities",
+        "Only technical vulnerabilities",
+        "Only compliance gaps",
+        "Only audit findings"
+      ],
+      "correct_answer": "Strengths, weaknesses, and improvement opportunities",
+      "explanation": "Assessments support strategic improvements."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Continuous improvement within SSE-CMM means:",
+      "options": [
+        "Regular evaluation and enhancement of processes",
+        "Keeping processes unchanged",
+        "Reducing monitoring",
+        "Avoiding reviews"
+      ],
+      "correct_answer": "Regular evaluation and enhancement of processes",
+      "explanation": "Security processes should evolve over time."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of SSE-CMM is:",
+      "options": [
+        "Develop effective, measurable, and continuously improving security engineering processes",
+        "Increase revenue",
+        "Replace controls",
+        "Eliminate all risks"
+      ],
+      "correct_answer": "Develop effective, measurable, and continuously improving security engineering processes",
+      "explanation": "The model helps organizations achieve higher security process maturity."
+    }
+  ]
+}

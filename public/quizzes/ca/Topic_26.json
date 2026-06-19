@@ -1,0 +1,266 @@
+{
+  "topic": "SOX Reports",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does SOX stand for?",
+      "options": [
+        "Sarbanes-Oxley Act",
+        "Security Operations Exchange",
+        "System Oversight Examination",
+        "Standard Operations Framework"
+      ],
+      "correct_answer": "Sarbanes-Oxley Act",
+      "explanation": "SOX is a U.S. law enacted in 2002 to improve corporate governance and financial reporting."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "SOX was enacted in response to:",
+      "options": [
+        "Corporate accounting scandals",
+        "Cyber attacks",
+        "Natural disasters",
+        "Privacy breaches"
+      ],
+      "correct_answer": "Corporate accounting scandals",
+      "explanation": "Scandals such as Enron and WorldCom led to SOX."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The primary purpose of SOX reports is to:",
+      "options": [
+        "Ensure accurate financial reporting",
+        "Improve marketing",
+        "Reduce taxes",
+        "Manage payroll"
+      ],
+      "correct_answer": "Ensure accurate financial reporting",
+      "explanation": "SOX emphasizes transparency and accountability."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which section of SOX focuses on internal controls?",
+      "options": [
+        "Section 404",
+        "Section 302",
+        "Section 201",
+        "Section 806"
+      ],
+      "correct_answer": "Section 404",
+      "explanation": "Section 404 requires management assessment of internal controls."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "SOX applies mainly to:",
+      "options": [
+        "Publicly traded companies",
+        "Schools",
+        "Hospitals only",
+        "Government agencies"
+      ],
+      "correct_answer": "Publicly traded companies",
+      "explanation": "SOX primarily governs public companies in the U.S."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Management is responsible for:",
+      "options": [
+        "Establishing internal controls",
+        "Performing external audits",
+        "Creating regulations",
+        "Approving taxes"
+      ],
+      "correct_answer": "Establishing internal controls",
+      "explanation": "Management must design and maintain effective controls."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "SOX reports help stakeholders evaluate:",
+      "options": [
+        "Financial reporting reliability",
+        "Employee attendance",
+        "Network speed",
+        "Office design"
+      ],
+      "correct_answer": "Financial reporting reliability",
+      "explanation": "Reports provide assurance about financial controls."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Section 302 requires executives to:",
+      "options": [
+        "Certify financial statements",
+        "Conduct audits",
+        "Approve payroll",
+        "Manage vendors"
+      ],
+      "correct_answer": "Certify financial statements",
+      "explanation": "CEOs and CFOs must certify report accuracy."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "External auditors review:",
+      "options": [
+        "Internal control effectiveness",
+        "Marketing performance",
+        "Sales campaigns",
+        "Recruitment"
+      ],
+      "correct_answer": "Internal control effectiveness",
+      "explanation": "Auditors assess whether controls are operating effectively."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "A material weakness indicates:",
+      "options": [
+        "A significant control deficiency",
+        "A software bug",
+        "A policy update",
+        "A network issue"
+      ],
+      "correct_answer": "A significant control deficiency",
+      "explanation": "Material weaknesses can affect financial reporting."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "SOX reporting improves:",
+      "options": [
+        "Corporate accountability",
+        "Advertising",
+        "Product development",
+        "Procurement"
+      ],
+      "correct_answer": "Corporate accountability",
+      "explanation": "Organizations become more transparent and responsible."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Internal controls are designed to:",
+      "options": [
+        "Prevent errors and fraud",
+        "Increase revenue",
+        "Reduce audits",
+        "Improve branding"
+      ],
+      "correct_answer": "Prevent errors and fraud",
+      "explanation": "Controls help protect financial integrity."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "SOX compliance often requires:",
+      "options": [
+        "Documentation and testing of controls",
+        "Removing controls",
+        "Reducing oversight",
+        "Avoiding audits"
+      ],
+      "correct_answer": "Documentation and testing of controls",
+      "explanation": "Evidence is needed to demonstrate compliance."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "SOX Section 404 requires management to:",
+      "options": [
+        "Assess and report on internal controls",
+        "Conduct external audits",
+        "Create regulations",
+        "Manage cybersecurity"
+      ],
+      "correct_answer": "Assess and report on internal controls",
+      "explanation": "Management must evaluate control effectiveness."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A key benefit of SOX reports is:",
+      "options": [
+        "Increased investor confidence",
+        "Reduced security controls",
+        "Less accountability",
+        "Fewer audits"
+      ],
+      "correct_answer": "Increased investor confidence",
+      "explanation": "Reliable reporting strengthens trust."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "IT systems are important to SOX because:",
+      "options": [
+        "They support financial reporting processes",
+        "They replace auditors",
+        "They reduce regulations",
+        "They eliminate fraud"
+      ],
+      "correct_answer": "They support financial reporting processes",
+      "explanation": "Many financial controls depend on IT systems."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "SOX compliance requires coordination between:",
+      "options": [
+        "Business, finance, IT, and auditors",
+        "Marketing and sales",
+        "Facilities and logistics",
+        "Customers and vendors"
+      ],
+      "correct_answer": "Business, finance, IT, and auditors",
+      "explanation": "Multiple functions contribute to compliance."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Deficiencies identified in SOX reviews should:",
+      "options": [
+        "Be remediated promptly",
+        "Be ignored",
+        "Replace audits",
+        "Reduce controls"
+      ],
+      "correct_answer": "Be remediated promptly",
+      "explanation": "Corrective actions strengthen internal controls."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "SOX reporting supports governance by:",
+      "options": [
+        "Providing transparency and accountability",
+        "Increasing profits",
+        "Reducing oversight",
+        "Avoiding compliance"
+      ],
+      "correct_answer": "Providing transparency and accountability",
+      "explanation": "Governance relies on reliable reporting."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate objective of SOX reports is:",
+      "options": [
+        "Ensure trustworthy financial reporting and effective internal controls",
+        "Increase revenue",
+        "Reduce staffing",
+        "Eliminate audits"
+      ],
+      "correct_answer": "Ensure trustworthy financial reporting and effective internal controls",
+      "explanation": "SOX enhances confidence in corporate reporting."
+    }
+  ]
+}

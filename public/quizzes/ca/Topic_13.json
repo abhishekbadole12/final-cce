@@ -1,0 +1,266 @@
+{
+  "topic": "Assurance - 7 Evaluation Levels",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is assurance in security evaluation?",
+      "options": [
+        "Confidence in security effectiveness",
+        "A security tool",
+        "A firewall rule",
+        "A backup process"
+      ],
+      "correct_answer": "Confidence in security effectiveness",
+      "explanation": "Assurance indicates the degree of trust that security requirements are met."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Evaluation levels are used to:",
+      "options": [
+        "Measure assurance",
+        "Increase profits",
+        "Reduce audits",
+        "Install controls"
+      ],
+      "correct_answer": "Measure assurance",
+      "explanation": "Higher levels generally provide greater confidence."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "A higher assurance level means:",
+      "options": [
+        "Greater confidence in security",
+        "Lower security",
+        "Fewer controls",
+        "No testing"
+      ],
+      "correct_answer": "Greater confidence in security",
+      "explanation": "Higher levels require more rigorous evaluation."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Assurance is provided through:",
+      "options": [
+        "Evaluation and testing",
+        "Advertising",
+        "Marketing",
+        "Procurement"
+      ],
+      "correct_answer": "Evaluation and testing",
+      "explanation": "Testing and assessment validate security claims."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Evaluation levels help organizations:",
+      "options": [
+        "Compare security maturity",
+        "Design offices",
+        "Manage payroll",
+        "Increase sales"
+      ],
+      "correct_answer": "Compare security maturity",
+      "explanation": "Levels indicate the depth of evaluation."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which factor increases assurance?",
+      "options": [
+        "More rigorous evaluation",
+        "Less evidence",
+        "No testing",
+        "Ignoring controls"
+      ],
+      "correct_answer": "More rigorous evaluation",
+      "explanation": "Stronger evaluation methods provide higher assurance."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Lower evaluation levels generally require:",
+      "options": [
+        "Basic review and testing",
+        "Extensive formal verification",
+        "Continuous monitoring",
+        "Source code analysis"
+      ],
+      "correct_answer": "Basic review and testing",
+      "explanation": "Entry-level assurance focuses on fundamental checks."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Higher evaluation levels often include:",
+      "options": [
+        "Detailed analysis and verification",
+        "Less documentation",
+        "No testing",
+        "Fewer controls"
+      ],
+      "correct_answer": "Detailed analysis and verification",
+      "explanation": "Advanced levels require deeper examination."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Assurance levels help stakeholders:",
+      "options": [
+        "Understand trustworthiness of systems",
+        "Reduce compliance",
+        "Avoid audits",
+        "Increase risks"
+      ],
+      "correct_answer": "Understand trustworthiness of systems",
+      "explanation": "Assurance indicates confidence in security controls."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Evidence quality affects:",
+      "options": [
+        "Assurance level",
+        "Office design",
+        "Internet speed",
+        "Marketing"
+      ],
+      "correct_answer": "Assurance level",
+      "explanation": "Reliable evidence strengthens assurance."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Security evaluations at higher levels are:",
+      "options": [
+        "More comprehensive",
+        "Less structured",
+        "Random",
+        "Informal"
+      ],
+      "correct_answer": "More comprehensive",
+      "explanation": "Higher assurance requires greater rigor."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The purpose of evaluation levels is to:",
+      "options": [
+        "Standardize assurance measurement",
+        "Reduce controls",
+        "Increase costs",
+        "Avoid compliance"
+      ],
+      "correct_answer": "Standardize assurance measurement",
+      "explanation": "Levels provide a common framework for assessment."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Assurance supports:",
+      "options": [
+        "Risk-based decision-making",
+        "Product pricing",
+        "Office maintenance",
+        "Recruitment"
+      ],
+      "correct_answer": "Risk-based decision-making",
+      "explanation": "Organizations use assurance results to manage risks."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A system evaluated at a higher assurance level typically undergoes:",
+      "options": [
+        "More extensive testing and review",
+        "Less documentation",
+        "Fewer controls",
+        "No validation"
+      ],
+      "correct_answer": "More extensive testing and review",
+      "explanation": "Higher assurance requires stronger evidence."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The relationship between assurance and risk is:",
+      "options": [
+        "Higher assurance generally reduces uncertainty about risk",
+        "Assurance eliminates all risk",
+        "They are unrelated",
+        "Risk increases assurance"
+      ],
+      "correct_answer": "Higher assurance generally reduces uncertainty about risk",
+      "explanation": "Assurance provides confidence but does not eliminate risk."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Formal evaluation methodologies are important because they:",
+      "options": [
+        "Increase consistency and credibility",
+        "Reduce evidence",
+        "Avoid reporting",
+        "Increase assumptions"
+      ],
+      "correct_answer": "Increase consistency and credibility",
+      "explanation": "Structured methods improve trustworthiness."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Assurance levels help organizations determine:",
+      "options": [
+        "Suitability of systems for specific environments",
+        "Office layouts",
+        "Employee salaries",
+        "Marketing budgets"
+      ],
+      "correct_answer": "Suitability of systems for specific environments",
+      "explanation": "Different environments require different assurance needs."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "An assurance framework provides:",
+      "options": [
+        "Structured confidence measurement",
+        "Network connectivity",
+        "Backup storage",
+        "Vendor contracts"
+      ],
+      "correct_answer": "Structured confidence measurement",
+      "explanation": "Frameworks define how assurance is evaluated."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The highest evaluation levels usually require:",
+      "options": [
+        "Rigorous testing, documentation, and verification",
+        "Minimal evidence",
+        "Informal reviews",
+        "No controls"
+      ],
+      "correct_answer": "Rigorous testing, documentation, and verification",
+      "explanation": "Strong assurance demands substantial validation."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of assurance levels is to:",
+      "options": [
+        "Provide measurable confidence in security effectiveness",
+        "Increase revenue",
+        "Reduce staffing",
+        "Replace governance"
+      ],
+      "correct_answer": "Provide measurable confidence in security effectiveness",
+      "explanation": "Assurance helps stakeholders trust security implementations."
+    }
+  ]
+}

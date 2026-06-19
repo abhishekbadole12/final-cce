@@ -1,0 +1,266 @@
+{
+  "topic": "PCI DSS",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does PCI DSS stand for?",
+      "options": [
+        "Payment Card Industry Data Security Standard",
+        "Payment Card Information Data Security System",
+        "Private Card Industry Data Standard",
+        "Payment Compliance Information Standard"
+      ],
+      "correct_answer": "Payment Card Industry Data Security Standard",
+      "explanation": "PCI DSS is a security standard designed to protect cardholder data."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "PCI DSS was created to:",
+      "options": [
+        "Protect cardholder data",
+        "Increase sales",
+        "Reduce taxes",
+        "Improve marketing"
+      ],
+      "correct_answer": "Protect cardholder data",
+      "explanation": "The primary goal is to secure payment card information."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Who manages PCI DSS?",
+      "options": [
+        "PCI Security Standards Council",
+        "ISO",
+        "NIST",
+        "AICPA"
+      ],
+      "correct_answer": "PCI Security Standards Council",
+      "explanation": "The PCI SSC develops and maintains PCI DSS."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "PCI DSS applies to organizations that:",
+      "options": [
+        "Store, process, or transmit cardholder data",
+        "Only banks",
+        "Only retailers",
+        "Only governments"
+      ],
+      "correct_answer": "Store, process, or transmit cardholder data",
+      "explanation": "Any entity handling cardholder data must comply."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Cardholder data includes:",
+      "options": [
+        "Credit and debit card information",
+        "Employee IDs",
+        "Tax records",
+        "Medical records"
+      ],
+      "correct_answer": "Credit and debit card information",
+      "explanation": "PCI DSS protects payment card information."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "The primary objective of PCI DSS is:",
+      "options": [
+        "Reduce payment card fraud",
+        "Increase revenue",
+        "Reduce audits",
+        "Replace security controls"
+      ],
+      "correct_answer": "Reduce payment card fraud",
+      "explanation": "PCI DSS helps prevent card data theft."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "How many high-level PCI DSS requirements are there?",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "20"
+      ],
+      "correct_answer": "12",
+      "explanation": "PCI DSS is built around 12 core security requirements."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which requirement focuses on installing and maintaining firewalls?",
+      "options": [
+        "Requirement 1",
+        "Requirement 5",
+        "Requirement 8",
+        "Requirement 12"
+      ],
+      "correct_answer": "Requirement 1",
+      "explanation": "Requirement 1 addresses network security controls."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "PCI DSS requires organizations to:",
+      "options": [
+        "Protect stored cardholder data",
+        "Store all data indefinitely",
+        "Share card data freely",
+        "Avoid encryption"
+      ],
+      "correct_answer": "Protect stored cardholder data",
+      "explanation": "Sensitive cardholder information must be secured."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Strong access control measures are included because:",
+      "options": [
+        "Only authorized users should access card data",
+        "Everyone needs access",
+        "Audits require it",
+        "It reduces storage"
+      ],
+      "correct_answer": "Only authorized users should access card data",
+      "explanation": "Access control is a core PCI DSS principle."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "PCI DSS encourages:",
+      "options": [
+        "Regular monitoring and testing",
+        "No audits",
+        "Minimal documentation",
+        "Open access"
+      ],
+      "correct_answer": "Regular monitoring and testing",
+      "explanation": "Continuous monitoring helps identify security issues."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Encryption is important because it:",
+      "options": [
+        "Protects cardholder data",
+        "Improves marketing",
+        "Reduces compliance",
+        "Increases storage"
+      ],
+      "correct_answer": "Protects cardholder data",
+      "explanation": "Encryption helps prevent unauthorized disclosure."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Organizations must maintain:",
+      "options": [
+        "An information security policy",
+        "No documentation",
+        "Only technical controls",
+        "Only audits"
+      ],
+      "correct_answer": "An information security policy",
+      "explanation": "Requirement 12 addresses security policies."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "PCI DSS compliance is validated through:",
+      "options": [
+        "Assessments and audits",
+        "Marketing reviews",
+        "Financial statements",
+        "Product testing"
+      ],
+      "correct_answer": "Assessments and audits",
+      "explanation": "Organizations must demonstrate compliance."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Requirement 8 focuses on:",
+      "options": [
+        "Identifying and authenticating users",
+        "Firewall management",
+        "Encryption",
+        "Incident response"
+      ],
+      "correct_answer": "Identifying and authenticating users",
+      "explanation": "Strong authentication helps secure systems."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Requirement 10 addresses:",
+      "options": [
+        "Tracking and monitoring access",
+        "Physical security",
+        "Vendor management",
+        "Network design"
+      ],
+      "correct_answer": "Tracking and monitoring access",
+      "explanation": "Logs provide accountability and visibility."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "PCI DSS supports security by emphasizing:",
+      "options": [
+        "Defense in depth",
+        "No monitoring",
+        "Open access",
+        "Minimal controls"
+      ],
+      "correct_answer": "Defense in depth",
+      "explanation": "Multiple layers of controls protect card data."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Failure to comply with PCI DSS may result in:",
+      "options": [
+        "Fines, penalties, and reputational damage",
+        "Tax benefits",
+        "Certification",
+        "No consequences"
+      ],
+      "correct_answer": "Fines, penalties, and reputational damage",
+      "explanation": "Non-compliance can have significant impacts."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Organizations handling card data should adopt:",
+      "options": [
+        "Risk-based security practices",
+        "No controls",
+        "No monitoring",
+        "No documentation"
+      ],
+      "correct_answer": "Risk-based security practices",
+      "explanation": "Risk management improves protection of cardholder data."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of PCI DSS is:",
+      "options": [
+        "Protect cardholder data and reduce payment card fraud",
+        "Increase profits",
+        "Replace governance",
+        "Eliminate audits"
+      ],
+      "correct_answer": "Protect cardholder data and reduce payment card fraud",
+      "explanation": "PCI DSS establishes security requirements for payment card environments."
+    }
+  ]
+}

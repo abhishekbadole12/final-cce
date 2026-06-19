@@ -1,0 +1,266 @@
+{
+  "topic": "Security Evaluation",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is security evaluation?",
+      "options": [
+        "Assessment of security controls",
+        "Software installation",
+        "Network design",
+        "Marketing review"
+      ],
+      "correct_answer": "Assessment of security controls",
+      "explanation": "Security evaluation determines whether controls are effective."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "The primary goal of security evaluation is to:",
+      "options": [
+        "Measure security effectiveness",
+        "Increase sales",
+        "Reduce documentation",
+        "Install hardware"
+      ],
+      "correct_answer": "Measure security effectiveness",
+      "explanation": "Evaluations assess how well security requirements are met."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Security evaluation focuses on:",
+      "options": [
+        "Systems, controls, and processes",
+        "Office furniture",
+        "Payroll",
+        "Advertising"
+      ],
+      "correct_answer": "Systems, controls, and processes",
+      "explanation": "Evaluations review security-related elements."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which activity is part of security evaluation?",
+      "options": [
+        "Control assessment",
+        "Product marketing",
+        "Recruitment",
+        "Procurement"
+      ],
+      "correct_answer": "Control assessment",
+      "explanation": "Evaluators verify that controls function as intended."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Security evaluation provides:",
+      "options": [
+        "Assurance",
+        "Revenue",
+        "Hardware",
+        "Licenses"
+      ],
+      "correct_answer": "Assurance",
+      "explanation": "Evaluation results provide confidence in security measures."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Who performs security evaluations?",
+      "options": [
+        "Qualified evaluators",
+        "Customers",
+        "Vendors only",
+        "Sales teams"
+      ],
+      "correct_answer": "Qualified evaluators",
+      "explanation": "Evaluations require trained professionals."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Security evaluations help identify:",
+      "options": [
+        "Weaknesses and gaps",
+        "Marketing trends",
+        "Payroll errors",
+        "Sales opportunities"
+      ],
+      "correct_answer": "Weaknesses and gaps",
+      "explanation": "Evaluations reveal areas needing improvement."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "An evaluation criterion is:",
+      "options": [
+        "A standard used for assessment",
+        "A firewall",
+        "A password",
+        "A network cable"
+      ],
+      "correct_answer": "A standard used for assessment",
+      "explanation": "Criteria provide a basis for evaluation."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Security evaluations support:",
+      "options": [
+        "Risk management",
+        "Office maintenance",
+        "Building construction",
+        "Advertising"
+      ],
+      "correct_answer": "Risk management",
+      "explanation": "Evaluation findings help manage risks."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Evidence collected during evaluation should be:",
+      "options": [
+        "Relevant and reliable",
+        "Random",
+        "Verbal only",
+        "Unverified"
+      ],
+      "correct_answer": "Relevant and reliable",
+      "explanation": "Strong evidence supports valid conclusions."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Security evaluation may include:",
+      "options": [
+        "Technical testing",
+        "Document review",
+        "Interviews",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "Multiple methods are used to assess security."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Evaluation findings are usually documented in:",
+      "options": [
+        "Reports",
+        "Invoices",
+        "Advertisements",
+        "Contracts"
+      ],
+      "correct_answer": "Reports",
+      "explanation": "Reports communicate results and recommendations."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Control effectiveness refers to:",
+      "options": [
+        "How well a control achieves its objective",
+        "Control cost",
+        "Control age",
+        "Control ownership"
+      ],
+      "correct_answer": "How well a control achieves its objective",
+      "explanation": "Effective controls reduce risk."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Security evaluation differs from implementation because it:",
+      "options": [
+        "Assesses effectiveness rather than deploying controls",
+        "Installs software",
+        "Creates policies only",
+        "Manages vendors"
+      ],
+      "correct_answer": "Assesses effectiveness rather than deploying controls",
+      "explanation": "Evaluation focuses on verification."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A risk-based evaluation approach prioritizes:",
+      "options": [
+        "High-risk assets and processes",
+        "Low-value assets",
+        "Random systems",
+        "Office supplies"
+      ],
+      "correct_answer": "High-risk assets and processes",
+      "explanation": "Resources are focused on significant risks."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Independent evaluations provide:",
+      "options": [
+        "Greater credibility",
+        "Higher costs only",
+        "Less evidence",
+        "Reduced compliance"
+      ],
+      "correct_answer": "Greater credibility",
+      "explanation": "Independence improves trust in results."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "The success of a security evaluation depends on:",
+      "options": [
+        "Scope, methodology, and evidence quality",
+        "Office location",
+        "Employee count",
+        "Marketing budget"
+      ],
+      "correct_answer": "Scope, methodology, and evidence quality",
+      "explanation": "These factors determine evaluation reliability."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Security evaluations contribute to:",
+      "options": [
+        "Continuous improvement",
+        "Eliminating all risks",
+        "Replacing management",
+        "Avoiding audits"
+      ],
+      "correct_answer": "Continuous improvement",
+      "explanation": "Organizations use findings to strengthen security."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Evaluation assurance increases when:",
+      "options": [
+        "Evidence is sufficient and objective",
+        "Assumptions are used",
+        "Testing is skipped",
+        "Reports are delayed"
+      ],
+      "correct_answer": "Evidence is sufficient and objective",
+      "explanation": "Reliable evidence improves confidence."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of security evaluation is to:",
+      "options": [
+        "Provide confidence in security posture",
+        "Increase profits",
+        "Reduce staffing",
+        "Replace controls"
+      ],
+      "correct_answer": "Provide confidence in security posture",
+      "explanation": "Evaluations help stakeholders understand security effectiveness."
+    }
+  ]
+}

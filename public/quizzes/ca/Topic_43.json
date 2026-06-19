@@ -1,0 +1,266 @@
+{
+  "topic": "CIS Benchmarks",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What are CIS Benchmarks?",
+      "options": [
+        "Secure configuration guidelines",
+        "Financial standards",
+        "Audit reports",
+        "Legal regulations"
+      ],
+      "correct_answer": "Secure configuration guidelines",
+      "explanation": "CIS Benchmarks provide best-practice security configuration recommendations."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Who develops CIS Benchmarks?",
+      "options": [
+        "Center for Internet Security",
+        "NIST",
+        "ISO",
+        "PCI Council"
+      ],
+      "correct_answer": "Center for Internet Security",
+      "explanation": "CIS publishes security benchmarks for various technologies."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The primary purpose of CIS Benchmarks is to:",
+      "options": [
+        "Harden systems against attacks",
+        "Increase revenue",
+        "Manage payroll",
+        "Replace audits"
+      ],
+      "correct_answer": "Harden systems against attacks",
+      "explanation": "Benchmarks help reduce vulnerabilities through secure configurations."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "CIS Benchmarks are available for:",
+      "options": [
+        "Operating systems, applications, and cloud services",
+        "Only operating systems",
+        "Only databases",
+        "Only networks"
+      ],
+      "correct_answer": "Operating systems, applications, and cloud services",
+      "explanation": "Benchmarks cover a wide range of technologies."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "A benchmark recommendation typically addresses:",
+      "options": [
+        "Security settings and configurations",
+        "Marketing strategies",
+        "Financial controls",
+        "Tax compliance"
+      ],
+      "correct_answer": "Security settings and configurations",
+      "explanation": "Benchmarks focus on secure technical configurations."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Applying CIS Benchmarks helps:",
+      "options": [
+        "Reduce the attack surface",
+        "Increase risks",
+        "Eliminate audits",
+        "Reduce visibility"
+      ],
+      "correct_answer": "Reduce the attack surface",
+      "explanation": "Secure configurations make systems harder to compromise."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "CIS Benchmarks are considered:",
+      "options": [
+        "Industry-recognized best practices",
+        "Legal requirements",
+        "Financial standards",
+        "Vendor contracts"
+      ],
+      "correct_answer": "Industry-recognized best practices",
+      "explanation": "Organizations use them to improve security posture."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Which technology can use CIS Benchmarks?",
+      "options": [
+        "Windows, Linux, and cloud platforms",
+        "Payroll systems only",
+        "Accounting software only",
+        "Office furniture"
+      ],
+      "correct_answer": "Windows, Linux, and cloud platforms",
+      "explanation": "Benchmarks support many technology platforms."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Benchmark compliance is often verified through:",
+      "options": [
+        "Configuration assessments",
+        "Revenue reports",
+        "Marketing analysis",
+        "Customer surveys"
+      ],
+      "correct_answer": "Configuration assessments",
+      "explanation": "Organizations compare settings against benchmark recommendations."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Why are default configurations risky?",
+      "options": [
+        "They may contain insecure settings",
+        "They improve security",
+        "They are always compliant",
+        "They eliminate vulnerabilities"
+      ],
+      "correct_answer": "They may contain insecure settings",
+      "explanation": "Default settings are not always security-focused."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "CIS Benchmarks support:",
+      "options": [
+        "Security hardening",
+        "Product development",
+        "Advertising",
+        "Recruitment"
+      ],
+      "correct_answer": "Security hardening",
+      "explanation": "Benchmarks improve the security of systems and applications."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Organizations often automate CIS Benchmark checks using:",
+      "options": [
+        "Security assessment tools",
+        "Payroll software",
+        "CRM systems",
+        "Spreadsheet software"
+      ],
+      "correct_answer": "Security assessment tools",
+      "explanation": "Automation helps identify configuration gaps."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "A secure configuration helps prevent:",
+      "options": [
+        "Common attacks and misconfigurations",
+        "Compliance reviews",
+        "Documentation",
+        "Training"
+      ],
+      "correct_answer": "Common attacks and misconfigurations",
+      "explanation": "Many attacks exploit weak configurations."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "CIS Benchmarks contribute to compliance by:",
+      "options": [
+        "Supporting security control implementation",
+        "Replacing regulations",
+        "Eliminating audits",
+        "Reducing governance"
+      ],
+      "correct_answer": "Supporting security control implementation",
+      "explanation": "Benchmarks help satisfy security requirements."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Benchmark deviations should be:",
+      "options": [
+        "Reviewed and justified based on risk",
+        "Ignored",
+        "Automatically approved",
+        "Removed from reports"
+      ],
+      "correct_answer": "Reviewed and justified based on risk",
+      "explanation": "Exceptions should be risk-based and documented."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "A major advantage of CIS Benchmarks is:",
+      "options": [
+        "Consistency in secure configurations",
+        "Guaranteed security",
+        "No need for audits",
+        "Elimination of vulnerabilities"
+      ],
+      "correct_answer": "Consistency in secure configurations",
+      "explanation": "Standardized configurations reduce variability."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "CIS Benchmarks complement:",
+      "options": [
+        "CIS Controls, NIST, and ISO frameworks",
+        "Marketing frameworks",
+        "Payroll systems",
+        "Accounting standards"
+      ],
+      "correct_answer": "CIS Controls, NIST, and ISO frameworks",
+      "explanation": "Benchmarks provide technical implementation guidance."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Continuous review of configurations is important because:",
+      "options": [
+        "Systems and threats change over time",
+        "Benchmarks never change",
+        "Compliance is one-time",
+        "Controls are permanent"
+      ],
+      "correct_answer": "Systems and threats change over time",
+      "explanation": "Configuration management requires ongoing attention."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Organizations use CIS Benchmarks primarily to:",
+      "options": [
+        "Strengthen technical security controls",
+        "Increase profits",
+        "Reduce staffing",
+        "Replace governance"
+      ],
+      "correct_answer": "Strengthen technical security controls",
+      "explanation": "Benchmarks focus on improving technical defenses."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of CIS Benchmarks is:",
+      "options": [
+        "Provide secure configuration standards that reduce cybersecurity risk",
+        "Increase revenue",
+        "Replace regulations",
+        "Eliminate all attacks"
+      ],
+      "correct_answer": "Provide secure configuration standards that reduce cybersecurity risk",
+      "explanation": "Benchmarks guide organizations toward more secure systems."
+    }
+  ]
+}

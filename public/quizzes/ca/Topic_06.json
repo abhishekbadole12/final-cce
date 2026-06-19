@@ -1,0 +1,266 @@
+{
+  "topic": "Security Audit Phases",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the first phase of a security audit?",
+      "options": [
+        "Planning",
+        "Reporting",
+        "Follow-up",
+        "Remediation"
+      ],
+      "correct_answer": "Planning",
+      "explanation": "Audit activities begin with planning and defining objectives."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "During planning, auditors define:",
+      "options": [
+        "Scope and objectives",
+        "Firewall rules",
+        "Employee salaries",
+        "Marketing strategy"
+      ],
+      "correct_answer": "Scope and objectives",
+      "explanation": "The audit scope determines what will be reviewed."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Which phase involves collecting evidence?",
+      "options": [
+        "Fieldwork",
+        "Planning",
+        "Closure",
+        "Approval"
+      ],
+      "correct_answer": "Fieldwork",
+      "explanation": "Auditors gather evidence during fieldwork."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Audit findings are documented in:",
+      "options": [
+        "Reporting phase",
+        "Planning phase",
+        "Monitoring phase",
+        "Training phase"
+      ],
+      "correct_answer": "Reporting phase",
+      "explanation": "The reporting phase communicates audit results."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "The final audit phase often includes:",
+      "options": [
+        "Follow-up",
+        "Planning",
+        "Evidence collection",
+        "Risk acceptance"
+      ],
+      "correct_answer": "Follow-up",
+      "explanation": "Follow-up verifies corrective actions."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Why is audit planning important?",
+      "options": [
+        "Ensures efficient execution",
+        "Eliminates risks",
+        "Replaces controls",
+        "Avoids documentation"
+      ],
+      "correct_answer": "Ensures efficient execution",
+      "explanation": "Good planning improves audit effectiveness."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "The scope of an audit defines:",
+      "options": [
+        "Boundaries of the audit",
+        "Budget only",
+        "Employee roles",
+        "Security policies"
+      ],
+      "correct_answer": "Boundaries of the audit",
+      "explanation": "Scope identifies systems, processes, and locations to review."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Evidence collected during audits should be:",
+      "options": [
+        "Relevant and reliable",
+        "Random",
+        "Verbal only",
+        "Confidential only"
+      ],
+      "correct_answer": "Relevant and reliable",
+      "explanation": "Strong evidence supports audit conclusions."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Interviews are commonly performed during:",
+      "options": [
+        "Fieldwork",
+        "Closure",
+        "Planning only",
+        "Approval"
+      ],
+      "correct_answer": "Fieldwork",
+      "explanation": "Auditors interview personnel to gather information."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Risk assessment is usually performed during:",
+      "options": [
+        "Planning",
+        "Reporting",
+        "Closure",
+        "Remediation"
+      ],
+      "correct_answer": "Planning",
+      "explanation": "Risk considerations help shape the audit approach."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Which phase identifies non-compliance issues?",
+      "options": [
+        "Fieldwork and analysis",
+        "Planning",
+        "Scheduling",
+        "Budgeting"
+      ],
+      "correct_answer": "Fieldwork and analysis",
+      "explanation": "Evidence is analyzed to identify gaps."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Audit reports should contain:",
+      "options": [
+        "Findings and recommendations",
+        "Advertisements",
+        "Payroll records",
+        "Source code"
+      ],
+      "correct_answer": "Findings and recommendations",
+      "explanation": "Reports communicate observations and corrective actions."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Corrective action plans are typically developed after:",
+      "options": [
+        "Audit findings",
+        "Planning",
+        "Training",
+        "Procurement"
+      ],
+      "correct_answer": "Audit findings",
+      "explanation": "Organizations respond to identified issues."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The purpose of the follow-up phase is to:",
+      "options": [
+        "Verify remediation effectiveness",
+        "Restart the audit",
+        "Change regulations",
+        "Reduce scope"
+      ],
+      "correct_answer": "Verify remediation effectiveness",
+      "explanation": "Follow-up ensures issues have been addressed."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A risk-based audit approach affects:",
+      "options": [
+        "Audit priorities and testing",
+        "Office design",
+        "Employee benefits",
+        "Vendor pricing"
+      ],
+      "correct_answer": "Audit priorities and testing",
+      "explanation": "Higher-risk areas receive greater attention."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Sampling techniques are commonly used during:",
+      "options": [
+        "Evidence collection",
+        "Audit closure",
+        "Reporting only",
+        "Policy creation"
+      ],
+      "correct_answer": "Evidence collection",
+      "explanation": "Sampling allows efficient review of large populations."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Audit evidence must be sufficient to:",
+      "options": [
+        "Support conclusions",
+        "Increase audit duration",
+        "Replace controls",
+        "Reduce compliance"
+      ],
+      "correct_answer": "Support conclusions",
+      "explanation": "Auditors rely on evidence-based findings."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "An exit meeting is generally conducted during:",
+      "options": [
+        "Reporting phase",
+        "Planning phase",
+        "Procurement phase",
+        "Training phase"
+      ],
+      "correct_answer": "Reporting phase",
+      "explanation": "Auditors discuss findings with management."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Audit phases collectively aim to:",
+      "options": [
+        "Provide assurance on controls and compliance",
+        "Eliminate all risks",
+        "Replace management",
+        "Avoid regulations"
+      ],
+      "correct_answer": "Provide assurance on controls and compliance",
+      "explanation": "Audits assess effectiveness and compliance."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "A well-executed audit process improves:",
+      "options": [
+        "Governance, risk management, and controls",
+        "Printer speed",
+        "Office furniture",
+        "Building maintenance"
+      ],
+      "correct_answer": "Governance, risk management, and controls",
+      "explanation": "Audits strengthen organizational oversight."
+    }
+  ]
+}

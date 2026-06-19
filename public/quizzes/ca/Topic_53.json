@@ -1,0 +1,166 @@
+{
+  "topic": "Compliance Audit of Anti-Corruption Regulations",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the primary objective of anti-corruption regulations?",
+      "options": ["Prevent bribery and corruption", "Increase profits", "Reduce taxes", "Improve marketing"],
+      "correct_answer": "Prevent bribery and corruption",
+      "explanation": "Anti-corruption regulations are designed to prevent unethical and illegal practices."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "A compliance audit of anti-corruption regulations evaluates:",
+      "options": ["Adherence to anti-bribery laws and controls", "Product quality", "Marketing campaigns", "Office design"],
+      "correct_answer": "Adherence to anti-bribery laws and controls",
+      "explanation": "Auditors assess whether organizations comply with anti-corruption requirements."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Bribery involves:",
+      "options": ["Offering or receiving something of value to influence decisions", "Paying taxes", "Providing training", "Conducting audits"],
+      "correct_answer": "Offering or receiving something of value to influence decisions",
+      "explanation": "Bribery is a common form of corruption."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "An anti-corruption policy should be:",
+      "options": ["Clearly documented and communicated", "Optional", "Verbal only", "Confidential to auditors"],
+      "correct_answer": "Clearly documented and communicated",
+      "explanation": "Employees must understand anti-corruption expectations."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Compliance training helps employees:",
+      "options": ["Recognize and prevent corruption risks", "Increase sales", "Reduce staffing", "Manage payroll"],
+      "correct_answer": "Recognize and prevent corruption risks",
+      "explanation": "Training improves awareness and compliance."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Gifts and hospitality policies help:",
+      "options": ["Reduce bribery risks", "Increase revenue", "Reduce audits", "Improve branding"],
+      "correct_answer": "Reduce bribery risks",
+      "explanation": "Controls are needed to prevent improper influence."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "A key element of an anti-corruption program is:",
+      "options": ["Risk assessment", "Advertising", "Recruitment", "Payroll processing"],
+      "correct_answer": "Risk assessment",
+      "explanation": "Organizations must identify corruption risks."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Third-party due diligence is important because:",
+      "options": ["Partners can create corruption risks", "It increases sales", "It replaces audits", "It reduces controls"],
+      "correct_answer": "Partners can create corruption risks",
+      "explanation": "Third parties are a common source of corruption exposure."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Whistleblower mechanisms support compliance by:",
+      "options": ["Allowing confidential reporting of misconduct", "Reducing documentation", "Increasing profits", "Avoiding audits"],
+      "correct_answer": "Allowing confidential reporting of misconduct",
+      "explanation": "Employees need safe ways to report concerns."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Internal controls help prevent corruption by:",
+      "options": ["Reducing opportunities for misconduct", "Increasing complexity", "Avoiding monitoring", "Reducing governance"],
+      "correct_answer": "Reducing opportunities for misconduct",
+      "explanation": "Strong controls deter fraudulent behavior."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Compliance audits typically review:",
+      "options": ["Policies, records, and transactions", "Advertising campaigns", "Office layouts", "Customer surveys"],
+      "correct_answer": "Policies, records, and transactions",
+      "explanation": "Evidence is needed to assess compliance."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Monitoring and testing help organizations:",
+      "options": ["Detect compliance weaknesses", "Increase revenue", "Reduce audits", "Eliminate governance"],
+      "correct_answer": "Detect compliance weaknesses",
+      "explanation": "Ongoing oversight identifies issues early."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Management commitment is important because:",
+      "options": ["Ethical culture starts at the top", "It replaces controls", "It eliminates risk", "It avoids audits"],
+      "correct_answer": "Ethical culture starts at the top",
+      "explanation": "Leadership influences organizational behavior."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "An effective anti-corruption audit should evaluate:",
+      "options": ["Culture, controls, training, and monitoring", "Only policies", "Only transactions", "Only training"],
+      "correct_answer": "Culture, controls, training, and monitoring",
+      "explanation": "A comprehensive review covers all program elements."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Risk-based auditing focuses on:",
+      "options": ["Areas with the highest corruption exposure", "Random transactions", "Only finance", "Only HR"],
+      "correct_answer": "Areas with the highest corruption exposure",
+      "explanation": "Resources should target significant risks."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Audit findings should result in:",
+      "options": ["Corrective actions and improvements", "Reduced oversight", "Eliminated controls", "Avoided reviews"],
+      "correct_answer": "Corrective actions and improvements",
+      "explanation": "Findings should strengthen compliance programs."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Data analytics can support anti-corruption audits by:",
+      "options": ["Identifying suspicious transactions", "Replacing auditors", "Eliminating controls", "Reducing governance"],
+      "correct_answer": "Identifying suspicious transactions",
+      "explanation": "Analytics can reveal unusual patterns and red flags."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Global organizations often align anti-corruption programs with:",
+      "options": ["International anti-bribery standards and laws", "Marketing frameworks", "Payroll standards", "Office procedures"],
+      "correct_answer": "International anti-bribery standards and laws",
+      "explanation": "Global operations require broad compliance coverage."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The success of an anti-corruption program depends on:",
+      "options": ["Leadership, controls, training, and monitoring", "Technology only", "Policies only", "Audits only"],
+      "correct_answer": "Leadership, controls, training, and monitoring",
+      "explanation": "Multiple elements are needed for effectiveness."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of a compliance audit of anti-corruption regulations is:",
+      "options": ["Ensure ethical conduct and compliance with anti-bribery laws", "Increase profits", "Reduce staffing", "Replace governance"],
+      "correct_answer": "Ensure ethical conduct and compliance with anti-bribery laws",
+      "explanation": "Audits help organizations prevent corruption and maintain compliance."
+    }
+  ]
+}

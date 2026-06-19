@@ -1,0 +1,266 @@
+{
+  "topic": "HIPAA Regulations",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "HIPAA regulations are designed to protect:",
+      "options": [
+        "Health information",
+        "Financial statements",
+        "Tax records",
+        "Marketing data"
+      ],
+      "correct_answer": "Health information",
+      "explanation": "HIPAA regulations establish requirements for safeguarding health information."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which organization enforces HIPAA regulations?",
+      "options": [
+        "U.S. Department of Health and Human Services (HHS)",
+        "ISO",
+        "NIST",
+        "AICPA"
+      ],
+      "correct_answer": "U.S. Department of Health and Human Services (HHS)",
+      "explanation": "HHS is responsible for HIPAA enforcement."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "HIPAA regulations apply to:",
+      "options": [
+        "Covered Entities and Business Associates",
+        "All organizations",
+        "Retail stores only",
+        "Manufacturing companies"
+      ],
+      "correct_answer": "Covered Entities and Business Associates",
+      "explanation": "HIPAA defines who must comply with the regulations."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "The HIPAA Privacy Rule protects:",
+      "options": [
+        "Protected Health Information (PHI)",
+        "Financial data",
+        "Source code",
+        "Marketing records"
+      ],
+      "correct_answer": "Protected Health Information (PHI)",
+      "explanation": "The Privacy Rule governs the use and disclosure of PHI."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Electronic Protected Health Information is called:",
+      "options": [
+        "ePHI",
+        "PHR",
+        "EHR",
+        "EMR"
+      ],
+      "correct_answer": "ePHI",
+      "explanation": "ePHI refers to electronic health information protected by HIPAA."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "HIPAA regulations require organizations to:",
+      "options": [
+        "Protect patient information",
+        "Increase profits",
+        "Reduce audits",
+        "Manage payroll"
+      ],
+      "correct_answer": "Protect patient information",
+      "explanation": "Organizations must safeguard health data."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "The HIPAA Security Rule focuses on:",
+      "options": [
+        "Protecting ePHI",
+        "Financial reporting",
+        "Tax compliance",
+        "Network design"
+      ],
+      "correct_answer": "Protecting ePHI",
+      "explanation": "The Security Rule establishes safeguards for electronic health data."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Administrative safeguards include:",
+      "options": [
+        "Policies, procedures, and training",
+        "Firewalls only",
+        "Locks only",
+        "Encryption only"
+      ],
+      "correct_answer": "Policies, procedures, and training",
+      "explanation": "Administrative safeguards address management and workforce responsibilities."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Physical safeguards are designed to:",
+      "options": [
+        "Protect facilities and equipment",
+        "Manage passwords",
+        "Encrypt data",
+        "Create reports"
+      ],
+      "correct_answer": "Protect facilities and equipment",
+      "explanation": "Physical measures protect systems and locations."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Technical safeguards include:",
+      "options": [
+        "Access controls and encryption",
+        "Building security",
+        "Training programs",
+        "Insurance plans"
+      ],
+      "correct_answer": "Access controls and encryption",
+      "explanation": "Technical controls protect electronic information."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "The HIPAA Breach Notification Rule requires:",
+      "options": [
+        "Notification after certain PHI breaches",
+        "Daily reporting",
+        "Financial audits",
+        "Vendor assessments"
+      ],
+      "correct_answer": "Notification after certain PHI breaches",
+      "explanation": "Organizations must notify affected parties when required."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "HIPAA regulations support:",
+      "options": [
+        "Confidentiality, integrity, and availability of health data",
+        "Marketing performance",
+        "Sales growth",
+        "Office productivity"
+      ],
+      "correct_answer": "Confidentiality, integrity, and availability of health data",
+      "explanation": "HIPAA security aligns with core security principles."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Risk analysis is required under:",
+      "options": [
+        "HIPAA Security Rule",
+        "HIPAA Privacy Rule only",
+        "SOX",
+        "PCI DSS"
+      ],
+      "correct_answer": "HIPAA Security Rule",
+      "explanation": "Organizations must assess risks to ePHI."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A Business Associate Agreement (BAA) is required when:",
+      "options": [
+        "A third party handles PHI",
+        "An employee is hired",
+        "A policy is updated",
+        "A server is replaced"
+      ],
+      "correct_answer": "A third party handles PHI",
+      "explanation": "BAAs define responsibilities for protecting PHI."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "HIPAA regulations emphasize:",
+      "options": [
+        "Risk-based security management",
+        "Elimination of all risks",
+        "No documentation",
+        "No monitoring"
+      ],
+      "correct_answer": "Risk-based security management",
+      "explanation": "Organizations must identify and mitigate risks."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Failure to comply with HIPAA may result in:",
+      "options": [
+        "Civil and criminal penalties",
+        "Tax reductions",
+        "Certification",
+        "No consequences"
+      ],
+      "correct_answer": "Civil and criminal penalties",
+      "explanation": "Violations can lead to significant penalties."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Regular workforce training helps organizations:",
+      "options": [
+        "Reduce HIPAA violations",
+        "Increase revenue",
+        "Avoid documentation",
+        "Reduce controls"
+      ],
+      "correct_answer": "Reduce HIPAA violations",
+      "explanation": "Training improves awareness and compliance."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "HIPAA regulations require organizations to maintain:",
+      "options": [
+        "Policies, procedures, and documentation",
+        "Only technical controls",
+        "Only physical security",
+        "Only audits"
+      ],
+      "correct_answer": "Policies, procedures, and documentation",
+      "explanation": "Documentation demonstrates compliance."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The Security Rule and Privacy Rule together:",
+      "options": [
+        "Protect health information comprehensively",
+        "Replace compliance",
+        "Eliminate breaches",
+        "Manage finances"
+      ],
+      "correct_answer": "Protect health information comprehensively",
+      "explanation": "The rules address both privacy and security requirements."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of HIPAA regulations is:",
+      "options": [
+        "Protect patient information through privacy and security requirements",
+        "Increase healthcare revenue",
+        "Reduce staffing",
+        "Replace security controls"
+      ],
+      "correct_answer": "Protect patient information through privacy and security requirements",
+      "explanation": "HIPAA regulations safeguard sensitive health data."
+    }
+  ]
+}

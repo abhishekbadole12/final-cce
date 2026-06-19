@@ -1,0 +1,266 @@
+{
+  "topic": "HIPAA Rules",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "Which HIPAA Rule protects the privacy of health information?",
+      "options": [
+        "Privacy Rule",
+        "Security Rule",
+        "Enforcement Rule",
+        "Breach Notification Rule"
+      ],
+      "correct_answer": "Privacy Rule",
+      "explanation": "The Privacy Rule governs the use and disclosure of PHI."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which HIPAA Rule focuses on electronic PHI (ePHI)?",
+      "options": [
+        "Security Rule",
+        "Privacy Rule",
+        "Omnibus Rule",
+        "Enforcement Rule"
+      ],
+      "correct_answer": "Security Rule",
+      "explanation": "The Security Rule protects electronic health information."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The Breach Notification Rule requires:",
+      "options": [
+        "Notification of certain PHI breaches",
+        "Daily audits",
+        "Password changes",
+        "Insurance updates"
+      ],
+      "correct_answer": "Notification of certain PHI breaches",
+      "explanation": "Organizations must notify affected parties after qualifying breaches."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "What does PHI stand for?",
+      "options": [
+        "Protected Health Information",
+        "Private Health Infrastructure",
+        "Personal Health Identifier",
+        "Protected Healthcare Identity"
+      ],
+      "correct_answer": "Protected Health Information",
+      "explanation": "PHI includes identifiable health information."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "The HIPAA Security Rule applies to:",
+      "options": [
+        "Electronic PHI (ePHI)",
+        "Paper records only",
+        "Financial records",
+        "Tax records"
+      ],
+      "correct_answer": "Electronic PHI (ePHI)",
+      "explanation": "The rule focuses specifically on electronic health data."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "HIPAA Rules are enforced by:",
+      "options": [
+        "HHS Office for Civil Rights (OCR)",
+        "ISACA",
+        "NIST",
+        "AICPA"
+      ],
+      "correct_answer": "HHS Office for Civil Rights (OCR)",
+      "explanation": "OCR is responsible for HIPAA enforcement."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "The Privacy Rule provides individuals with the right to:",
+      "options": [
+        "Access their health information",
+        "Modify regulations",
+        "Audit hospitals",
+        "Approve policies"
+      ],
+      "correct_answer": "Access their health information",
+      "explanation": "Patients have rights regarding their health records."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "The Security Rule requires organizations to implement:",
+      "options": [
+        "Administrative, Physical, and Technical Safeguards",
+        "Marketing controls",
+        "Financial audits",
+        "Insurance policies"
+      ],
+      "correct_answer": "Administrative, Physical, and Technical Safeguards",
+      "explanation": "These safeguards protect ePHI."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Administrative safeguards include:",
+      "options": [
+        "Policies, procedures, and workforce training",
+        "Firewalls only",
+        "Locks only",
+        "Encryption only"
+      ],
+      "correct_answer": "Policies, procedures, and workforce training",
+      "explanation": "Administrative controls address management responsibilities."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Physical safeguards protect:",
+      "options": [
+        "Facilities and equipment",
+        "Passwords",
+        "Databases only",
+        "Contracts"
+      ],
+      "correct_answer": "Facilities and equipment",
+      "explanation": "Physical controls secure systems and locations."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Technical safeguards include:",
+      "options": [
+        "Access controls and encryption",
+        "Building security",
+        "Insurance coverage",
+        "Payroll systems"
+      ],
+      "correct_answer": "Access controls and encryption",
+      "explanation": "Technical controls secure electronic information."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The Enforcement Rule establishes:",
+      "options": [
+        "Penalties for HIPAA violations",
+        "Security controls",
+        "Privacy rights",
+        "Insurance requirements"
+      ],
+      "correct_answer": "Penalties for HIPAA violations",
+      "explanation": "The Enforcement Rule defines investigations and penalties."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "The Omnibus Rule strengthened:",
+      "options": [
+        "Privacy and security protections",
+        "Tax regulations",
+        "Insurance plans",
+        "Financial reporting"
+      ],
+      "correct_answer": "Privacy and security protections",
+      "explanation": "The Omnibus Rule expanded HIPAA requirements."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A breach involving unsecured PHI may require:",
+      "options": [
+        "Notification to affected individuals and authorities",
+        "No action",
+        "Tax reporting",
+        "Marketing disclosures"
+      ],
+      "correct_answer": "Notification to affected individuals and authorities",
+      "explanation": "The Breach Notification Rule defines reporting requirements."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The Security Rule is risk-based because it requires:",
+      "options": [
+        "Risk analysis and risk management",
+        "Elimination of all risks",
+        "No documentation",
+        "No monitoring"
+      ],
+      "correct_answer": "Risk analysis and risk management",
+      "explanation": "Organizations must identify and mitigate risks to ePHI."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Business Associates are directly affected by:",
+      "options": [
+        "The Omnibus Rule",
+        "Title I only",
+        "Tax provisions",
+        "Insurance portability"
+      ],
+      "correct_answer": "The Omnibus Rule",
+      "explanation": "The Omnibus Rule expanded Business Associate responsibilities."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "HIPAA penalties can be:",
+      "options": [
+        "Civil and criminal",
+        "Administrative only",
+        "Financial only",
+        "None"
+      ],
+      "correct_answer": "Civil and criminal",
+      "explanation": "Violations may result in both civil and criminal penalties."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "The Privacy Rule and Security Rule together help ensure:",
+      "options": [
+        "Confidentiality and protection of health information",
+        "Revenue growth",
+        "Insurance portability",
+        "Tax compliance"
+      ],
+      "correct_answer": "Confidentiality and protection of health information",
+      "explanation": "Both rules work together to protect PHI."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "An organization's HIPAA compliance program should include:",
+      "options": [
+        "Policies, training, risk management, and safeguards",
+        "Only encryption",
+        "Only audits",
+        "Only documentation"
+      ],
+      "correct_answer": "Policies, training, risk management, and safeguards",
+      "explanation": "Comprehensive compliance requires multiple controls."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of HIPAA Rules is:",
+      "options": [
+        "Protect patient health information through privacy, security, and accountability requirements",
+        "Increase healthcare profits",
+        "Reduce audits",
+        "Replace healthcare systems"
+      ],
+      "correct_answer": "Protect patient health information through privacy, security, and accountability requirements",
+      "explanation": "HIPAA Rules collectively safeguard sensitive health information."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "topic": "Introduction",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the primary goal of information security?",
+      "options": [
+        "Increase profits",
+        "Protect information assets",
+        "Reduce hardware costs",
+        "Improve internet speed"
+      ],
+      "correct_answer": "Protect information assets",
+      "explanation": "Information security focuses on protecting data and systems from unauthorized access, use, disclosure, disruption, modification, or destruction."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which of the following is an information asset?",
+      "options": [
+        "Customer database",
+        "Office chair",
+        "Air conditioner",
+        "Parking lot"
+      ],
+      "correct_answer": "Customer database",
+      "explanation": "Information assets include data, applications, systems, and related resources."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Cybersecurity mainly protects:",
+      "options": [
+        "Digital assets",
+        "Furniture",
+        "Vehicles",
+        "Buildings"
+      ],
+      "correct_answer": "Digital assets",
+      "explanation": "Cybersecurity is concerned with protecting digital systems, networks, and data."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which is an example of sensitive information?",
+      "options": [
+        "Public brochure",
+        "Employee salary records",
+        "Company logo",
+        "Press release"
+      ],
+      "correct_answer": "Employee salary records",
+      "explanation": "Salary records contain confidential personal information."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Information security is important because it:",
+      "options": [
+        "Eliminates all risks",
+        "Protects valuable information",
+        "Guarantees business success",
+        "Removes need for policies"
+      ],
+      "correct_answer": "Protects valuable information",
+      "explanation": "The main objective is safeguarding information assets."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "A security policy is:",
+      "options": [
+        "A legal contract",
+        "A set of security rules and guidelines",
+        "A hardware device",
+        "An antivirus program"
+      ],
+      "correct_answer": "A set of security rules and guidelines",
+      "explanation": "Policies define security expectations and requirements."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which area is a key component of information security?",
+      "options": [
+        "Confidentiality",
+        "Marketing",
+        "Sales",
+        "Procurement"
+      ],
+      "correct_answer": "Confidentiality",
+      "explanation": "Confidentiality is one of the core security objectives."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Why do organizations implement security controls?",
+      "options": [
+        "To increase taxes",
+        "To reduce risks",
+        "To avoid using technology",
+        "To eliminate employees"
+      ],
+      "correct_answer": "To reduce risks",
+      "explanation": "Controls help mitigate identified threats and vulnerabilities."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which asset classification usually requires the highest protection?",
+      "options": [
+        "Public",
+        "Internal",
+        "Confidential",
+        "Archived"
+      ],
+      "correct_answer": "Confidential",
+      "explanation": "Confidential information has the highest protection requirements among these options."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Security awareness training primarily helps:",
+      "options": [
+        "Increase storage",
+        "Reduce human-related security incidents",
+        "Improve bandwidth",
+        "Reduce electricity use"
+      ],
+      "correct_answer": "Reduce human-related security incidents",
+      "explanation": "Employees are often targeted by attackers, making awareness essential."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Which is a common information security objective?",
+      "options": [
+        "Entertainment",
+        "Availability",
+        "Advertising",
+        "Recruitment"
+      ],
+      "correct_answer": "Availability",
+      "explanation": "Availability ensures authorized users can access information when needed."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The protection of organizational data supports:",
+      "options": [
+        "Business continuity",
+        "Office decoration",
+        "Building expansion",
+        "Transportation"
+      ],
+      "correct_answer": "Business continuity",
+      "explanation": "Secure data is essential for uninterrupted business operations."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "A security breach can result in:",
+      "options": [
+        "Data loss",
+        "Improved reputation",
+        "Guaranteed profits",
+        "Lower compliance requirements"
+      ],
+      "correct_answer": "Data loss",
+      "explanation": "Breaches often lead to data exposure or loss."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Which statement best describes information security governance?",
+      "options": [
+        "Managing organizational security strategy and oversight",
+        "Installing printers",
+        "Writing advertisements",
+        "Managing cafeteria services"
+      ],
+      "correct_answer": "Managing organizational security strategy and oversight",
+      "explanation": "Governance aligns security with business objectives."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Risk management in information security aims to:",
+      "options": [
+        "Identify and treat risks",
+        "Remove all technology",
+        "Increase threats",
+        "Avoid audits"
+      ],
+      "correct_answer": "Identify and treat risks",
+      "explanation": "Risk management focuses on identifying, assessing, and mitigating risks."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Why is compliance important in information security?",
+      "options": [
+        "To meet legal and regulatory requirements",
+        "To increase website traffic",
+        "To replace security controls",
+        "To reduce documentation"
+      ],
+      "correct_answer": "To meet legal and regulatory requirements",
+      "explanation": "Organizations must comply with applicable laws and standards."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "An effective security program should align with:",
+      "options": [
+        "Business objectives",
+        "Competitor pricing",
+        "Weather forecasts",
+        "Social trends"
+      ],
+      "correct_answer": "Business objectives",
+      "explanation": "Security should support organizational goals."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "What is the relationship between cybersecurity and information security?",
+      "options": [
+        "Cybersecurity is a subset of information security",
+        "They are unrelated",
+        "Information security is a subset of cybersecurity",
+        "They are identical in all contexts"
+      ],
+      "correct_answer": "Cybersecurity is a subset of information security",
+      "explanation": "Cybersecurity focuses specifically on digital environments."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Which factor most influences security requirements?",
+      "options": [
+        "Value and sensitivity of information",
+        "Office location color",
+        "Employee uniforms",
+        "Brand logo"
+      ],
+      "correct_answer": "Value and sensitivity of information",
+      "explanation": "Protection levels depend on the importance and sensitivity of assets."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "A mature security culture is characterized by:",
+      "options": [
+        "Shared responsibility for security",
+        "Ignoring policies",
+        "No training",
+        "No audits"
+      ],
+      "correct_answer": "Shared responsibility for security",
+      "explanation": "Security becomes part of everyday organizational behavior."
+    }
+  ]
+}

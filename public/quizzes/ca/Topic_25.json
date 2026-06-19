@@ -1,0 +1,266 @@
+{
+  "topic": "Structure of ISO Standards",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the purpose of ISO standard structure?",
+      "options": [
+        "Provide a consistent framework for management systems",
+        "Increase profits",
+        "Reduce audits",
+        "Replace regulations"
+      ],
+      "correct_answer": "Provide a consistent framework for management systems",
+      "explanation": "ISO standards follow a common structure to improve consistency."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "ISO/IEC 27001 is structured around:",
+      "options": [
+        "Clauses and Annex A controls",
+        "Only policies",
+        "Only audits",
+        "Only risk assessments"
+      ],
+      "correct_answer": "Clauses and Annex A controls",
+      "explanation": "The standard contains mandatory clauses and reference controls."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Which clause addresses organizational context?",
+      "options": [
+        "Clause 4",
+        "Clause 6",
+        "Clause 9",
+        "Clause 10"
+      ],
+      "correct_answer": "Clause 4",
+      "explanation": "Clause 4 requires understanding internal and external issues."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which clause focuses on leadership?",
+      "options": [
+        "Clause 5",
+        "Clause 7",
+        "Clause 8",
+        "Clause 9"
+      ],
+      "correct_answer": "Clause 5",
+      "explanation": "Leadership demonstrates commitment to the ISMS."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which clause covers planning activities?",
+      "options": [
+        "Clause 6",
+        "Clause 4",
+        "Clause 8",
+        "Clause 10"
+      ],
+      "correct_answer": "Clause 6",
+      "explanation": "Planning includes risk assessment and treatment."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Annex A contains:",
+      "options": [
+        "Information security controls",
+        "Audit reports",
+        "Policies only",
+        "Financial records"
+      ],
+      "correct_answer": "Information security controls",
+      "explanation": "Annex A provides a catalog of security controls."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which clause addresses resources, competence, and awareness?",
+      "options": [
+        "Clause 7 - Support",
+        "Clause 5 - Leadership",
+        "Clause 8 - Operation",
+        "Clause 10 - Improvement"
+      ],
+      "correct_answer": "Clause 7 - Support",
+      "explanation": "Support ensures the ISMS has necessary resources."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Clause 8 focuses on:",
+      "options": [
+        "Operation",
+        "Leadership",
+        "Improvement",
+        "Context"
+      ],
+      "correct_answer": "Operation",
+      "explanation": "Operational planning and control occur in Clause 8."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Performance Evaluation is covered under:",
+      "options": [
+        "Clause 9",
+        "Clause 4",
+        "Clause 6",
+        "Annex A"
+      ],
+      "correct_answer": "Clause 9",
+      "explanation": "Clause 9 includes monitoring, measurement, audits, and reviews."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Which clause requires continual improvement?",
+      "options": [
+        "Clause 10",
+        "Clause 5",
+        "Clause 7",
+        "Clause 8"
+      ],
+      "correct_answer": "Clause 10",
+      "explanation": "Improvement addresses corrective actions and enhancements."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Documented information replaces the older concept of:",
+      "options": [
+        "Documents and records",
+        "Policies",
+        "Controls",
+        "Audits"
+      ],
+      "correct_answer": "Documents and records",
+      "explanation": "Modern ISO standards use the term documented information."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "The High-Level Structure (HLS) helps organizations:",
+      "options": [
+        "Integrate multiple ISO standards",
+        "Reduce controls",
+        "Avoid audits",
+        "Replace documentation"
+      ],
+      "correct_answer": "Integrate multiple ISO standards",
+      "explanation": "HLS provides a common framework across ISO standards."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Risk assessment requirements are primarily found in:",
+      "options": [
+        "Clause 6",
+        "Clause 4",
+        "Clause 9",
+        "Annex A"
+      ],
+      "correct_answer": "Clause 6",
+      "explanation": "Risk assessment and treatment planning are key planning activities."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Annex A controls are:",
+      "options": [
+        "Reference controls selected through risk treatment",
+        "Mandatory for every organization",
+        "Audit findings",
+        "Legal requirements"
+      ],
+      "correct_answer": "Reference controls selected through risk treatment",
+      "explanation": "Organizations choose applicable controls based on risk."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Management review is part of:",
+      "options": [
+        "Clause 9 - Performance Evaluation",
+        "Clause 4",
+        "Clause 6",
+        "Annex A"
+      ],
+      "correct_answer": "Clause 9 - Performance Evaluation",
+      "explanation": "Management reviews assess ISMS effectiveness."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The relationship between clauses and Annex A is:",
+      "options": [
+        "Clauses define requirements; Annex A provides control references",
+        "They are identical",
+        "Annex A replaces clauses",
+        "Clauses are optional"
+      ],
+      "correct_answer": "Clauses define requirements; Annex A provides control references",
+      "explanation": "Organizations meet requirements using appropriate controls."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "The structure of ISO standards supports:",
+      "options": [
+        "Consistency, integration, and continual improvement",
+        "Only compliance",
+        "Only audits",
+        "Only documentation"
+      ],
+      "correct_answer": "Consistency, integration, and continual improvement",
+      "explanation": "The structure enables systematic management."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "An effective ISMS requires alignment between:",
+      "options": [
+        "Business objectives, risks, and controls",
+        "Marketing and sales",
+        "Payroll and HR",
+        "Facilities and logistics"
+      ],
+      "correct_answer": "Business objectives, risks, and controls",
+      "explanation": "Security controls should support organizational goals."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The HLS makes ISO standards easier to:",
+      "options": [
+        "Implement together",
+        "Replace",
+        "Ignore",
+        "Audit only"
+      ],
+      "correct_answer": "Implement together",
+      "explanation": "Organizations can integrate multiple management systems."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of ISO standard structure is:",
+      "options": [
+        "Provide a systematic framework for managing and improving organizational processes",
+        "Increase revenue",
+        "Reduce staffing",
+        "Eliminate risk"
+      ],
+      "correct_answer": "Provide a systematic framework for managing and improving organizational processes",
+      "explanation": "The structure ensures effective governance and continual improvement."
+    }
+  ]
+}

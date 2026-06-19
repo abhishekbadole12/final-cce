@@ -1,0 +1,266 @@
+{
+  "topic": "Case Studies",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the purpose of using case studies in compliance audits?",
+      "options": [
+        "To understand real-world compliance scenarios",
+        "To replace audits",
+        "To increase profits",
+        "To manage payroll"
+      ],
+      "correct_answer": "To understand real-world compliance scenarios",
+      "explanation": "Case studies help learners apply concepts to practical situations."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "A case study is typically based on:",
+      "options": [
+        "A real or realistic scenario",
+        "A fictional game",
+        "A tax return",
+        "A network diagram"
+      ],
+      "correct_answer": "A real or realistic scenario",
+      "explanation": "Case studies reflect actual organizational situations."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Case studies help auditors develop:",
+      "options": [
+        "Analytical and decision-making skills",
+        "Programming skills",
+        "Marketing skills",
+        "Accounting skills"
+      ],
+      "correct_answer": "Analytical and decision-making skills",
+      "explanation": "Auditors learn to evaluate evidence and recommend actions."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Compliance case studies often involve:",
+      "options": [
+        "Policies, controls, and regulations",
+        "Product pricing",
+        "Office furniture",
+        "Advertising"
+      ],
+      "correct_answer": "Policies, controls, and regulations",
+      "explanation": "They focus on compliance-related issues."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "The main benefit of case studies is:",
+      "options": [
+        "Practical understanding",
+        "Reduced documentation",
+        "Elimination of audits",
+        "Guaranteed compliance"
+      ],
+      "correct_answer": "Practical understanding",
+      "explanation": "Case studies bridge theory and practice."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Case studies may be used to analyze:",
+      "options": [
+        "Security incidents and compliance failures",
+        "Only financial statements",
+        "Only marketing plans",
+        "Only payroll records"
+      ],
+      "correct_answer": "Security incidents and compliance failures",
+      "explanation": "Many case studies focus on lessons learned."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "An auditor reviewing a case study should first:",
+      "options": [
+        "Understand the facts and context",
+        "Write the report",
+        "Assign penalties",
+        "Implement controls"
+      ],
+      "correct_answer": "Understand the facts and context",
+      "explanation": "Accurate analysis requires understanding the situation."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "A compliance failure in a case study may result from:",
+      "options": [
+        "Weak controls or poor governance",
+        "Strong security",
+        "Excessive compliance",
+        "Effective auditing"
+      ],
+      "correct_answer": "Weak controls or poor governance",
+      "explanation": "Many failures stem from inadequate controls."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Case studies help identify:",
+      "options": [
+        "Root causes of issues",
+        "Only symptoms",
+        "Only costs",
+        "Only technologies"
+      ],
+      "correct_answer": "Root causes of issues",
+      "explanation": "Root cause analysis is an important audit activity."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Recommendations in a case study should be:",
+      "options": [
+        "Practical and risk-based",
+        "Random",
+        "Expensive only",
+        "Technology-focused only"
+      ],
+      "correct_answer": "Practical and risk-based",
+      "explanation": "Recommendations should address identified risks."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Case studies often highlight the importance of:",
+      "options": [
+        "Compliance and governance",
+        "Advertising",
+        "Sales performance",
+        "Facility management"
+      ],
+      "correct_answer": "Compliance and governance",
+      "explanation": "Governance failures are common themes."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Evidence in a case study is used to:",
+      "options": [
+        "Support conclusions",
+        "Increase revenue",
+        "Reduce audits",
+        "Create policies"
+      ],
+      "correct_answer": "Support conclusions",
+      "explanation": "Findings should be based on evidence."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Risk assessment in case studies helps determine:",
+      "options": [
+        "Priority actions",
+        "Employee salaries",
+        "Marketing budgets",
+        "Office locations"
+      ],
+      "correct_answer": "Priority actions",
+      "explanation": "Higher risks require greater attention."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A strong case study analysis includes:",
+      "options": [
+        "Facts, findings, risks, and recommendations",
+        "Opinions only",
+        "Technology only",
+        "Policies only"
+      ],
+      "correct_answer": "Facts, findings, risks, and recommendations",
+      "explanation": "Comprehensive analysis supports decision-making."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Case studies are valuable because they:",
+      "options": [
+        "Demonstrate real-world application of compliance concepts",
+        "Replace training",
+        "Guarantee compliance",
+        "Eliminate risks"
+      ],
+      "correct_answer": "Demonstrate real-world application of compliance concepts",
+      "explanation": "They provide practical learning experiences."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "An auditor should avoid:",
+      "options": [
+        "Making conclusions without evidence",
+        "Reviewing documents",
+        "Assessing controls",
+        "Identifying risks"
+      ],
+      "correct_answer": "Making conclusions without evidence",
+      "explanation": "Evidence-based decisions are critical."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Lessons learned from case studies can be used to:",
+      "options": [
+        "Improve future compliance programs",
+        "Avoid documentation",
+        "Reduce governance",
+        "Increase risks"
+      ],
+      "correct_answer": "Improve future compliance programs",
+      "explanation": "Organizations can strengthen controls based on experience."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Case study reviews often reveal:",
+      "options": [
+        "Control weaknesses and improvement opportunities",
+        "Only financial data",
+        "Only legal issues",
+        "Only technology failures"
+      ],
+      "correct_answer": "Control weaknesses and improvement opportunities",
+      "explanation": "Auditors identify areas needing improvement."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "The effectiveness of a case study depends on:",
+      "options": [
+        "Quality of analysis and recommendations",
+        "Office size",
+        "Revenue",
+        "Number of employees"
+      ],
+      "correct_answer": "Quality of analysis and recommendations",
+      "explanation": "Good analysis leads to useful conclusions."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of compliance case studies is:",
+      "options": [
+        "Apply compliance principles to real-world situations and improve decision-making",
+        "Increase profits",
+        "Replace regulations",
+        "Eliminate audits"
+      ],
+      "correct_answer": "Apply compliance principles to real-world situations and improve decision-making",
+      "explanation": "Case studies enhance practical understanding of compliance."
+    }
+  ]
+}

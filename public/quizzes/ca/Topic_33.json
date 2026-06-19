@@ -1,0 +1,266 @@
+{
+  "topic": "HIPAA Overview",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does HIPAA stand for?",
+      "options": [
+        "Health Insurance Portability and Accountability Act",
+        "Health Information Privacy and Access Act",
+        "Healthcare Information Protection Act",
+        "Health Insurance Privacy Act"
+      ],
+      "correct_answer": "Health Insurance Portability and Accountability Act",
+      "explanation": "HIPAA is a U.S. law designed to protect healthcare information."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "HIPAA was enacted in:",
+      "options": [
+        "1996",
+        "2001",
+        "2005",
+        "2010"
+      ],
+      "correct_answer": "1996",
+      "explanation": "HIPAA became law in 1996."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "HIPAA primarily protects:",
+      "options": [
+        "Health information",
+        "Financial records",
+        "Tax records",
+        "Marketing data"
+      ],
+      "correct_answer": "Health information",
+      "explanation": "HIPAA focuses on safeguarding health-related information."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "What does PHI stand for?",
+      "options": [
+        "Protected Health Information",
+        "Personal Health Identifier",
+        "Private Health Infrastructure",
+        "Protected Healthcare Identity"
+      ],
+      "correct_answer": "Protected Health Information",
+      "explanation": "PHI refers to identifiable health information."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "HIPAA applies to:",
+      "options": [
+        "Covered Entities and Business Associates",
+        "All companies",
+        "Only hospitals",
+        "Only government agencies"
+      ],
+      "correct_answer": "Covered Entities and Business Associates",
+      "explanation": "HIPAA defines who must comply with its requirements."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which is an example of PHI?",
+      "options": [
+        "Patient medical records",
+        "Company logo",
+        "Product brochure",
+        "Office address"
+      ],
+      "correct_answer": "Patient medical records",
+      "explanation": "Medical records contain protected health information."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "A Covered Entity may be:",
+      "options": [
+        "Healthcare providers, health plans, and clearinghouses",
+        "Retail stores",
+        "Manufacturing companies",
+        "Universities only"
+      ],
+      "correct_answer": "Healthcare providers, health plans, and clearinghouses",
+      "explanation": "HIPAA specifically applies to these entities."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "A Business Associate is:",
+      "options": [
+        "A third party handling PHI on behalf of a Covered Entity",
+        "A patient",
+        "A regulator",
+        "An auditor"
+      ],
+      "correct_answer": "A third party handling PHI on behalf of a Covered Entity",
+      "explanation": "Business Associates must also comply with HIPAA requirements."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "HIPAA's primary objective is to:",
+      "options": [
+        "Protect health information privacy and security",
+        "Increase healthcare revenue",
+        "Reduce audits",
+        "Manage payroll"
+      ],
+      "correct_answer": "Protect health information privacy and security",
+      "explanation": "HIPAA protects patient information."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "HIPAA helps ensure:",
+      "options": [
+        "Confidentiality of health data",
+        "Marketing effectiveness",
+        "Financial reporting",
+        "Sales growth"
+      ],
+      "correct_answer": "Confidentiality of health data",
+      "explanation": "Protecting patient privacy is a core goal."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Electronic PHI is commonly abbreviated as:",
+      "options": [
+        "ePHI",
+        "PHR",
+        "EHR",
+        "EMR"
+      ],
+      "correct_answer": "ePHI",
+      "explanation": "ePHI refers to electronic protected health information."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Unauthorized disclosure of PHI may result in:",
+      "options": [
+        "HIPAA violations",
+        "Tax penalties",
+        "Contract termination only",
+        "No consequences"
+      ],
+      "correct_answer": "HIPAA violations",
+      "explanation": "Improper handling of PHI can lead to penalties."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "HIPAA compliance requires organizations to implement:",
+      "options": [
+        "Administrative, physical, and technical safeguards",
+        "Marketing controls",
+        "Financial audits only",
+        "Payroll procedures"
+      ],
+      "correct_answer": "Administrative, physical, and technical safeguards",
+      "explanation": "These safeguards protect PHI."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "HIPAA compliance is important because it:",
+      "options": [
+        "Protects patient privacy and trust",
+        "Increases profits",
+        "Eliminates audits",
+        "Reduces staffing"
+      ],
+      "correct_answer": "Protects patient privacy and trust",
+      "explanation": "Patients rely on organizations to protect their information."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "A data breach involving PHI may require:",
+      "options": [
+        "Notification and corrective actions",
+        "Marketing campaigns",
+        "Financial audits only",
+        "No response"
+      ],
+      "correct_answer": "Notification and corrective actions",
+      "explanation": "Organizations must respond appropriately to breaches."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "HIPAA supports healthcare organizations by:",
+      "options": [
+        "Providing standards for information protection",
+        "Managing billing",
+        "Replacing security controls",
+        "Reducing regulations"
+      ],
+      "correct_answer": "Providing standards for information protection",
+      "explanation": "HIPAA establishes requirements for safeguarding health information."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "The relationship between privacy and security under HIPAA is:",
+      "options": [
+        "Privacy defines permissible use; security protects information",
+        "They are unrelated",
+        "Privacy replaces security",
+        "Security replaces privacy"
+      ],
+      "correct_answer": "Privacy defines permissible use; security protects information",
+      "explanation": "Both work together to protect PHI."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Organizations handling PHI should adopt:",
+      "options": [
+        "Risk-based security practices",
+        "No documentation",
+        "Minimal controls",
+        "No monitoring"
+      ],
+      "correct_answer": "Risk-based security practices",
+      "explanation": "Risk management is essential for protecting PHI."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "A key benefit of HIPAA compliance is:",
+      "options": [
+        "Improved trust and legal compliance",
+        "Guaranteed security",
+        "Elimination of incidents",
+        "Reduced governance"
+      ],
+      "correct_answer": "Improved trust and legal compliance",
+      "explanation": "Compliance demonstrates responsible data handling."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of HIPAA is:",
+      "options": [
+        "Protect the privacy and security of health information",
+        "Increase healthcare profits",
+        "Replace medical systems",
+        "Eliminate audits"
+      ],
+      "correct_answer": "Protect the privacy and security of health information",
+      "explanation": "HIPAA safeguards sensitive patient data."
+    }
+  ]
+}

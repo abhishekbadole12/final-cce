@@ -1,0 +1,266 @@
+{
+  "topic": "Requirements of Internal Audit Team",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is a key requirement of an internal audit team?",
+      "options": [
+        "Independence",
+        "Marketing skills",
+        "Sales expertise",
+        "Programming only"
+      ],
+      "correct_answer": "Independence",
+      "explanation": "Auditors should remain objective and independent."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Internal auditors should possess:",
+      "options": [
+        "Audit knowledge",
+        "Graphic design skills",
+        "Advertising skills",
+        "Construction skills"
+      ],
+      "correct_answer": "Audit knowledge",
+      "explanation": "Auditors require knowledge of audit principles and practices."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Why is objectivity important for auditors?",
+      "options": [
+        "To provide unbiased assessments",
+        "To increase profits",
+        "To reduce documentation",
+        "To avoid controls"
+      ],
+      "correct_answer": "To provide unbiased assessments",
+      "explanation": "Objectivity ensures fair audit conclusions."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Internal audit teams evaluate:",
+      "options": [
+        "Controls and compliance",
+        "Product pricing",
+        "Office furniture",
+        "Marketing campaigns"
+      ],
+      "correct_answer": "Controls and compliance",
+      "explanation": "Auditors assess governance, risk, and controls."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which skill is essential for auditors?",
+      "options": [
+        "Communication",
+        "Driving",
+        "Accounting only",
+        "Programming only"
+      ],
+      "correct_answer": "Communication",
+      "explanation": "Auditors must effectively communicate findings."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "An internal audit team should follow:",
+      "options": [
+        "Professional standards",
+        "Personal preferences",
+        "Competitor policies",
+        "Vendor rules"
+      ],
+      "correct_answer": "Professional standards",
+      "explanation": "Standards guide ethical and effective audits."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Auditors should have knowledge of:",
+      "options": [
+        "Risk management",
+        "Interior design",
+        "Product sales",
+        "Advertising"
+      ],
+      "correct_answer": "Risk management",
+      "explanation": "Understanding risk is essential for audit planning and execution."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Confidentiality is important because auditors:",
+      "options": [
+        "Handle sensitive information",
+        "Manage payroll",
+        "Develop products",
+        "Run marketing"
+      ],
+      "correct_answer": "Handle sensitive information",
+      "explanation": "Audit work often involves confidential data."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Internal auditors should avoid:",
+      "options": [
+        "Conflicts of interest",
+        "Documentation",
+        "Training",
+        "Reporting"
+      ],
+      "correct_answer": "Conflicts of interest",
+      "explanation": "Conflicts can compromise audit objectivity."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Professional competence requires:",
+      "options": [
+        "Continuous learning",
+        "Ignoring standards",
+        "Avoiding audits",
+        "Reducing skills"
+      ],
+      "correct_answer": "Continuous learning",
+      "explanation": "Auditors must stay current with regulations and technologies."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Audit teams often require expertise in:",
+      "options": [
+        "Security controls",
+        "Office maintenance",
+        "Customer support only",
+        "Sales operations"
+      ],
+      "correct_answer": "Security controls",
+      "explanation": "Technical knowledge improves audit effectiveness."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which quality improves audit reporting?",
+      "options": [
+        "Analytical thinking",
+        "Guesswork",
+        "Assumptions",
+        "Bias"
+      ],
+      "correct_answer": "Analytical thinking",
+      "explanation": "Auditors analyze evidence and draw conclusions."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Team collaboration helps:",
+      "options": [
+        "Improve audit effectiveness",
+        "Reduce evidence",
+        "Eliminate controls",
+        "Avoid reviews"
+      ],
+      "correct_answer": "Improve audit effectiveness",
+      "explanation": "Complex audits often require multiple skill sets."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Independence means auditors should:",
+      "options": [
+        "Be free from undue influence",
+        "Avoid reporting",
+        "Ignore management",
+        "Work without standards"
+      ],
+      "correct_answer": "Be free from undue influence",
+      "explanation": "Independence supports trustworthy audit results."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Professional skepticism involves:",
+      "options": [
+        "Questioning and verifying evidence",
+        "Trusting everything",
+        "Ignoring findings",
+        "Avoiding interviews"
+      ],
+      "correct_answer": "Questioning and verifying evidence",
+      "explanation": "Auditors critically evaluate information."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "An effective internal audit team supports:",
+      "options": [
+        "Governance and risk management",
+        "Office design",
+        "Marketing strategies",
+        "Payroll processing"
+      ],
+      "correct_answer": "Governance and risk management",
+      "explanation": "Audits provide assurance to management."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Auditors should maintain:",
+      "options": [
+        "Ethical conduct",
+        "Personal bias",
+        "Vendor influence",
+        "Financial interest"
+      ],
+      "correct_answer": "Ethical conduct",
+      "explanation": "Ethics are fundamental to the audit profession."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Technical expertise is important because:",
+      "options": [
+        "Auditors evaluate complex systems",
+        "Auditors manage HR",
+        "Auditors handle sales",
+        "Auditors design buildings"
+      ],
+      "correct_answer": "Auditors evaluate complex systems",
+      "explanation": "Modern audits often involve technical environments."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Quality assurance within audit teams ensures:",
+      "options": [
+        "Consistent audit performance",
+        "More findings only",
+        "Fewer reports",
+        "Reduced compliance"
+      ],
+      "correct_answer": "Consistent audit performance",
+      "explanation": "Quality programs improve audit reliability."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of an internal audit team is to:",
+      "options": [
+        "Provide independent assurance and recommendations",
+        "Replace management",
+        "Eliminate risks",
+        "Control operations"
+      ],
+      "correct_answer": "Provide independent assurance and recommendations",
+      "explanation": "Internal audits help improve organizational performance."
+    }
+  ]
+}

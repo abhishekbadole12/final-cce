@@ -1,0 +1,266 @@
+{
+  "topic": "ISO 2700x Standards",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does the ISO 2700x family primarily focus on?",
+      "options": [
+        "Information Security Management",
+        "Quality Management",
+        "Environmental Management",
+        "Project Management"
+      ],
+      "correct_answer": "Information Security Management",
+      "explanation": "ISO 2700x standards provide guidance on managing information security."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "ISO/IEC 27001 specifies requirements for:",
+      "options": [
+        "ISMS",
+        "QMS",
+        "EMS",
+        "BCMS"
+      ],
+      "correct_answer": "ISMS",
+      "explanation": "ISO 27001 defines requirements for an Information Security Management System."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "What does ISMS stand for?",
+      "options": [
+        "Information Security Management System",
+        "Integrated Security Monitoring System",
+        "Internet Security Management Service",
+        "Information System Monitoring Service"
+      ],
+      "correct_answer": "Information Security Management System",
+      "explanation": "ISMS is a framework for managing information security risks."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which organization publishes ISO 27001?",
+      "options": [
+        "ISO and IEC",
+        "NIST",
+        "PCI Council",
+        "EU"
+      ],
+      "correct_answer": "ISO and IEC",
+      "explanation": "ISO and IEC jointly develop and publish ISO 27001."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "The main objective of ISO 27001 is to:",
+      "options": [
+        "Protect information assets",
+        "Increase profits",
+        "Reduce staffing",
+        "Improve marketing"
+      ],
+      "correct_answer": "Protect information assets",
+      "explanation": "The standard helps manage confidentiality, integrity, and availability."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "ISO 27001 follows a:",
+      "options": [
+        "Risk-based approach",
+        "Profit-based approach",
+        "Sales approach",
+        "Marketing approach"
+      ],
+      "correct_answer": "Risk-based approach",
+      "explanation": "Risk management is central to ISO 27001."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which standard provides implementation guidance for controls?",
+      "options": [
+        "ISO/IEC 27002",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 22301"
+      ],
+      "correct_answer": "ISO/IEC 27002",
+      "explanation": "ISO 27002 contains information security control guidance."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "ISO 27001 certification demonstrates:",
+      "options": [
+        "Commitment to information security",
+        "Guaranteed security",
+        "No risk",
+        "Legal immunity"
+      ],
+      "correct_answer": "Commitment to information security",
+      "explanation": "Certification shows that an organization follows an ISMS."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which security objectives are supported by ISO 27001?",
+      "options": [
+        "Confidentiality, Integrity, Availability",
+        "Speed, Cost, Quality",
+        "People, Process, Technology",
+        "Detection, Recovery, Marketing"
+      ],
+      "correct_answer": "Confidentiality, Integrity, Availability",
+      "explanation": "The CIA Triad is fundamental to information security."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "The ISO 2700x family includes standards related to:",
+      "options": [
+        "Information security and privacy",
+        "Financial audits",
+        "Accounting",
+        "Marketing"
+      ],
+      "correct_answer": "Information security and privacy",
+      "explanation": "The family covers multiple security and privacy topics."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Risk assessment is important because it:",
+      "options": [
+        "Identifies security risks",
+        "Eliminates all threats",
+        "Replaces audits",
+        "Removes controls"
+      ],
+      "correct_answer": "Identifies security risks",
+      "explanation": "Organizations assess and treat risks systematically."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "ISO 27001 requires organizations to:",
+      "options": [
+        "Continually improve the ISMS",
+        "Eliminate all incidents",
+        "Avoid documentation",
+        "Reduce controls"
+      ],
+      "correct_answer": "Continually improve the ISMS",
+      "explanation": "Continuous improvement is a key principle."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Annex A of ISO 27001 contains:",
+      "options": [
+        "Security control objectives and controls",
+        "Financial controls",
+        "Audit reports",
+        "Policies only"
+      ],
+      "correct_answer": "Security control objectives and controls",
+      "explanation": "Annex A provides a reference set of security controls."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The purpose of ISO 27001 certification audits is to:",
+      "options": [
+        "Verify compliance with ISMS requirements",
+        "Eliminate risk",
+        "Increase profits",
+        "Replace governance"
+      ],
+      "correct_answer": "Verify compliance with ISMS requirements",
+      "explanation": "Certification audits assess conformity to the standard."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "ISO 27001 supports governance by:",
+      "options": [
+        "Aligning security with business objectives",
+        "Managing payroll",
+        "Increasing sales",
+        "Reducing documentation"
+      ],
+      "correct_answer": "Aligning security with business objectives",
+      "explanation": "The standard integrates security into business operations."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The Statement of Applicability (SoA) is used to:",
+      "options": [
+        "Justify selected security controls",
+        "Track employee attendance",
+        "Manage vendors",
+        "Create invoices"
+      ],
+      "correct_answer": "Justify selected security controls",
+      "explanation": "The SoA documents control applicability decisions."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "ISO 27001 uses which management principle?",
+      "options": [
+        "Plan-Do-Check-Act",
+        "Waterfall",
+        "Agile",
+        "Six Sigma"
+      ],
+      "correct_answer": "Plan-Do-Check-Act",
+      "explanation": "The PDCA cycle supports continual improvement."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Organizations adopt ISO 27001 mainly to:",
+      "options": [
+        "Manage information security risks systematically",
+        "Reduce taxes",
+        "Avoid audits",
+        "Increase bandwidth"
+      ],
+      "correct_answer": "Manage information security risks systematically",
+      "explanation": "The standard provides a structured security framework."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "A key benefit of ISO 27001 is:",
+      "options": [
+        "Improved stakeholder confidence",
+        "Guaranteed compliance",
+        "No security incidents",
+        "Reduced staffing"
+      ],
+      "correct_answer": "Improved stakeholder confidence",
+      "explanation": "Certification demonstrates commitment to security."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of ISO 2700x standards is to:",
+      "options": [
+        "Establish and improve information security management",
+        "Increase revenue",
+        "Replace regulations",
+        "Eliminate all threats"
+      ],
+      "correct_answer": "Establish and improve information security management",
+      "explanation": "The standards help organizations protect information effectively."
+    }
+  ]
+}

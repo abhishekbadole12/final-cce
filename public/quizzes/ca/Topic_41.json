@@ -1,0 +1,266 @@
+{
+  "topic": "CIS Compliance",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is CIS Compliance?",
+      "options": [
+        "Adherence to CIS security recommendations",
+        "Financial reporting compliance",
+        "Tax compliance",
+        "GDPR certification"
+      ],
+      "correct_answer": "Adherence to CIS security recommendations",
+      "explanation": "CIS Compliance means implementing CIS Controls and Benchmarks."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "CIS stands for:",
+      "options": [
+        "Center for Internet Security",
+        "Cyber Information Systems",
+        "Central Information Standards",
+        "Cyber Infrastructure Services"
+      ],
+      "correct_answer": "Center for Internet Security",
+      "explanation": "CIS develops cybersecurity best practices and benchmarks."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "The purpose of CIS Compliance is to:",
+      "options": [
+        "Improve cybersecurity posture",
+        "Increase profits",
+        "Reduce staffing",
+        "Manage payroll"
+      ],
+      "correct_answer": "Improve cybersecurity posture",
+      "explanation": "CIS provides practical guidance to reduce cyber risks."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "CIS Controls are:",
+      "options": [
+        "Prioritized cybersecurity best practices",
+        "Financial controls",
+        "Audit reports",
+        "Legal regulations"
+      ],
+      "correct_answer": "Prioritized cybersecurity best practices",
+      "explanation": "They help organizations defend against common threats."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "CIS Benchmarks provide:",
+      "options": [
+        "Secure configuration guidelines",
+        "Tax regulations",
+        "Privacy policies",
+        "Marketing standards"
+      ],
+      "correct_answer": "Secure configuration guidelines",
+      "explanation": "Benchmarks help harden systems and applications."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "CIS Compliance supports:",
+      "options": [
+        "Risk reduction",
+        "Revenue growth",
+        "Advertising",
+        "Recruitment"
+      ],
+      "correct_answer": "Risk reduction",
+      "explanation": "Implementing CIS guidance reduces security risks."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Organizations use CIS Compliance to:",
+      "options": [
+        "Align security practices with industry standards",
+        "Replace audits",
+        "Eliminate threats",
+        "Avoid policies"
+      ],
+      "correct_answer": "Align security practices with industry standards",
+      "explanation": "CIS offers recognized cybersecurity best practices."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "CIS Controls are designed to be:",
+      "options": [
+        "Practical and prioritized",
+        "Mandatory laws",
+        "Financial requirements",
+        "Vendor contracts"
+      ],
+      "correct_answer": "Practical and prioritized",
+      "explanation": "The controls focus on the most effective security actions."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "Which activity supports CIS Compliance?",
+      "options": [
+        "Implementing secure configurations",
+        "Ignoring vulnerabilities",
+        "Reducing monitoring",
+        "Avoiding training"
+      ],
+      "correct_answer": "Implementing secure configurations",
+      "explanation": "Secure configurations are a key CIS recommendation."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Regular vulnerability management helps achieve:",
+      "options": [
+        "CIS Compliance",
+        "Marketing goals",
+        "Tax compliance",
+        "Payroll accuracy"
+      ],
+      "correct_answer": "CIS Compliance",
+      "explanation": "Vulnerability management is included in CIS Controls."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "CIS Compliance often involves:",
+      "options": [
+        "Continuous monitoring",
+        "One-time assessment",
+        "No documentation",
+        "No reviews"
+      ],
+      "correct_answer": "Continuous monitoring",
+      "explanation": "Security posture should be reviewed regularly."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Security awareness training contributes to:",
+      "options": [
+        "CIS Compliance",
+        "Product sales",
+        "Advertising",
+        "Accounting"
+      ],
+      "correct_answer": "CIS Compliance",
+      "explanation": "Human-focused controls are part of CIS guidance."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "CIS Benchmarks are commonly applied to:",
+      "options": [
+        "Operating systems and applications",
+        "Financial statements",
+        "Business plans",
+        "Payroll systems"
+      ],
+      "correct_answer": "Operating systems and applications",
+      "explanation": "Benchmarks provide secure configuration recommendations."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "A major benefit of CIS Compliance is:",
+      "options": [
+        "Reduced attack surface",
+        "Guaranteed security",
+        "No audits",
+        "No incidents"
+      ],
+      "correct_answer": "Reduced attack surface",
+      "explanation": "Implementing controls limits opportunities for attackers."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "CIS Compliance supports risk management by:",
+      "options": [
+        "Addressing common cyber threats",
+        "Eliminating all risks",
+        "Replacing governance",
+        "Reducing controls"
+      ],
+      "correct_answer": "Addressing common cyber threats",
+      "explanation": "The controls focus on widely exploited attack vectors."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Organizations measure CIS Compliance through:",
+      "options": [
+        "Assessments and control reviews",
+        "Revenue reports",
+        "Marketing analysis",
+        "Employee surveys"
+      ],
+      "correct_answer": "Assessments and control reviews",
+      "explanation": "Reviews verify implementation effectiveness."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "CIS Controls complement frameworks such as:",
+      "options": [
+        "NIST and ISO 27001",
+        "Payroll standards",
+        "Accounting rules",
+        "Marketing frameworks"
+      ],
+      "correct_answer": "NIST and ISO 27001",
+      "explanation": "CIS can be mapped to other security frameworks."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Management support is important because:",
+      "options": [
+        "Compliance requires resources and oversight",
+        "It replaces controls",
+        "It removes audits",
+        "It reduces risk automatically"
+      ],
+      "correct_answer": "Compliance requires resources and oversight",
+      "explanation": "Leadership commitment is essential."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Continuous improvement in CIS Compliance means:",
+      "options": [
+        "Regularly reviewing and enhancing controls",
+        "Keeping controls unchanged",
+        "Reducing monitoring",
+        "Ignoring findings"
+      ],
+      "correct_answer": "Regularly reviewing and enhancing controls",
+      "explanation": "Security programs must evolve with threats."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of CIS Compliance is:",
+      "options": [
+        "Implement effective security practices to reduce cyber risk",
+        "Increase profits",
+        "Replace regulations",
+        "Eliminate governance"
+      ],
+      "correct_answer": "Implement effective security practices to reduce cyber risk",
+      "explanation": "CIS Compliance strengthens overall cybersecurity."
+    }
+  ]
+}

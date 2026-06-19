@@ -1,0 +1,266 @@
+{
+  "topic": "History of PCI-DSS",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "Why was PCI DSS developed?",
+      "options": [
+        "To protect payment card data",
+        "To improve marketing",
+        "To reduce taxes",
+        "To manage payroll"
+      ],
+      "correct_answer": "To protect payment card data",
+      "explanation": "PCI DSS was created to reduce card fraud and secure cardholder information."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "PCI DSS was introduced in:",
+      "options": [
+        "2004",
+        "1996",
+        "2001",
+        "2010"
+      ],
+      "correct_answer": "2004",
+      "explanation": "PCI DSS was first released in 2004."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "PCI DSS was created by:",
+      "options": [
+        "Major payment card brands",
+        "ISO",
+        "NIST",
+        "AICPA"
+      ],
+      "correct_answer": "Major payment card brands",
+      "explanation": "Visa, Mastercard, American Express, Discover, and JCB collaborated to create PCI DSS."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which organization now manages PCI DSS?",
+      "options": [
+        "PCI Security Standards Council",
+        "ISO",
+        "ISACA",
+        "NIST"
+      ],
+      "correct_answer": "PCI Security Standards Council",
+      "explanation": "PCI SSC maintains and updates PCI DSS."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "PCI SSC was formed in:",
+      "options": [
+        "2006",
+        "2004",
+        "2001",
+        "2013"
+      ],
+      "correct_answer": "2006",
+      "explanation": "The PCI Security Standards Council was established in 2006."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "The purpose of PCI DSS history is to show:",
+      "options": [
+        "Evolution of payment card security",
+        "Growth of banking",
+        "Tax regulations",
+        "Healthcare security"
+      ],
+      "correct_answer": "Evolution of payment card security",
+      "explanation": "PCI DSS evolved to address emerging threats."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Before PCI DSS, card brands had:",
+      "options": [
+        "Separate security programs",
+        "Unified standards",
+        "Government regulations",
+        "No security controls"
+      ],
+      "correct_answer": "Separate security programs",
+      "explanation": "Each card brand maintained its own security requirements."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "PCI DSS unified:",
+      "options": [
+        "Multiple card brand security standards",
+        "Healthcare regulations",
+        "Financial audits",
+        "Tax requirements"
+      ],
+      "correct_answer": "Multiple card brand security standards",
+      "explanation": "A common standard simplified compliance."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "A major reason for PCI DSS development was:",
+      "options": [
+        "Increasing payment card fraud",
+        "Network outages",
+        "Tax fraud",
+        "Software piracy"
+      ],
+      "correct_answer": "Increasing payment card fraud",
+      "explanation": "The standard was created to address card data breaches."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "PCI DSS versions are updated to:",
+      "options": [
+        "Address new security threats",
+        "Reduce compliance",
+        "Remove controls",
+        "Avoid audits"
+      ],
+      "correct_answer": "Address new security threats",
+      "explanation": "The standard evolves as risks change."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "PCI DSS adoption improved:",
+      "options": [
+        "Consistency of security requirements",
+        "Tax reporting",
+        "Healthcare privacy",
+        "Marketing"
+      ],
+      "correct_answer": "Consistency of security requirements",
+      "explanation": "Organizations follow a common set of controls."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "PCI DSS applies globally because:",
+      "options": [
+        "Payment card transactions occur worldwide",
+        "It is a law",
+        "Only U.S. companies use cards",
+        "Only banks process cards"
+      ],
+      "correct_answer": "Payment card transactions occur worldwide",
+      "explanation": "The standard is used internationally."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "The PCI SSC also publishes:",
+      "options": [
+        "Supporting guidance and standards",
+        "Tax regulations",
+        "Financial statements",
+        "Insurance policies"
+      ],
+      "correct_answer": "Supporting guidance and standards",
+      "explanation": "The council provides additional resources and guidance."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The creation of PCI DSS helped organizations by:",
+      "options": [
+        "Providing a unified security framework",
+        "Reducing all risks",
+        "Eliminating audits",
+        "Replacing laws"
+      ],
+      "correct_answer": "Providing a unified security framework",
+      "explanation": "A common framework simplified card security compliance."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "PCI DSS history demonstrates the importance of:",
+      "options": [
+        "Continuous security improvement",
+        "Reducing controls",
+        "Avoiding compliance",
+        "Ignoring threats"
+      ],
+      "correct_answer": "Continuous security improvement",
+      "explanation": "The standard evolves in response to new risks."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The role of PCI SSC is to:",
+      "options": [
+        "Maintain and improve PCI standards",
+        "Conduct financial audits",
+        "Issue tax regulations",
+        "Manage payment networks"
+      ],
+      "correct_answer": "Maintain and improve PCI standards",
+      "explanation": "PCI SSC updates standards and guidance."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "A significant benefit of PCI DSS standardization is:",
+      "options": [
+        "Consistent protection of cardholder data",
+        "Guaranteed compliance",
+        "Elimination of breaches",
+        "Reduced governance"
+      ],
+      "correct_answer": "Consistent protection of cardholder data",
+      "explanation": "Organizations follow common security requirements."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "The evolution of PCI DSS reflects:",
+      "options": [
+        "Changes in technology and threat landscapes",
+        "Reduced card usage",
+        "Healthcare regulations",
+        "Tax reforms"
+      ],
+      "correct_answer": "Changes in technology and threat landscapes",
+      "explanation": "New threats require updated controls."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Organizations benefit from PCI DSS because it:",
+      "options": [
+        "Provides recognized security requirements",
+        "Eliminates audits",
+        "Guarantees security",
+        "Replaces governance"
+      ],
+      "correct_answer": "Provides recognized security requirements",
+      "explanation": "PCI DSS is widely accepted as a payment security standard."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate significance of PCI DSS history is:",
+      "options": [
+        "The development of a global standard for protecting payment card data",
+        "The elimination of fraud",
+        "The creation of payment cards",
+        "The replacement of banking regulations"
+      ],
+      "correct_answer": "The development of a global standard for protecting payment card data",
+      "explanation": "PCI DSS established a consistent approach to payment card security."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "topic": "Cyber Security Challenges for Organizations",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is a major cybersecurity challenge for organizations?",
+      "options": [
+        "Strong passwords",
+        "Cyber attacks",
+        "Office maintenance",
+        "Printer setup"
+      ],
+      "correct_answer": "Cyber attacks",
+      "explanation": "Organizations face various cyber threats that can compromise systems and data."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which attack commonly targets employees through emails?",
+      "options": [
+        "DDoS",
+        "Phishing",
+        "Port scanning",
+        "Backup attack"
+      ],
+      "correct_answer": "Phishing",
+      "explanation": "Phishing uses deceptive emails to trick users into revealing information."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Ransomware primarily aims to:",
+      "options": [
+        "Improve performance",
+        "Encrypt data for ransom",
+        "Monitor traffic",
+        "Manage users"
+      ],
+      "correct_answer": "Encrypt data for ransom",
+      "explanation": "Ransomware locks data and demands payment."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Weak passwords increase the risk of:",
+      "options": [
+        "Unauthorized access",
+        "Faster internet",
+        "Better security",
+        "Data backup"
+      ],
+      "correct_answer": "Unauthorized access",
+      "explanation": "Weak credentials are easier to crack."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Cybersecurity challenges affect:",
+      "options": [
+        "Only IT teams",
+        "Entire organizations",
+        "Only managers",
+        "Only vendors"
+      ],
+      "correct_answer": "Entire organizations",
+      "explanation": "Cyber incidents impact all business functions."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Malware is:",
+      "options": [
+        "A security policy",
+        "Malicious software",
+        "A firewall",
+        "An audit report"
+      ],
+      "correct_answer": "Malicious software",
+      "explanation": "Malware includes viruses, worms, trojans, and ransomware."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "What makes insider threats difficult to detect?",
+      "options": [
+        "Trusted access",
+        "External origin",
+        "Public visibility",
+        "Low privileges"
+      ],
+      "correct_answer": "Trusted access",
+      "explanation": "Insiders already have legitimate access to systems."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Cloud adoption introduces challenges related to:",
+      "options": [
+        "Shared responsibility",
+        "Paper records",
+        "Furniture costs",
+        "Office space"
+      ],
+      "correct_answer": "Shared responsibility",
+      "explanation": "Cloud security requires both provider and customer responsibilities."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "A DDoS attack targets:",
+      "options": [
+        "Data encryption",
+        "Service availability",
+        "Password storage",
+        "Compliance reports"
+      ],
+      "correct_answer": "Service availability",
+      "explanation": "Distributed attacks overwhelm services and make them unavailable."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Why are third-party vendors a security concern?",
+      "options": [
+        "They increase productivity",
+        "They may introduce supply-chain risks",
+        "They reduce costs",
+        "They eliminate audits"
+      ],
+      "correct_answer": "They may introduce supply-chain risks",
+      "explanation": "Vendors can become entry points for attackers."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Shadow IT refers to:",
+      "options": [
+        "Hidden malware",
+        "Unauthorized technology use",
+        "Dark web access",
+        "Night shifts"
+      ],
+      "correct_answer": "Unauthorized technology use",
+      "explanation": "Employees may use unapproved applications or devices."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which challenge grows with remote work?",
+      "options": [
+        "Endpoint security",
+        "Paper storage",
+        "Parking management",
+        "Office cleaning"
+      ],
+      "correct_answer": "Endpoint security",
+      "explanation": "Remote devices increase the attack surface."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Data breaches can result in:",
+      "options": [
+        "Regulatory penalties",
+        "Lower risks",
+        "Fewer audits",
+        "Improved compliance"
+      ],
+      "correct_answer": "Regulatory penalties",
+      "explanation": "Breaches often lead to legal and financial consequences."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Why is cybersecurity considered a business risk?",
+      "options": [
+        "It affects operations and reputation",
+        "It only affects hardware",
+        "It only affects IT budgets",
+        "It affects printers"
+      ],
+      "correct_answer": "It affects operations and reputation",
+      "explanation": "Cyber incidents impact finances, trust, and continuity."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The attack surface of an organization refers to:",
+      "options": [
+        "Physical building size",
+        "All potential entry points for attackers",
+        "Number of employees",
+        "Server room temperature"
+      ],
+      "correct_answer": "All potential entry points for attackers",
+      "explanation": "More systems and users create more opportunities for attacks."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Advanced Persistent Threats (APTs) are characterized by:",
+      "options": [
+        "Short-term attacks",
+        "Long-term targeted attacks",
+        "Physical theft",
+        "Accidental failures"
+      ],
+      "correct_answer": "Long-term targeted attacks",
+      "explanation": "APTs are sophisticated and persistent campaigns."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Why is cybersecurity talent shortage a challenge?",
+      "options": [
+        "Lack of skilled professionals",
+        "Too many auditors",
+        "Excess automation",
+        "Too much compliance"
+      ],
+      "correct_answer": "Lack of skilled professionals",
+      "explanation": "Organizations struggle to hire qualified security experts."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "What is a supply-chain attack?",
+      "options": [
+        "Attack through trusted partners or software",
+        "Attack on logistics trucks",
+        "Attack on warehouses",
+        "Attack on payroll"
+      ],
+      "correct_answer": "Attack through trusted partners or software",
+      "explanation": "Attackers compromise suppliers to reach targets."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Which factor increases cybersecurity complexity?",
+      "options": [
+        "Digital transformation",
+        "Fewer systems",
+        "Manual records only",
+        "No internet"
+      ],
+      "correct_answer": "Digital transformation",
+      "explanation": "New technologies expand risks and management challenges."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The best approach to cybersecurity challenges is:",
+      "options": [
+        "Risk-based security strategy",
+        "Ignoring threats",
+        "Single security tool",
+        "No monitoring"
+      ],
+      "correct_answer": "Risk-based security strategy",
+      "explanation": "Organizations should prioritize controls based on risk."
+    }
+  ]
+}

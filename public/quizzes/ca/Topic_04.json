@@ -1,0 +1,266 @@
+{
+  "topic": "Types of Security Audit",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is a security audit?",
+      "options": [
+        "A review of security controls",
+        "A software update",
+        "A firewall",
+        "A backup"
+      ],
+      "correct_answer": "A review of security controls",
+      "explanation": "Security audits assess whether controls are effective and compliant."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which audit is performed by an organization's own staff?",
+      "options": [
+        "Internal Audit",
+        "External Audit",
+        "Regulatory Audit",
+        "Vendor Audit"
+      ],
+      "correct_answer": "Internal Audit",
+      "explanation": "Internal audits are conducted by employees or internal audit teams."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "An external audit is usually conducted by:",
+      "options": [
+        "Independent auditors",
+        "Employees",
+        "Customers",
+        "Developers"
+      ],
+      "correct_answer": "Independent auditors",
+      "explanation": "External audits are performed by third-party auditors."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "The purpose of a security audit is to:",
+      "options": [
+        "Evaluate security posture",
+        "Increase internet speed",
+        "Install software",
+        "Replace employees"
+      ],
+      "correct_answer": "Evaluate security posture",
+      "explanation": "Audits identify weaknesses and verify compliance."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which audit focuses on regulatory requirements?",
+      "options": [
+        "Compliance Audit",
+        "Financial Audit",
+        "Marketing Audit",
+        "Sales Audit"
+      ],
+      "correct_answer": "Compliance Audit",
+      "explanation": "Compliance audits verify adherence to regulations and standards."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "A vendor audit evaluates:",
+      "options": [
+        "Third-party security practices",
+        "Office equipment",
+        "Payroll",
+        "Marketing plans"
+      ],
+      "correct_answer": "Third-party security practices",
+      "explanation": "Vendor audits assess risks from suppliers and partners."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Which audit type verifies adherence to ISO 27001?",
+      "options": [
+        "Compliance Audit",
+        "Operational Audit",
+        "Financial Audit",
+        "Quality Audit"
+      ],
+      "correct_answer": "Compliance Audit",
+      "explanation": "ISO 27001 audits check conformity to the standard."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "Internal audits help organizations:",
+      "options": [
+        "Identify gaps before external reviews",
+        "Avoid documentation",
+        "Remove controls",
+        "Ignore regulations"
+      ],
+      "correct_answer": "Identify gaps before external reviews",
+      "explanation": "Internal audits improve readiness and compliance."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "A regulatory audit may be conducted by:",
+      "options": [
+        "Government or regulatory bodies",
+        "Customers",
+        "Developers",
+        "Suppliers"
+      ],
+      "correct_answer": "Government or regulatory bodies",
+      "explanation": "Regulators verify compliance with applicable laws."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Operational audits primarily evaluate:",
+      "options": [
+        "Process effectiveness",
+        "Office design",
+        "Network speed only",
+        "Marketing campaigns"
+      ],
+      "correct_answer": "Process effectiveness",
+      "explanation": "Operational audits focus on efficiency and effectiveness."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Which audit commonly reviews third-party risks?",
+      "options": [
+        "Vendor Audit",
+        "Financial Audit",
+        "Tax Audit",
+        "Performance Audit"
+      ],
+      "correct_answer": "Vendor Audit",
+      "explanation": "Vendor audits assess supplier security and compliance."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Audit findings are typically documented in:",
+      "options": [
+        "Audit Reports",
+        "Advertisements",
+        "Contracts",
+        "Invoices"
+      ],
+      "correct_answer": "Audit Reports",
+      "explanation": "Reports summarize observations, risks, and recommendations."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "A security audit may include:",
+      "options": [
+        "Policy review",
+        "Control testing",
+        "Interviews",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "Audits use multiple techniques to gather evidence."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Risk-based auditing focuses on:",
+      "options": [
+        "Areas with highest risk",
+        "Random selection only",
+        "Low-value assets",
+        "Office facilities"
+      ],
+      "correct_answer": "Areas with highest risk",
+      "explanation": "Resources are prioritized toward significant risks."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Which audit provides the greatest independence?",
+      "options": [
+        "External Audit",
+        "Internal Audit",
+        "Peer Review",
+        "Self Assessment"
+      ],
+      "correct_answer": "External Audit",
+      "explanation": "Independent auditors provide objective assessments."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "A gap identified during an audit indicates:",
+      "options": [
+        "A weakness or non-compliance",
+        "Successful compliance",
+        "No risk",
+        "Completed remediation"
+      ],
+      "correct_answer": "A weakness or non-compliance",
+      "explanation": "Gaps require corrective action."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Continuous auditing helps organizations:",
+      "options": [
+        "Monitor compliance regularly",
+        "Eliminate controls",
+        "Avoid governance",
+        "Replace audits"
+      ],
+      "correct_answer": "Monitor compliance regularly",
+      "explanation": "Continuous assessment improves visibility."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "An audit scope defines:",
+      "options": [
+        "What will be examined",
+        "The audit budget only",
+        "Employee salaries",
+        "Network speed"
+      ],
+      "correct_answer": "What will be examined",
+      "explanation": "Scope establishes audit boundaries."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Evidence collected during audits should be:",
+      "options": [
+        "Relevant and reliable",
+        "Verbal only",
+        "Temporary",
+        "Unverified"
+      ],
+      "correct_answer": "Relevant and reliable",
+      "explanation": "Quality evidence supports audit conclusions."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate objective of security audits is:",
+      "options": [
+        "Improve security and compliance",
+        "Increase hardware costs",
+        "Reduce documentation",
+        "Eliminate policies"
+      ],
+      "correct_answer": "Improve security and compliance",
+      "explanation": "Audits drive better governance, risk management, and control effectiveness."
+    }
+  ]
+}

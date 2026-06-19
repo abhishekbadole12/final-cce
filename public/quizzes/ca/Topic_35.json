@@ -1,0 +1,266 @@
+{
+  "topic": "HIPAA Titles",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "How many titles are there in HIPAA?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "10"
+      ],
+      "correct_answer": "5",
+      "explanation": "HIPAA is divided into five titles covering different healthcare-related areas."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which HIPAA title focuses on health insurance portability?",
+      "options": [
+        "Title I",
+        "Title II",
+        "Title III",
+        "Title IV"
+      ],
+      "correct_answer": "Title I",
+      "explanation": "Title I protects health insurance coverage for workers and families."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Which HIPAA title is most associated with privacy and security?",
+      "options": [
+        "Title II",
+        "Title I",
+        "Title IV",
+        "Title V"
+      ],
+      "correct_answer": "Title II",
+      "explanation": "Title II includes the Administrative Simplification provisions."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Title II introduced:",
+      "options": [
+        "Administrative Simplification",
+        "Tax regulations",
+        "Insurance portability",
+        "Revenue controls"
+      ],
+      "correct_answer": "Administrative Simplification",
+      "explanation": "This title established standards for healthcare transactions and privacy."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "Which title addresses tax-related healthcare provisions?",
+      "options": [
+        "Title III",
+        "Title II",
+        "Title I",
+        "Title IV"
+      ],
+      "correct_answer": "Title III",
+      "explanation": "Title III includes tax-related healthcare provisions."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Title IV deals with:",
+      "options": [
+        "Group health plan requirements",
+        "Privacy rules",
+        "Tax compliance",
+        "Liability provisions"
+      ],
+      "correct_answer": "Title IV",
+      "explanation": "Title IV contains provisions related to health insurance reforms."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "Title V primarily addresses:",
+      "options": [
+        "Revenue offsets and tax provisions",
+        "Privacy requirements",
+        "Security safeguards",
+        "Insurance portability"
+      ],
+      "correct_answer": "Revenue offsets and tax provisions",
+      "explanation": "Title V includes tax-related and miscellaneous provisions."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "HIPAA Privacy Rule was established under:",
+      "options": [
+        "Title II",
+        "Title I",
+        "Title III",
+        "Title V"
+      ],
+      "correct_answer": "Title II",
+      "explanation": "The Privacy Rule is part of Administrative Simplification."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "HIPAA Security Rule is associated with:",
+      "options": [
+        "Title II",
+        "Title I",
+        "Title III",
+        "Title IV"
+      ],
+      "correct_answer": "Title II",
+      "explanation": "The Security Rule protects electronic health information."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Administrative Simplification aimed to:",
+      "options": [
+        "Improve efficiency of healthcare data exchange",
+        "Increase taxes",
+        "Reduce insurance coverage",
+        "Manage payroll"
+      ],
+      "correct_answer": "Improve efficiency of healthcare data exchange",
+      "explanation": "It standardized healthcare transactions and data handling."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Title I helps individuals by:",
+      "options": [
+        "Protecting health insurance coverage during job changes",
+        "Protecting tax benefits",
+        "Managing PHI",
+        "Improving audits"
+      ],
+      "correct_answer": "Protecting health insurance coverage during job changes",
+      "explanation": "Title I focuses on insurance portability."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which HIPAA title is most relevant to compliance auditors?",
+      "options": [
+        "Title II",
+        "Title III",
+        "Title IV",
+        "Title V"
+      ],
+      "correct_answer": "Title II",
+      "explanation": "Most privacy and security requirements originate from Title II."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "HIPAA Titles collectively address:",
+      "options": [
+        "Healthcare administration, insurance, privacy, and taxation",
+        "Only privacy",
+        "Only security",
+        "Only insurance"
+      ],
+      "correct_answer": "Healthcare administration, insurance, privacy, and taxation",
+      "explanation": "The five titles cover multiple healthcare-related areas."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Title II significantly impacted healthcare organizations by:",
+      "options": [
+        "Introducing privacy and security requirements",
+        "Reducing insurance costs",
+        "Changing tax rates",
+        "Eliminating audits"
+      ],
+      "correct_answer": "Introducing privacy and security requirements",
+      "explanation": "Most compliance obligations stem from Title II."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The Privacy Rule protects:",
+      "options": [
+        "Protected Health Information (PHI)",
+        "Financial records",
+        "Tax documents",
+        "Source code"
+      ],
+      "correct_answer": "Protected Health Information (PHI)",
+      "explanation": "The Privacy Rule governs use and disclosure of PHI."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "The Security Rule protects:",
+      "options": [
+        "Electronic Protected Health Information (ePHI)",
+        "Paper files only",
+        "Financial records",
+        "Insurance policies"
+      ],
+      "correct_answer": "Electronic Protected Health Information (ePHI)",
+      "explanation": "The Security Rule focuses on electronic health data."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "HIPAA Titles demonstrate that HIPAA is:",
+      "options": [
+        "A broad healthcare law",
+        "Only a privacy regulation",
+        "Only a security standard",
+        "Only an insurance law"
+      ],
+      "correct_answer": "A broad healthcare law",
+      "explanation": "HIPAA addresses multiple healthcare-related issues."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Title II is considered the most important for cybersecurity because it:",
+      "options": [
+        "Contains privacy and security provisions",
+        "Defines insurance plans",
+        "Creates tax rules",
+        "Regulates benefits"
+      ],
+      "correct_answer": "Contains privacy and security provisions",
+      "explanation": "Security professionals focus heavily on Title II requirements."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "Organizations handling PHI must primarily comply with provisions from:",
+      "options": [
+        "Title II",
+        "Title III",
+        "Title IV",
+        "Title V"
+      ],
+      "correct_answer": "Title II",
+      "explanation": "Privacy and security compliance comes from Title II."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of HIPAA Titles is to:",
+      "options": [
+        "Address healthcare insurance, administration, privacy, security, and related requirements",
+        "Increase healthcare profits",
+        "Reduce audits",
+        "Replace regulations"
+      ],
+      "correct_answer": "Address healthcare insurance, administration, privacy, security, and related requirements",
+      "explanation": "The titles collectively form the structure of HIPAA."
+    }
+  ]
+}

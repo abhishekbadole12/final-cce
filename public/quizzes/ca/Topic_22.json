@@ -1,0 +1,266 @@
+{
+  "topic": "How ISO Standards Work",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What is the purpose of ISO standards?",
+      "options": [
+        "Provide internationally recognized requirements and guidance",
+        "Increase profits",
+        "Reduce audits",
+        "Replace laws"
+      ],
+      "correct_answer": "Provide internationally recognized requirements and guidance",
+      "explanation": "ISO standards establish best practices and common requirements."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "ISO standards are developed by:",
+      "options": [
+        "International Organization for Standardization",
+        "NIST",
+        "EU Parliament",
+        "PCI Council"
+      ],
+      "correct_answer": "International Organization for Standardization",
+      "explanation": "ISO develops international standards across many domains."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "Organizations implement ISO standards to:",
+      "options": [
+        "Improve processes and compliance",
+        "Increase taxes",
+        "Reduce documentation",
+        "Avoid governance"
+      ],
+      "correct_answer": "Improve processes and compliance",
+      "explanation": "Standards help organizations achieve consistent outcomes."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "ISO 27001 is based on:",
+      "options": [
+        "Risk management",
+        "Marketing",
+        "Sales",
+        "Accounting"
+      ],
+      "correct_answer": "Risk management",
+      "explanation": "Organizations identify, assess, and treat information security risks."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "A management system standard provides:",
+      "options": [
+        "A framework for managing processes",
+        "A firewall",
+        "A software application",
+        "A legal contract"
+      ],
+      "correct_answer": "A framework for managing processes",
+      "explanation": "Management system standards define structured approaches."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "ISO standards encourage:",
+      "options": [
+        "Continual improvement",
+        "One-time reviews",
+        "No documentation",
+        "Minimal controls"
+      ],
+      "correct_answer": "Continual improvement",
+      "explanation": "Organizations should regularly improve their management systems."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "The PDCA cycle stands for:",
+      "options": [
+        "Plan-Do-Check-Act",
+        "Prepare-Develop-Control-Assess",
+        "Plan-Design-Control-Audit",
+        "Protect-Detect-Check-Act"
+      ],
+      "correct_answer": "Plan-Do-Check-Act",
+      "explanation": "PDCA is a continuous improvement model used in ISO standards."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "In the PDCA cycle, the 'Plan' phase involves:",
+      "options": [
+        "Setting objectives and processes",
+        "Implementing controls",
+        "Monitoring performance",
+        "Taking corrective action"
+      ],
+      "correct_answer": "Setting objectives and processes",
+      "explanation": "Planning defines what needs to be achieved."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "The 'Do' phase involves:",
+      "options": [
+        "Implementing planned activities",
+        "Reviewing results",
+        "Corrective actions",
+        "Auditing"
+      ],
+      "correct_answer": "Implementing planned activities",
+      "explanation": "The organization executes the planned processes."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "The 'Check' phase focuses on:",
+      "options": [
+        "Monitoring and evaluating performance",
+        "Implementing controls",
+        "Defining scope",
+        "Risk treatment"
+      ],
+      "correct_answer": "Monitoring and evaluating performance",
+      "explanation": "Performance is measured against objectives."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "The 'Act' phase involves:",
+      "options": [
+        "Improving processes based on results",
+        "Creating objectives",
+        "Collecting evidence only",
+        "Avoiding audits"
+      ],
+      "correct_answer": "Improving processes based on results",
+      "explanation": "Corrective actions and improvements are implemented."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "ISO standards require organizations to maintain:",
+      "options": [
+        "Documented information",
+        "Marketing reports",
+        "Source code",
+        "Sales data"
+      ],
+      "correct_answer": "Documented information",
+      "explanation": "Documentation supports consistency and evidence of compliance."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Internal audits are conducted to:",
+      "options": [
+        "Verify compliance and effectiveness",
+        "Increase profits",
+        "Reduce staffing",
+        "Eliminate controls"
+      ],
+      "correct_answer": "Verify compliance and effectiveness",
+      "explanation": "Audits help assess the management system."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "Management review is important because it:",
+      "options": [
+        "Evaluates performance and improvement opportunities",
+        "Replaces audits",
+        "Reduces documentation",
+        "Avoids compliance"
+      ],
+      "correct_answer": "Evaluates performance and improvement opportunities",
+      "explanation": "Leadership reviews the effectiveness of the management system."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "Risk-based thinking in ISO standards helps organizations:",
+      "options": [
+        "Address uncertainties proactively",
+        "Avoid planning",
+        "Reduce evidence",
+        "Ignore threats"
+      ],
+      "correct_answer": "Address uncertainties proactively",
+      "explanation": "Organizations identify and manage risks systematically."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Corrective actions are implemented when:",
+      "options": [
+        "Nonconformities are identified",
+        "Audits are canceled",
+        "Policies are removed",
+        "Controls are avoided"
+      ],
+      "correct_answer": "Nonconformities are identified",
+      "explanation": "Corrective actions address root causes."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "Certification audits are performed by:",
+      "options": [
+        "Accredited certification bodies",
+        "Internal staff only",
+        "Customers",
+        "Vendors"
+      ],
+      "correct_answer": "Accredited certification bodies",
+      "explanation": "Independent auditors assess conformity to the standard."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "The success of ISO implementation depends on:",
+      "options": [
+        "Leadership commitment and continual improvement",
+        "Office size",
+        "Marketing budget",
+        "Number of employees"
+      ],
+      "correct_answer": "Leadership commitment and continual improvement",
+      "explanation": "Management support is critical."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "ISO standards work by:",
+      "options": [
+        "Providing requirements, implementation, measurement, and improvement mechanisms",
+        "Guaranteeing compliance",
+        "Eliminating risk",
+        "Replacing regulations"
+      ],
+      "correct_answer": "Providing requirements, implementation, measurement, and improvement mechanisms",
+      "explanation": "Standards define a cycle of management and improvement."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate goal of ISO standards is to:",
+      "options": [
+        "Achieve consistent and continually improving organizational performance",
+        "Increase profits only",
+        "Reduce staffing",
+        "Eliminate audits"
+      ],
+      "correct_answer": "Achieve consistent and continually improving organizational performance",
+      "explanation": "ISO standards promote effective management practices."
+    }
+  ]
+}

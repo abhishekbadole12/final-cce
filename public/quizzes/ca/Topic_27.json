@@ -1,0 +1,266 @@
+{
+  "topic": "SOC Reports",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does SOC stand for in SOC reports?",
+      "options": [
+        "System and Organization Controls",
+        "Security Operations Center",
+        "Service Organization Certification",
+        "System Operations Compliance"
+      ],
+      "correct_answer": "System and Organization Controls",
+      "explanation": "SOC reports provide assurance regarding controls at service organizations."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "Which organization develops SOC reporting standards?",
+      "options": [
+        "AICPA",
+        "ISO",
+        "NIST",
+        "PCI Council"
+      ],
+      "correct_answer": "AICPA",
+      "explanation": "The American Institute of Certified Public Accountants defines SOC reporting standards."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "SOC 1 reports focus on:",
+      "options": [
+        "Controls affecting financial reporting",
+        "Cybersecurity only",
+        "Privacy only",
+        "Physical security only"
+      ],
+      "correct_answer": "Controls affecting financial reporting",
+      "explanation": "SOC 1 is relevant for financial reporting processes."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "SOC 2 reports evaluate:",
+      "options": [
+        "Trust Services Criteria",
+        "Financial statements",
+        "Tax compliance",
+        "Payroll systems"
+      ],
+      "correct_answer": "Trust Services Criteria",
+      "explanation": "SOC 2 assesses controls related to security and other trust principles."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "SOC 3 reports are:",
+      "options": [
+        "General-use reports",
+        "Restricted reports",
+        "Internal documents",
+        "Audit plans"
+      ],
+      "correct_answer": "General-use reports",
+      "explanation": "SOC 3 reports are intended for public distribution."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "Which SOC report is most relevant for cloud providers?",
+      "options": [
+        "SOC 2",
+        "SOC 1",
+        "SOC 3 only",
+        "SOX Report"
+      ],
+      "correct_answer": "SOC 2",
+      "explanation": "Cloud and SaaS providers commonly use SOC 2 reports."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "SOC 2 is based on which Trust Services Criteria?",
+      "options": [
+        "Security, Availability, Processing Integrity, Confidentiality, Privacy",
+        "CIA only",
+        "SOX Controls",
+        "ISO Clauses"
+      ],
+      "correct_answer": "Security, Availability, Processing Integrity, Confidentiality, Privacy",
+      "explanation": "These are the five Trust Services Criteria."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "A SOC 1 Type II report evaluates:",
+      "options": [
+        "Control design and operating effectiveness over time",
+        "Control design only",
+        "Financial audits",
+        "Tax controls"
+      ],
+      "correct_answer": "Control design and operating effectiveness over time",
+      "explanation": "Type II includes effectiveness over a review period."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "SOC 2 Type I evaluates:",
+      "options": [
+        "Control design at a point in time",
+        "Control operation over time",
+        "Financial reporting",
+        "Privacy incidents"
+      ],
+      "correct_answer": "Control design at a point in time",
+      "explanation": "Type I assesses design, not long-term operation."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "Which criterion focuses on protecting information from unauthorized access?",
+      "options": [
+        "Security",
+        "Availability",
+        "Privacy",
+        "Processing Integrity"
+      ],
+      "correct_answer": "Security",
+      "explanation": "Security is the foundation of SOC 2 assessments."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Availability refers to:",
+      "options": [
+        "System accessibility when needed",
+        "Data encryption",
+        "Privacy protection",
+        "Financial reporting"
+      ],
+      "correct_answer": "System accessibility when needed",
+      "explanation": "Availability ensures systems are operational and accessible."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Confidentiality focuses on:",
+      "options": [
+        "Protecting sensitive information",
+        "System uptime",
+        "Financial accuracy",
+        "Vendor contracts"
+      ],
+      "correct_answer": "Protecting sensitive information",
+      "explanation": "Confidential information must be safeguarded."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "Privacy in SOC 2 relates to:",
+      "options": [
+        "Collection and handling of personal information",
+        "Server uptime",
+        "Network speed",
+        "Accounting"
+      ],
+      "correct_answer": "Collection and handling of personal information",
+      "explanation": "Privacy covers personal data management practices."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "SOC reports provide assurance to:",
+      "options": [
+        "Customers, partners, and stakeholders",
+        "Employees only",
+        "Regulators only",
+        "Auditors only"
+      ],
+      "correct_answer": "Customers, partners, and stakeholders",
+      "explanation": "SOC reports build trust in service organizations."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "The main difference between SOC 2 and SOC 3 is:",
+      "options": [
+        "SOC 3 is for public distribution; SOC 2 is detailed and restricted",
+        "SOC 3 is more detailed",
+        "SOC 2 is public",
+        "There is no difference"
+      ],
+      "correct_answer": "SOC 3 is for public distribution; SOC 2 is detailed and restricted",
+      "explanation": "SOC 2 contains detailed control information."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "Auditors performing SOC examinations evaluate:",
+      "options": [
+        "Control design and effectiveness",
+        "Revenue growth",
+        "Marketing strategy",
+        "Payroll records"
+      ],
+      "correct_answer": "Control design and effectiveness",
+      "explanation": "The examination focuses on control environments."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "A clean SOC report indicates:",
+      "options": [
+        "Controls meet applicable criteria",
+        "No risks exist",
+        "No audits are needed",
+        "Compliance is permanent"
+      ],
+      "correct_answer": "Controls meet applicable criteria",
+      "explanation": "A clean opinion reflects satisfactory controls."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Organizations pursue SOC reports primarily to:",
+      "options": [
+        "Demonstrate trust and control effectiveness",
+        "Increase sales only",
+        "Reduce regulations",
+        "Avoid audits"
+      ],
+      "correct_answer": "Demonstrate trust and control effectiveness",
+      "explanation": "SOC reports provide independent assurance."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "SOC reports are especially valuable in:",
+      "options": [
+        "Outsourced and cloud-based services",
+        "Manufacturing only",
+        "Retail stores only",
+        "Construction"
+      ],
+      "correct_answer": "Outsourced and cloud-based services",
+      "explanation": "Customers need assurance about third-party services."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of SOC reports is:",
+      "options": [
+        "Provide independent assurance regarding organizational controls",
+        "Increase profits",
+        "Replace security programs",
+        "Eliminate risks"
+      ],
+      "correct_answer": "Provide independent assurance regarding organizational controls",
+      "explanation": "SOC reports help stakeholders trust service providers."
+    }
+  ]
+}

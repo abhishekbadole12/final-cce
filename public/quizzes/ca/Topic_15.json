@@ -1,0 +1,266 @@
+{
+  "topic": "NIST Overview",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "Easy",
+      "question": "What does NIST stand for?",
+      "options": [
+        "National Institute of Standards and Technology",
+        "National Information Security Team",
+        "Network Infrastructure Security Technology",
+        "National Internet Standards Team"
+      ],
+      "correct_answer": "National Institute of Standards and Technology",
+      "explanation": "NIST is a U.S. government agency that develops standards and guidelines."
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy",
+      "question": "NIST is part of which department?",
+      "options": [
+        "U.S. Department of Commerce",
+        "Department of Defense",
+        "Department of Homeland Security",
+        "Department of Energy"
+      ],
+      "correct_answer": "U.S. Department of Commerce",
+      "explanation": "NIST operates under the U.S. Department of Commerce."
+    },
+    {
+      "id": 3,
+      "difficulty": "Easy",
+      "question": "NIST provides:",
+      "options": [
+        "Security standards and guidelines",
+        "Tax services",
+        "Banking services",
+        "Cloud hosting"
+      ],
+      "correct_answer": "Security standards and guidelines",
+      "explanation": "NIST publishes cybersecurity frameworks and standards."
+    },
+    {
+      "id": 4,
+      "difficulty": "Easy",
+      "question": "Which publication is widely used for cybersecurity controls?",
+      "options": [
+        "NIST SP 800-53",
+        "ISO 9001",
+        "PCI DSS",
+        "HIPAA"
+      ],
+      "correct_answer": "NIST SP 800-53",
+      "explanation": "SP 800-53 contains security and privacy controls."
+    },
+    {
+      "id": 5,
+      "difficulty": "Easy",
+      "question": "NIST frameworks are designed to:",
+      "options": [
+        "Improve cybersecurity practices",
+        "Increase profits",
+        "Reduce staffing",
+        "Replace audits"
+      ],
+      "correct_answer": "Improve cybersecurity practices",
+      "explanation": "Organizations use NIST to strengthen security."
+    },
+    {
+      "id": 6,
+      "difficulty": "Easy",
+      "question": "NIST guidance is primarily:",
+      "options": [
+        "Risk-based",
+        "Profit-based",
+        "Sales-based",
+        "Marketing-based"
+      ],
+      "correct_answer": "Risk-based",
+      "explanation": "NIST emphasizes identifying and managing risks."
+    },
+    {
+      "id": 7,
+      "difficulty": "Medium",
+      "question": "The NIST Cybersecurity Framework helps organizations:",
+      "options": [
+        "Manage cybersecurity risk",
+        "Manage payroll",
+        "Design buildings",
+        "Create advertisements"
+      ],
+      "correct_answer": "Manage cybersecurity risk",
+      "explanation": "The CSF provides a structured approach to cybersecurity."
+    },
+    {
+      "id": 8,
+      "difficulty": "Medium",
+      "question": "NIST standards are commonly used by:",
+      "options": [
+        "Government and private organizations",
+        "Schools only",
+        "Banks only",
+        "Military only"
+      ],
+      "correct_answer": "Government and private organizations",
+      "explanation": "NIST guidance is adopted globally across industries."
+    },
+    {
+      "id": 9,
+      "difficulty": "Medium",
+      "question": "NIST Special Publications belong to the:",
+      "options": [
+        "800 Series",
+        "100 Series",
+        "500 Series",
+        "1000 Series"
+      ],
+      "correct_answer": "800 Series",
+      "explanation": "The 800 series contains information security guidance."
+    },
+    {
+      "id": 10,
+      "difficulty": "Medium",
+      "question": "NIST emphasizes:",
+      "options": [
+        "Continuous improvement",
+        "One-time assessments",
+        "No documentation",
+        "Minimal controls"
+      ],
+      "correct_answer": "Continuous improvement",
+      "explanation": "Organizations should continuously enhance security."
+    },
+    {
+      "id": 11,
+      "difficulty": "Medium",
+      "question": "Risk assessments are important in NIST because they:",
+      "options": [
+        "Guide security decisions",
+        "Reduce evidence",
+        "Avoid compliance",
+        "Increase uncertainty"
+      ],
+      "correct_answer": "Guide security decisions",
+      "explanation": "Risk assessments help prioritize controls."
+    },
+    {
+      "id": 12,
+      "difficulty": "Medium",
+      "question": "Which NIST document focuses on risk management?",
+      "options": [
+        "NIST Risk Management Framework",
+        "PCI DSS",
+        "HIPAA Rules",
+        "SOX"
+      ],
+      "correct_answer": "NIST Risk Management Framework",
+      "explanation": "The RMF helps organizations manage security risks."
+    },
+    {
+      "id": 13,
+      "difficulty": "Medium",
+      "question": "NIST guidance supports:",
+      "options": [
+        "Security governance",
+        "Office maintenance",
+        "Marketing",
+        "Recruitment"
+      ],
+      "correct_answer": "Security governance",
+      "explanation": "NIST helps organizations manage and govern security programs."
+    },
+    {
+      "id": 14,
+      "difficulty": "High",
+      "question": "The NIST Cybersecurity Framework is built around:",
+      "options": [
+        "Core functions and risk management",
+        "Financial auditing",
+        "Product sales",
+        "Office operations"
+      ],
+      "correct_answer": "Core functions and risk management",
+      "explanation": "The framework organizes cybersecurity activities into functions."
+    },
+    {
+      "id": 15,
+      "difficulty": "High",
+      "question": "NIST is considered valuable because it:",
+      "options": [
+        "Provides standardized best practices",
+        "Guarantees security",
+        "Eliminates all risks",
+        "Replaces compliance"
+      ],
+      "correct_answer": "Provides standardized best practices",
+      "explanation": "Organizations use NIST as a trusted security reference."
+    },
+    {
+      "id": 16,
+      "difficulty": "High",
+      "question": "NIST guidance is often mapped to:",
+      "options": [
+        "Other compliance frameworks and standards",
+        "Office policies only",
+        "Marketing plans",
+        "Sales targets"
+      ],
+      "correct_answer": "Other compliance frameworks and standards",
+      "explanation": "NIST aligns with many industry frameworks."
+    },
+    {
+      "id": 17,
+      "difficulty": "High",
+      "question": "The NIST Risk Management Framework supports:",
+      "options": [
+        "Lifecycle-based risk management",
+        "Payroll processing",
+        "Facility management",
+        "Advertising"
+      ],
+      "correct_answer": "Lifecycle-based risk management",
+      "explanation": "RMF integrates risk management into system operations."
+    },
+    {
+      "id": 18,
+      "difficulty": "High",
+      "question": "Organizations adopt NIST primarily to:",
+      "options": [
+        "Improve cybersecurity posture",
+        "Increase revenue",
+        "Reduce staffing",
+        "Avoid governance"
+      ],
+      "correct_answer": "Improve cybersecurity posture",
+      "explanation": "NIST helps strengthen security practices and controls."
+    },
+    {
+      "id": 19,
+      "difficulty": "High",
+      "question": "A key strength of NIST is its:",
+      "options": [
+        "Flexibility and scalability",
+        "Mandatory legal enforcement",
+        "Financial reporting",
+        "Cloud hosting"
+      ],
+      "correct_answer": "Flexibility and scalability",
+      "explanation": "NIST can be adapted to different organizations."
+    },
+    {
+      "id": 20,
+      "difficulty": "High",
+      "question": "The ultimate purpose of NIST guidance is to:",
+      "options": [
+        "Help organizations manage and reduce cybersecurity risk",
+        "Increase profits",
+        "Replace auditors",
+        "Eliminate regulations"
+      ],
+      "correct_answer": "Help organizations manage and reduce cybersecurity risk",
+      "explanation": "NIST promotes effective and risk-based cybersecurity management."
+    }
+  ]
+}
