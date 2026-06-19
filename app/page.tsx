@@ -10,7 +10,7 @@ export default function HomePage() {
 
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold mb-4">
-            Cyber Security Quiz Portal
+            FINAL EXAM
           </h1>
 
           <p className="text-slate-400 text-lg">
